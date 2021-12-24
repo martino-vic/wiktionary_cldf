@@ -1,0 +1,261 @@
+1@BackFinger-FingerAcross-1@CenterChesthigh-FingerAcross 1@SideChesthigh-1@SideChesthigh
+1@BackFinger-PalmDown-5@InsideTrunkhigh-PalmDown Frontandback 1@BackHand-PalmDown-5@InsideTrunkhigh-PalmDown
+1@BasePalm-PalmDown-OpenB@CenterChesthigh-PalmUp 1@Finger-PalmDown-OpenB@CenterChesthigh-PalmUp
+1@Chin 1@Jaw
+1@Chin-PalmBack 1@FromChin-PalmUp
+1@Chin-PalmBack X@NearChin-PalmBack
+1@ContraShoulder-FingerBack 1@IpsiShoulder-FingerBack 1@Abdomen-FingerBack
+1@FromThumb-FingerUp-1@CenterChesthigh-FingerUp 1@Thumb-FingerUp-1@CenterChesthigh-FingerUp
+1@InFinger-PalmDown-OpenB@CenterChesthigh 1@InFinger-PalmUp-OpenB@CenterChesthigh
+1@InFinger-PalmForward-5@CenterNeckhigh-PalmDown 1@FromFinger-PalmForward-5@CenterNeckhigh-PalmDown
+1@InsideChesthigh-FingerAcross-1@InsideChesthigh-FingerAcross CirclesMidline-CirclesMidline
+1@InsideChesthigh-RadialUp
+1@InsideNeckhigh-FingerUpPalmBack CirclesHoriz
+1@InsideTrunkhigh-FingerDown-1@InsideTrunkhigh-FingerDown SmallSidetoside
+1@Jaw 1@Chin
+1@Lip-PalmBack 1@NearRadialHand-O@CenterChesthigh-PalmDown
+1@Mouth-OpenB@CenterTrunkhigh-PalmUp RoundMidline 1@BasePalm-OpenB@CenterTrunkhigh-PalmUp RoundMidline 1@TipPalm-OpenB@CenterTrunkhigh-PalmUp
+1@NearCheek-1@NearCheek X@NearCheek-X@NearCheek
+1@NearFinger-Open8@Center-PalmDown Contact 1@NearFinger-Open8@Center-PalmDown
+1@NearHand-FingerUp-1@InsideChesthigh-FingerUp 1@NearHand-FingerForward-1@DistalInsideChesthigh-FingerForward
+1@NearPalm-C@CenterChesthigh-PalmUp Contact
+1@NearPalm-FingerDown-FlatB@CenterChesthigh-PalmUp Contact
+1@NearSfhead-PalmDown 1@Sfhead-PalmDown
+1@NearSternumhigh-PalmForward-1@Chesthigh-TipAcross FastContact 1@FromBackFinger-PalmDown-1@Chesthigh-TipAcross
+1@NearTipFinger-PalmDown-1@CenterChesthigh-FingerUp CirclesHoriz 1@TipFinger-PalmDown-1@CenterChesthigh-FingerUp
+1@Nose-FingerBack 1@FromNose-FingerForward
+1@Palm-PalmDown-5@CenterNeckhigh-PalmDown 1@FromFinger-PalmDown-5@CenterNeckhigh-PalmDown
+1@RadialHand-FingerForwardAcross-1@CenterChesthigh-FingerForwardAcross
+1@Sfhead-PalmDown 1@RadialHand-PalmDown-1@CenterChesthigh-PalmDown
+1@Sfhead-PalmDown 1@TipFinger-FingerAcross-1@CenterChesthigh-FingerAcross 1@FromTipFinger-1@InsideChesthigh
+1@Sfhead-PalmDown A@Palm-PalmDown-A@CenterChesthigh-PalmUp
+1@Sfhead-PalmDown Claw5@InsideChesthigh-PalmDown-Claw5@InsideTrunkhigh-PalmUp RoundHoriz-RoundHoriz
+1@Side-PalmDownFingerForward SmallHoriz SmallOblique SmallHoriz
+1@Side-PalmForward SmallSidetoside
+1@TipFinger-PalmBack-1@CenterChesthigh-FingerUp 1@BaseThumb-PalmBack-1@CenterChesthigh-FingerUp
+1^o-f@IpsiChest-FingerBack RoundHoriz 1^o-f@ContraChest-FingerBack
+1^o-f@Sternum-FingerBack
+3@CenterChesthigh-PalmUp CirclesHoriz
+3@NearCenterChesthigh-PalmUp CirclesHoriz
+3@Sfhead-PalmForward Hook
+3@SideChesthigh-FingerAcross-3@SideChesthigh-FingerAcross S@Tip-TipAcross-S@CenterChesthigh-TipAcross
+3@SideSternumhigh-PalmUp CirclesHoriz
+3@SideTrunkhigh-PalmDown-3@SideChesthigh-PalmDown Upanddown-Upanddown
+Bent3@Ear-PalmForward Hook
+4@Chin-FingerUp RoundMidline 4@FromChin-FingerUp
+4@NearTipFinger-PalmBackFingerDown-4@SideTrunkhigh-PalmBackFingerUp RoundVert 4@SideTrunkhigh-PalmBackFingerUp-4@SideTrunkhigh-PalmBackFingerUp
+4@Nose-PalmBackFingerAcross Wiggle 4@NearNeck-PalmBackFingerAcross
+4@RadialPalm-OpenB@CenterChesthigh Contact 4@UlnarPalm 4@BasePalm Contact 4@TipFinger
+5@Chest-PalmBack FlatO@NearChest-PalmBack
+5@Chest-ThumbBack Wiggle
+5@Chin-PalmBack Wiggle
+5@Chin-ThumbBack Contact
+5@InsideChesthigh-PalmDown-5@SideChesthigh-PalmDown 5@InsideTrunkhigh-5@SideTrunkhigh 5@SideChesthigh-5@InsideChesthigh 5@SideTrunkhigh-5@InsideTrunkhigh
+5@Mouth-5@FromUlnarTipFinger 5@FromMouth-5@FromUlnarTipFinger
+5@NearCheek-PalmBack RoundVert OpenA@NearJaw-PalmBack
+5@NearInsideNosehigh-PalmBack-5@NearInsideNosehigh-PalmBack 5@NearInsideNeckhigh-PalmBack-5@NearInsideNeckhigh-PalmBack
+5@NearSideChesthigh-PalmBack-5@NearSideChesthigh-PalmBack 5@NearInsideChesthigh-PalmBack-5@NearInsideChesthigh-PalmBack
+5@SideForeheadhigh-PalmDown-5@SideForeheadhigh-PalmDown SlowWiggle-SlowWiggle 5@SideTrunkhigh-PalmDown-5@SideTrunkhigh-PalmDown
+5@Sternum-FingerUp Contact
+5@Thumb-PalmDown-5@SideChesthigh-PalmDown 5@Thumb-PalmDown-5@ContraSideChesthigh-PalmDown
+Claw5@InsideChesthigh-PalmUp-Claw5@InsideChesthigh-PalmUp 5@InsideChesthigh-PalmDown-5@InsideChesthigh-PalmDown
+Claw5@NearInsideChesthigh-PalmBack-Claw5@NearInsideChesthigh-PalmBack
+Claw5@NearNose-PalmBack
+Claw5@Sfhead-Claw5@Sfhead CirclesSurface-CirclesSurface
+Claw5@SideForeheadhigh-PalmDown-Claw5@SideForeheadhigh-PalmDown Claw5@SideChinhigh-PalmDown-Claw5@SideChinhigh-PalmDown Claw5@SideChesthigh-PalmDown-Claw5@SideChesthigh-PalmDown
+Claw5@SideTrunkhigh-PalmDown-Claw5@SideTrunkhigh-PalmDown RoundVertSidetoside-RoundVertSidetoside
+Claw5@SideTrunkhigh-PalmUp-Claw5@SideTrunkhigh-PalmUp Claw5@InsideChesthigh-PalmUp-Claw5@InsideChesthigh-PalmUp
+Claw5@SideTrunkhigh-PalmUp-Claw5@SideTrunkhigh-PalmUp Sidetoside-Sidetoside
+6@Chin
+6@NearPalm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesMidlineContact
+Open8@BackHand-PalmDown-FlatB@CenterChesthigh-PalmDown Open8@NearBackHand-PalmDown
+Open8@BackHand-PalmDown-S@CenterChesthigh-PalmDown Twist
+Open8@Chin-PalmBack Contact Contact
+Open8@Finger-TipUp-Open8@CenterChesthigh-TipUp Contact
+Open8@Finger-TipUp-Open8@CenterChesthigh-TipUp Twist-Twist
+Open8@NearChest-PalmBack 8@FromChest-PalmBack
+Open8@NearChest-PalmBack 8@NearChest-PalmBack Claw5@FromChest-PalmDown
+Open8@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp Open8@InsideChesthigh-PalmDown-OpenB@CenterChesthigh-PalmUp
+9@InsideNeckhigh-PalmDown 9@SideNeckhigh-PalmUp
+9@RadialHand-PalmForward-9@CenterChesthigh-PalmForward RoundHoriz-RoundHoriz 9@UlnarHand-PalmBack-9@CenterChesthigh-PalmBack
+9@SideNeckhigh-PalmDown-9@SideNeckhigh-PalmDown Upanddown-Upanddown 9@SideChesthigh-PalmDown-9@SideChesthigh-PalmDown
+Flat9@BasePalm-PalmDown-FlatB@CenterChesthigh-PalmUp Flat9@InFinger-PalmDown-FlatB@CenterChesthigh
+Hu@Side-PalmBack Flatten
+A@Center-PalmForward SevenVert
+A@Chest-PalmBack CirclesVert
+A@Chest-RadialBack Contact
+A@Chesthigh SmallFrontandback
+A@Forehead 5@Chest-ThumbBack
+A@InsideShoulderhigh-PalmBack-FlatB@NearCenterChesthigh-PalmDown Frontandback
+A@IpsiChest-RadialBack A@ContraChest-RadialBack
+A@Mouth-ThumbBack Contact
+A@NearInsideChesthigh-PalmAcross-A@NearInsideChesthigh-PalmAcross A@InsideChesthigh-PalmDown-A@InsideChesthigh-PalmDown
+A@RadialFinger-PalmAcross-1@CenterChesthigh-PalmDown Frontandback
+A@Sternumhigh-PalmDown-A@Sternumhigh-PalmDown A@Chesthigh-PalmDown-A@Chesthigh-PalmDown
+A@Wrist-PalmUp-A@CenterTrunkhigh-PalmUp 5@SideTrunkhigh-PalmUp-5@SideTrunkhigh-PalmUp
+OpenA@InsideChesthigh-ThumbBack-OpenA@InsideChesthigh-ThumbBack CirclesMidline-CirclesMidline
+OpenA@Jaw-ThumbBack OpenA@NearCheek-ThumbUp
+OpenA@Palm-ThumbDown-FlatB@CenterChesthigh-PalmUp CirclesVert
+OpenA@Sfhead OpenA@BackThumb-ThumbAcross-OpenA@CenterChesthigh-ThumbAcross
+OpenA@SideChesthigh-PalmForwardThumbDown-OpenA@InsideChesthigh-PalmForwardThumbDown CirclesVert-CirclesVert
+B@Cheek Circles
+B@Cheek-PalmForward B@Jaw-PalmForward
+B@InsideChesthigh-PalmDown-B@InsideChesthigh-PalmDown B@SideChesthigh-PalmDown-B@SideChesthigh-PalmDown
+B@RadialWrist-PalmForward-OpenB@CenterChesthigh-PalmDown Sidetoside
+B@Sfhead-PalmForward B@FromSfhead-PalmForward
+B@Sfhead-PalmForward Sidetoside
+B@SideTrunkhigh-PalmDown-B@SideTrunkhigh-PalmDown RoundVertSidetoside-RoundVertSidetoside
+B@Sternum-PalmDown-B@Chest-PalmDown B@Trunk-PalmDown-B@Abdomen-PalmDown
+B@TipForearm-PalmBack B@Forearm-PalmBack B@BaseForearm-PalmBack
+BentB@FromTipFinger-BackFingerDown-BentB@InsideTrunkhigh-BackFingerDown BentB@TipFinger-BackFingerDown-BentB@CenterTrunkhigh-BackFingerDown
+BentB@IpsiChest-PalmBack-BentB@IpsiChest-PalmBack BentB@IpsiChest-PalmUp-BentB@IpsiChest-PalmUp
+BentB@Sfhead
+BentB@Abdomen Contact Contact Contact
+BentB@BackFinger-PalmBack-BentB@CenterChesthigh-PalmBack BentB@Ulnar-PalmUp-BentB@CenterChesthigh-PalmUp
+BentB@BackFinger-PalmBack-BentB@CenterChesthigh-PalmBack C@Ulnar-PalmUp-C@CenterChesthigh-PalmUp 1@CenterChesthigh-TipFingerForward
+BentB@BackHand-PalmBack-BentB@NearMouth-PalmBack BentB@BackHand-BentB@Mouth
+BentB@BackHand-PalmDown-FlatB@CenterChesthigh-PalmDown Contact
+BentB@BaseHand-PalmDown-OpenB@CenterSternumhigh-UlnarAcross BentB@TipHand-PalmDown-OpenB@CenterSternumhigh-UlnarAcross
+BentB@Sfhead BentB@FromSfhead-PalmAside
+FlatB@Chest-PalmBack
+FlatB@Chesthigh-FingerUp
+FlatB@Chesthigh-FingerUp RoundHoriz
+FlatB@FromTrunk-PalmUp FlatB@Trunk-PalmUp
+FlatB@InsideChesthigh-FlatB@InsideChesthigh CirclesMidline-CirclesMidline
+FlatB@InsideChesthigh-PalmAcross-FlatB@InsideChesthigh-PalmAcross FlatB@InsideTrunkhigh-FlatB@InsideTrunkhigh FlatB@DistalCenterChesthigh-PalmBack-FlatB@NearCenterChesthigh-PalmBack FlatB@DistalCenterTrunkhigh-PalmBack-FlatB@NearCenterTrunkhigh-PalmBack
+FlatB@IpsiChest-FingerUpPalmAcross RoundHoriz FlatB@ContraChest-FingerUpPalmAside
+FlatB@SideNosehigh-PalmBack-FlatB@SideNosehigh-PalmBack RoundVert-RoundVert FlatB@CenterNeckhigh-PalmBack-FlatB@CenterNeckhigh-PalmBack
+FlatB@Thumb-PalmForward-FlatB@FromCenterNeckhigh-PalmForward FlatB@NearSideNeckhigh-PalmAcross-FlatB@FromCenterNeckhigh-PalmForward
+OpenB@BackHand-PalmDown OpenB@BackWrist-PalmDown
+OpenB@BasePalm-PalmDown-OpenB@CenterChesthigh-PalmUp OpenB@Finger-PalmDown-OpenB@CenterChesthigh-PalmUp
+OpenB@Chest-PalmBack CirclesSurface
+OpenB@Chest-PalmBack OpenB@FromChest-PalmUp
+OpenB@Chest-PalmBack-OpenB@Chest-PalmBack Upanddown-Upanddown OpenB@SideNeckhigh-PalmBack-OpenB@SideNeckhigh-PalmBack
+OpenB@Chest-PalmBack-OpenB@Trunk-PalmBack RoundSurface-RoundSurface
+OpenB@Chin-PalmBack OpenB@FromChin-PalmDown
+OpenB@Chin-PalmBack OpenB@FromChin-PalmUp
+OpenB@Chin-PalmBack-OpenB@CenterChesthigh-PalmUp OpenB@Palm-PalmUp-OpenB@CenterChesthigh-PalmUp
+OpenB@Forehead-PalmBack OpenA@FromSfhead-ThumbAside
+OpenB@InsideTrunkhigh-PalmAside-OpenB@InsideTrunkhigh-PalmAcross OpenB@SideTrunkhigh-PalmAside-OpenB@CenterTrunkhigh-PalmAcross
+OpenB@NearSideTrunkhigh-PalmBack Nod
+OpenB@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp Contact Contact
+OpenB@Sfhead Y@FromSfhead
+OpenB@Side-PalmBack Flatten
+OpenB@SideChesthigh-OpenB@SideChesthigh OpenB@SideTrunkhigh-OpenB@SideTrunkhigh
+OpenB@Sternum-FingerBack OpenB@Trunk-FingerBack
+OpenB@SternumHigh-PalmUp OpenB@Trunkhigh-PalmUp
+OpenB@TrunkHigh-PalmUp RoundHoriz
+C@NearChin Squeeze
+C@NearFinger-PalmForwardHandUp-1@CenterChesthigh-FingerUp RoundHoriz C@NearFinger-PalmBackHandUp-1@CenterChesthigh-FingerUp
+C@NearMouth-TipForward C@NearMouth-TipUp
+C@Sfhead-PalmForward-FlatB@InsideChestHigh-PalmAcross C@Palm-PalmForward-FlatB@CenterChesthigh-PalmAcross
+C@SideTrunkhigh-PalmDown-C@SideTrunkhigh-PalmDown RoundVertSidetoside-RoundVertSidetoside
+FlatC@Forehead Flatten FlatO@Forehead
+FlatC@SideMouthhigh-PalmAcross Flatten FlatO@IpsiSideMouthhigh-PalmAcross
+Claw5@InsideChesthigh-PalmUp-Claw5@InsideChesthigh-PalmUp Claw5@NearInsideChesthigh-PalmUp-Claw5@NearInsideChesthigh-PalmUp
+Claw5@InsideTrunkhigh-PalmUp-Claw5@InsideTrunkhigh-PalmUp Wiggle-Wiggle
+Claw5@TipFinger-Claw5@CenterChesthigh Claw5@SideChesthigh-Claw5@SideChesthigh
+Corna@Nose-Corna@SideChesthigh Corna@RadialHand-Corna@CenterChesthigh
+D@NearPalm-PalmDown-OpenB@CenterChesthigh-PalmUp CirclesMidlineContact
+E@SideNeckhigh-PalmAcross-E@SideNeckhigh-PalmAcross E@SideNeckhigh-PalmForward-E@SideNeckhigh-PalmForward
+FlatB@NearShoulder-PalmBack-FlatB@BaseInForearm-PalmBack FlatB@SideAbdomenhigh-PalmUp-FlatB@BaseInForearm-PalmBack
+FlatO@Sfhead-PalmBack Claw5@FromSfhead-PalmUp
+G@Chin-PalmBack
+G@Shoulder-PalmDown G@Abdomen-PalmDown
+G@Side-PalmBackFingerAcross
+G@Side-PalmDown
+H@BackFinger-FingerAcrossPalmDown-H@CenterChesthigh-PalmDown
+H@Chin-PalmBackFingerUp Flatten
+H@RadialFinger-H@CenterChesthigh Contact Contact
+H@RadialFinger-H@NearCenterChesthigh H@RadialFinger-H@CenterChesthigh
+H@TipPalm-PalmDown-OpenB@CenterChesthigh-PalmUp Contact H@BasePalm H@TipPalm Contact H@BasePalm H@TipPalm Contact H@BasePalm
+H^o@Side-PalmForward Flatten
+I@Sfhead-PalmBack I@NearSfhead-PalmBack
+K@CenterChesthigh-PalmAcross Nod
+K@NearCenterChesthigh-PalmUp Nod
+K@Nose-PalmAcross K@FromNose-PalmAcross
+K@Shoulder K@Abdomen
+K@Side-PalmDown
+K@Side-PalmForward
+Kop@Inside-PalmForward 1o@Inside
+L@Chin-ThumbBack Squeeze
+M@Side-PalmBack CirclesHoriz
+M@Side-PalmForward
+N@Side-PalmForward
+O@Side-PalmAcross K@Side-PalmAcross
+FlatO@CenterChesthigh-PalmDown-FlatO@SideChesthigh-PalmDown FlatO@SideChesthigh-PalmDown-FlatO@CenterChesthigh-PalmDown
+FlatO@InsideChesthigh-PalmDown-FlatO@InsideChesthigh-PalmDown Nod FlatO@InsideChesthigh-PalmForward-FlatO@Inside-PalmForward OpenB@SideChesthigh-OpenB@SideChesthigh OpenB@SideTrunkhigh-OpenB@SideTrunkhigh
+FlatO@Mouth-PalmBack
+FlatO@Mouth-PalmBack-FlatO@NearMouth-PalmBack Frontandback-Frontandback FlatO@NearMouth-PalmBack-FlatO@Mouth-PalmBack
+FlatO@NearPalm-BackFingerDown-OpenB@CenterTrunkhigh-PalmUp Contact Contact
+FlatO@NearSfhead-FlatO@NearSfhead FlatO@FromSfhead-FlatO@FromSfhead
+FlatO@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp OpenB@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp
+Open8@Chest-PalmBack Open8@Sternum-PalmBack
+Open8@Chest-PalmBack-Open8@Chest-PalmBack Open8@SideNeckhigh-PalmBack-Open8@SideNeckhigh-PalmBack
+Open8@Chin-PalmBack Open8@NearSideChinhigh-PalmForward
+Open8@NearUlnarHand-PalmAcross-OpenB@CenterChesthigh-PalmBack Contact Open8@UlnarHand-PalmAcross-OpenB@CenterChesthigh-PalmBack
+OpenA@NearPalm-ThumbUp-OpenA@CenterChesthigh-ThumbUp RoundVert OpenA@FromUlnarPalm-ThumbAcross-OpenA@CenterChesthigh-ThumbUp
+OpenA@SideChesthigh-PalmAcross OpenA@DistalSideChesthigh-PalmAcross
+OpenB@DistalSideChesthigh-PalmAcross RoundVert OpenB@DistalInsideTrunkhigh-PalmUp RoundHoriz OpenB@NearCenterTrunkhigh-PalmUp
+OpenB@NearSideNosehigh-FingerUp OpenB@SideNosehigh-FingerForward
+OpenB@SideChesthigh-PalmForward BentB@SideChesthigh-PalmForward
+SmallO@NearSfhead-PalmBack Release
+SmallO@NearTipThumb-PalmDown-SmallO@CenterChesthigh-PalmUp CirclesSurface Contact
+R@Chin R@NearChin R@Chin R@NearChin
+Ru@Palm-ThumbAcross-OpenB@CenterChesthigh-PalmAcross Ru@Palm-ThumbAcrossFingerDown-OpenB@CenterChesthigh-PalmAcross
+S@Chin S@FromChin
+S@InsideChesthigh-PalmUp-S@InsideChesthigh-PalmUp 5@InsideChesthigh-PalmUp-5@InsideChesthigh-PalmUp
+S@NearBaseForearm-PalmUp Frontandback S@BaseForearm-PalmUp
+S@NearSide-PalmForward Sidetoside
+S@Side Nod
+S@Side-PalmBack CirclesHoriz
+S@SideChesthigh-PalmAcross-S@SideTrunkhigh-PalmAcross CirclesMidline-CirclesMidline
+S@Sternumhigh-PalmDown-S@Sternumhigh-PalmDown S@Chesthigh-PalmDown-S@Chesthigh-PalmDown
+T@NearInsideChesthigh-PalmAcross-T@NearInsideChesthigh-PalmAcross T@InsideChesthigh-PalmDown-T@InsideChesthigh-PalmDown
+T@Side-PalmForward
+V@NearCenterNosehigh-FingerForward-V@NearCenterChinhigh-FingerForward V@DistalCenterNosehigh-FingerForward-V@DistalCenterChinhigh-FingerForward
+V@NearNose-PalmBack BentV@FromChin
+V@NearPalm-FingerDown-OpenB@CenterTrunkhigh-PalmUp Sidetoside
+V@NearTipNeck-FingerBack V@BaseNeck-FingerBack
+V@Nose-PalmBack V@FromNose-PalmBack
+V@Palm-FingerDown-OpenB@CenterTrunkhigh-PalmUp
+V@Palm-FingerDown-OpenB@CenterTrunkhigh-PalmUp BentV@NearPalm-FingerDown-OpenB@CenterTrunkhigh-PalmUp
+V@SideChesthigh-PalmBack H@InsideChesthigh-PalmBack V@InsideChesthigh-PalmBack H@CenterChesthigh-PalmBack
+BentV@InThumb-PalmDown-C@CenterChesthigh BentV@InThumb-PalmDown-C@DistalCenterChesthigh
+X@BackWrist-PalmDown Contact Contact
+X@Cheek-PalmBack Hook
+X@Cheek-PalmForward X@Chin-PalmForward
+X@Chest-PalmBack-X@Chest-PalmBack X@Sternum-PalmBack-X@Abdomen-PalmBack
+X@Finger@PalmDown-X@CenterChesthigh-PalmUp X@Finger@PalmUp-X@CenterChesthigh-PalmDown
+X@SideChinhigh-X@SideChinhigh CirclesHoriz-CirclesHoriz
+Y@Chin-PalmBack
+Y@InsideChesthigh-PalmDown Sidetoside
+Y@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp Sidetoside
+Y@Side Twist
+𝠀
+𝠀𝪜
+𝠀𝪜 𝠀
+𝠀𝪟
+𝠁𝪜
+𝠆𝪜
+𝠎𝪜
+𝠕𝪜
+𝠕𝪢
+𝠚𝪜
+𝡄
+𝡇𝪜
+𝡊𝪜
+𝡌𝪛𝨒𝤆
+𝡭𝪛
+𝡶𝪛
+𝢇𝪜
+𝢒𝪜
+𝢒𝪜 𝢒𝪢
+𝢚𝪜
+𝢜𝪜
+𝣎𝪜
+𝣜𝪜
+𝣷𝪜
+𝣷𝪜 𝤃𝪜 𝣜𝪜
+𝤃𝪜
+𝤃𝪜𝧥

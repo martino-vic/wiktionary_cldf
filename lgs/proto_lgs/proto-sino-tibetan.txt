@@ -1,0 +1,158 @@
+Reconstruction:Proto-Sino-Tibetan/b-jəw-n ~ bwəj
+Reconstruction:Proto-Sino-Tibetan/b-liŋ
+Reconstruction:Proto-Sino-Tibetan/b-ləj
+Reconstruction:Proto-Sino-Tibetan/b-r-gja
+Reconstruction:Proto-Sino-Tibetan/b-r-gjat ~ b-g-rjat
+Reconstruction:Proto-Sino-Tibetan/b-ras
+Reconstruction:Proto-Sino-Tibetan/g/b-sat
+Reconstruction:Proto-Sino-Tibetan/b-sej
+Reconstruction:Proto-Sino-Tibetan/b-tsuŋ
+Reconstruction:Proto-Sino-Tibetan/l/b-ŋa
+Reconstruction:Proto-Sino-Tibetan/ba
+Reconstruction:Proto-Sino-Tibetan/bjar ~ pjar
+Reconstruction:Proto-Sino-Tibetan/b(j)at
+Reconstruction:Proto-Sino-Tibetan/d-bu-s
+Reconstruction:Proto-Sino-Tibetan/d-k-ruk
+Reconstruction:Proto-Sino-Tibetan/d-k(j)aːj
+Reconstruction:Proto-Sino-Tibetan/d-kʷəj-n
+Reconstruction:Proto-Sino-Tibetan/d-wam
+Reconstruction:Proto-Sino-Tibetan/d-ŋa
+Reconstruction:Proto-Sino-Tibetan/l-(t/d)jam
+Reconstruction:Proto-Sino-Tibetan/duk ~ tuk
+Reconstruction:Proto-Sino-Tibetan/t/duŋ
+Reconstruction:Proto-Sino-Tibetan/dzjuk ~ tsjuk
+Reconstruction:Proto-Sino-Tibetan/g-jak ~ g-jaŋ
+Reconstruction:Proto-Sino-Tibetan/m/s/g-ljak
+Reconstruction:Proto-Sino-Tibetan/g-lwa-p
+Reconstruction:Proto-Sino-Tibetan/g-ləj
+Reconstruction:Proto-Sino-Tibetan/r/g-na
+Reconstruction:Proto-Sino-Tibetan/b/g-raŋ
+Reconstruction:Proto-Sino-Tibetan/g-r(j)ap
+Reconstruction:Proto-Sino-Tibetan/g-rjum
+Reconstruction:Proto-Sino-Tibetan/g-sum
+Reconstruction:Proto-Sino-Tibetan/g-tam ~ g-dam
+Reconstruction:Proto-Sino-Tibetan/gip
+Reconstruction:Proto-Sino-Tibetan/glaŋ
+Reconstruction:Proto-Sino-Tibetan/grwat
+Reconstruction:Proto-Sino-Tibetan/guŋ
+Reconstruction:Proto-Sino-Tibetan/hljak
+Reconstruction:Proto-Sino-Tibetan/s/r-m(u/i/ja)l
+Reconstruction:Proto-Sino-Tibetan/(s/r)-ma(ŋ/k)
+Reconstruction:Proto-Sino-Tibetan/kl(j)u(ŋ/k)
+Reconstruction:Proto-Sino-Tibetan/m-duŋ/k ~ m-tuŋ/k
+Reconstruction:Proto-Sino-Tibetan/nja-ŋ/k
+Reconstruction:Proto-Sino-Tibetan/k-jim ~ k-jum
+Reconstruction:Proto-Sino-Tibetan/k-la
+Reconstruction:Proto-Sino-Tibetan/k-lip
+Reconstruction:Proto-Sino-Tibetan/k-m-raŋ ~ s-raŋ
+Reconstruction:Proto-Sino-Tibetan/k-r-pʷat
+Reconstruction:Proto-Sino-Tibetan/kak
+Reconstruction:Proto-Sino-Tibetan/ken ~ m-kjen
+Reconstruction:Proto-Sino-Tibetan/kjaŋ
+Reconstruction:Proto-Sino-Tibetan/kləj
+Reconstruction:Proto-Sino-Tibetan/krap
+Reconstruction:Proto-Sino-Tibetan/kroj
+Reconstruction:Proto-Sino-Tibetan/krəj
+Reconstruction:Proto-Sino-Tibetan/krəw
+Reconstruction:Proto-Sino-Tibetan/lak ~ C-jak
+Reconstruction:Proto-Sino-Tibetan/lam
+Reconstruction:Proto-Sino-Tibetan/lwa(ː)j
+Reconstruction:Proto-Sino-Tibetan/lɨ̆ŋ
+Reconstruction:Proto-Sino-Tibetan/m-bruŋ ~ m-bruk
+Reconstruction:Proto-Sino-Tibetan/m-dzjwaj
+Reconstruction:Proto-Sino-Tibetan/m-hla
+Reconstruction:Proto-Sino-Tibetan/m-kul
+Reconstruction:Proto-Sino-Tibetan/m-lawŋ
+Reconstruction:Proto-Sino-Tibetan/m-liːt
+Reconstruction:Proto-Sino-Tibetan/m-ljak ~ mrak ~ mruk
+Reconstruction:Proto-Sino-Tibetan/s-b/m-ruːl
+Reconstruction:Proto-Sino-Tibetan/m-sin
+Reconstruction:Proto-Sino-Tibetan/m-t(w)əj-n ~ m-ti-s
+Reconstruction:Proto-Sino-Tibetan/m-ʔa
+Reconstruction:Proto-Sino-Tibetan/ma
+Reconstruction:Proto-Sino-Tibetan/mej
+Reconstruction:Proto-Sino-Tibetan/mow
+Reconstruction:Proto-Sino-Tibetan/mraŋ
+Reconstruction:Proto-Sino-Tibetan/na-ŋ
+Reconstruction:Proto-Sino-Tibetan/nup ~ nip
+Reconstruction:Proto-Sino-Tibetan/s/p-wa
+Reconstruction:Proto-Sino-Tibetan/p-wap
+Reconstruction:Proto-Sino-Tibetan/pljum
+Reconstruction:Proto-Sino-Tibetan/p(r)ak ~ r-pak
+Template:Proto-Sino-Tibetan numerals
+Reconstruction:Proto-Sino-Tibetan/pʷak
+Reconstruction:Proto-Sino-Tibetan/r-dul ~ r-tul
+Reconstruction:Proto-Sino-Tibetan/r-maj ~ m-raj
+Reconstruction:Proto-Sino-Tibetan/r-maːw
+Reconstruction:Proto-Sino-Tibetan/r-mi(j)-n
+Reconstruction:Proto-Sino-Tibetan/r-miŋ
+Reconstruction:Proto-Sino-Tibetan/r-paj
+Reconstruction:Proto-Sino-Tibetan/rus
+Reconstruction:Proto-Sino-Tibetan/dz(j)a-k/n/t/s
+Reconstruction:Proto-Sino-Tibetan/s-diːk
+Reconstruction:Proto-Sino-Tibetan/s-dzak
+Reconstruction:Proto-Sino-Tibetan/m/s-glak ~ m-glaŋ
+Reconstruction:Proto-Sino-Tibetan/s-g(r)u
+Reconstruction:Proto-Sino-Tibetan/s-hjwəj-t
+Reconstruction:Proto-Sino-Tibetan/s-kul
+Reconstruction:Proto-Sino-Tibetan/d/s-kəw
+Reconstruction:Proto-Sino-Tibetan/s-la
+Reconstruction:Proto-Sino-Tibetan/m/s-laj ~ s-lej
+Reconstruction:Proto-Sino-Tibetan/s-ləj-t ~ s-rəj-t
+Reconstruction:Proto-Sino-Tibetan/s-maŋ ~ s-mak
+Reconstruction:Proto-Sino-Tibetan/s-mjak ~ s-mik
+Reconstruction:Proto-Sino-Tibetan/s-mun
+Reconstruction:Proto-Sino-Tibetan/muːŋ ~ r/s-muːk
+Reconstruction:Proto-Sino-Tibetan/r/s-mwəj
+Reconstruction:Proto-Sino-Tibetan/s-na ~ s-naːr
+Reconstruction:Proto-Sino-Tibetan/s-nak
+Reconstruction:Proto-Sino-Tibetan/s-nap
+Reconstruction:Proto-Sino-Tibetan/s-naːj ~ s-nej
+Reconstruction:Proto-Sino-Tibetan/g/s-ni-s
+Reconstruction:Proto-Sino-Tibetan/s-ni-s
+Reconstruction:Proto-Sino-Tibetan/s-ni(ː)ŋ ~ s-nik
+Reconstruction:Proto-Sino-Tibetan/s-njam
+Reconstruction:Proto-Sino-Tibetan/s-nəj
+Reconstruction:Proto-Sino-Tibetan/s-nəw
+Reconstruction:Proto-Sino-Tibetan/s-riŋ ~ s-r(j)aŋ
+Reconstruction:Proto-Sino-Tibetan/s-r(j)ak
+Reconstruction:Proto-Sino-Tibetan/s-rjak
+Reconstruction:Proto-Sino-Tibetan/s-r(j)ik
+Reconstruction:Proto-Sino-Tibetan/k/p/s-rwak
+Reconstruction:Proto-Sino-Tibetan/s-tawŋ
+Reconstruction:Proto-Sino-Tibetan/s-tjaŋ
+Reconstruction:Proto-Sino-Tibetan/k/r/s-wa
+Reconstruction:Proto-Sino-Tibetan/s-wa-ŋ
+Reconstruction:Proto-Sino-Tibetan/s-ŋja
+Reconstruction:Proto-Sino-Tibetan/siŋ ~ sik
+Reconstruction:Proto-Sino-Tibetan/sja-n
+Reconstruction:Proto-Sino-Tibetan/s(j)am-s
+Reconstruction:Proto-Sino-Tibetan/sjej-s
+Reconstruction:Proto-Sino-Tibetan/səj
+Reconstruction:Proto-Sino-Tibetan/kəw-n/t
+Reconstruction:Proto-Sino-Tibetan/na-(n/t)
+Reconstruction:Proto-Sino-Tibetan/p(r)an/t ~ b(r)an/t
+Reconstruction:Proto-Sino-Tibetan/s-r(j)a-j/s/t
+Reconstruction:Proto-Sino-Tibetan/tak ~ dak
+Reconstruction:Proto-Sino-Tibetan/taŋ
+Reconstruction:Proto-Sino-Tibetan/tet ~ tjat
+Reconstruction:Proto-Sino-Tibetan/tjak ~ g-t(j)ik
+Reconstruction:Proto-Sino-Tibetan/ts(j)i(j) ~ tsjaj
+Reconstruction:Proto-Sino-Tibetan/tsa
+Reconstruction:Proto-Sino-Tibetan/tsa ~ za
+Reconstruction:Proto-Sino-Tibetan/(t)sam
+Reconstruction:Proto-Sino-Tibetan/tsik
+Reconstruction:Proto-Sino-Tibetan/tsil
+Reconstruction:Proto-Sino-Tibetan/w(a/u)
+Reconstruction:Proto-Sino-Tibetan/ts(i/u)-t
+Reconstruction:Proto-Sino-Tibetan/(s/z)a-j
+Reconstruction:Proto-Sino-Tibetan/zrjaŋ ~ rjaŋ
+Reconstruction:Proto-Sino-Tibetan/b-ka-(n/m/ŋ)
+Reconstruction:Proto-Sino-Tibetan/l(j)a(k/ŋ)
+Reconstruction:Proto-Sino-Tibetan/ŋa-j ~ ka
+Reconstruction:Proto-Sino-Tibetan/ŋul ~ (d-)ŋur
+Reconstruction:Proto-Sino-Tibetan/ŋwa
+Reconstruction:Proto-Sino-Tibetan/ŋəw
+Reconstruction:Proto-Sino-Tibetan/ʔit
+Reconstruction:Proto-Sino-Tibetan/ʔok
+Reconstruction:Proto-Sino-Tibetan/s/ɡ-la
