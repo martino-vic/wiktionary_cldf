@@ -23,6 +23,7 @@ class Csv2cldf:
             .assign(Language_ID=0)
         self.lg = lang.lower()
         self.rp = "https://raw.githubusercontent.com/martino-vic/en_borrowings"
+        self.rpblob = "https://github.com/martino-vic/en_borrowings/blob"
         self.path = f"{self.rp}/master/{folder}/{self.lg}.csv"
         self.meta = os.path.join(os.getcwd(), self.lg, "metadata.json")
 
@@ -48,7 +49,8 @@ class Csv2cldf:
             with open(rdm, 'w') as f:  # convert to readme
                 badge = "[![CLDF validation]"
                 badge += f"({self.rp}/master/cldf/badge.svg)]"
-                badge += f"({self.rp}/blob/master/cldf/dfs2cldf.py#L47\n\n"
+                badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L47)\n\n"
+                print(badge)
                 f.write(badge + subprocess.run(f"cldf markdown {self.meta}",
                         capture_output=True).stdout.decode("utf-8")
                         .replace("\r\n", "\n"))
