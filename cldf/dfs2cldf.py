@@ -46,14 +46,16 @@ class Csv2cldf:
         try:  # check pycldf's documentation. write readme if validation passes
             subprocess.run(f"cldf validate {self.meta}").check_returncode()
             with open(rdm, 'w') as f:  # convert to readme
-                badge = f"[![CLDF validation]({self.rp}/master/cldf/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)\n\n"
+                badge = "[![CLDF validation]"
+                badge += f"({self.rp}/master/cldf/badge.svg)]"
+                badge += f"({self.rp}/blob/master/cldf/dfs2cldf.py#L47\n\n"
                 f.write(badge + subprocess.run(f"cldf markdown {self.meta}",
                         capture_output=True).stdout.decode("utf-8")
                         .replace("\r\n", "\n"))
         except subprocess.CalledProcessError:  # else write error to logfile
             logging.warning(subprocess.run(f"cldf validate {self.meta}",
-                            capture_output=True).stdout.decode("utf-8"))\
-                            .replace("\r\n", "\n")
+                            capture_output=True).stdout.decode("utf-8")
+                            .replace("\r\n", "\n"))
 
     def lgs(self) -> None:
         """generate and write languages.csv"""
@@ -61,9 +63,10 @@ class Csv2cldf:
         dfelocal = self.dfe
         dflg = self.dfglotto[self.dfglotto["Name"] == self.lg]
         if dflg.empty:
-            dfelocal = dfelocal.append(pd.DataFrame(
-                [["", self.lg.capitalize()] + [""]*(len(dfe.columns)-3) + [1]],
-                columns=dfe.columns))
+            dfelocal = dfelocal.append(
+                pd.DataFrame([["", self.lg.capitalize()] +
+                              [""]*(len(self.dfe.columns)-3) + [1]],
+                             columns=self.dfe.columns))
         else:
             dfelocal = dfelocal.append(dflg.assign(Language_ID=1))
 
