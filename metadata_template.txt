@@ -1,0 +1,200 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "aboutUrl": null,
+    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:isVersionOf": null,
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
+    "dc:related": null,
+    "dc:source": "sources.bib",
+    "dc:title": "English borrowings in Maori",
+
+    "rdf:ID": "en_borrowings_maori",
+    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
+    "tables": [
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+            "dc:extent": 1033,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+						"dc:description":"written in the orthography of the language in question",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+                        "required": false,
+                        "name": "Form"
+                    },
+                    {
+                        "dc:description": "Phonetic transcription in International Phonetic Alphabet.",
+                        "datatype": "string",
+                        "name": "IPA"
+                    },
+					{
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#gloss",
+                        "name": "Gloss"
+					},
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+                        "name": "Language_ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+                        "name": "Parameter_ID"
+					}
+					
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Language_ID"
+                        ],
+                        "reference": {
+                            "resource": "languages.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+					
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "forms.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:extent": 2,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "name": "ID"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+                        "name": "Name"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "name": "Glottocode"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+                        "name": "ISO639P3code"
+                    },
+                    {
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+                        "name": "Macroarea"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -90,
+                            "maximum": 90
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+                        "required": false,
+                        "name": "Latitude"
+                    },
+                    {
+                        "datatype": {
+                            "base": "decimal",
+                            "minimum": -180,
+                            "maximum": 180
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+                        "required": false,
+                        "name": "Longitude"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Family"
+                    }
+					
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "languages.csv"
+        },
+        {
+            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable",
+            "dc:extent": 119,
+            "tableSchema": {
+                "columns": [
+                    {
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]+"
+                        },
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+                        "required": true,
+                        "name": "ID"
+                    },
+                    {
+                        "dc:description": "References the recipient word in the target language",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#targetFormReference",
+                        "required": true,
+                        "name": "Target_Form_ID"
+                    },
+                    {
+                        "dc:description": "References the donor word from the source language",
+                        "datatype": "string",
+                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#sourceFormReference",
+                        "required": false,
+                        "name": "Source_Form_ID"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": [
+                            "Target_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    },
+                    {
+                        "columnReference": [
+                            "Source_Form_ID"
+                        ],
+                        "reference": {
+                            "resource": "forms.csv",
+                            "columnReference": [
+                                "ID"
+                            ]
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "ID"
+                ]
+            },
+            "url": "borrowings.csv"
+        }
+    ]
+}

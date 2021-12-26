@@ -12,3 +12,11 @@
 - makedfs.py - The same parser as makedfs.ipynb but as a .py file that can be run from the commandline by cd-ing into the right folder and running ```makedfs.py```
 With a download speed of 144Mbps the script needed 58 hours to parse all the languages from aari until zuni.
 - parser.log - There are a few bugs that are smoothened out during parsing that are documented here.
+
+# remarks
+- Sometimes the column "L2_etym" is not displayed by the csv-viewer in Github. This is likely the case whenever the first 100 lines of the column are empty. Clicking on "raw" the column can be seen again.
+
+# Todo
+- convert raw data to cldf
+- add missing IPA transcriptions using [epitran](https://pypi.org/project/epitran/), [copius_api](https://github.com/martino-vic/copius_api) and potential other software
+- Try to add those new IPA transcriptions to Wiktionary
