@@ -7,14 +7,14 @@ import os
 import requests
 import subprocess
 import sys
-from urllib.error import HTTPError
 
 import pandas as pd
 
-logging.basicConfig(filename='cldf.log',
+logging.basicConfig(filename='cldf.log', format='%(message)s %(asctime)s',
                     encoding='utf-8', level=logging.WARNING)
 
 REPO = "https://raw.githubusercontent.com/martino-vic/en_borrowings"
+LOCALREPO = os.path.dirname(os.getcwd())
 
 
 class Csv2cldf:
@@ -29,7 +29,7 @@ class Csv2cldf:
             .assign(Language_ID=0)
         self.lg = lang
         self.rpblob = "https://github.com/martino-vic/en_borrowings/blob"
-        self.path = f"{REPO}/master/{folder}/{self.lg}.csv"
+        self.path = f"{LOCALREPO}/{folder}/{self.lg}.csv"
         self.meta = os.path.join(os.getcwd(), self.lg, "metadata.json")
 
     def main(self) -> None:
@@ -109,10 +109,6 @@ class Csv2cldf:
             + ["1" for i in dfm[donor] if isinstance(i, str)]
         dfforms.insert(0, "ID", dfforms.index)
 
-        try:
-            os.mkdir(self.lg)
-        except FileExistsError:
-            pass
         fms = os.path.join(os.getcwd(), self.lg, "forms.csv")
         dfforms.to_csv(fms, encoding="utf-8", index=False)
 
@@ -140,19 +136,18 @@ class Csv2cldf:
 def loop():
     """Apply C2v2cldf().main() to every file in raw1 and raw2"""
 
-    lglist = f"{REPO}/master/lglist.txt"
-    lglist = ast.literal_eval(requests.get(lglist).text.lower())
-    for language in lglist:
-        sys.stdout.write(f"{language}\n")
-        try:
-            Csv2cldf("raw1", language).main()
-        except HTTPError:
+    for folder in ["raw2", "raw1"]:
+        for file in os.listdir(os.path.join(LOCALREPO, folder)):
+            language = file[:-4]
+            sys.stdout.write(f"{language}\n")
             try:
-                Csv2cldf("raw2", language).main()
-            except HTTPError:
-                sys.stdout.write(f"{language} neither in raw1 nor raw2\n")
-                logging.warning(f"{language}.csv neither in raw1 nor raw2")
+                os.mkdir(language)
+            except FileExistsError:
+                sys.stdout.write(f"folder {language} already exists\n")
                 continue
+
+            Csv2cldf(folder, language).main()
+
 
 if __name__ == "__main__":
         loop()

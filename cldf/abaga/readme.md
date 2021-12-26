@@ -1,6 +1,6 @@
 [![CLDF validation](https://raw.githubusercontent.com/martino-vic/en_borrowings/master/cldf/badge.svg)](https://github.com/martino-vic/en_borrowings/blob/master/cldf/dfs2cldf.py#L53)
 
-# English borrowings in 'are'are
+# English borrowings in Abaga
 
 **CLDF Metadata**: [metadata.json](./metadata.json)
 
@@ -10,7 +10,7 @@ property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | https://creativecommons.org/licenses/by/4.0/
-[rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | en_borrowings_'are'are
+[rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | en_borrowings_abaga
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
 
 
@@ -19,7 +19,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 266
+[dc:extent](http://purl.org/dc/terms/extent) | 96
 
 
 ### Columns
