@@ -49,8 +49,7 @@ class Csv2cldf:
             with open(rdm, 'w') as f:  # convert to readme
                 badge = "[![CLDF validation]"
                 badge += f"({self.rp}/master/cldf/badge.svg)]"
-                badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L47)\n\n"
-                print(badge)
+                badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L48)\n\n"
                 f.write(badge + subprocess.run(f"cldf markdown {self.meta}",
                         capture_output=True).stdout.decode("utf-8")
                         .replace("\r\n", "\n"))
