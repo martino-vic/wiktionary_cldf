@@ -1,18 +1,24 @@
-"""convert csv-files to cldf and validate"""
+"""convert many csv-files to cldf and validate"""
+
+import ast
+import json
+import logging
+import os
+import requests
+import subprocess
+import sys
+from urllib.error import HTTPError
 
 import pandas as pd
-import os
-import json
-import subprocess
-import logging
-import ast
 
 logging.basicConfig(filename='cldf.log',
                     encoding='utf-8', level=logging.WARNING)
 
+REPO = "https://raw.githubusercontent.com/martino-vic/en_borrowings"
+
 
 class Csv2cldf:
-    """in: path to file, out: written cldf files"""
+    """Convert one csv file to cldf"""
 
     def __init__(self, folder: "'raw1' or 'raw2'", lang: str) -> None:
         """initiate variables that are used by the class methods"""
@@ -21,10 +27,9 @@ class Csv2cldf:
         self.dfglotto = pd.read_csv(f"{glotto}/master/cldf/languages.csv")
         self.dfe = self.dfglotto[self.dfglotto["Name"] == "English"]\
             .assign(Language_ID=0)
-        self.lg = lang.lower()
-        self.rp = "https://raw.githubusercontent.com/martino-vic/en_borrowings"
+        self.lg = lang
         self.rpblob = "https://github.com/martino-vic/en_borrowings/blob"
-        self.path = f"{self.rp}/master/{folder}/{self.lg}.csv"
+        self.path = f"{REPO}/master/{folder}/{self.lg}.csv"
         self.meta = os.path.join(os.getcwd(), self.lg, "metadata.json")
 
     def main(self) -> None:
@@ -48,8 +53,8 @@ class Csv2cldf:
             subprocess.run(f"cldf validate {self.meta}").check_returncode()
             with open(rdm, 'w') as f:  # convert to readme
                 badge = "[![CLDF validation]"
-                badge += f"({self.rp}/master/cldf/badge.svg)]"
-                badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L48)\n\n"
+                badge += f"({REPO}/master/cldf/badge.svg)]"
+                badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L53)\n\n"
                 f.write(badge + subprocess.run(f"cldf markdown {self.meta}",
                         capture_output=True).stdout.decode("utf-8")
                         .replace("\r\n", "\n"))
@@ -90,7 +95,6 @@ class Csv2cldf:
 
     def forms(self) -> int:
         """Generate and write forms.csv"""
-
         dfm = pd.read_csv(self.path).rename(
             columns={"L2_orth": "Form", "L2_ipa": "IPA", "L2_gloss": "Gloss"})
         dfm["_1"] = ["" if isinstance(i, str) else i for i in dfm["L2_etym"]]
@@ -134,13 +138,21 @@ class Csv2cldf:
 
 
 def loop():
-    lglist = os.path.join(os.path.dirname(os.getcwd()), "lglist.txt")
-    ast.literal_eval(open(lglist, encoding="utf-8").read())
-    for lang, _ in zip(lglist, range(1000)):
+    """Apply C2v2cldf().main() to every file in raw1 and raw2"""
+
+    lglist = f"{REPO}/master/lglist.txt"
+    lglist = ast.literal_eval(requests.get(lglist).text.lower())
+    for language in lglist:
+        sys.stdout.write(f"{language}\n")
         try:
-            Csv2cldf(lang)
-        except:
-            pass
+            Csv2cldf("raw1", language).main()
+        except HTTPError:
+            try:
+                Csv2cldf("raw2", language).main()
+            except HTTPError:
+                sys.stdout.write(f"{language} neither in raw1 nor raw2\n")
+                logging.warning(f"{language}.csv neither in raw1 nor raw2")
+                continue
 
 if __name__ == "__main__":
-    Csv2cldf("raw1", "Greenlandic").main()
+        loop()

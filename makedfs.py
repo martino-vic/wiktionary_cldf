@@ -6,16 +6,18 @@
 
 import argparse
 import ast
-from requests import get
-from bs4 import BeautifulSoup
-import os
-import pandas as pd
-from tqdm import tqdm
 import concurrent.futures
-import re
-import numpy as np
-import shutil
 import logging
+import os
+import re
+import shutil
+
+from bs4 import BeautifulSoup
+import numpy as np
+import pandas as pd
+from requests import get
+from tqdm import tqdm
+
 logging.basicConfig(filename='parser.log',
                     encoding='utf-8', level=logging.WARNING)
 parser = argparse.ArgumentParser(description="No arguments needed to specify. \
