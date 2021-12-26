@@ -1,3 +1,5 @@
+[![CLDF validation](https://raw.githubusercontent.com/martino-vic/en_borrowings/master/cldf/badge.svg)](https://github.com/lexibank/uralex/actions?query=workflow%3ACLDF-validation)
+
 # English borrowings in Greenlandic
 
 **CLDF Metadata**: [metadata.json](./metadata.json)
