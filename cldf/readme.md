@@ -1,7 +1,7 @@
 # Content
 
 - This is the folder to which ```dfs2cldf.py``` writes its output. Generated output was migrated to folders cldf1 and cldf2 since Git allows max. 1000 folders per directory
-- ```dfs2cldf.py``` was run from the command line to convert raw data frames to cldf. Validation happens in line 53:  
+- ```dfs2cldf.py``` was run from the command line to convert raw data frames to cldf. Validation happens in line 54:  
 ```subprocess.run(f"cldf validate {self.meta}").check_returncode()```
 - ```metadata_template.json``` serves as a template to create ```metadata.json``` for each language
 - If a file doesn't pass the validation, the logger will log the error message to ```cldf.log```
