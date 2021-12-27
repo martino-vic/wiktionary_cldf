@@ -5,5 +5,5 @@
 ```subprocess.run(f"cldf validate {self.meta}").check_returncode()```
 - ```metadata_template.json``` serves as a template to create ```metadata.json``` for each language
 - If a file doesn't pass the validation, the logger will log the error message to ```cldf.log```
-- The corresponding URL of each word is ```https://en.wiktionary.org/wiki/WORDFORM```, whereas WORDFORM is the word as it appears in the column 'Form' in ```forms.csv```. If you need to distinguish it from homonyms in other languages ```https://en.wiktionary.org/wiki/WORDFORM#LANGUAGE``` also works, whereas LANGUAGE. An example for a valid URL is ```https://en.wiktionary.org/wiki/loll#Estonian```
+- The corresponding URL of each word is ```https://en.wiktionary.org/wiki/WORDFORM```, whereas WORDFORM is the word as it appears in the column 'Form' in ```forms.csv```. If you need to distinguish it from homonyms in other languages ```https://en.wiktionary.org/wiki/WORDFORM#LANGUAGE``` also works. An example for a valid URL is ```https://en.wiktionary.org/wiki/loll#Estonian```
 - Sometimes the parser misinterprets information and misses out English loanwords or adds false positives. These have to be spotted, fixed and documented manually in the changelog. If you find any, plz open a new issue.
