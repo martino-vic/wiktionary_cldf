@@ -56,12 +56,11 @@ class Csv2cldf:
                 badge += f"({REPO}/master/cldf/badge.svg)]"
                 badge += f"({self.rpblob}/master/cldf/dfs2cldf.py#L53)\n\n"
                 f.write(badge + subprocess.run(f"cldf markdown {self.meta}",
-                        capture_output=True).stdout.decode("utf-8")
-                        .replace("\r\n", "\n"))
+                        capture_output=True, text=True).stdout)
+                        
         except subprocess.CalledProcessError:  # else write error to logfile
             logging.warning(subprocess.run(f"cldf validate {self.meta}",
-                            capture_output=True).stdout.decode("utf-8")
-                            .replace("\r\n", "\n"))
+                            capture_output=True, text=True).stdout)
 
     def lgs(self) -> None:
         """generate and write languages.csv"""

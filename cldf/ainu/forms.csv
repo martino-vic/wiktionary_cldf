@@ -1,0 +1,515 @@
+ID,Form,IPA,Gloss,Language_ID
+0,=an,[an],"one, someone (impersonal pronoun)",0
+1,=as,[aʃ],(exclusive) we (first-person plural subject pronoun),0
+2,a=,[a],"one, someone (impersonal pronoun)",0
+3,Ainu,/ʔajnu/,man,0
+4,an,/an/,"(intransitive, copulative) to exist, be (somewhere);",0
+5,anihi,[áꜜnʲìçì],"he, she, it (third-person singular pronoun)",0
+6,anokay,[ànòꜛkáj],"one, some people (impersonal plural pronoun), (inclusive)",0
+7,anutari,[ànùꜛtárí],"one, some people (impersonal plural subject pronoun),",0
+8,aoka,[àòꜛká],"(Saru dialect) one, some people (impersonal plural",0
+9,aokay,[àꜛó̞káj],Alternative form of anokay,0
+10,arawan,[àꜛɾáɰᵝán],seven,0
+11,ariki,/àꜛɾíkʲí/,plural of ek,0
+12,asikne,/àꜛɕíkné/,five,0
+13,asinuma,[àɕìꜛnúmá],"one, oneself, someone (impersonal singular pronoun)",0
+14,aynu,[ʔájꜜnù],"human, man (as opposed to animals or gods)",0
+15,aynumosir,[ʔájꜜnù mò̞ꜛɕír],"the land of humans; the earth, the land of the Ainu",0
+16,cep,/t͡ʃep/,fish,0
+17,ci=,[t͡ɕi],(exclusive) we (first-person plural subject pronoun),0
+18,cikap,/t͡ɕìꜛkáp/,bird,0
+19,cikiri,/t͡ɕìꜛkʲíɾí/,"(anatomy) leg, Synonym: kema, (anatomy) foot, Synonym:",0
+20,cikoykip,/t͡ɕìkòjꜛkʲíp/,"animal, beast (non-human creature)",0
+21,cikuni,/t͡ɕìꜛkúnʲi/,"tree, wood",0
+22,ciokay,[t͡ɕìꜛó̞káj],(exclusive) we (first-person plural subject pronoun),0
+23,ciutari,[t͡ɕìùꜛtárí],"one, some people (impersonal plural pronoun), (inclusive)",0
+24,coka,[t͡ʃó̞ꜜkà],(Saru dialect) (exclusive) we (first-person plural,0
+25,e,/e̞/,(transitive) to eat,0
+26,e=,[e̞],"you, thou (first-person singular subject pronoun)",0
+27,eani,[èꜛánʲí],"you, thou (second-person singular pronoun)",0
+28,eci=,[è̞ꜛt͡ɕí],"you, ye (first-person plural subject pronoun)",0
+29,ecioka,[è̞t͡ɕìò̞ꜛká],"(Saru dialect) you, ye (second-person plural pronoun)",0
+30,eciokay,[è̞t͡ɕìò̞ꜛkáj],"you, ye (second-person plural pronoun)",0
+31,eciutari,[èt͡ɕìùꜛtárí],"you, ye (second-person plural subject pronoun)",0
+32,ek,/ek/,(intransitive) to come,0
+33,en=,[e̞n],me (first-person singular object pronoun),0
+34,epitta,/èꜛpítːá/,"entire, whole, all",0
+35,eramuan,/èꜛɾámúán/,(transitive) to understand,0
+36,etu,/èꜛtú/,(anatomy) nose,0
+37,hapo,/háꜜpò/,mother,0
+38,hekaci,/hèꜛkát͡ɕí/,"(rare or dialect) child, boy, lad (male child)",0
+39,hemanta,[hè̞ꜛmántá],(interrogative) what,0
+40,henpak,[hè̞mꜛpák],"(interrogative) how many, how much",0
+41,henpara,[hè̞mꜛpáɾá],(interrogative) when,0
+42,hoku,/hòꜛkú/,husband (male spouse),0
+43,honi,/hòꜛnʲí/,"(anatomy) belly, abdomen",0
+44,hopuni,/hòꜛpúnʲí/,"(intransitive) to rise, get up",0
+45,hunak,[hùꜛnák],(interrogative) where,0
+46,hunna,[hùnꜛná̠],(interrogative) who,0
+47,hure,/hu.ɾe/,to be red,0
+48,i=,[i],"one, someone (impersonal object pronoun, both singular and plural)",0
+49,inan,[ìꜛná̠n],"(interrogative) which, which one",0
+50,ine,/íꜜnè/,four,0
+51,ipe,/ìꜛpé/,"food
+Synonym: aep",0
+52,ipe,/ìꜛpé/,(transitive) to eat,0
+53,iwan,[ìꜛɰᵝán],six,0
+54,k=,[k],"(Saru, before vowels) I (first-person singular subject",0
+55,kam,[ka̠m],"flesh, meat",0
+56,kamuy,[kàꜛmúj],"a god (deity), ape kamuythe fire god, (by extension",0
+57,kamuy,[kàꜛmúj],"an honorific-like title applied to anything great,",0
+58,kamuymosir,[kàꜛmúj mò̞ꜛɕíɾ],heaven,0
+59,kani,[káꜜnʲì],(Saru dialect) I (first-person singular subject pronoun),0
+60,kem,/ke̞m/,blood,0
+61,kema,/kèꜛmá/,"(anatomy) leg
+Synonym: cikiri",0
+62,kina,/kʲìꜛná/,grass,0
+63,kinasut,/kʲìꜛnáʃút/,snake,0
+64,kisara,/kʲìꜛsáɾá/,"(anatomy) ear, ears",0
+65,ku=,[ku],I (first-person singular subject pronoun),0
+66,kuru,/kùꜛɾú/,"(with modifiers) person
+repunkuru ― foreigner (literally, “person in the sea”)
+tan kuru ― this person",0
+67,kusu,/kùꜛsú/,"in order to, to, for
+1905,  John Bachelor,  An Ainu-English-Japanese Dictionary (Including a Grammar of the Ainu Language):Nu gusu ku ek, ""I have come in order to hear.""",0
+68,makanak,[mà̠ꜛká̠ná̠k],"(interrogative) how, in what way",0
+69,mat,/mat/,"(mainly in compounds) woman, female",0
+70,menoko,/mèꜛnókó/,woman (adult human female),0
+71,mici,/míꜜt͡ɕì/,father,0
+72,nay,/naj/,swamp.,0
+73,nen,[ne̞n],(interrogative) who,0
+74,nep,[ne̞p],(interrogative) what,0
+75,neyokay,[nè̞jò˕ꜛkáj],plural of neyan,0
+76,oka,[ò̞ꜛká],(Saru dialect) they (third-person plural pronoun),0
+77,okay,[ò̞ꜛkáj],they (third-person plural pronoun),0
+78,okkayo,/ókꜜkàjò/,(of persons) male,0
+79,okkayo,/ókꜜkàjò/,"man, male",0
+80,opitta,/òꜛpítːá/,"every, all",0
+81,otop,/òꜛtóp/,hair (on the head),0
+82,paro,/pàꜛɾó/,(anatomy) mouth,0
+83,parunpe,/páɾꜜùmpè/,(anatomy) tongue,0
+84,pe,[pe̞],"(only in compounds) thing, article, arawan ― seven,",0
+85,pe,[pe̞],"water, especially in reference to a water body, liquid,",0
+86,pe,[pe̞],"water, especially in reference to a water body, liquid,",0
+87,pon,/pon/,"small, little",0
+88,pone,/pòꜛné/,bone,0
+89,poro,/pòꜛɾó/,"big, large",0
+90,ramu,/ɾàꜛmú/,"(transitive) to think of, consider",0
+91,ray,/ɾaj/,(intransitive) to die,0
+92,rayke,/ɾájꜜkè/,(transitive) to kill,0
+93,re,[ɾe̞],three,0
+94,rekuci,/ɾèꜛkút͡ɕí/,"(anatomy) neck, throat",0
+95,retar,/ɾe.taɾ/,to be white,0
+96,reyep,/rèꜛjép/,(archaic or poetic) dog,0
+97,ronnu,/ɾónꜜnù/,plural of rayke,0
+98,sapa,/sàꜛpá/,(anatomy) head,0
+99,sara,/sàꜛɾá/,tail,0
+100,seta,/sèꜛtá/,dog,0
+101,siki,/ɕìꜛkʲí/,"(anatomy) eye, eyes",0
+102,sine,/ɕìꜛné/,one,0
+103,sinepesan,[ɕìꜛnépésán],nine,0
+104,sinuma,[ɕìꜛnúmá],"he, she, it (third-person singular pronoun)",0
+105,sir,/siɾ/,appearance,0
+106,somo,/ʃòꜛmó/,"(negation) no, not
+Nepka somo ku=ye. ― I didn't say anything.",0
+107,tan,[tan],(demonstrative) this,0
+108,tannekamuy,/tánꜜnèkàꜛmúj/,snake,0
+109,tanokay,[tànò̞ꜛkáj],plural of tan,0
+110,taoka,[tàò̞ꜛká],(Saru) plural of tan,0
+111,taokay,,Alternative form of tanokay,0
+112,teke,/tèꜛké/,"(anatomy) hand, hands",0
+113,toan,[tò̞ꜛán],(demonstrative) that (far from the listener and speaker),0
+114,tokkoni,/tókꜜkònì/,snake,0
+115,tonokay,[tònò̞ꜛkáj],plural of toan,0
+116,tooka,[tòò̞ꜛká],(Saru) plural of toan,0
+117,tookay,,Alternative form of tonokay,0
+118,tu,/tu/,two,0
+119,tupesan,[tùꜛpésán],eight,0
+120,un=,[un],(exclusive) us (first-person plural object pronoun),0
+121,ure,/ùꜛɾé/,"(anatomy) foot
+Synonym: cikiri",0
+122,utara,/ùꜛtáɾá/,"plural of kuru; persons, people
+tan utara ― these people",0
+123,wan,[ɰᵝan],ten,0
+124,yaynu,/jájꜜnù/,thought,0
+125,yaynu,/jájꜜnù/,"(intransitive) to think, ponder",0
+126,yayrayke,/jájꜜɾàjkè/,"(intransitive) to kill oneself, commit suicide",0
+127,айну,/ʔajnu/,human,0
+128,хурэ,,(be) red,0
+129,ア-,/a/,a passive prefix to verbs,0
+130,アィアィ,,baby,0
+131,アィヌ,,Alternative form of アイヌ,0
+132,アィヌモシㇼ,[ʔájꜜnù mò̞ꜛɕír],"the land of humans; the earth, the land of the Ainu",0
+133,アイ,,arrow,0
+134,アイカㇷ゚,,"awkward, unskilled",0
+135,アイカㇷ゚,,to be unable,0
+136,アイカㇷ゚,,a scallop of genus Pecten,0
+137,アイカㇷ゚,,a scallop of genus Pecten,0
+138,アイヌ,[ʔájꜜnù],"person, human being",0
+139,アイヌイタㇰ,,Ainu language,0
+140,アイル,,"to be, to feel, to sound",0
+141,アエㇷ゚,,food,0
+142,アカㇺ,,a disk or ring-shaped object,0
+143,アキ,,Alternative form of アㇰ,0
+144,アシㇰネ,/àꜛɕíkné/,five,0
+145,アチポ,,Alternative form of アチャポ,0
+146,アチャ,,father,0
+147,アチャポ,,uncle,0
+148,アッツシ,,Alternative form of アットゥㇱ,0
+149,アットゥㇱ,,Cloth made from the inner bark of elm trees,0
+150,アトゥ,,to vomit,0
+151,アパ,,doorway,0
+152,アフン,,to enter,0
+153,アフㇷ゚,,plural of アフン,0
+154,アプトアㇱ,,to rain,0
+155,アプトアㇱパ,,Alternative form of アプトアㇱ,0
+156,アベ,/abe/,alternative form of アペ (ape): fire,0
+157,アベチクニ,/abetʃikuni/,firewood,0
+158,アベバシュイ,/abebaʃui/,fire tongs,0
+159,アペ,/ape/,fire,0
+160,アママ,,Alternative form of アㇺアㇺ,0
+161,アマㇺ,,Alternative spelling of アㇺアㇺ,0
+162,アミ,,Alternative form of アㇺ,0
+163,アミヒ,,Alternative form of アㇺ,0
+164,アムシペ,,Alternative form of アムㇱペ,0
+165,アムㇱペ,,crab,0
+166,アラワン,[àꜛɾáɰᵝán],seven,0
+167,アリㇷ゚,,roof,0
+168,アン,,night.,0
+169,アンケㇱ,,"night's end., daybreak., The predawn hour.",0
+170,アンチカㇻ,,night,0
+171,アントゥキ,,An azuki bean.,0
+172,アㇰ,,a younger brother,0
+173,アㇰ,,to shoot with an arrow,0
+174,アㇰ,,to shoot with an arrow,0
+175,アㇵチ,/áxꜜt͡ɕì/,"(dialectal, Sakhalin) grandmother (direct address),",0
+176,アㇷ゚カシ,,Alternative form of アㇷ゚カㇱ,0
+177,アㇷ゚カㇱ,,to walk,0
+178,アㇷ゚ト,,rain,0
+179,アㇺ,,"claw, talon",0
+180,アㇺアㇺ,,"cereals, cereal grains",0
+181,アㇺパ,,to carry,0
+182,アㇺベ,/ambe/,alternative form of アベ (abe): fire,0
+183,アㇻワンペ,,seven,0
+184,イカオイキ,,(transitive) help,0
+185,イカオイキ・チセイ,,hospital[1],0
+186,イサ・チセイ,,hospital[1],0
+187,イサㇺ,,to die,0
+188,イソ,,bear,0
+189,イタコ,,to speak,0
+190,イタㇰ,,language,0
+191,イタㇵ,,words,0
+192,イナゥ,,"A sacred shaved stick, symbolizing a bird, used for prayer",0
+193,イナオ,,Alternative form of イナウ,0
+194,イネ,/íꜜnè/,four,0
+195,イネㇷ゚,,four,0
+196,イヤィラィケレ,,thank you,0
+197,イランカラㇷ゚テ,,hello,0
+198,イワ,,(geography) mountain,0
+199,ウェンクリキ,,rain cloud,0
+200,ウェンダラㇷ゚,,dream,0
+201,ウォセカムィ,,a wolf (animal),0
+202,ウセイ,,"hot water, tea (by extension)",0
+203,ウタラ,,Alternative form of ウタリ,0
+204,ウタリ,,"A friend, companion, or compatriot",0
+205,ウタレ,,Alternative form of ウタリ,0
+206,ウナㇻペ,,aunt,0
+207,ウパㇱ,,snow,0
+208,ウフイ,,(intransitive) burn,0
+209,ウフイ・ヌプリ,,volcano,0
+210,ウンマ,/úmꜜmà/,horse,0
+211,ウㇰライナ,,a Ukrainian (person),0
+212,ウㇰライナ,,"Ukraine, Ukrainian",0
+213,エアニ,,you (second person pronoun),0
+214,エカㇱ,,grandfather,0
+215,エサマン,,An otter.,0
+216,エチュッポㇰ,,west,0
+217,エツ゚,,"obsolete spelling of エトゥ (etu, “nose, snout; spout; handle”)",0
+218,エト゚ピㇼカ,,a tufted puffin,0
+219,エトゥ,,nose,0
+220,エトㇽ,,"snot, nasal mucus",0
+221,エペㇾ,,bear cub (animal),0
+222,エムシ,,A sword.,0
+223,エムシイ,,Alternative spelling of エムシ,0
+224,エルㇺ,,rat,0
+225,エレㇺ,,rat,0
+226,オウペカ,,right,0
+227,オシリ,,earth; ground,0
+228,オソマ,,feces; human excrement,0
+229,オソロ,,(anatomy) abdomen,0
+230,オタ,,sand,0
+231,オタサㇺ,,seashore,0
+232,オタロㇷ゚,,sturgeon,0
+233,オッカヨ,,man; male,0
+234,オテㇰヌ,,rich,0
+235,オトㇷ゚,,hair (on one's head),0
+236,オナ,,father,0
+237,オピキキセ,,diarrhea,0
+238,オポㇷ゚マウ,,fever,0
+239,オヤピ,,snake,0
+240,オロ,,very,0
+241,オロマウェペ,,gruff voice,0
+242,オワタ,,water,0
+243,オンネㇷ゚,/ónꜜnèp/,"a fur seal
+Synonym: ウネゥ (unew)",0
+244,カシュ,,spoon,0
+245,カシュ,,immediately after; close upon,0
+246,カシュㇷ゚,,ladle; large spoon,0
+247,カシュㇺベ,,skate (fish),0
+248,カッパㇰ,,sin,0
+249,カパㇷ゚,,bat (animal),0
+250,カムィ,[kàꜛmúj],"a god (deity), アペ カムィape kamuythe fire god, (by extension",0
+251,カムィ,[kàꜛmúj],"an honorific-like title applied to anything great,",0
+252,カムィチェㇷ゚,,"salmon, Synonyms: (literally “true food”) シペ (sipe),",0
+253,カムィフㇺベ,,"orca, killer whale",0
+254,カムィモシㇼ,[kàꜛmúj mò̞ꜛɕíɾ],heaven,0
+255,カムイモシリ,,Alternative spelling of カムイモシㇼ,0
+256,カㇺ,,meat,0
+257,カㇺビ,,"paper, a letter (written to someone), an epistle",0
+258,カㇺビソㇱ,,a book,0
+259,キキㇼ,,worm,0
+260,キサㇻ,,ear,0
+261,キム,,mountain,0
+262,クアニ,,I (first person pronoun),0
+263,クンギ,,nail (spike made of metal or hard material used to,0
+264,クㇷ゚,,sun,0
+265,ケオロ,,(anatomy) brain,0
+266,ケス,,The end.,0
+267,ケニ,,sprout; bud,0
+268,ケプツ゚ル,,(anatomy) forehead,0
+269,ケペリベ,,"deep, smooth water",0
+270,ケム,,archaic form of ケㇺ (kem),0
+271,ケモリッ,,blood vessel,0
+272,ケラ,,flavor; taste,0
+273,ケラ,,to taste,0
+274,ケレル,,house,0
+275,ケㇲト,,daily,0
+276,ケㇺ,,"Blood., A needle.",0
+277,ケㇺ,,(transitive) To lick.,0
+278,ケㇺベ,,index finger,0
+279,ケㇺラㇺ,,scarcity; famine,0
+280,ケㇺリッ,,(anatomy) vein,0
+281,コタン,/kò̞ꜛtán/,village,0
+282,コッ,,(transitive) to possess,0
+283,コッ,,"dip (in the ground), small valley, ditch, grave, hole,",0
+284,コッ,,"dip (in the ground), small valley, ditch, grave, hole,",0
+285,コレヤ,,a Korean (person),0
+286,コレヤ,,"Korea, Synonym: コレヤ モシㇼ (koreya mosir), Korean, Synonym:",0
+287,コンガネ,,gold,0
+288,コンボ,,seaweed,0
+289,コㇿ,,to possess,0
+290,サカヨ,,uproar; quarrel,0
+291,サクサ,,scent; smell,0
+292,サケ,,rice beer,0
+293,サッカイ,,chopsticks,0
+294,サハ,,plain (an expanse of land),0
+295,サパ,,head,0
+296,サポ,,older sister,0
+297,サマㇺベ,,Alternative form of サマンペ (samanpe),0
+298,サメ,,shark,0
+299,サラハ,,tail,0
+300,サラㇰ,,accidental death,0
+301,サラ二ㇷ゚,,basket,0
+302,サンテㇰ,,posterity; descendants,0
+303,シサㇺ,/ɕìꜛsám/,a Japanese person,0
+304,シサㇺ,/ɕìꜛsám/,"Japan
+Synonym: シサㇺモシㇼ (sisam mosir)",0
+305,シネ,/ɕìꜛné/,one,0
+306,シネペサン,[ɕìꜛnépésán],nine,0
+307,シネㇷ゚,/ɕìꜛnép/,"one, one thing",0
+308,シュマリ,,A fox.,0
+309,シルシル,,"(transitive) brush, (transitive) rub, (transitive)",0
+310,シㇰ,,eye,0
+311,シㇼ,,"visual appearance, the look of a thing, weather, area,",0
+312,スス,,willow,0
+313,スマ,,stone,0
+314,セ゚,[tse],The syllable セ゚ (ce).,0
+315,セタ,/sèꜛtá/,"dog
+Synonyms: レエㇷ゚ (reep), レイェㇷ゚ (reyep)",0
+316,ソ,,"waterfall, cascade",0
+317,チイェネ,,penis,0
+318,チイェヘ,,penis,0
+319,チェㇷ゚,,fish,0
+320,チセ,,house,0
+321,チセイ,,house,0
+322,チャシ,,"a fence or enclosure, a fortress",0
+323,チャペ,,a cat (domestic species),0
+324,チュㇷ゚,,luminary (Sun or Moon),0
+325,チロンヌㇷ゚,,fox,0
+326,チン,,"the top of the legs, the pelvis[1]",0
+327,チン,,to stretch or spread out[1],0
+328,チン,,a Chinese (person),0
+329,チン,,"China, Synonym: チン モシㇼ (cin mosir), Chinese, Synonym:",0
+330,チン,,to stretch or spread out[1],0
+331,チン,,a Chinese (person),0
+332,チン,,"China, Synonym: チン モシㇼ (cin mosir), Chinese, Synonym:",0
+333,チン,,a Chinese (person),0
+334,チン,,"China, Synonym: チン モシㇼ (cin mosir), Chinese, Synonym:",0
+335,チㇱ,,to cry,0
+336,ツ゚,[tu̜],The syllable ツ゚ (tu).,0
+337,ツ゚ペサンペ,,eight,0
+338,ツ゚ンプ,,room (of a building),0
+339,ツ゚ㇷ゚,[tu̜p],two,0
+340,テㇰ,,hand,0
+341,デウシカ,,a woman,0
+342,ト,,"lake, puddle of water",0
+343,ト,,"breast, nipple",0
+344,ト,,day,0
+345,ト,,"breast, nipple",0
+346,ト,,day,0
+347,ト,,day,0
+348,ト゚,[tu̜],two,0
+349,ト゚ㇷ゚,[tu̜p],two,0
+350,トゥ,/tu/,two,0
+351,トゥキ,,A cup or drinking glass.,0
+352,トゥナカィ,,a reindeer,0
+353,トゥペサン,[tùꜛpésán],eight,0
+354,トゥレㇱ,,(said by males) a younger sister,0
+355,トペ,/tóꜜpè/,milk,0
+356,トンコリ,,A stringed musical instrument from Sakhalin.,0
+357,トㇰクリ,,bottle,0
+358,ナイ,,river,0
+359,ナン,,face,0
+360,ニ,,tree,0
+361,ニシウ,,millstone,0
+362,ニツ゚ン,,forest,0
+363,ニツ゚ㇱ,,tub; vat,0
+364,ニテㇱ,,raft,0
+365,ニトㇰ,,splinter,0
+366,ニマキ,,tooth,0
+367,ニマキシルシルㇷ゚,,toothbrush,0
+368,ニヤㇷ゚,,flame,0
+369,ニワ,,speed; quickness,0
+370,ニㇱ,,sky,0
+371,ヌカㇽ,,"to see, to look at",0
+372,ヌチャ,/nu̜t͡ʃa/,a Russian (person),0
+373,ヌチャ,/nu̜t͡ʃa/,"Russia (country), Russian (language)",0
+374,ヌプリ,/nu̜ˈpu̜.ɾi/,mountain,0
+375,ヌマリ,,a raccoon dog,0
+376,ヌマン,,yesterday,0
+377,ネトパケ,,body,0
+378,ノンノ,/nónꜜnò/,"(Hokkaido, botany) flower, Synonyms: トㇺ (tom), エプィケ",0
+379,ノンノ,/nónꜜnò/,"(dialectal, Kuril) mother, Synonyms: ハポ (hapo), ウヌ",0
+380,ノンノ,/nónꜜnò/,"exclamation of pleassure, Synonym: オノンノ (onono)",0
+381,ノンノ,/nónꜜnò/,"(dialectal, Kuril) mother, Synonyms: ハポ (hapo), ウヌ",0
+382,ノンノ,/nónꜜnò/,"exclamation of pleassure, Synonym: オノンノ (onono)",0
+383,ノンノ,/nónꜜnò/,"exclamation of pleassure, Synonym: オノンノ (onono)",0
+384,ノㇰ,,egg,0
+385,ハポ,/hàꜛpó/,"mother
+クコㇿ ハポ アン。Kukor hapo an.She is my mother.
+Synonyms: ウヌ (unu), トㇳト (totto), ノンノ (nonno)",0
+386,ハンペ,,father,0
+387,ハㇱカプ,/hásꜜkàp/,the blue honeysuckle or honeyberry (Lonicera caerulea var. emphyllocalyx). A deciduous shrub native to East Asia.,0
+388,ハㇺ,,leaf,0
+389,パケ,,head,0
+390,パシユイ,,Alternative spelling of パスイ,0
+391,パスイ,,chopsticks,0
+392,パン,,bread,0
+393,ヒケ,,thing; article,0
+394,ピリカ,,"good, adequate",0
+395,ピリカ,,To be good.,0
+396,フ,,"raw, uncooked
+フアマㇺ ― fu amam ― raw rice, uncooked rice",0
+397,フチ,[ɸù̜ꜛt͡ɕí],"grandmother, Synonym: アㇵチ (ahci)",0
+398,フッチ,,a grandmother,0
+399,フレ,,(be) red,0
+400,フンチ・ヌプリ,,Mount Fuji (the highest mountain in Japan),0
+401,フンペ,,a whale (large sea mammal),0
+402,フㇺベ,,whale,0
+403,プィプィ,,eel,0
+404,プクサ,,A wild edible plant which tastes similar to garlic.,0
+405,ヘイェ,,face; countenance,0
+406,ヘイカチ,,"boy, lad",0
+407,ヘピトト,,large knife,0
+408,ヘペウ,,halibut,0
+409,ヘポラㇷ゚,,butterfly; moth,0
+410,ヘリェバ,,bread,0
+411,ペツ,,archaic spelling of ペッ (“water; river; a piece (of anything)”),0
+412,ペツ,,archaic spelling of ペッ (“damp; thick”),0
+413,ホイト,,beggar,0
+414,ホカ,,fireplace,0
+415,ホク,,husband,0
+416,ホケウラ,,(anatomy) bladder,0
+417,ホシピ,,"(intransitive) to return, to go back to a place",0
+418,ホシピレ,,"(transitive) to return something, to send back something",0
+419,ホソ,,broadcast,0
+420,ホッケ,,(intransitive) to lie down,0
+421,ホッケレ,,(transitive) to lay down,0
+422,ホネウゴロ,,lower part of abdomen,0
+423,ホノイェノイェㇷ゚,,dandelion,0
+424,ホㇿケゥ,,a wolf (animal),0
+425,ホㇰ,,"to buy, purchase",0
+426,ポッペ,,sweat; perspiration,0
+427,ポル,,cave,0
+428,ポロ,,"big, large",0
+429,マウ,,air,0
+430,マシン,,machine,0
+431,マタキ,,(said by females) a younger sister,0
+432,ミチ,,father,0
+433,ムックリ,/múkꜜkùɾʲì/,A traditional Ainu musical instrument similar to a,0
+434,メノコ,,woman (adult human female),0
+435,モシリ,,"combining form of モシㇼ (mosir, “land; country; island”)",0
+436,モシㇼ,[mò̞ꜛɕíɾ],"country, land, island, world",0
+437,モユㇰ,,a raccoon dog,0
+438,ヤチ,,swamp,0
+439,ユポ,,older brother,0
+440,ユㇰ,,deer,0
+441,ライ,,to die,0
+442,ライイ,,death,0
+443,ラオチ,,rainbow,0
+444,ラカ,,usefulness,0
+445,ラッコ,/ɾákꜜkò/,a sea otter,0
+446,ラッチャコ,,lamp,0
+447,ラッパ,,trumpet,0
+448,ラル,,eyebrow,0
+449,ラントㇺ,,course of a river,0
+450,リキ,,height; elevation,0
+451,リチ,,sinew; tendon,0
+452,リュキュ,,a Ryukyuan (person),0
+453,リュキュ,,"Ryukyu, Ryukyuan",0
+454,リリ,,wave,0
+455,リンゴ,,an apple,0
+456,ルカ,,bridge,0
+457,ルクミ,,piece; part,0
+458,ルチュㇷ゚,,January,0
+459,ルヘ,,footprint,0
+460,ルヤンペ,,rain,0
+461,レ,[ɾe̞],three,0
+462,レエㇷ゚,/rèꜛép/,"(archaic or poetic) dog
+Synonym: セタ (seta)",0
+463,レクチ,,throat,0
+464,レタッツ゚ル,,dandruff,0
+465,レハムㇱ,,crackerberry (Cornus canadensis),0
+466,レプンカムィ,,orca,0
+467,レラ,,The wind.,0
+468,レレコ,,three days,0
+469,レㇰラマ,,commercial,0
+470,レㇲプビリカ,,republic,0
+471,レㇷ゚,[ɾe̞p],"three, three things",0
+472,ロコㇺ,,dolphin,0
+473,ロソク,,candle,0
+474,ワタラ,,rock,0
+475,ワッカ,,water,0
+476,ワッテㇱ,,straw,0
+477,ワヤシ,,wisdom,0
+478,ワヤㇱヌ,,wise,0
+479,ワン,[ɰᵝan],ten,0
+480,ワンペ,,ten,0
+481,ㇰ,[k],Marks the syllable coda -[k].,0
+482,ㇱ,[s],Marks the syllable coda -[s] or -[ɕ].,0
+483,ㇲ,[s],Marks the syllable coda -[s].,0
+484,ㇳ,[t],Marks the syllable coda -[t].,0
+485,ㇴ,[n],Marks the syllable coda -[n].,0
+486,ㇵ,[h],Marks the syllable coda -[h] or -[x].,0
+487,ㇶ,[h],Marks the syllable coda -[h] or -[ç].,0
+488,ㇷ,[h],Marks the syllable coda -[h] or -[x].,0
+489,ㇷ゚,[p],Marks the syllable coda -[p].,0
+490,ㇸ,[h],Marks the syllable coda -[h] or -[x].,0
+491,ㇹ,[h],Marks the syllable coda -[h] or -[x].,0
+492,ㇺ,[m],Marks the syllable coda -[m].,0
+493,ㇻ,[ɾ],Marks the syllable coda -[ɾ].,0
+494,ㇼ,[ɾ],Marks the syllable coda -[ɾ].,0
+495,ㇽ,[ɾ],Marks the syllable coda -[ɾ].,0
+496,ㇾ,[ɾ],Marks the syllable coda -[ɾ].,0
+497,ㇿ,[ɾ],Marks the syllable coda -[ɾ].,0
+498,machine,,,1
