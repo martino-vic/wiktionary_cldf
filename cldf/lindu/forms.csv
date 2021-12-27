@@ -1,0 +1,545 @@
+ID,Form,IPA,Gloss,Language_ID
+0,ade,,(anatomy) chin,0
+1,aga,,if,0
+2,agiana,,but,0
+3,alima,,five,0
+4,alipa,,centipede,0
+5,alipopo,,firefly,0
+6,alu,,direction,0
+7,anca,,fragrant mango,0
+8,anitu,,animism,0
+9,aono,,six,0
+10,aonoatu,,six hundred,0
+11,aopo,,four,0
+12,are,,"long, large sickle",0
+13,ata,,roof,0
+14,ate,,(anatomy) liver,0
+15,awinga,,(anatomy) shoulder,0
+16,bada,,powder,0
+17,baga,,(anatomy) tooth,0
+18,baju,,clothing,0
+19,baliu,,axe,0
+20,baloti,,plank; board,0
+21,bambara,,(anatomy) chest,0
+22,bangkele,,girl,0
+23,bantiluku,,turtle,0
+24,barimbi,,fin,0
+25,baro-baro,,riddle,0
+26,basa,,word,0
+27,basitara,,ruler,0
+28,batara,,body,0
+29,bate,,gravestone,0
+30,bati,,grasshopper; locust,0
+31,batili,,large tray,0
+32,batutu,,container; bag,0
+33,beiwa,,how,0
+34,bele,,can,0
+35,benci,,gasoline,0
+36,bengi,,evening; night,0
+37,bengka,,water buffalo (large ungulate),0
+38,bengo,,back; behind,0
+39,benu,,coconut fiber,0
+40,berese,,thunder,0
+41,beti,,measuring rope,0
+42,betue,,star,0
+43,bimba,,sheep,0
+44,bingke,,ravine,0
+45,bini,,tuft; cluster,0
+46,birantua,,female (animal),0
+47,biti,,chisel,0
+48,boa,,lie; falsehood,0
+49,bobu,,term of endearment for a boy,0
+50,boe,,pig,0
+51,bolago,,rattan,0
+52,bone,,sand,0
+53,bose,,oar; rowing tool,0
+54,bua,,sarong; blanket,0
+55,buja,,card,0
+56,bukao,,spider,0
+57,bulawa,,gold,0
+58,bulei,,later,0
+59,bulo,,funnel,0
+60,bulu,,mountain,0
+61,bungka,,crab,0
+62,bungu,,package; wrap,0
+63,bunto,,curse; evil spell,0
+64,dero,,a kind of cultural dance,0
+65,doe,,end; tip,0
+66,dolodo,,wild boar,0
+67,donci,,intonation,0
+68,doula,,floor,0
+69,gaga,,very,0
+70,gambara,,drawing; photo; painting,0
+71,gambu,,guava,0
+72,gampaya,,papaya,0
+73,ganaga,,jackfruit,0
+74,gancu,,hook,0
+75,gandaria,,porch; sitting room,0
+76,gandawari,,attachment to a house in a rice field,0
+77,garagaji,,saw (tool),0
+78,garisi,,line,0
+79,gawu,,cloud,0
+80,gesi,,commotion,0
+81,goa,,corn,0
+82,gola,,sugar,0
+83,goroba,,cart; wagon (pulled by oxen or other animals),0
+84,gulompu,,mud,0
+85,gumawu,,group,0
+86,gumba,,large water jar,0
+87,guna,,use; purpose,0
+88,gunci,,scissors,0
+89,guru,,teacher,0
+90,heto,,hectare,0
+91,ia,,he; she; they (singular),0
+92,ikami,,we (exclusive),0
+93,ike,,weaving device,0
+94,iko,,you (singular),0
+95,inala,,harvest,0
+96,inda,,debt,0
+97,inggu,,nature; characteristic; attitude,0
+98,inosa,,breath,0
+99,isei,,here,0
+100,isi,,content,0
+101,isira,,they,0
+102,iwali,,battle; war,0
+103,iwei,,like this,0
+104,iwengi,,yesterday,0
+105,jam,,time,0
+106,japi,,cow; bull; ox,0
+107,jara,,horse,0
+108,jarita,,story,0
+109,jibo,,small or soft splash,0
+110,Jumaa,,Friday,0
+111,kabilasa,,unmarried young man,0
+112,kadera,,chair; bench,0
+113,kaeoa,,full moon,0
+114,kakonoana,,truth,0
+115,kaleja,,ape,0
+116,kaliawo,,shield,0
+117,kalibamba,,butterfly,0
+118,kalimbubu,,bubble,0
+119,kalindoro,,worm,0
+120,kaloa,,raven; crow,0
+121,kaloro,,rope,0
+122,kalowa-lowa,,improper; indecent; fittingly disappointed of,0
+123,kaluku,,coconut,0
+124,kalumbe,,snail,0
+125,kalumpa,,shoe,0
+126,kambalili,,unfinished rice barn,0
+127,kamboa,,hole,0
+128,Kamisi,,Thursday (day of the week),0
+129,kandao,,long sickle for cutting grass,0
+130,kanene,,mockery; ridicule,0
+131,kangilo,,gap; rift,0
+132,kangua,,complaint,0
+133,kanjei,,spear (for fish or cattle),0
+134,kanta,,potato,0
+135,kanto,,bag,0
+136,kantoro,,office,0
+137,kanuku,,(anatomy) fingernail; toenail,0
+138,kapala,,head,0
+139,kapi,,wing,0
+140,kapita,,jury,0
+141,kapuga,,palm fiber,0
+142,kapuna,,crocodile,0
+143,karajaa,,work,0
+144,karanala,,curse,0
+145,karanci,,rattan basket,0
+146,Karasite,,Christian,0
+147,karatasa,,paper,0
+148,karawe,,(anatomy) finger,0
+149,kareba,,information,0
+150,kari,,dried meat; jerky,0
+151,karoda,,rice porridge mixed with meat or vegetables,0
+152,kasa,,bean,0
+153,kasoro,,mattress,0
+154,kasubi,,cassava,0
+155,kasuru,,complaint; grumbling,0
+156,katedo,,yellow squash,0
+157,katipoa,,bat (animal),0
+158,katumpu,,(anatomy) thumb,0
+159,kawali,,wok,0
+160,kawaona,,distance,0
+161,kawengi,,night,0
+162,kawoko,,grass,0
+163,kebe,,goat,0
+164,keke,,trench,0
+165,kente,,power; energy,0
+166,kila,,lightning,0
+167,kinali,,gutter; drain,0
+168,kinco,,(anatomy) muscle,0
+169,kinowia,,dusk,0
+170,kinta,,village,0
+171,kipu,,fish trap made from rattan,0
+172,kita,,we (inclusive),0
+173,koda,,photograph; drawing; map,0
+174,koi,,bed,0
+175,koje,,T-shirt,0
+176,kolo,,tax debt,0
+177,koloa,,something carried on the back,0
+178,koloka,,bedbug,0
+179,kombo,,fist; handful,0
+180,komi,,you (plural),0
+181,kondi,,food,0
+182,konga,,rice husk,0
+183,kono,,true,0
+184,konoa,,choice,0
+185,kopa,,slogan,0
+186,kopi,,coffee,0
+187,koro,,body,0
+188,kou,,wood,0
+189,kula,,ginger,0
+190,kuli,,(anatomy) skin,0
+191,kulimba,,hide; animal skin,0
+192,kulimu,,fog,0
+193,kuma,,germ,0
+194,kumbeo,,window,0
+195,kunco,,muscle,0
+196,kungku,,cornflour,0
+197,kuse,,cuscus,0
+198,kuwawa,,humor; joke,0
+199,labi,,remainder,0
+200,labo,,container for drinking water,0
+201,ladi,,knife,0
+202,laki,,male,0
+203,lalowe,,flute,0
+204,lamale,,small shrimp,0
+205,lambu,,mosquito net,0
+206,lana,,oil (cooking),0
+207,landa,,fishing net; dragnet,0
+208,langi,,sky,0
+209,langkona,,height,0
+210,lari,,root (of a plant),0
+211,lawa,,hindrance; obstacle,0
+212,lele,,catfish,0
+213,lelo,,tail,0
+214,lemo,,tangerine; citrus,0
+215,lempe,,slope,0
+216,lence,,(anatomy) face,0
+217,lencena,,shape; appearance,0
+218,limatu,,five hundred,0
+219,loba,,colors and markings on animal fur,0
+220,lobu,,cave,0
+221,lodi,,stylish (of a young person),0
+222,loka,,banana,0
+223,loke,,plug,0
+224,lolita,,spoken sentence,0
+225,lomu,,fat,0
+226,lonco,,cup; bowl,0
+227,londo,,extension; expansion,0
+228,lotu,,use,0
+229,lou,,direction,0
+230,lowe,,eagle,0
+231,lowu,,pit,0
+232,luba,,bracelet,0
+233,lula,,albumen,0
+234,luna,,pillow,0
+235,lupu,,dwarf buffalo,0
+236,malaeka,,angel,0
+237,malunu,,(astronomy) Pleiades,0
+238,mampo,,bat (animal),0
+239,manisa,,honey,0
+240,manu,,chicken,0
+241,marasawu,,rainbow,0
+242,mari,,place for unhusked paddy,0
+243,marisa,,pepper,0
+244,masapi,,eel,0
+245,masigi,,mosque,0
+246,masina,,machine; generator,0
+247,mata,,eye (organ),0
+248,mbira,,part; section,0
+249,mbui,,also,0
+250,mbulu,,(anatomy) shinbone,0
+251,meja,,table,0
+252,menobola,,bat (animal),0
+253,meo,,meow (sound of a cat),0
+254,minggu,,week (period of seven days),0
+255,Minggu,,Sunday,0
+256,morowe,,mango,0
+257,nakaja,,hard; difficult; tough,0
+258,nakakata,,itchy,0
+259,nakakia,,"doubtful; uncertain, reluctant",0
+260,nakalimoma,,"confused, senile",0
+261,nakaloa,,"empty, loose",0
+262,nakamumu,,purple,0
+263,nakaria,,rich; prosperous,0
+264,nakawao,,far,0
+265,nakeli,,blue; bright green,0
+266,nakinda,,steep,0
+267,nakodi,,small,0
+268,nakodo,,"stiff, frozen",0
+269,nakono,,"true, right; correct",0
+270,nakoo,,hard,0
+271,nakotoro,,dirty,0
+272,nakuni,,"yellow, pale; pale-faced",0
+273,nalala,,hot; spicy,0
+274,nalalo,,"barren, infertile",0
+275,nalanga,,long,0
+276,nalangko,,tall,0
+277,nalangu,,drunk,0
+278,nalei,,red,0
+279,nalele,,wilted; limp,0
+280,nalendu,,hidden; covered,0
+281,nalenge,,worn out; tired,0
+282,nalengi,,cold,0
+283,naleo,,weak; faint,0
+284,nalera,,late,0
+285,naligoa,,nauseous,0
+286,nalilore,,slippery,0
+287,nalimpu,,dizzy,0
+288,nalimpusa,,stiflingly hot,0
+289,naloa,,free; not bound,0
+290,naloe,,very ripe (of fruit),0
+291,naloga,,free from work; at leisure,0
+292,nalolo,,sunk,0
+293,nalondo,,"cross-eyed, wild-eyed",0
+294,nalori,,"bald, scorched; barren (after a fire)",0
+295,nalose,,lazy,0
+296,naloso,,freed; released,0
+297,naloya,,"unmarried, young",0
+298,nalunta,,soft; flabby,0
+299,namenta,,wet; soaked,0
+300,namomi,,sweet,0
+301,namupu,,"decayed; weakened, fragile; breakable; brittle",0
+302,nanara,,"tame; domesticated, kind",0
+303,nangantu,,sleepy,0
+304,naninto,,clear (of air or water),0
+305,nanipi,,thin,0
+306,nanondo,,patient; calm,0
+307,nanou,,cheap,0
+308,naole,,soft; calm; gentle,0
+309,napei,,bitter,0
+310,napepa,,difficult,0
+311,napese,,broken; cracked,0
+312,napii,,narrow,0
+313,napipoa,,unconscious,0
+314,napodi,,sour,0
+315,naponco,,extinct,0
+316,napua,,broken; snapped,0
+317,narani,,hot,0
+318,narante,,flat,0
+319,nararo,,dazzling,0
+320,narasa,,enjoyable,0
+321,narumpe,,ill; sickly,0
+322,narumu,,dirty; defiled,0
+323,narutu,,smashed; shattered,0
+324,nasadia,,ready,0
+325,nasana,,happy; content,0
+326,nasapa,,slipshod; poorly done,0
+327,nasarese,,of harsh character,0
+328,nasasidi,,energetic; agile,0
+329,naseha,,healed,0
+330,naseke,,harsh; cruel,0
+331,naso,,wild pandanus,0
+332,nasoa,,"cruel, proud; arrogant",0
+333,nasodo,,angry,0
+334,nasombo,,"proud, cruel",0
+335,ndola,,watermelon,0
+336,neile,,tomorrow,0
+337,neipua,,day after tomorrow,0
+338,neke,,portion,0
+339,ngana,,child,0
+340,nganga,,(anatomy) mouth,0
+341,ngare,,(anatomy) palate,0
+342,ngata,,village; town; city,0
+343,ngaya,,type; kind; style,0
+344,ngayo,,front part,0
+345,ngisi,,(anatomy) tooth,0
+346,ngkola-ngkola,,easy to find,0
+347,ngoni,,later,0
+348,nolira,,liquid,0
+349,noncu,,mortar,0
+350,ntani,,other; different,0
+351,ntimu,,cucumber,0
+352,ntoliro,,secret,0
+353,ntolu,,egg,0
+354,ntoto,,very,0
+355,ntumbu,,underground spring or stream,0
+356,nunu,,banyan (tree),0
+357,oani,,bee (insect),0
+358,ongu,,seed,0
+359,oni,,noise,0
+360,opoatu,,four hundred,0
+361,ose,,uncooked rice,0
+362,paa,,(anatomy) foot,0
+363,padaso,,executioner,0
+364,pae,,"unhusked rice, year",0
+365,pakea,,clothing,0
+366,paku,,fern,0
+367,pakuli,,medicine,0
+368,pale,,(anatomy) hand,0
+369,paliu,,permission,0
+370,panaguntu,,weapon,0
+371,pandiu,,baptism,0
+372,pandoli,,crowbar,0
+373,pangga,,blouse; shirt,0
+374,pangkondi,,serving; portion (of a dish),0
+375,pangkondia,,dining table,0
+376,pangkondiaa,,restaurant; diner; food stall,0
+377,pantaru,,mathematics,0
+378,papitu,,seven,0
+379,parewa,,equipment; tool,0
+380,patolo,,pencil,0
+381,peba,,cat,0
+382,pebagiu,,deceiver,0
+383,peka,,fishhook,0
+384,pekutana,,question,0
+385,peli,,(anatomy) cheek,0
+386,pera,,silver,0
+387,pewa,,snare,0
+388,pinobala,,rice porridge,0
+389,pituatu,,seven hundred,0
+390,pogaa,,divorce,0
+391,pogalo,,mixture,0
+392,poindo,,small lamp,0
+393,pokintaa,,yard; fenced-in area around a house,0
+394,polio,,farmer,0
+395,polumakoa,,journey,0
+396,pompo,,kitchen ash,0
+397,posambu,,connector,0
+398,potuko,,lock,0
+399,puruka,,pants; trousers,0
+400,raa,,blood,0
+401,Rabu,,Wednesday,0
+402,rainu,,drinking water,0
+403,rano,,lake,0
+404,rante,,chain,0
+405,rapi,,twin,0
+406,rata,,guest,0
+407,rege,,mud,0
+408,reremba,,pounding tool,0
+409,roatu,,two hundred,0
+410,rombe,,sack (for rice),0
+411,rombu,,yarn; thread,0
+412,rompulu,,twenty,0
+413,roungu,,two,0
+414,ruke,,scale (of a fish),0
+415,rumbi,,taro,0
+416,rumbia,,sago palm,0
+417,rumpu,,trash,0
+418,rupuna,,fragment,0
+419,saatu,,one hundred,0
+420,sabi,,witness,0
+421,sabu,,soap,0
+422,Salasa,,Tuesday,0
+423,salodo,,water pipe,0
+424,salu,,brook; tributary,0
+425,sampulu,,ten,0
+426,sando,,shaman,0
+427,sanga,,name,0
+428,sangkabaa,,morning,0
+429,sangkiri,,mug; cup,0
+430,sanjobu,,one thousand,0
+431,saropu,,sign on a boat telling people not to use it,0
+432,sasio,,nine,0
+433,Satu,,Saturday,0
+434,saungu,,one,0
+435,seduka,,hiccup,0
+436,sepa,,ball,0
+437,sero,,shovel,0
+438,siga,,traditional turban for men,0
+439,silaka,,danger,0
+440,silamu,,Islam,0
+441,simbunga,,menstruation,0
+442,sime,,cement,0
+443,simpokono,,beloved,0
+444,sinci,,ring,0
+445,Sinei,,Monday,0
+446,sioatu,,nine hundred,0
+447,siolo,,limit; boundary,0
+448,sisiri,,cotton,0
+449,soa,,smell (of something),0
+450,sondu,,rice spoon,0
+451,songko,,hat,0
+452,sou,,house; home,0
+453,sudu,,until,0
+454,sule,,(anatomy) heart,0
+455,sulepe,,belt,0
+456,sumawee,,public; general,0
+457,sumawee,,all (every individual of the given class),0
+458,sumbu,,wick; fuse,0
+459,sumi-sumi,,goldfish,0
+460,surati,,large duck,0
+461,suraya,,plate,0
+462,surowi,,heaven,0
+463,suruga,,heaven,0
+464,taba,,alum,0
+465,tabaro,,sago,0
+466,tagara,,rust,0
+467,talidangka,,crown,0
+468,tamate,,tomato,0
+469,tambaga,,brass,0
+470,tambako,,tobacco,0
+471,tambue,,long bean,0
+472,tampo,,mudhole,0
+473,tamungku,,architect,0
+474,tantoru,,dew,0
+475,tasi,,sea,0
+476,tawala,,spear,0
+477,timali,,competitor; opposing player,0
+478,timposu,,monitor lizard,0
+479,timpowane,,lemongrass,0
+480,tinuda,,plant,0
+481,titi,,duck,0
+482,todosaka,,pain; suffering,0
+483,toke,,chameleon,0
+484,tole,,urine,0
+485,toluatu,,three hundred,0
+486,toluongu,,three,0
+487,tombo,,allotment; quota,0
+488,tombu,,bucket; dipper,0
+489,tonci,,bird,0
+490,toncii,,prohibition,0
+491,tondi,,firepit (for cooking),0
+492,tondu,,horn (of an animal),0
+493,toneru,,mouse; rat,0
+494,tongki,,neighbor,0
+495,topi,,Portuguese-style skirt,0
+496,topu,,flour,0
+497,totei,,feces,0
+498,toualu,,adult,0
+499,touta,,dwarf,0
+500,towe,,pity,0
+501,tuaka,,older sibling,0
+502,tuei,,younger sibling,0
+503,tumpa,,frog,0
+504,tumpu,,owner; lord,0
+505,tundu,,(anatomy) nape,0
+506,tura,,landslide,0
+507,tutura,,historical account,0
+508,tuturua,,crow (of a rooster),0
+509,tuwa,,poison,0
+510,uatu,,time,0
+511,uda,,rain,0
+512,uere,,fate; destiny,0
+513,uga,,(anatomy) gum,0
+514,undo,,flattery,0
+515,unu,,salt,0
+516,uwalu,,eight,0
+517,uwi,,sweet potato,0
+518,walaa,,vine,0
+519,walo,,bamboo,0
+520,walombo,,sheath,0
+521,waluatu,,eight hundred,0
+522,wana,,jungle; forest,0
+523,wao,,reflection,0
+524,waru,,cotton,0
+525,watu,,stone,0
+526,wega,,friend,0
+527,wingke,,(anatomy) forehead,0
+528,wio,,addiction,0
+529,wiwi,,"(anatomy) lip, edge",0
+530,wombo,,door,0
+531,wongko,,top; upper section,0
+532,wotu,,voice,0
+533,wowata,,piece of wood,0
+534,wua,,fruit,0
+535,wuko,,turtledove,0
+536,wuku,,energy; power,0
+537,wula,,moon,0
+538,wulili,,birthmark,0
+539,wunga,,flower,0
+540,wuntu,,tip; end,0
+541,wusu,,pool; pond,0
+542,yaku,,I; me,0
+543,yema,,who,0

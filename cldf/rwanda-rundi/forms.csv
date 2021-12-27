@@ -1,0 +1,601 @@
+ID,Form,IPA,Gloss,Language_ID
+0,Afuganisitani,,Afghanistan (a country in Asia),0
+1,Afurika,,Africa,0
+2,ahantu,,"place, location",0
+3,akabago,,period (punctuation mark),0
+4,akabande,,Diminutive of umubande: small valley,0
+5,akabarankuru,,"(dated) newspaper, news magazine
+Synonym: ikinyamakuru",0
+6,akabati,,"cupboard, cabinet",0
+7,akabuye,,pebble,0
+8,akanwa,,inside of the mouth,0
+9,akazi,,"work, job",0
+10,amacandwe,,"(Kinyarwanda) saliva, Synonym: (Rundi) amate",0
+11,amahoro,,peace,0
+12,amakenga,,suspicions,0
+13,amakuru,,"news, information",0
+14,amakuru,,"how are you
+""Amakuru?""""Ni meza.""""How are you?""""I'm well.""",0
+15,amaraso,,blood,0
+16,amase,,"dung (of a large animal, like a cow or elephant)",0
+17,amata,,milk,0
+18,amate,,"(Kirundi) saliva, Synonym: (Rwanda) amacandwe",0
+19,amavuta,/amavúta/,"oil, fat, butter",0
+20,amazi,/amáazi/,water,0
+21,amazutu,,"heating oil, oil for fuel",0
+22,ambara,,wear (clothing),0
+23,ameza,,"table, desk",0
+24,anga,,"(Kinyarwanda) hate, dislike",0
+25,anka,,"(Kirundi) hate, dislike",0
+26,babara,,"suffer
+be in pain, hurt
+grieve",0
+27,banza,,begin (by doing something) (usually followed by an infinitive),0
+28,bara,,"to count, calculate",0
+29,basha,,"can, be able",0
+30,baza,,to ask,0
+31,baza,,"to do carpentry, carve or sculpt wood",0
+32,baza,,"to do carpentry, carve or sculpt wood",0
+33,Berahino,,A  surname​.,0
+34,besha,,"(Kirundi) lie, deceive
+Synonym: (Rwanda) -beshya",0
+35,beshya,,"(Kinyarwanda) lie, deceive
+Synonym: (Rundi) -besha",0
+36,Bibiliya,,Bible,0
+37,bona,,"to see, to find, get",0
+38,bumba,,"to mould (usually from clay), to make pottery",0
+39,Burundi,,(no augment) Burundi (a country in Africa),0
+40,byara,,"(Kinyarwanda) bear a child, give birth, Synonym: (Rundi)",0
+41,byina,,"(Kinyarwanda) dance, Synonym: (Rundi) -vyina",0
+42,cura,,to forge from metal,0
+43,data,,"my father, my paternal uncle",0
+44,ejo,,"yesterday, tomorrow",0
+45,ejobundi,,"the day before yesterday, the day after tomorrow",0
+46,era,,be white,0
+47,fasha,,help,0
+48,fata,,"take, get",0
+49,Gashyantare,,"(Kinyarwanda) February
+Synonyms: (Rundi) Nyamagoma, (Rundi) Ruhuhuma",0
+50,gaya,,(Kinyarwanda) be ungrateful,0
+51,Gicurasi,,"(Kinyarwanda) May
+Synonym: (Rundi) Rusama",0
+52,Gitugutu,,"(Kirundi) October
+Synonym: (Rwanda) Ukwakira",0
+53,goma,,"rebel, revolt",0
+54,gumbaha,,"be(come) sterile, infertile",0
+55,gura,,buy,0
+56,gwa,,to fall,0
+57,ha,,to give,0
+58,hanura,,"to warn, advise, prophesy",0
+59,heta,,(transitive) bend,0
+60,higa,,to hunt,0
+61,hinga,,"cultivate, plow
+Synonym: -rima",0
+62,hisha,,"hide, conceal",0
+63,hora,,"to be(come) quiet, be(come) calm",0
+64,hora,,to avenge,0
+65,hunga,,flee,0
+66,iba,,to steal,0
+67,ibaba,,wing,0
+68,ibabi,,"leaf
+Synonym: ikibabi",0
+69,ibara,,"colour, color",0
+70,ibiryo,,food,0
+71,ibombo,,"faucet, tap",0
+72,ibumba,,pottery clay,0
+73,ibwami,,at the royal court,0
+74,icondo,,"(Kirundi, usually in the plural) mud
+Synonym: (Rwanda) icyondo",0
+75,Icongereza,,"(Kirundi) the English language or culture, Synonym:",0
+76,icunga,,"(Kinyarwanda) orange (fruit), Synonym: (Rundi) umucungwa",0
+77,icyari,,"(Kinyarwanda) nest
+Synonym: (Rundi) icari",0
+78,icyokurya,,"(Kinyarwanda) food, Synonym: (Rundi) icokurya",0
+79,icyuma,,"knife, something made of metal",0
+80,idakika,,"(Kinyarwanda, dated) minute, Synonyms: (Rwanda) umunota,",0
+81,idirisha,,"(Kirundi) window, Synonym: (Rwanda) idirishya",0
+82,idirishya,,"(Kinyarwanda) window, Synonym: (Rundi) idirisha",0
+83,ifaranga,,"franc, (by extension, chiefly in the plural) money",0
+84,ifi,,"fish, fish hook",0
+85,iga,,"learn, study",0
+86,igare,,"bicycle, (more generally) any wheeled vehicle that",0
+87,igi,,"(Kinyarwanda, less common in Kirundi) egg, Synonym:",0
+88,igicumuro,,"crime, transgression, sin",0
+89,Igifaransa,,French language or culture,0
+90,Igiha,,Ha language (a dialect of Rwanda-Rundi),0
+91,igihembo,,"salary, wage, reward",0
+92,igihere,,"(Kirundi) bedbug
+Synonym: (Rwanda) igiheri",0
+93,igiheri,,"(Kinyarwanda) bedbug
+Synonym: (Rundi) igihere",0
+94,igihugu,,land,0
+95,igihumbi,,thousand,0
+96,igikere,,"(Kirundi) frog, toad
+Synonym: (Rwanda) igikeri",0
+97,igikeri,,"(Kinyarwanda) frog, toad
+Synonym: (Rundi) igikere",0
+98,igikona,,"crow; (in particular) the pied crow, Corvus albus",0
+99,igikoro,,yam,0
+100,igisha,,Causative of -iga: teach,0
+101,igishanga,,"marsh, swamp",0
+102,igitabo,,book,0
+103,igitabu,,Alternative form of igitabo,0
+104,igitekero,,"(Kirundi) kitchen, Synonym: (Rwanda) itekero",0
+105,igiti,,tree,0
+106,igitigu,,"(Kirundi) liver
+Synonym: (Rwanda) umwijima",0
+107,igitunguru,,onion,0
+108,igituntu,,tuberculosis,0
+109,igufa,,"(Kirundi, less common in Kinyarwanda) bone, Synonym:",0
+110,igufwa,,"(Kinyarwanda) bone, Synonym: (Rundi, less common in",0
+111,ihasa,,a twin,0
+112,ihene,,"(Kinyarwanda) goat
+Synonym: (Rundi) impene",0
+113,ihinga,,"(Kinyarwanda) farming season, the time of year when",0
+114,ijambo,,word,0
+115,ijana,,hundred,0
+116,ijisho,,eye,0
+117,ijuru,,"heavens, sky, (religion) heaven",0
+118,ikanzu,,"a sort of robe, the kanzu",0
+119,ikara,,charcoal,0
+120,ikaramu,,"pen, pencil",0
+121,ikaravati,,necktie,0
+122,ikawa,,coffee,0
+123,ikibabi,,"leaf
+Synonym: ibabi",0
+124,ikibambasi,,wall (usually exterior),0
+125,ikibanza,,"building site, site for construction",0
+126,ikibazo,,question,0
+127,ikibuye,,"Augmentative of ibuye: boulder, large stone",0
+128,Ikidage,,"(Kinyarwanda) the German language or culture, Synonym:",0
+129,Ikidagi,,"(Kirundi) the German language or culture, Synonym:",0
+130,Ikiganda,,Luganda or Ganda culture,0
+131,ikiganiro,,"conversation, dialogue",0
+132,ikiganza,/ikiɡaːnza/,"hand, Synonym: umukono",0
+133,ikigori,,maize,0
+134,ikiguzi,,"cost, price",0
+135,ikijigo,,molar,0
+136,ikijumba,,"(Kinyarwanda) sweet potato
+Synonym: (Rundi) ikijumbu",0
+137,ikijumbu,,"(Kirundi) sweet potato
+Synonym: (Rwanda) ikijumba",0
+138,ikilo,,kilogram,0
+139,ikimasa,,young bull,0
+140,ikime,,dew,0
+141,ikimera,,plant,0
+142,ikinini,,"pill (medicinal), quinine",0
+143,ikinjana,,"(Kirundi) century
+Synonym: (Rwanda) ikinyejana",0
+144,ikintu,,thing,0
+145,Ikinyarwanda,,Kinyarwanda (the Rwandan standard of Rwanda-Rundi),0
+146,ikinyejana,,"(Kinyarwanda) century
+Synonym: (Rundi) ikinjana",0
+147,ikinyobwa,,"drink, beverage",0
+148,ikinyugunyugu,,butterfly,0
+149,ikirenge,,foot,0
+150,Ikirundi,,Kirundi (the Burundian standard of Rwanda-Rundi),0
+151,ikirundo,,"heap, pile",0
+152,ikivura,,"Augmentative of imvura: downpour, heavy rain",0
+153,ikiyaga,,lake,0
+154,ikiyiko,,spoon,0
+155,ilitiro,,litre,0
+156,imanzi,,a fallen hero,0
+157,imari,,"treasury, finance",0
+158,imbabazi,,"forgiveness, pardon, mercy, pity",0
+159,imbaga,,crowd,0
+160,imbaraga,,"strength
+Synonyms: (Rwanda) ingufu, (Rundi) inguvu",0
+161,imbaragasa,,flea,0
+162,imbeba,,"mouse, rat",0
+163,imbogo,,buffalo,0
+164,imboro,,penis,0
+165,imbwa,,dog,0
+166,imbwakazi,,"bitch, female dog",0
+167,imbyino,,"(Kinyarwanda) dance, Synonym: (Rundi) uruvyino",0
+168,imfyisi,,"(Kirundi) hyena, Synonym: (Rwanda) impyisi",0
+169,iminyago,,"booty, plunder",0
+170,imodoka,,car,0
+171,impano,,gift (something freely given),0
+172,impene,,"(Kirundi) goat
+Synonym: (Rwanda) ihene",0
+173,impyisi,,"(Kinyarwanda) hyena, Synonym: (Rundi) imfyisi",0
+174,imva,,"grave, tomb",0
+175,imvubu,,hippopotamus,0
+176,inazi,,coconut,0
+177,incuti,,"(Kirundi, dialectal in Kinyarwanda) relative or close friend
+Synonym: (Rwanda) inshuti",0
+178,inda,,louse,0
+179,indege,,airplane,0
+180,indimu,,"lemon, lime",0
+181,indwara,,illness,0
+182,ingagi,,gorilla (ape),0
+183,ingobyi,,hammock,0
+184,ingoma,,"drum, reign, kingship",0
+185,ingona,,crocodile,0
+186,ingovyi,,hammock,0
+187,ingufu,,"(Kinyarwanda) strength, Synonyms: (Rundi) inguvu, imbaraga",0
+188,ingurube,,pig,0
+189,inguvu,,"(Kirundi) strength, Synonyms: (Rwanda) ingufu, imbaraga",0
+190,ingwe,,leopard,0
+191,injangwe,,cat,0
+192,inka,,"cow, cattle",0
+193,inkanga,,guinea fowl,0
+194,inkoko,,"chicken, fowl",0
+195,inkuba,,thunder,0
+196,inkura,,"rhinoceros; (in particular) the black rhinoceros, Diceros bicornis",0
+197,inkwano,,bride price,0
+198,inoti,,"bill, cash",0
+199,inshuti,,"(Kinyarwanda) relative or close friend
+Synonym: (Rundi, dialectal in Rwanda) incuti",0
+200,intama,,sheep,0
+201,intare,,lion,0
+202,intebe,,"chair, seat",0
+203,interahamwe,,"generation, group of peers, Interahamwe (Hutu paramilitary",0
+204,intorezo,,axe,0
+205,inyama,,meat,0
+206,inyanja,,"ocean, sea",0
+207,inyenyeri,,star,0
+208,inyoni,,bird,0
+209,inyundo,,hammer,0
+210,inzara,,"hunger, famine",0
+211,inzira,,"road, path",0
+212,inzoga,,beer,0
+213,inzoka,,"snake, worm",0
+214,inzovu,,"elephant, (Kinyarwanda, dated) ten thousand",0
+215,inzozi,,"dream, Synonym: (dated) indoto",0
+216,inzu,,house,0
+217,ipikipiki,,motorcycle,0
+218,iragi,,"(Kirundi) inheritance, Synonym: (Rwanda) umurage",0
+219,iriba,,"well, spring",0
+220,irigi,,"(Kirundi) egg, Synonym: (Rwanda, less common in Rundi)",0
+221,irima,,"(Kirundi) farming season, the time of year when plowing",0
+222,iryinyo,,tooth,0
+223,iryoya,,feather,0
+224,isabune,,"(Kinyarwanda, Kirundi) soap",0
+225,isabuni,,(Kirundi) Alternative form of isabune,0
+226,isaha,,"hour, clock",0
+227,isahane,,Alternative form of isahani,0
+228,isahani,,plate,0
+229,isarura,,harvest time,0
+230,isazi,,fly (insect),0
+231,ishaka,,sorghum,0
+232,isheja,,"dignity, pride",0
+233,isho,,"(Kirundi) herd (of cattle), Synonym: (Rwanda) isho",0
+234,ishu,,cabbage,0
+235,ishure,,"(Kirundi) school, Synonym: (Rwanda) ishuri",0
+236,ishuri,,"(Kinyarwanda) school, Synonym: (Rundi) ishure",0
+237,ishyo,,"(Kinyarwanda) herd (of cattle), Synonym: (Rundi) isho",0
+238,isi,,"earth, the world",0
+239,isoko,,"market, marketplace",0
+240,isoko,,"spring, fountain, source (of flowing water)",0
+241,isoko,,"spring, fountain, source (of flowing water)",0
+242,isoni,,"modesty, shyness, shame",0
+243,isuka,,hoe (agricultural tool),0
+244,isukari,,sugar,0
+245,ita,,"to call, name",0
+246,itabi,,tobacco,0
+247,itako,,buttock,0
+248,itara,,"lamp, light",0
+249,itariki,,date (specific day),0
+250,itekero,,"(Kinyarwanda) kitchen, Synonym: (Rundi) igitekero",0
+251,ityazo,,whetstone,0
+252,ivubi,,wasp,0
+253,izina,,name,0
+254,izuba,/izúùba/,sun,0
+255,izuru,/izúùru/,"nose, tiny hole (of a belt etc.), eye of a needle,",0
+256,ja,,(Kirundi) to go to,0
+257,jenerali,,general (military rank),0
+258,jya,,(Kinyarwanda) to go to,0
+259,Kaboza,,"(Kirundi) April
+Synonyms: (Rundi) Ndamukiza, (Rwanda) Mata",0
+260,kama,,to milk,0
+261,Kamena,,"(Kinyarwanda) June
+Synonyms: (Rundi) Kiyumpu, (Rundi) Ruheshi",0
+262,kaminuza,,university,0
+263,Kanama,,"(Kinyarwanda) August
+Synonym: (Rundi) Myandagaro",0
+264,Kanzenze,,Kanzenze (a town in Rwanda),0
+265,kena,,"to be poor, be destitute
+Antonyms: -kira, -tunga",0
+266,kenga,,"distrust, be suspicious of",0
+267,Kigali,,Kigali (the capital city of Rwanda),0
+268,Kigarama,,"(Kirundi) December
+Synonym: (Rwanda) Ukuboza",0
+269,kiriya,,"customer, client, 1995, F. Nsengiyumva, Ingoma y'amaraso,",0
+270,kiriya,,class 7 form of -riya: that over there,0
+271,kiriya,,class 7 form of -riya: that over there,0
+272,Kiyumpu,,"(Kirundi) June
+Synonyms: (Rundi) Ruheshi, (Rwanda) Kamena",0
+273,kora,,do,0
+274,koresha,,"Causative of -kora: use, make work",0
+275,kubita,,"hit, strike",0
+276,kunda,,"like, love",0
+277,kura,,"remove, take away",0
+278,kura,,grow up,0
+279,kura,,grow up,0
+280,kwa,,pay bride price,0
+281,leta,,government,0
+282,mama,,"my mother, my maternal aunt",0
+283,manika,,"hang up, suspend",0
+284,marume,,my maternal uncle,0
+285,Mata,,"(Kinyarwanda) April
+Synonyms: (Rundi) Ndamukiza, (Rundi) Kaboza",0
+286,mera,,"be in a certain state, feel a certain way
+Ameze ate?How is she doing?",0
+287,mesa,,"wash clothing, launder",0
+288,miliyari,,"(Kinyarwanda) billion, Synonym: (Rwanda, dated) urukwavu",0
+289,miliyoni,,Alternative spelling of miriyoni,0
+290,miriyoni,,"(Kinyarwanda) million, Synonym: (Rundi) umuriyoni",0
+291,mu-,,"you, second-person plural subject concord.",0
+292,Mukakaro,,"(Kirundi) July
+Synonym: (Rwanda) Nyakanga",0
+293,Munyonyo,,"(Kirundi) November
+Synonym: (Rwanda) Ugushyingo",0
+294,Mutarama,,"(Kinyarwanda) January
+Synonym: (Rundi) Nzero",0
+295,Myandagaro,,"(Kirundi) August
+Synonym: (Rwanda) Kanama",0
+296,Ndamukiza,,"(Kirundi) April
+Synonyms: (Rundi) Kaboza, (Rwanda) Mata",0
+297,nesha,,"conquer, triumph",0
+298,Ngozi,,Ngozi (a city in Burundi),0
+299,niha,,groan,0
+300,Ntwarante,,"(Kirundi) March
+Synonyms: (Rundi) Rwirabura, (Rundi) Rubungubungu, (Rwanda) Werurwe",0
+301,nuka,,"stink, smell bad",0
+302,nyaga,,"plunder, take by force",0
+303,Nyakanga,,"(Kinyarwanda) July
+Synonym: (Rundi) Mukakaro",0
+304,Nyakanga,,"(Kirundi) September
+Synonym: (Rwanda) Nzeri",0
+305,Nyamagoma,,"(Kirundi) February
+Synonyms: (Rundi) Ruhuhuma, (Rwanda) Gashyantare",0
+306,Nyamirambo,,"Nyamirambo (a sector in Kigali, Rwanda)",0
+307,nyina,,"his/her mother, his/her maternal aunt",0
+308,nyobwa,,Passive form of -nywa: be drunk,0
+309,nyoko,,"your mother, your maternal aunt",0
+310,nywa,,"to drink, to smoke",0
+311,Nzeri,,"(Kinyarwanda) September
+Synonym: (Rundi) Nyakanga",0
+312,Nzero,,"(Kirundi) January
+Synonym: (Rwanda) Mutarama",0
+313,oga,,"bathe, immerse",0
+314,ogosha,,"cut hair: shave, shear, etc",0
+315,onka,,"suckle, nurse at a breast",0
+316,ota,,"warm oneself, get warm",0
+317,otsa,,"roast, burn, bake",0
+318,oza,,"Causative of -oga: clean, wash",0
+319,papa,,pope,0
+320,perezida,,president,0
+321,Petero,,"A male given name, equivalent to English Peter",0
+322,pfa,,to die,0
+323,rabya,,"(Kinyarwanda, of lightning) to flash",0
+324,raga,,"bequeath, give an inheritance",0
+325,rambarara,,"to lie down, to stretch out",0
+326,rasa,,to shoot (with a weapon),0
+327,ravya,,"(Kirundi, of lightning) to flash",0
+328,remera,,be(come) heavy,0
+329,rima,,"cultivate, Synonym: -hinga",0
+330,roba,,to fish,0
+331,roga,,"bewitch, enchant",0
+332,Rubungubungu,,"(Kirundi) March
+Synonyms: (Rundi) Rwirabura, (Rundi) Ntwarante, (Rwanda) Werurwe",0
+333,ruha,,"tire, be tired",0
+334,Ruheshi,,"(Kirundi) June
+Synonyms: (Rundi) Kiyumpu, (Rwanda) Kamena",0
+335,Ruhuhuma,,"(Kirundi) February
+Synonyms: (Rundi) Nyamagoma, (Rwanda) Gashyantare",0
+336,Rusama,,"(Kirundi) May
+Synonym: (Rwanda) Gicurasi",0
+337,rusha,,"be greater than, surpass",0
+338,rusha,,"(Kirundi) Causative of -ruha: make tired, annoy
+Synonym: (Rwanda) -rushya",0
+339,rushya,,"(Kinyarwanda) Causative of -ruha: make tired, annoy
+Synonym: (Rundi) -rusha",0
+340,Rwanda,,Rwanda (a country in Africa),0
+341,rwara,,"be sick, be ill",0
+342,Rwirabura,,"(Kirundi) March
+Synonyms: (Rundi) Ntwarante, (Rundi) Rubungubungu, (Rwanda) Werurwe",0
+343,rya,,to eat,0
+344,saa,,o'clock,0
+345,Sabyinyo,,Mount Sabyinyo,0
+346,sara,,"be insane, be crazy",0
+347,sarura,,harvest,0
+348,saza,,"age, grow old",0
+349,se,,"his/her father, his/her paternal uncle",0
+350,seka,,"laugh, smile",0
+351,shaka,,want,0
+352,siga,,"to leave, forsake, abandon",0
+353,siga,,"smear (something onto a surface), anoint",0
+354,siga,,compose poetry,0
+355,siga,,"smear (something onto a surface), anoint",0
+356,siga,,compose poetry,0
+357,siga,,compose poetry,0
+358,so,,"your father, your paternal uncle",0
+359,soma,,to read,0
+360,sonza,,be hungry,0
+361,subiza,,"to answer, reply, respond, to cause to return",0
+362,tangara,,"to marvel, to wonder",0
+363,teka,,to cook,0
+364,tera,,"to sow, to plant",0
+365,tuma,,to send,0
+366,tunga,,"own, possess",0
+367,twara,,"carry, transport",0
+368,tyaza,,"Causative of -tyara: sharpen, whet",0
+369,Ubudage,,"(Kinyarwanda) Germany (a country in Europe), Synonym:",0
+370,Ubudagi,,"(Kirundi) Germany (a country in Europe), Synonym: (Rwanda)",0
+371,ubugali,,Alternative spelling of ubugari,0
+372,Ubuganda,,Uganda (a country in Africa),0
+373,ubugari,,"a kind of porridge, traditionally made from cassava",0
+374,Ubuha,,traditional land of the Ha people in Tanzania,0
+375,ubuhanuzi,,prophecy,0
+376,ubuki,,honey,0
+377,Uburaya,,"(Kirundi, less common in Kinyarwanda) Europe (a continent),",0
+378,Uburayi,,"(Kinyarwanda) Europe (a continent), Synonym: (Rundi,",0
+379,uburo,,"finger millet, eleusine",0
+380,uburozi,,"poison, toxin, sorcery, witchcraft",0
+381,ubururu,,blue,0
+382,ubusitani,,"(Kinyarwanda) orchard(s), garden(s)",0
+383,ubutunzi,,"possessions, riches",0
+384,ubwami,,kingdom,0
+385,ubwato,,"boat, ship",0
+386,Ugushyingo,,"(Kinyarwanda) November
+Synonym: (Rundi) Munyonyo",0
+387,ugutwi,[uɡútkwi],ear,0
+388,ukuboko,,"arm, Synonym: ikiganza, strength, might, Synonyms:",0
+389,Ukuboza,,"(Kinyarwanda) December
+Synonym: (Rundi) Kigarama",0
+390,ukuguru,/ukuɡuru/,leg,0
+391,ukuntu,,"method, means",0
+392,ukuri,,truth,0
+393,ukwaha,,armpit,0
+394,Ukwakira,,"(Kinyarwanda) October
+Synonym: (Rundi) Gitugutu",0
+395,ukwezi,,"moon, month",0
+396,umu-,,Class 1 noun prefix.,0
+397,umu-,,Class 3 noun prefix.,0
+398,umubabaro,,"suffering, pain, sorrow, sadness, grief",0
+399,umubaji,,carpenter,0
+400,umubare,,"number, (in the plural) mathematics",0
+401,umubu,,mosquito,0
+402,umubumbyi,,"(Kinyarwanda) potter, Synonym: (Rundi) umubumvyi",0
+403,umubumvyi,,"(Kirundi) potter, Synonym: (Rwanda) umubumbyi",0
+404,umubyeyi,,"(Kinyarwanda) parent, Synonym: (Rundi) umuvyeyi",0
+405,umucamanza,,judge,0
+406,umuceri,,rice,0
+407,umucungwa,,"(Kirundi) orange (fruit), Synonym: (Rwanda) icunga",0
+408,umucuzi,,blacksmith,0
+409,umudigi,,swollen belly,0
+410,Umufaransa,,French person,0
+411,umugabo,,man,0
+412,Umuganda,,Ganda person,0
+413,umuganga,,(medical) doctor,0
+414,umugati,,"(Kinyarwanda) bread, Synonym: (Rundi) umukate",0
+415,umugezi,,small river,0
+416,umugi,,Alternative form of umujyi,0
+417,umugome,,"rebel, insurgent",0
+418,umugore,,woman,0
+419,Umuha,,member of the Ha people,0
+420,umuhanuzi,,prophet,0
+421,umuheto,,bow (weapon used with arrows),0
+422,umuhigi,,hunter,0
+423,umuhinzi,,"(Kinyarwanda) farmer, cultivator, Synonym: (Rundi)",0
+424,Umuhutu,,a Hutu,0
+425,umujyi,,"(Kinyarwanda) town, city, municipality",0
+426,umukamyi,,milker (person who milks animals),0
+427,umukarani,,"clerk, secretary",0
+428,umukate,,"(Kirundi) bread, Synonym: (Rwanda) umugati",0
+429,umukene,,"pauper, poor person, Antonyms: umutunzi, umukire",0
+430,umukire,,"wealthy person, Synonym: umutunzi, Antonym: umukene",0
+431,Umukirisito,,Christian,0
+432,umukono,,"hand, Synonym: ikiganza, handwriting, cubit",0
+433,umukozi,,worker,0
+434,umukunzi,,"lover, a beloved friend",0
+435,umuliyoni,,Alternative spelling of umuriyoni,0
+436,umuniho,,groan,0
+437,umunota,,"(Kinyarwanda) minute, Synonyms: (Rundi) umunuta, (Rwanda,",0
+438,umunsi,,"(Kinyarwanda) day
+Synonym: (Rundi) umusi",0
+439,umuntu,,"person, human",0
+440,umunuta,,"(Kirundi) minute, Synonyms: (Rwanda) umunota, (Rwanda,",0
+441,umunwa,,"mouth, beak, lip",0
+442,Umunyarwanda,,a Rwandan,0
+443,umupfu,,"corpse, dead person",0
+444,umupira,,"ball, something made of rubber: eraser, tire, etc,",0
+445,umurabyo,,"(Kinyarwanda) lightning, Synonym: (Rundi) umuravyo",0
+446,umurage,,"(Kinyarwanda) inheritance, Synonym: (Rundi) iragi",0
+447,umurambararo,,length,0
+448,umuravyo,,"(Kirundi) lightning, Synonym: (Rwanda) umurabyo",0
+449,umurima,,"garden, cultivated plot",0
+450,umurimo,,"job, work, task, business",0
+451,umurimyi,,"(Kirundi) farmer, cultivator, Synonym: (Rwanda) umuhinzi",0
+452,umuriro,,"fire, fever",0
+453,umuriyoni,,"(Kirundi) million, Synonym: (Rwanda) miriyoni",0
+454,umurozi,,"sorcerer, witch",0
+455,Umurundi,,a Burundian,0
+456,umurwayi,,"ill person, sick person",0
+457,umuryango,,door,0
+458,umuryango,,"clan, family, lineage",0
+459,umuryango,,"clan, family, lineage",0
+460,umusaraba,,cross,0
+461,umusarani,,"toilet, latrine",0
+462,umusazi,,"madman, insane person",0
+463,umusenyi,,"sand, grain of sand",0
+464,umuserebanya,,lizard,0
+465,umushwi,,"(Kinyarwanda) chick (baby bird)
+Synonym: (Rundi) umuswi",0
+466,umusi,,"(Kirundi) day
+Synonym: (Rwanda) umunsi",0
+467,umusigiti,,mosque,0
+468,umusirimu,,a stylish person,0
+469,umusore,,young man,0
+470,umuswa,,termite,0
+471,umuswa,,"fool, idiot",0
+472,umuswa,,"fool, idiot",0
+473,umuswi,,"(Kirundi) chick (baby bird)
+Synonym: (Rwanda) umushwi",0
+474,umutetsi,,cook,0
+475,umuti,,"medicine, drug, shoe polish",0
+476,umutima,,heart,0
+477,umutunzi,,"wealthy person, Synonym: umukire, Antonym: umukene",0
+478,Umututsi,,a Tutsi,0
+479,Umutwa,,a Twa or pygmy,0
+480,umutware,,"chief, leader",0
+481,umutwaro,,"burden, load",0
+482,umutwe,/umutwé/,head,0
+483,umuvyeyi,,"(Kirundi) parent, Synonym: (Rwanda) umubyeyi",0
+484,umuzinga,,beehive,0
+485,umuzungu,,white person,0
+486,umva,,"feel, hear",0
+487,umvira,,"Applicative of -umva
+listen to
+obey",0
+488,umwaka,,year,0
+489,umwambaro,,"garment, piece of clothing",0
+490,umwambi,,"(Kinyarwanda) arrow
+Synonym: (Rundi) umwampi",0
+491,umwami,,king,0
+492,umwampi,,"(Kirundi) arrow
+Synonym: (Rwanda) umwambi",0
+493,umwana,,child,0
+494,umwansi,,"(Kirundi) enemy, Synonym: (Rwanda) umwanzi",0
+495,umwanzi,,"(Kinyarwanda) enemy, Synonym: (Rundi) umwansi",0
+496,umwarimu,,teacher,0
+497,umwenda,,(piece of) cloth,0
+498,umwenda,,debt,0
+499,umwera,,"white person, Synonym: umuzungu",0
+500,umweru,,"something bright white, a completely white object",0
+501,umwibyi,,"(Kinyarwanda) thief, Synonym: (Rundi) umwivyi",0
+502,umwigisha,,teacher,0
+503,umwijima,,"(Kinyarwanda) liver
+Synonym: (Rundi) igitigu",0
+504,umwivyi,,"(Kirundi) thief, Synonym: (Rwanda) umwibyi",0
+505,umwotsi,,smoke,0
+506,urubaho,,"board, slate",0
+507,urubanza,,"trial, litigation, court case, affair, custom",0
+508,urubiga,,(Kirundi) edge of a container,0
+509,urubogobogo,,"(of water) clean, clear
+amazi y'urubogobogoclear, blue water",0
+510,urugohe,,"eyelid, eyelash",0
+511,uruhu,,"hide, leather, animal skin",0
+512,urukwavu,,"hare, rabbit",0
+513,urunyanya,,tomato,0
+514,urupapuro,,"paper, page",0
+515,ururimi,,"tongue, language",0
+516,uruvyino,,"(Kirundi) dance, Synonym: (Rwanda) imbyino",0
+517,uruyuki,,bee,0
+518,uruzi,,large river,0
+519,vuga,,"speak, say",0
+520,vumbika,,cover the fire with ash,0
+521,vumbuka,,"(of game) rush out, be roused, grow up fast",0
+522,vumbura,,"remove from fire, rouse game, discover",0
+523,vyara,,"(Kirundi) bear a child, give birth, Synonym: (Rwanda)",0
+524,vyina,,"(Kirundi) dance, Synonym: (Rwanda) -byina",0
+525,Werurwe,,"(Kinyarwanda) March
+Synonyms: (Rundi) Ntwarante, (Rundi) Rwirabura, (Rundi) Rubungubungu",0
+526,Yesu,,"Jesus (used by Protestants), Synonym: (used by Catholics)",0
+527,Yezu,,"Jesus (used by Catholics), Synonym: (used by Protestants)",0
+528,Yohani,,"A male given name, equivalent to English John, John",0
+529,za,,to come,0
+530,cupboard,,,1
+531,motorcar,,,1

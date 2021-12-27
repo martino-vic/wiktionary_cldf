@@ -1,0 +1,601 @@
+ID,Form,IPA,Gloss,Language_ID
+0,А,,"The first letter of the Yakut alphabet, written in the Cyrillic script.",0
+1,аадырыс,,adress,0
+2,аазимут,,azimuth,0
+3,аас,,"to pass, drive through, proceed, move on, to go past,",0
+4,аас,,hunger,0
+5,аас,,"to starve, hunger",0
+6,аас,,hunger,0
+7,аас,,"to starve, hunger",0
+8,аат,,name,0
+9,абыраа,,"to save; to rescue, to help out",0
+10,абыычай,,"custom, habit",0
+11,автобус,/av.tu͡o.bus/,bus,0
+12,айах,,mouth,0
+13,аймахтыы,/aj.maq.tɨː/,"imperfective converb of аймахтаа (aymaxtaa), kindredly,",0
+14,айылҕа,,nature,0
+15,алпабыыт,/alpaˈbɯːt/,alphabet,0
+16,алта,,six,0
+17,Арассыыйа,/a.ɾas.sɨː.ja/,Russia,0
+18,араҕас,,yellow,0
+19,ардах,/aɾ.daq/,rain,0
+20,ардахтаа,/aɾ.daq.taː/,to rain,0
+21,арыгы,,wine,0
+22,арыы,,"oil, grease, butter",0
+23,арыы,,island,0
+24,арыы,,island,0
+25,арҕаа,,"west, (back) back, rear",0
+26,атах,,"(anatomy) foot, (anatomy) leg",0
+27,атын,,other,0
+28,аччык,,hungry,0
+29,аччыктааһын,,hunger,0
+30,аҕа,,father,0
+31,аҕас,,elder sister,0
+32,аҕырыа,,to be moderate,0
+33,аҕыс,,eight,0
+34,аһаа,/a.haː/,to eat,0
+35,аһат,,to feed (animals),0
+36,баайдык,,richly,0
+37,баартыйа,/baːɾ.tɯ.ja/,"(politics) party, бэлиитикэ баартыйата ― beliitike",0
+38,баас,,wound,0
+39,бай,/baj/,"to be rich, become rich, get rich, grow rich",0
+40,байҕал,/baj.ʁal/,"sea, ocean",0
+41,балалайкаһыт,,balalaika player,0
+42,балыксыт,,fisherman,0
+43,балыс,,younger sister,0
+44,бары,/barɯ/,all,0
+45,бас,,(anatomy) head,0
+46,баскыһыанньа,,Sunday,0
+47,батарея,,battery,0
+48,баттах,,hair,0
+49,бачыыҥка,/ba.c͡çɯːŋ.ka/,"shoes, especially high-button shoes",0
+50,баҕа,,frog,0
+51,баҕа,,desire,0
+52,баҕа,,desire,0
+53,баһылык,,"chief, boss",0
+54,бии,,elder brother,0
+55,бии,,"blade, edge",0
+56,бии,,"blade, edge",0
+57,бииккэ,/ˈbiːkke/,fork,0
+58,биир,/biːɾ/,one,0
+59,биирис,/biː.ɾis/,"first, Synonyms: маҥнайгы (maŋnaygı), бастакы (bastakı)",0
+60,бирибиэт,/biɾibi͜et/,(formal) hello,0
+61,биэрэс,/bi͜eɾes/,pepper,0
+62,биэс,,five,0
+63,биһиги,,we (first-person plural personal pronoun),0
+64,боотур,/boː.tuɾ/,(historical) hero (also capitalised as a title),0
+65,борщ,/bu͡oɾɕː/,borscht,0
+66,босхо,,"untied, loose, free, free of charge",0
+67,Братислава,/bɾa.tis.laː.va/,Bratislava (the capital and largest city of Slovakia),0
+68,буол,/bwol/,"be, become",0
+69,буруй,/bu.ɾuj/,guilt,0
+70,буруо,,smoke,0
+71,буукуба,/buː.ku.ba/,letter (of an alphabet),0
+72,буут,,(anatomy) thigh,0
+73,быар,,liver,0
+74,былахы,,flea,0
+75,былчыҥ,,muscle,0
+76,былырыын,,last year,0
+77,былыт,,cloud,0
+78,бырабыыталыстыба,/bɯ.ɾa.bɯː.ta.lɯs.tɯ.ba/,"government, Саха Өрөспүүбүлүкэтин Бырабыыталыстыбата",0
+79,бырдах,/bɯɾ.daq/,mosquito,0
+80,быт,,louse,0
+81,бытаһыт,,mouse,0
+82,быттык,,groin,0
+83,бытык,,"beard, moustache; whiskers",0
+84,быччын,,muscle,0
+85,быыл,/ˈbɯːl/,dust,0
+86,быыллаах,/ˌbɯːlˈlaːx/,dusty,0
+87,быһаарыы,,explanation; description,0
+88,быһах,,knife,0
+89,быһыйа,,small knife,0
+90,быһыы,/bɯhɯː/,"style, shape, appearance, aspect",0
+91,бэдэр,,lynx,0
+92,бэдэрээссийэ,/bedeˈɾeːsːije/,federation,0
+93,бэйэ,/be.je/,"body, nature, substance",0
+94,бэйэ,/be.je/,"self, oneself",0
+95,бэлимиэн,,dumping (especially pelmeni),0
+96,бэлиэ,,"sign, mark, token, symbol, character, account (an authorization",0
+97,бэлэх,,gift,0
+98,бэнидиэнньик,/be.ni.di͜eɲ.ɲik/,Monday,0
+99,бэргэһэ,,"hat, cap",0
+100,бэрик,,bribe,0
+101,бэрэссэдээтэл,/be.ɾes.se.deː.tel/,"chairperson, president, бырабыыталыстыбын бэрэссэдээтэлэ",0
+102,бэс,,"pine, pine tree",0
+103,бээтинсэ,/beː.tin.se/,Friday,0
+104,бэҕэһээ,,yesterday,0
+105,бүгүн,/byɡyn/,"today
+Synonym: бүгүҥҥү күн (bügüŋŋü kün)",0
+106,бүгүн,/byɡyn/,(predicative) today,0
+107,бүгүҥҥү,/byɡyŋŋy/,"(attributive) today, бүгүҥҥү күн ― bügüŋŋü kün ― today",0
+108,бүттүүн,,"whole, all",0
+109,бүүчээн,,musk deer (mammal),0
+110,бүөр,,(anatomy) kidney,0
+111,бөрө,,wolf,0
+112,васа,,vase,0
+113,велосипед,,"bicycle, bike",0
+114,ветеринар,,"veterinarian, vet",0
+115,вино,/vi.nu͡o/,wine,0
+116,врач,,doctor,0
+117,гектар,,hectare,0
+118,гитараһыт,/ɡi.taː.ɾa.ɦɨt/,guitarist,0
+119,голууб,,pigeon,0
+120,горчица,,mustard,0
+121,гостиница,,hotel,0
+122,грамм,,gram,0
+123,грамматика,/ɡɾa.maː.ti.ka/,grammar,0
+124,далай,,sea,0
+125,диэн,/di͜en/,"associative converb of диэ (die, “to say”)",0
+126,диэн,/di͜en/,"Topic maker, Хатыҥ диэн сэбирдэхтээх мас буолар.Xatıŋ",0
+127,дойду,,land; country,0
+128,долбуур,,shelf,0
+129,долгун,,wave,0
+130,дорообо,/do.ɾoː.bo/,hello,0
+131,доруобуйа,,health,0
+132,дорҕоон,,sound; noise,0
+133,доҕор,/do.ʁoɾ/,friend,0
+134,дулҕа,,hillock,0
+135,дуораан,,echo,0
+136,дуоска,,chalkboard; blackboard,0
+137,Дь,/ɟ/,The seventh letter of the Sakhan (Yakutian) alphabet.,0
+138,дь,/ɟ/,The seventh letter of the Sakhan (Yakutian) alphabet.,0
+139,ДЬ,/ɟ/,The seventh letter of the Sakhan (Yakutian) alphabet.,0
+140,дьаакыр,,anchor,0
+141,дьаат,,poison,0
+142,дьабадьы,,corner of the mouth,0
+143,дьайыҥ,,side; border; edge,0
+144,дьам,,road,0
+145,дьапталҕа,,layer; stratum,0
+146,дьахтар,,woman,0
+147,дьаҥ,,illness,0
+148,дьиэ,/ɟ͡ʝi͜e/,"house, dwelling, abode, home, building",0
+149,дьиэ-уот,,"home, family",0
+150,дьиэлээ,,"to marry; to wed, to manage a house",0
+151,дьиэһит,,housekeeper,0
+152,Дьокуускай,/ɟ͡ʝo.kuːs.kaj/,"Yakutsk (the capital city of Yakutia, Russia), Дьокуускай",0
+153,дьон,/ɟ͡ʝon/,"people, (attributive) people’s, popular",0
+154,дьукаах,,neighbor,0
+155,дьууһуна,/ɟuːhuna/,dozen,0
+156,дьыл,,year,0
+157,дьылҕа,,destiny; fate,0
+158,дьэбириэй,/ɟebiˈɾi͜ej/,Jew (by ethnicity),0
+159,дьэгин,/ɟ͡ʝe.ɡin/,"left (side, direction), wrong",0
+160,дьүлэй,,deaf,0
+161,дьүүктэ,,spring (water source),0
+162,дэҥ,,accident,0
+163,жирафа,,giraffe,0
+164,игии,,file (tool),0
+165,идэ,,occupation; profession; specialty,0
+166,-ии,,Used to form gerunds from verbs.,0
+167,ии,,circle; loop,0
+168,иик,/iːk/,urine,0
+169,ииктээ,/iːk.teː/,(intransitive) to urinate,0
+170,икки,/ikˈki/,two,0
+171,илии,,(anatomy) hand,0
+172,импиэрийэ,/impi͜eɾije/,empire,0
+173,инженер,,engineer,0
+174,иннэ,,"needle, thorn, prickle, quill, spine, bristle",0
+175,ириҥэ,,pus,0
+176,ис,,interior,0
+177,ис,,to drink,0
+178,ис,,to drink,0
+179,искэх,,roe; caviar; spawn,0
+180,истии,,shchi,0
+181,итэҕэл,,religion,0
+182,итэҕэс,,lack; insufficiency,0
+183,иэдьэгэй,,cottage cheese,0
+184,иэдэс,,cheek,0
+185,иҥиир,,sinew; tendon,0
+186,иҥсэ,,greed,0
+187,иһитиннэрии,,"information, notification, announcement",0
+188,иһэҥэ,,stirrup,0
+189,-й,/j/,"Epithesis after a verb stem which originally ended in a lengthened high vowel (ии, үү, ыы, уу) or a short vowel (э, и, ө, ү, а, ы, о, у; only in a loan), due to Sakha conjugation do not allow stem in such endings",0
+190,казах,/ka.zaːq/,"Kazakh (person), (attributive) Kazakh, казах дьахтара",0
+191,калап,,hat,0
+192,киир,/kiːr/,"to set (sun), to enter, go in, access",0
+193,килиэп,/kiˈli͜ep/,bread,0
+194,километр,,kilometer,0
+195,кини,,he/she/it (third-person singular personal pronoun),0
+196,кинигэ,,book,0
+197,кинилэр,,they (third-person plural personal pronoun),0
+198,кир,,dirt,0
+199,Китай,,"alternative form of Кытай (Kıtay, “China”), Китай Народнай",0
+200,киэргэ,,(archaic) jewel,0
+201,киэһэ,,evening,0
+202,киһи,/ki.hi/,a person; a human,0
+203,куй̃ах,,armor,0
+204,куйаар,,space,0
+205,куйуур,,fishing net,0
+206,кулгаах,,(anatomy) ear,0
+207,кулун,/ku.lun/,foal,0
+208,кулут,,slave,0
+209,кумаар,/ku.maːɾ/,mosquito,0
+210,кумааҕы,,paper,0
+211,кумах,,sand,0
+212,куобах,,hare,0
+213,куолай,,esophagus,0
+214,куорат,/ku͡oɾat/,city; town,0
+215,куртах,,stomach,0
+216,курум,,feast; banquet,0
+217,куруппааскы,,partridge,0
+218,кус,,duck,0
+219,кустук,,rainbow,0
+220,кута,,swamp,0
+221,кутаа,,campfire; bonfire,0
+222,кутуйах,,mouse,0
+223,куукула,,doll,0
+224,куукуна,,kitchen,0
+225,куччугуй,,"little, small",0
+226,куһаҕан,,bad,0
+227,кыар,/ˈkɯ͡aɾ/,(vulgar) to fuck,0
+228,кыл,,horsehair,0
+229,кылаас,,"class, classroom",0
+230,кыламан,,eyelash,0
+231,кылыс,,sword,0
+232,кымньыы,,whip,0
+233,кымырдаҕас,,ant,0
+234,кынат,,wing,0
+235,кыраабыл,,rake (garden tool),0
+236,кырдьаҕас,,old (of people and animals),0
+237,кырдьаҕаһымсый,,to pretend to be old,0
+238,кырдьык,,"true, veritable, exact",0
+239,кырдьык,,"truth, (religion, mathematics, logic) truth",0
+240,кырыа,,frost; hair,0
+241,кырыымпа,/kɯˈɾɯːmpa/,violin,0
+242,кырыыппа,/kɯˈɾɯːppa/,violin,0
+243,кыстык,,anvil,0
+244,кыталык,,stork,0
+245,кытат,,"warm land in the south where birds migrate to for winter,",0
+246,кыыбах,,grain; particle,0
+247,кыыл,,"animal, beast",0
+248,кыым,/kɨːm/,spark,0
+249,кыын,,sheath; scabbard,0
+250,кыырт,,hawk,0
+251,кыыс,,"girl, daughter",0
+252,кыыс,,"to blush, redden",0
+253,кыыс,,"to blush, redden",0
+254,кыһыл,,red,0
+255,кыһын,,winter,0
+256,кыһыы,,resentment,0
+257,кэлтэһэ,,stye,0
+258,кэргэн,,family,0
+259,кэрэ,,beautiful,0
+260,кэрэ,,beauty,0
+261,кэтэх,,private,0
+262,кэтээ,,to watch; to keep an eye on,0
+263,күл,,"ash, ashes",0
+264,күл,,to laugh,0
+265,күл,,to laugh,0
+266,күлгэри,,lizard,0
+267,күлүк,,shadow,0
+268,күлүүс,,lock,0
+269,күн,/kyn/,"sun, day",0
+270,күннээҕи,,in the daytime,0
+271,күннээҕи,,daily,0
+272,күннүк,,diary,0
+273,күнүүһүт,,jealous man,0
+274,күрбэ,,bridge,0
+275,күтүөт,,son-in-law,0
+276,күүс,,"force, strength, power",0
+277,күһүн,/ky.hyn/,"autumn, fall (season)",0
+278,күөгү,,fishing pole,0
+279,күөл,,lake,0
+280,күөрчэх,,"drink made with milk, honey, and spice",0
+281,күөрэгэй,,lark (bird),0
+282,күөс,,cooking pot,0
+283,күөх,/ky͡øq/,"blue, green",0
+284,көлөһүн,,sweat,0
+285,көмпүүтэр,/kømˈpyːteɾ/,computer,0
+286,көмүс,,silver,0
+287,көмө,,"help, assistance, aid",0
+288,көтөр,,bird,0
+289,көҥүл,,freedom,0
+290,лабаа,,branch (of a tree),0
+291,лосось,/lo.su͡osʲ/,salmon,0
+292,луобуйа,,crocodile,0
+293,луоска,,spoon,0
+294,малааһын,,feast; banquet,0
+295,маладьыас,/malaɟɯ͡ɤs/,well done,0
+296,манна,,here,0
+297,мас,,tree,0
+298,массыына,/mas.sɯː.na/,"machine, car",0
+299,махталлаах,/maq.tal.laːq/,"thankful, grateful",0
+300,маҕаһыын,,"shop, magazine (of gun)",0
+301,маҥнай,,"at first, in the beginning",0
+302,мин,,I (first-person singular personal pronoun),0
+303,мин,,broth; soup,0
+304,мин,,broth; soup,0
+305,миэбэл,/ˈmi͜ebel/,furniture,0
+306,модьоҕо,,"threshold, doorstep",0
+307,монгол,/moŋ.ɡu͡ol/,"alternative form of монгуол (monguol, “Mongol”)",0
+308,монгуол,/moŋ.ɡu͡ol/,"Mongol, (attributive) Mongolian, монгуол тыла ― monguol",0
+309,моой,,neck,0
+310,моркуоп,/moɾ.ku͡op/,carrot,0
+311,мохсоҕол,,hawk; falcon,0
+312,моҕой,,snake,0
+313,муус,/muːs/,ice,0
+314,муусука,/muːsukä/,music,0
+315,мэйии,,(anatomy) brain,0
+316,мэкчиргэ,,owl,0
+317,мүөт,,honey,0
+318,нарын,,tender,0
+319,номохчут,,writer,0
+320,норуот,/noɾu͡ot/,people,0
+321,нуучча,/nuːc͡ç.c͡ça/,"a Russian (person), (attributive) Russian, нуучча тыла",0
+322,нь,/ɲ/,The nineteenth letter of the Sakha alphabet. Its name is ньэ (ńe).,0
+323,Нь,/ɲ/,The nineteenth letter of the Sakhan (Yakutian) alphabet.,0
+324,НЬ,/ɲ/,The nineteenth letter of the Sakhan (Yakutian) alphabet.,0
+325,ньилбэк,,knee,0
+326,нэдиэлэ,/ne.di͜e.le/,week,0
+327,Огайо,,Ohio (a state of the United States),0
+328,одон,,planet,0
+329,ойох,,wife,0
+330,олоппос,,chair,0
+331,олох,,life,0
+332,оонньоо,/oːɲ.ɲoː/,"to play, хомуска оонньоо ― xomuska oonńoo ― to play",0
+333,оонньуу,/oːɲ.ɲuː/,"gerund of оонньоо (oonńoo, “to play”, affirmative stem)",0
+334,оонньуу,/oːɲ.ɲuː/,game,0
+335,оптуорунньук,/op.tu͡o.ɾuɲ.ɲuk/,Tuesday,0
+336,орон,,"From Proto-Turkic *orun (“place”)., Possibly re-borrowed",0
+337,орон,,bed,0
+338,орун,,place,0
+339,остуол,/ostu͡ol/,table,0
+340,от,,grass,0
+341,отон,,berry,0
+342,отут,,thirty,0
+343,охсуо,,to fight,0
+344,оҕо,/o.ʁo/,"child, young animal",0
+345,оҕус,,"bull, ox",0
+346,оҕус,,to mow,0
+347,оҕус,,to mow,0
+348,оҥочо,,boat,0
+349,партия,/paːɾ.ti.ja/,"alternative form of баартыйа (baartıya, “[political]",0
+350,пиибэ,/piː.be/,beer,0
+351,республика,/ɾes.puːb.li.ka/,"alternative form of өрөспүүбүлүкэ (öröspüübülüke, “republic”),",0
+352,саа,/saː/,gun,0
+353,саарыстыба,/ˈsaːɾɯstɯba/,"tsardom (polity), kingdom (conceptual realm), Synonym:",0
+354,саас,,spring (a season),0
+355,саахар,/saː.qaɾ/,sugar,0
+356,сайын,,summer,0
+357,салгын,,air,0
+358,самыыр,,rain,0
+359,самыырдаа,/sa.mɯːɾ.daː/,to rain,0
+360,самыырдаах,/sa.mɯːɾ.daːq/,"rainy, самыырдаах күһүн ― samıırdaax kühün ― a rainy",0
+361,санаа,,thought,0
+362,сардаҥа,,ray,0
+363,сарсыарда,/saɾˈsɯ͡ɤɾda/,in the morning,0
+364,сарсыарда,/saɾˈsɯ͡ɤɾda/,morning,0
+365,сарсыардааҥы,/saɾˌsɯ͡ɤɾˈdaːŋɯ/,"(relational) morning, сарсыардааҥы аһылык ― sarsıardaaŋı",0
+366,сарсыҥҥы,/säɾsɯŋŋɯ/,tomorrow’s,0
+367,сарын,,shoulder,0
+368,Саха,/sa.qa/,"(attributive only) Sakha, Yakutia",0
+369,саха,/sa.qa/,"the Sakha (Yakuts), саха омук ― saxa omuk ― the Sakha",0
+370,сахалаа,/sa.qa.laː/,"to do something in the Sakha way, to speak the Sakha",0
+371,саҕах,,horizon,0
+372,саһыл,,fox,0
+373,силис,,root,0
+374,сиппиир,,"broom, besom",0
+375,сир,,"earth, land, Саха сирэ ― Saxa sire ― (land of) Yakutia",0
+376,сирдьит,,guide,0
+377,ситим,,network,0
+378,сиэгэн,,"wolverine, glutton (animal)",0
+379,сиэмэ,,seed,0
+380,сиэркилэ,/si͜eɾ.ki.le/,mirror,0
+381,сокуон,/soku͡on/,law,0
+382,сокуоннай,/so.ku͡on.naj/,"lawful, legal",0
+383,солко,,silk,0
+384,солун,,news,0
+385,солуур,,bucket,0
+386,сонун,,news,0
+387,субуота,/su.bu͡o.ta/,Saturday,0
+388,судаарыстыба,/su.daː.ɾɯs.tɯ.ba/,state,0
+389,сулус,,(astronomy) star,0
+390,суо,/swo/,"great, huge",0
+391,суо,/swo/,greatness,0
+392,суол,,"road, path, way, track",0
+393,суон,/su͡on/,"thick, fat",0
+394,суорҕан,,blanket,0
+395,суох,/su͡oq/,"there is no, Мин бэриэмэм суох. ― Min beriemem suox.",0
+396,суруйааччы,,writer,0
+397,сурунаал,/sʊ.ɾʊ.nɑːl/,"magazine, journal",0
+398,сутурук,,fist,0
+399,сыа,,"fat, grease",0
+400,сымыйа,,"lie, falsehood",0
+401,сырдык,,"light, bright",0
+402,сыт,,to lie,0
+403,сыттык,,pillow,0
+404,сэбирдэх,,leaf,0
+405,сэлиэһинэй,,wheat,0
+406,сэрии,,"war, battle, army",0
+407,сэрииһит,,"warrior, soldier",0
+408,сэрэдэ,/se.ɾe.de/,Wednesday,0
+409,сэттэ,,seven,0
+410,сүгэ,,axe,0
+411,сүрэх,/sy.ɾeq/,"(anatomy) heart, heart, mind",0
+412,сүүр,,run,0
+413,сүүрбэ,,twenty,0
+414,сүүс,,hundred,0
+415,сүүс,,forehead,0
+416,сүүс,,frontal,0
+417,сүүс,,forehead,0
+418,сүүс,,frontal,0
+419,таба,,"deer, reindeer",0
+420,тайах,,"moose, elk",0
+421,таммах,,drop,0
+422,таныы,[taˈnəː],nostril,0
+423,таптаа,,"to make a cover, case",0
+424,таптаа,,"to love, Мин эйигин таптыыбын.Min eyigin taptııbın.I",0
+425,таптаа,,"to love, Мин эйигин таптыыбын.Min eyigin taptııbın.I",0
+426,таптал,,love,0
+427,тарбах,,finger,0
+428,татаар,/tataːɾ/,"(historical) Tartar, Tatar, татаар киһи ― tataar kihi",0
+429,таҥара,,god,0
+430,театр,/te̞.aːtɾ/,"alternative form of тыйаатыр (tıyaatır, “theatre”)",0
+431,тиис,,(anatomy) tooth,0
+432,тииҥ,,squirrel,0
+433,тик,,to sew,0
+434,тимир,,iron,0
+435,тирии,,skin,0
+436,тиһик,,list,0
+437,тобук,,knee,0
+438,тобурах,,(meteorology) hail,0
+439,тойон,,"lord, master, boss",0
+440,толоон,,valley,0
+441,тоҕус,/toˈʁus/,nine,0
+442,туйах,,hoof,0
+443,Туймаада,/tuj.maː.da/,"A river valley on the left bank of the Lena (Yakutia, Russia), where the city of Yakutsk is located
+Туймаада хочото ― Tuymaada xoçoto ― the Valley of Tuimaada",0
+444,тума,,spice,0
+445,тумус,,beak; bill,0
+446,туом,,custom; tradition,0
+447,туораах,/tuoraax/,seed (fertilized grain),0
+448,тураах,,crow (bird),0
+449,туруйа,,crane (bird),0
+450,турук,,status; condition; state,0
+451,тусаһа,,courtyard,0
+452,тутаах,,handle,0
+453,тутул,,system,0
+454,туус,,salt,0
+455,тыа,/ˈtɯ͡a/,"forest, woods; taiga, хара тыа ― xara tıa ― a larch",0
+456,тыал,,wind,0
+457,тыас,,noise,0
+458,тыл,,"tongue, language, word",0
+459,тылдьыт,,dictionary,0
+460,тыы,/tɯː/,breathe,0
+461,тыҥ,,dawn,0
+462,тыҥырах,,"nail, claw",0
+463,тэбиэн,,camel,0
+464,тэллэй,,mushroom,0
+465,тэҥ,/teŋ/,equal,0
+466,түбүк,,worry,0
+467,түмэн,,parliament,0
+468,түннүк,,window,0
+469,түүн,,night,0
+470,түүтэх,,sheaf,0
+471,түһэх,,knee,0
+472,түһүлүк,,(anatomy) breastplate,0
+473,түөрт,,four,0
+474,түөс,,(anatomy) chest,0
+475,төрүт,,"root, origin",0
+476,төрүччү,,genealogy,0
+477,төрөппүт,,parent,0
+478,убай,,elder brother,0
+479,улахан,,"big, large, adult, grown-up",0
+480,уллуҥах,,foot,0
+481,улуус,/u.luːs/,"ulus (administrative division in Yakutia, originally for Yakut-dominated areas in the Russian Empire corresponding to a volost, now subdivision of the Republic of Sakha)
+«Хаҥалас улууһа» муниципальнай оройуон ― «Xaŋalas uluuha» munitsipal’nay oroyuon ― (The) «Khangalas Ulus» municipal district",0
+482,уобалас,/ˈu͡obalas/,"region, oblast",0
+483,уокурук,/ˈu͡okuɾuk/,"district, okrug",0
+484,уол,,son,0
+485,уон,,ten,0
+486,уонна,,"and, Босния уонна Герцеговина ― Bosniya uonna Gertsegovina",0
+487,уонна,,"partitive of уон (uon, “ten”)",0
+488,уонна,,"partitive of уон (uon, “ten”)",0
+489,уос,,(anatomy) lip,0
+490,уст,/ʊst/,to float,0
+491,-уу,,Used to form gerunds from verbs.,0
+492,уу,,water,0
+493,уу,,sleep,0
+494,уу,,sleep,0
+495,учуутал,/u.c͡çuː.tal/,teacher,0
+496,уҥуох,,bone,0
+497,хаан,,blood,0
+498,хаар,,snow,0
+499,хаас,,eyebrow,0
+500,хаас,,goose,0
+501,хаас,,goose,0
+502,хайа,,(geography) mountain,0
+503,халлаан,,sky,0
+504,ханна,/xanˈna/,"where, Ханна бардыҥ? ― Xanna bardıŋ? ― Where did you",0
+505,ханна,/xanˈna/,where,0
+506,хара,/qa.ɾa/,black,0
+507,харас,,bird cherry,0
+508,харах,,"eye, eyesight",0
+509,харыйа,,fir,0
+510,хас,,"how many, how much",0
+511,хас,,to dig,0
+512,хас,,to dig,0
+513,хатыҥ,,birch tree,0
+514,хах,,cover; skin; shell,0
+515,холбоһук,,"union, Эуропа Холбоһуга ― Europa Xolbohuga ― European",0
+516,хомурдуос,,beetle,0
+517,хомус,/qo.mus/,"khomus, the Yakut national mouth harp",0
+518,хомусчут,/qo.mus.c͡çut/,"khomusist, Jew's harpist",0
+519,хонуу,,field,0
+520,хопто,,seagull,0
+521,хортуоппуй,/qoɾ.tu͡op.puj/,potato,0
+522,хотой,,eagle,0
+523,чаҕылҕан,,lightning,0
+524,чох,,coal,0
+525,чубуку,,argali,0
+526,чэй,/c͡çej/,tea,0
+527,чэппиэр,/c͡çep.pi͜eɾ/,Thursday,0
+528,чэчик,,flower,0
+529,чүмэчи,,candle,0
+530,ыа,/ˈɯ͡a/,"(transitive) to milk, ынахта ыа ― ınaxta ıa ― to milk",0
+531,ыал,/ˈɯ͡ɤl/,"neighbour, family; home, inhabitant, dweller",0
+532,ыалдьыт,,guest,0
+533,ыарыы,,"pain, disease",0
+534,ый,,"moon, month",0
+535,ый,,to indicate,0
+536,ый,,to indicate,0
+537,ыллаа,/ɨl.laː/,"to sing, (figuratively) to sing (of birds), to sing",0
+538,ынах,,cow,0
+539,ыраахтааҕы,/ɯˌɾaːxˈtaːɣɯ/,tsar,0
+540,ырыа,/ɯˈɾɯ͡ɤ/,song,0
+541,ырыаһыт,/ɯɾɯ͡ahɯt/,singer,0
+542,ыстаан,/ɯstaːn/,"pants, trousers",0
+543,ыстатыйа,,article,0
+544,ыт,,dog,0
+545,ыт,,to shoot,0
+546,ыт,,to shoot,0
+547,ытыктаа,/ɯtɯkˈtaː/,"to honour, to respect",0
+548,ытыр,,to bite,0
+549,-ыы,,Used to form gerunds from verbs.,0
+550,эйэ,,peace,0
+551,эн,,you; thou (second-person singular personal pronoun),0
+552,эр,,"man, husband",0
+553,эрэй,,torture; suffering; misery; trouble; hardship,0
+554,эрэй-буруй,,suffering; hardship,0
+555,эт,,"meat, (anatomy) body",0
+556,эт,,to say,0
+557,эт,,to say,0
+558,эһиги,,you (second-person plural personal pronoun),0
+559,эһэ,,bear,0
+560,юрист,/jy.ɾiːst/,"lawyer, jurist",0
+561,ҕ,/ʁ/,The fifth letter of the Sakha alphabet. Its name is ҕэ (ğe),0
+562,ҥ,/ŋ/,The eighteenth letter of the Sakha alphabet. Its name is ҥэ (ŋe).,0
+563,Ҥ,/ŋ/,The eighteenth letter of the Sakhan (Yakutian) alphabet.,0
+564,үлэ,,work,0
+565,үлэ-иис,,job; occupation,0
+566,үлэ-хамнас,,professional activities; working style,0
+567,үлэлээ,,"to work, to provide work, to go to work",0
+568,үлэһит,,worker,0
+569,үрдүк,,"high, tall",0
+570,үрдүк,,"height, altitude, elevation",0
+571,үрүҥ,,white,0
+572,үс,/ys/,three,0
+573,үчүгэй,,good,0
+574,үҥкүү,/yŋ.kyː/,"dance
+модерн үҥкүү ― modern üŋküü ― modern dance",0
+575,-үү,,Used to form gerunds from verbs.,0
+576,үүс,,lynx,0
+577,үүт,,milk,0
+578,үөрэн,,to learn,0
+579,үөрэт,/y͡øɾet/,"to teach, to learn; to study, to research into",0
+580,үөрэтии,/y͡øɾetiː/,"gerund of үөрэт (üöret, “to teach”): teaching",0
+581,үөрэтии,/y͡øɾetiː/,"training, study",0
+582,үөрэтээччи,/y͡øɾeteːcːi/,"Synonym of учуутал (uçuutal, “teacher”)",0
+583,үөрэх,,"study, learning",0
+584,һ,/h/,The twenty-fifth letter of the Yakut alphabet,0
+585,өй,/øj/,"mind, intellect, intelligence",0
+586,өл,,to die,0
+587,өлүү,,death,0
+588,өлөр,,to kill,0
+589,өлөрүөхсүт,,killer,0
+590,өрүс,/øˈɾys/,river,0
+591,өрөспүүбүлүкэ,/ø.ɾøs.pyː.by.ly.ke/,"republic, Саха Өрөспүүбүлүкэтэ ― Saxa Öröspüübülükete",0
+592,өстөөх,,"enemy, foe",0
+593,өтүүк,,iron (for pressing clothes),0
+594,өтөр,,recent,0
+595,өтөр,,quickly,0

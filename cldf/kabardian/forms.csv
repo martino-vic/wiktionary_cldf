@@ -1,0 +1,941 @@
+ID,Form,IPA,Gloss,Language_ID
+0,А,,"The first letter of the Kabardian alphabet, written in the Cyrillic script.",0
+1,абдж,[ʔaːbd͡ʒ],glass,0
+2,адакъэ,[ʔadaːqa],"rooster, cock",0
+3,адыгэбзэ,[aːdəɣabza],the Adyghe language,0
+4,адэ,[aːda],"over there (Invisible, Far)",0
+5,адэ,[aːda],father,0
+6,ажал,[aːʒaːl],death,0
+7,акъыл,[ʔaːqəl],"smart, intelligent, Щӏалэр акъыл.Š̍ʾālăr āqəl.The boy",0
+8,акъыл,[ʔaːqəl],brain,0
+9,алэрыбгъу,[ʔalarəbʁʷ],carpet,0
+10,анэ,[ʔaːna],table,0
+11,анэдэлъхубзэ,[aːnadaɬxʷəbza],"mother tongue, first language
+Си анэдэлъхубзэ адыгэбзэSi ānădăłx°bză ādəγăbzăMy mother tongue is Circassian.",0
+12,ар,[aːr],"it, that; he, she, that person (absolutive case)",0
+13,арап,[aːraːp],an Arabic person,0
+14,аращ,[ʔaːraːɕ],that is it,0
+15,аргъуей,[aːrʁʷej],mosquito,0
+16,арму,[aːrməw],bummer,0
+17,арщхьэкӏэ,[arɕħat͡ʃʼa],"however, although, yet
+Сэ абы деж сыкIуат, арщхьэкIэ згъуэтакъымSă ābə dež səkIwāt, ārš̍ḥăkIă zġ°ătāqəmI went to him, but he was not found.",0
+18,ахъшэ,[aːχʃa],"money, currency, fund",0
+19,ахьмакъ,[aːħmaːq],fool,0
+20,бадзэ,[baːd͡za],housefly (fly),0
+21,бажэ,[baːʒa],fox,0
+22,балыджэ,[baːɮəd͡ʒa],radish,0
+23,бамэ,[baːma],"stench, stink",0
+24,банэ,[baːna],thorn,0
+25,бахъсымэ,[baːχsəma],a Circassian alcoholic drink (Circassian boza),0
+26,бахъэ,[baːχa],steam,0
+27,бацэ,[baːt͡sa],shaggy,0
+28,бгъу,[bʁʷə],nine,0
+29,бгъу,[bʁʷə],side,0
+30,бгъэ,[bʁa],eagle,0
+31,бгы,[bɣə],waist,0
+32,бдзэ,[bd͡za],fish,0
+33,бдзэжьей,[bd͡zaʑej],fish,0
+34,бегъымбар,[beʁəmbaːr],prophet,0
+35,бедэхъауэ,[bajdaχaːwa],"for nothing, in vain (to no avail or benefit), бедэхъауэ",0
+36,бжы,[bʒə],spear,0
+37,бжын,[bʒən],"to count, Щӏалэр мабже.Š̍ʾālăr mābže.The boy is counting.,",0
+38,бжьыдзэ,[bʑəd͡za],flea,0
+39,бжьыны,[bʑənə],onion,0
+40,бжьыныху,[bʑənəxʷ],garlic,0
+41,бжьыхьэ,[bʑəħa],autumn,0
+42,бжьэ,[bʑə],bowl,0
+43,бжьэхуц,[bɕaxʷət͡s],wool,0
+44,бжэмышх,[bʒaməʃx],"spoon
+Нэмщӏыр бжэмышх къызотNămṣ̂ər bžăməšx q̇əzotGive me a different spoon.",0
+45,бзугъуабжэгъуэщ,[bzəwʁʷaːbʒaʁʷaɕ],waxwing (bird),0
+46,бзупцӏ,[bzəwəpt͡sʼ],blackbird,0
+47,бзы,[bzə],"female, Antonym: хъу (χ°, “male”)",0
+48,бзылъхугъэ,[bzəɬxʷəʁa],woman,0
+49,бзэ,[bza],language,0
+50,бий,[bəj],Alternative form of бый (bəj),0
+51,блыгу,[bləɡʷ],armpit,0
+52,блын,[bɮənə],wall,0
+53,блэгущӏэ,[blaɡʷəɕʼa],armpit,0
+54,быдзафэ,[bəd͡zaːfa],sucker,0
+55,быдзафэ,[bəd͡zaːfa],nursling,0
+56,быдзы,[bəd͡zə],"breast, teat",0
+57,быдэ,[bəda],tough,0
+58,бый,[bəj],"one's enemy
+щӏалэм лӏэр и бый ― š̍ʾālăm ḷăr i bəj ― The man is the boy's enemy.",0
+59,былым,[bəɮəm],cattle,0
+60,бын,[bən],family,0
+61,бынжэ,[bənʒa],navel,0
+62,Бытырбыху,[batərbəxʷ],"Saint Petersburg (a federal city of Russia)
+Бытырбыху сщыщ.Bətərbəx° sŝəŝ.I am from Saint Petersburg.",0
+63,бэ,[ba],"much, a lot (of)
+бэрэ уиунэ скъакӏо — I am coming to your house a lot.
+щӏэлэ бэм еӏуэ ар — A lot of the boys say that.",0
+64,бэ,[ba],"a lot, a lot of people, a lot of objects
+бэм еӏуэ ар — A lot of people say that.",0
+65,бэдрэжан,[badraʒaːn],tomato,0
+66,бэн,[ban],"burial, grave, tomb",0
+67,бэрэжьей,[baraʑej],Wednesday,0
+68,бэуэн,[bawan],"to kiss
+Щӏалэр пщащэм ебо — The boy is kissing the girl.",0
+69,гуапэ,[ɡʷaːpa],pleasant,0
+70,гуапӏэ,[ɡʷaːpʼa],pleasant,0
+71,гуартэ,/ɡʷaːr.ta/,"group, party, troop, flock of sheep",0
+72,гуауэ,[ɡʷaːwa],misery,0
+73,гудэ,[ɡʷəd],vulva,0
+74,гузэвэн,[ɡʷəzavan],to fluster,0
+75,гулъ,[ɡʷəɬ],bud,0
+76,гупсысэн,[ɡʷəpsəsan],"to think of, to think about",0
+77,гуфӏагъуэ,[ɡʷəfʼaːʁʷa],"joy, happiness",0
+78,гуфӏагъэ,[ɡʷəfʼaːʁa],Alternative form of гуфӏагъуэ (g°f̣āġ°ă),0
+79,гуфӏакӏэ,[ɡʷəfʼaːt͡ʃa],Arm pit,0
+80,гуфӏэн,[ɡʷəfʼan],to rejoice,0
+81,гухэщӏ,[ɡʷəxaɕʼ],"sorrow, grief",0
+82,гушыӏэ,[ɡʷəʃəʔa],humor,0
+83,гуыбзыгъэ,[ɡʷəbzəʁa],"clever, smart",0
+84,гуэгуэн,[ɡʷaɡʷan],metal pitcher,0
+85,гуэдз,[ɡʷad͡z],wheat,0
+86,гуэл,[ɡʷaɮ],lake,0
+87,гуэлӏ,[ɡʷaɬʼ],lake,0
+88,гуэныхь,[ɡʷanəħ],sin,0
+89,гуэшын,[ɡʷaʃən],to divide,0
+90,гъаблэ,[ʁaːbɮa],hunger,0
+91,гъатхэ,[ʁaːtxa],spring,0
+92,гъащӏэ,[ʁaːɕʼa],life,0
+93,гъубж,[ʁʷəbʒ],Tuesday,0
+94,гъуджэ,[ʁʷəd͡ʒa],mirror,0
+95,гъукӏэ,[ʁʷət͡ʃʼa],blacksmith,0
+96,гъум,[ʁʷəm],"thick, fat",0
+97,гъунэгъу,[ʁʷənaʁʷ],neighbor,0
+98,гъусэ,[ʁʷəsa],associate,0
+99,гъущы,[ʁʷəɕə],Alternative form of гъущэ (ġ°ŝă),0
+100,гъущэ,[ʁʷəɕa],"dry
+Джанэр гъущэ — The shirt is Dry.",0
+101,гъущӏ,[ʁʷəɕʼ],iron,0
+102,гъуэгу,[ʁʷaɡʷ],road,0
+103,гъуэгурыкӏуэныгъэ,[ʁʷaɡʷəwanakʷʼənər],journey,0
+104,гъуэгъуэн,[ʁʷaʁʷan],to rattle,0
+105,гъуэгын,[ʁʷaɣən],"to weep, to cry loudly",0
+106,гъуэжьы,[ʁʷaʑə],yellow,0
+107,гъуэжьы,[ʁʷaʑə],yellow,0
+108,гъуэзыпс,[ʁʷazəps],soda,0
+109,гъуэмыл,[ʁʷaməɮ],food,0
+110,гъуэмылапхъэ,[ʁʷaməlaːpχa],food products,0
+111,гъуэншэдж,[ʁʷanʃad͡ʒ],pants,0
+112,гъуэщэн,[ʁʷaɕan],"to lose one's way, to go astray, to get lost",0
+113,гъэ,[ʁa],year,0
+114,гъэвэн,[ʁavan],"to boil (water)
+бзылъхугъэм псыр егъавэ — The woman is boiling the water.",0
+115,гъэджэрэзын,[ʁad͡ʒarazən],"to spin
+гъэджэрэз — Spin.",0
+116,гъэдыргъ,[ʁadərʁ],clang,0
+117,гъэзэшын,[ʁazaʃən],"to bore someone
+Себыгъэзешы — You are boring me.",0
+118,гъэзэщӏэн,[ʁazaaɕʼan],"to carry out, to fulfill",0
+119,гъэлъэпӏэн,[ʁaɬapʼan],to make something expensive,0
+120,гъэмахуэ,[ʁamaːxʷa],summer,0
+121,гъэпсэхун,[ʁapsaxʷən],"to rest
+Лӏым зегъэпсэху ӏуэхумкӏэ — The man is resting in work.",0
+122,гъэр,,(dated) captive,0
+123,гъэсагъ,[ʁasaːʁ],"trained
+И бгъэ гъэсагъитIыри — and with his two trained eagles.",0
+124,гъэутӏэпӏын,[ʁawtʼapʼən],"to unstitch, to tear at the seams",0
+125,гъэфӏэн,[ʁafʼan],"to cherish, to caress",0
+126,гъэщӏэгъуэн,[ʁaʃʼaʁʷan],interesting,0
+127,гъэӏулэн,[ʁaʔʷəlan],to fool,0
+128,гын,[ɣən],powder,0
+129,гьанэ,[ɡʲaːna],(Besleney) Alternative form of джанэ (ǯ̍ānă),0
+130,гьэгу,[ɡʲaɡʷ],Alternative form of джэгу (ǯ̍ăg°),0
+131,гэ,[t͡ʃant͡ʃa],testicle,0
+132,дакъэ,[daːqa],stump,0
+133,дамэ,[daːma],shoulder,0
+134,данэ,[daːna],silk,0
+135,дарий,[daːrij],silk,0
+136,дауэ,[daːwa],how,0
+137,дахэ,/daːxa/,"pretty, beautiful",0
+138,делэ,[dela],a fool: a foolish or stupid person,0
+139,делэ,[dela],"foolish, stupid",0
+140,джанэ,[d͡ʒaːna],"(Literary) chemise, shirt, (Literary) dress, robe",0
+141,джаур,[d͡ʒaːwər],infidel,0
+142,джыдэ,[d͡ʒəda],ax,0
+143,джэгу,[d͡ʒaɡʷ],"Djagu (a Circassian dance party), game",0
+144,джэгун,[d͡ʒaɡʷən],"to play (a game)
+щӏалэр мэджэгу  — The boy is playing.",0
+145,джэд,[d͡ʒad],chicken,0
+146,джэдгъалӏэфлъэ,[d͡ʒadʁaːɬʼafɬa],fieldfare,0
+147,джэдкъаз,[d͡ʒadqaːz],bird,0
+148,джэду,[d͡ʒadəw],cat,0
+149,джэдыкӏэ,[d͡ʒadət͡ʃa],egg,0
+150,джэш,[d͡ʒaʃ],haricot,0
+151,дзажэ,[d͡zaːʒa],rib,0
+152,дзасэ,[d͡zaːsa],fork,0
+153,дзыгъуэ,[d͡zəʁʷa],mouse,0
+154,дзыдзэ,[d͡zəd͡za],marten,0
+155,дзын,[d͡zən],to throw,0
+156,дзэ,[d͡za],tooth,0
+157,дзэл,[d͡zaɮ],(anatomy) gum,0
+158,дзэлъэщӏ,[d͡zaɬaɕʼ],toothbrush,0
+159,дзэху,[d͡zaxʷ],tin,0
+160,дудакъ,[dwdaq],"great bustard, a species of bird.",0
+161,дыгъуасэ,[dəʁʷaːsa],yesterday,0
+162,дыгъужь,[dəʁʷəʑ],wolf,0
+163,дыгъурыгъу,[dəʁʷrəʁʷə],eagle-owl,0
+164,дыгъуэн,[dəʁʷan],"to steal
+щӏалэр мэдыгъуэ — The boy is stealing.",0
+165,дыдж,[dəd͡ʒ],bitter,0
+166,дыжьын,[dəʑən],silver,0
+167,дыкъуакъуэ,[dəqʷaːqʷa],fork,0
+168,дыркъуэ,[dərqʷa],wound,0
+169,дыхьэшх,[dəħaʃx],laugh,0
+170,дыхьэшхын,[dəħaʃxən],"to laugh
+Щӏалэр мэдыхьэшхŠ̍ʾālăr mădəḥăšxThe boy is laughing.",0
+171,дыщэ,[dəɕa],gold,0
+172,дэ,[da],we,0
+173,дэ,[da],walnut (fruit),0
+174,дэгу,[daɡʷ],deaf person,0
+175,дэгу,[daɡʷ],deaf,0
+176,дэкун,[dakʷən],stuff,0
+177,дэкун,[dakʷən],to cram,0
+178,дэлъху,[daɬxʷə],brother (of a woman),0
+179,дэлъэн,[daɬan],to stroke,0
+180,дэн,[dan],"to accept, to permit, to allow
+мэу тыкӏу уэда? — Do you permit us to go this way?",0
+181,дэнэ,[dana],where,0
+182,ебгъэн,[jabʁan],to be angry,0
+183,еблагъэ,[jablaːʁa],welcome!,0
+184,егъэджэн,[ʁad͡ʒan],to teach,0
+185,егъэхьын,[jaʁaħən],"to deliver to, to send to",0
+186,еджапӏэ,[jad͡ʒaːpʼa],"school
+щӏалэр еджапӏэм макӏуэ — The boy is going to school.",0
+187,еджэн,[jad͡ʒan],to call someone,0
+188,ежьэн,[jaʑan],to wait,0
+189,езы,[jazə],"he, she, it (itself)",0
+190,езэшын,[jazaʃən],"to be bored of
+Щӏалэр езэшы мэджагунэм — The boy is bored from playing.",0
+191,еижын,[jajəʒən],"to envy, to be envious",0
+192,екӏуэщэн,[jakʷʼaɕan],to sneak up to,0
+193,емыкӏу,[jaməkʷʼ],"improper, indecent",0
+194,енэпэуэн,[napawan],Alternative form of нэпэуэн (năpăwăn),0
+195,енэпэфэуэн,[napafawan],Alternative form of нэпэфэуэн (năpăfăwăn),0
+196,енэцӏын,[janat͡sʼən],to look lustfully,0
+197,епэмын,[japamən],to smell,0
+198,есын,[jasən],"to swim
+щӏалэр хым есы — The boy is swimming int the sea.",0
+199,етын,[jatən],to give to,0
+200,еукӏын,[jawət͡ʃʼən],to curse; to damn,0
+201,ефакӏуэ,[jafaːkʷʼa],a person that drinks alcohol a lot,0
+202,ефыгъуэн,[jafəʁʷən],"to envy, to be envious",0
+203,ефэн,[jafan],"to drink, ЩIалэр псы йофэ ― Š̍Iālăr psə jofă ― The",0
+204,ехъуэхъун,[jaχʷaχʷən],to congratulate,0
+205,ехын,[jaxə],to go down,0
+206,ехьэлӏэн,[jaħaɬʼan],to bring,0
+207,ещӏэн,[jaʃʼan],to dance,0
+208,жагъуэ,[ʒaːʁʷ],"hatred, hate",0
+209,жан,[ʒaːn],sharp (Able to cut easily),0
+210,Жантий,[ʒaːntəj],Janty (name),0
+211,жей,[ʒej],"sleep
+Жейм Iэпкълъэпкъыр зэщIеIулIэ, пщIыхь шынагъуэ и нэгу щIокI — He was roused from sleep because he saw a nightmare.",0
+212,жей,[ʒej],sleepy,0
+213,жыг,[ʒəɣ],tree,0
+214,жыжьэ,[ʒəʑa],"far, щӀалэр жыжьу мэкӏуагъ — The boy went far away.",0
+215,жылэ,[ʒəla],settlement,0
+216,жылэдэс,[ʒəɮadas],civil,0
+217,жыхапхъэ,[ʒəxaːpχa],broom,0
+218,жыӏэн,[ʒəʔan],to say,0
+219,жьакӏэ,[ʑaːtʃʼa],beard,0
+220,жьауэ,[ʑaːwa],shadow,0
+221,жьы,[ʑə],old,0
+222,жьы,[ʑə],"air, wind",0
+223,жьы,[ʑə],"air, wind",0
+224,жьыщӏэн,[ʑəɕʼan],to wash (wash clothes),0
+225,жьэ,[ʑa],mouth,0
+226,жьэжьэй,[ʑaʑaj],kidney,0
+227,жьэн,[ʑan],to grill,0
+228,жьэрыкуей,[ʑarəkʷaj],roast,0
+229,жьэхъу,[ʑaχʷə],rude person,0
+230,жэгъуэгъу,[ʒaʁʷəɡʷ],"hatred, hate",0
+231,жэгъуэгъун,[d͡ʒaʁʷəɡʷən],"to quarrel, to be at war with",0
+232,жэм,[ʒam],cow,0
+233,жэн,[ʒan],"to run
+щӏалэр мажэ — The boy is running.",0
+234,жэщ,[ʒaɕ],night,0
+235,жэщтеу,[ʒaɕtajw],nightmare,0
+236,занщӏэ,[zaːnɕʼa],straight,0
+237,занщӏэу,[zaːnɕʼaw],"right away
+Занщӏэу кӏуэ — Go right away.
+Щӏалэр занщӏэу еджагъэ — The boy studied right away.",0
+238,зауэ,[zaːwa],war,0
+239,захуэ,[zaːxʷa],"straight, just (good person)",0
+240,зы,,one,0
+241,зылӏэжын,[zaːɬʼaʒən],"to commit suicide
+Тхьэ сэӏо зыслӏэжынкӏэTḥă săʾo zəsḷăžənč̣̍ăI swear by God I shall kill myself.",0
+242,зыплъыхьын,[zəpɬəħən],to look around,0
+243,зэ,[za],wait,0
+244,зэвы,[zavə],narrow,0
+245,зэплъэкӏын,[zapɬat͡ʃʼən],"to look back, to turn to look",0
+246,зэтеувэн,[zatajwvan],"(temporarily) to halt, to come to a halt, to pause
+Филымыр зэтеуващ — The film has paused.",0
+247,зэуакӏуэ,[zawaːkʷʼa],fighter,0
+248,зэхэхуэн,[zaxaxʷan],"to collapse
+Унэр къызэхахуэWnăr q̇əzăxāx°ăThe house is collapsing.",0
+249,зэхэхын,[zaxaxən],"to understand (To perceive sounds through the ear), to hear well",0
+250,зэхэшын,[zaxaʃən],to stretch,0
+251,зэшын,[zaʃən],to be bored,0
+252,и,,eight,0
+253,ибэ,[jəba],orphan,0
+254,иджырей,[jəd͡ʒərej],"present, contemporary
+Иджырей щӏалэгъуалэм теухуа нэтынIǯ̍ərej ṣ̂ālăġ°ālăm tewx°ā nătənA broadcast about contemporary young people",0
+255,ижь,[jəʑ],right (the opposite of left),0
+256,изы,[jəzə],"full
+матэр изы — The basket is full.",0
+257,икӏи,[jət͡ʃi],and,0
+258,илъэс,[jəɬas],year,0
+259,ины,[jənə],"large, big",0
+260,ипщэ,[ipɕa],south,0
+261,итхъун,[jətχʷən],"to shovel out, to rake out, to remove by shoveling or raking",0
+262,ищхъэрэ,[iɕχara],north,0
+263,иӏэн,[jəʔan],to have,0
+264,куу,[kʷəwə],"deep
+Хыр куу — The sea is deep.",0
+265,куэ,[kʷa],thigh,0
+266,куэд,[kʷad],many,0
+267,кхъу,/q͡χʷ/,The twenty-first letter of the Kabardian alphabet,0
+268,кхъуей,[q͡χʷeːj],cheese,0
+269,кхъуэ,[q͡χʷa],pig,0
+270,кхъэ,[q͡χa],grave,0
+271,къабзэ,[qaːbza],clean,0
+272,къалэ,[qaːɮa],"city, town",0
+273,къамэ,[qaːma],"Qama (Circassian short sword), dagger",0
+274,къаплъэн,[qaːpɬan],tiger,0
+275,кърухугу,[qruxʷəɡʷ],forget-me-not,0
+276,къуагъыщхъуэ,[qʷaːʁəɕχʷa],crow,0
+277,къуаншэ,[qʷaːnʃa],inclined,0
+278,къуапсэ,[qʷaːpsa],root,0
+279,къугъын,[qʷəʁən],to howl,0
+280,къулыкъу,[qwɮəqʷ],"service
+Circassian popular song ""Raya"":
+Си ныбжьэгъуфIхэр, сэ нобэ сожьэ, къулыкъу къэралым хуэсщIэнуSi nəbẑăġ°fIxăr, să nobă soẑă, q̇°ləq̇° q̇ărāləm x°ăsŝIănwMy friends, today I leave, I will serve the country.",0
+281,къупщхьэ,[qʷpɕħa],bone,0
+282,къухьэпӏэ,[qʷħapˈa],west,0
+283,къущхьэ,[qʷəɕħa],mountain,0
+284,къуэ,[qʷa],son,0
+285,къуэкӏыпӏэ,[qʷat͡ʃʼəpˈa],east,0
+286,къуэлэн,[qʷaɮan],colorful,0
+287,къуэлэн,[qʷaɮan],colorful liquid,0
+288,къуэрылъху,[qʷarəɬxʷ],grandson,0
+289,къыдэгъэж,[qədaʁaʒ],drawer,0
+290,къыкъ,[qəq],stammerer,0
+291,къылъыфын,[qəɬəxʷən],"to give-birth, to deliver a child
+Бзылъхугъэм щӏалэ къылъыхуащ — The women gave birth to a child.",0
+292,къысхуэгъэгъу,,excuse me,0
+293,къыу,[qʷəw],swan,0
+294,къыцэ,[qət͡sa],peach,0
+295,къэб,[qab],pumpkin,0
+296,къэбэкъауэ,[qabaqaːwa],volcano,0
+297,къэбэрдей,[qabardej],Kabartay (a Circassian clan tribe),0
+298,къэбэрдэйбзэ,[qabardajbza],the Kabardian language,0
+299,къэкӏуэн,[qakʷʼan],"to come
+щӏалэр уи унэм къакӏуэ — The boy is coming to your house.
+щӏалэр къакӏуэ — The boy is coming.",0
+300,къэлэдэс,[qaɮadas],townsman,0
+301,къэрал,[qaraːɮ],country,0
+302,къэрэндащ,[qarandaːɕ],pencil,0
+303,къэсэхын,[qasaxən],Alternative form of къэсэхыжын (qăsăxəžən),0
+304,къэхьыпэ,[qaħəpa],(vulgar) whore,0
+305,къэхьэуафэ,[qaħawaːfa],brown,0
+306,къэцыфын,[qat͡sʼəfən],"to fart
+щӏалэр къэцыфащ — The boy farted",0
+307,кӏагуэ,[t͡ʃʼaːɡʷa],short,0
+308,кӏагъэпшагъэ,[t͡ʃʼaːʁapʃaːʁa],weather,0
+309,кӏакӏы,[t͡ʃaːt͡ʃə],short,0
+310,кӏапсэ,[t͡ʃʼaːpsa],rope,0
+311,кӏапсэрыкӏуэ,[t͡ʃʼaːpsarəkʷʼa],"tightrope walker, funambulist",0
+312,кӏасэ,[t͡ʃʼaːsa],"late
+КIасэ хъугъэ — It is already late.",0
+313,кӏахэ,[t͡ʃʼaːxa],Western Adyghe tribes,0
+314,кӏуасэ,[kʷʼaːsa],fugitive,0
+315,кӏуэдыгъуафӏэ,[kʷʼadəʁʷafʼ],"something or someone that is easy to lose, something",0
+316,кӏуэдын,[kʷʼadən],"to disappear
+Щӏалэр кӏуэдэщ — The boy disappeared.",0
+317,кӏуэн,[kʷʼan],"to go
+щӏалэр уи унэм макӏуэ — The boy is going to your house.
+щӏалэр макӏуэ — The boy is going.",0
+318,кӏуэцӏышыхьын,[kʷʼat͡sʼəʃəħən],to wrap in,0
+319,кӏыгуугу,[t͡ʃəɡʷəwəɡʷ],cuckoo,0
+320,кӏыхь,[t͡ʃʼəħ],long,0
+321,кӏэ,[kʲʼa],"tail, (vulgar) dick (penis), seed",0
+322,кӏэрахъуэ,[t͡ʃʼaraːχʷa],gun,0
+323,кӏэупшӏэн,[t͡ʃʼawptʃʼan],to ask,0
+324,лъагъуныгъэ,[ɬaʁʷnəʁa],"love, Мэлычыпхъу лъагъуныгъэ гуащIэм, къабзэм, нэхум",0
+325,лъагэ,[ɬaːɣa],"high
+lуащхьэмахуэр лъагэ — Mount Elbrus is high",0
+326,лъакъуэ,[ɬaːqʷa],leg,0
+327,лъакъуэрыгъажэ,[ɬaqʷarəʁaːʒa],bicycle,0
+328,лъапцӏэ,[ɬaːpt͡sʼa],barefoot,0
+329,лъапӏэ,[ɬaːpʼa],expensive,0
+330,лъащхьэдий,[ɬaːɕħadəj],(anatomy) tarsus,0
+331,лъхугъэ,[ɬxʷəʁa],"child delivery, childbirth",0
+332,лъхуэн,[ɬxʷan],to give birth,0
+333,лъы,[ɬə],blood,0
+334,лъын,[ɬən],to sharpen,0
+335,лъынэ,[ɬəna],bird's fat,0
+336,лъыхугъэ,[ɬxʷəʁa],Alternative form of лъхугъэ (łx°ġă),0
+337,лъыхъун,[ɬəχʷən],"to search
+щӏалэр лӏым лъэхъу — The boy is searching the man.",0
+338,лъэ,[ɬa],leg,0
+339,лъэбакъуэ,[ɬabaːqʷa],step,0
+340,лъэдий,[ɬadəj],"(anatomy) shin, shank",0
+341,лъэн,[ɬan],to jump,0
+342,лъэнкӏапӏ,[ɬant͡ʃʼaːpʼ],Alternative form of лъэнкӏапӏэ (łănč̣̍āṗă),0
+343,лъэнкӏапӏэ,[ɬant͡ʃʼaːpʼa],shin,0
+344,лъэныкъу,[ɬanəqʷ],"one side of
+Идамэ лъэныкъуэми уэсышхуэр къыщосмэIdāmă łănəq̇°ămi wăsəšx°ăr q̇əŝosmăOn one side of his shoulder huge snow is snowing.",0
+345,лъэпкъ,[ɬapq],"kin (race, kind)",0
+346,лъэпкъэгъу,[ɬapq],fellow tribesman,0
+347,лъэпхъуамбэ,[ɬapχʷaːmba],toe (leg),0
+348,лъэпэд,[ɬapad],socks,0
+349,лъэс,[ɬas],"unmounted, dismounted, someone that is going on foot",0
+350,лъэтэн,[ɬatan],to jump up,0
+351,лъэщ,[ɬaɕ],"strong, powerful",0
+352,лъэщӏын,[ɬaɕʼən],to brush,0
+353,лы,[ɮə],meat,0
+354,лыц,[ɮət͡s],moss,0
+355,лэгъунэ,[ɮaʁʷna],room,0
+356,лэгъупэжь,[ɮaʁʷəpaʑ],leader of herdsmen,0
+357,лэжьэн,[laʑan],to work,0
+358,лэн,[lan],"to color, to paint",0
+359,лэпс,[ɮaps],broth,0
+360,лӏо,[ɬʼaw],what (intangible),0
+361,лӏы,[ɬʼə],husband,0
+362,лӏыжьы,[ɬʼəʑə],old man,0
+363,лӏэкъуэцӏэ,[ɬʼaqʷaːt͡sʼa],"family name, surname",0
+364,лӏэн,[ɬʼan],"to die
+Лӏыжьэр лӏaщ — The old-man died.",0
+365,лӏэныгъ,[ɬˤʼanəʁ],death,0
+366,лӏэужь,[ɬʼawəʑ],heredity,0
+367,лӏэужьыгъуэ,[ɬʼawʑəʁʷa],"kin (from which one is originated), origin kin",0
+368,мажьэ,[maːʑa],comb,0
+369,мазэ,[maːza],"month, moon",0
+370,макъ,[maːqa],"voice, sound",0
+371,макъэ,[maːqa],Alternative form of макъ (māq),0
+372,малъхъэ,[maːɬχa],son-in-law,0
+373,мамыр,,"peaceful
+зэман мамыр — peaceful times",0
+374,мафӏэ,[maːfʼa],fire,0
+375,махуэ,[maːxʷa],day,0
+376,махъсымэ,[maːχsəma],a Circassian alcoholic drink (Circassian boza),0
+377,махэ,[maːxa],"weak, fragile",0
+378,мацӏэ,[maːt͡sʼa],locust,0
+379,мащэ,[maːɕa],pit,0
+380,мащӏэ,[maːɕʼa],few,0
+381,модэ,[mawda],"over there (Visible)
+Модэ дывгъакӏу — Let us go there.",0
+382,мывэ,[məva],"rock, stone",0
+383,мыгъуэ,[məʁʷa],"unfortunate, ill-fated, ill-starred",0
+384,мыдэ,[məda],"over here
+Мыдэ къакӏуMədă qāḳ°Come over here.",0
+385,мыл,/məɮ/,ice,0
+386,мылъку,[məɬəkʷ],"assets, stuff, goods, property, wealth",0
+387,мылъхукъуэ,[məɬxʷqʷa],"unbegotten, nonuterine son, stepchild, stepson",0
+388,мыхъумыбз,[məχʷəməbz],hermaphrodite,0
+389,мыхьэнэ,[məħana],meaning,0
+390,мышынэ,[məʃəna],fearless,0
+391,мыщэ,[məɕa],bear,0
+392,мыӏэрыс,[məʔarəs],apple,0
+393,мэджэрэзын,[mad͡ʒarazən],"to spin
+щӏалэр мэджэрэзы — The boy is spinning.",0
+394,мэз,[maz],forest,0
+395,мэзджэд,[mazd͡ʒad],pheasant,0
+396,Мэзкуу,,"Moscow (a federal city, the capital of Russia)",0
+397,мэзэшын,[ʁazaʃən],Alternative form of зэшын (zăšən),0
+398,мэлыхъуэгъу,[maɮəχʷaʁʷ],shepherd's companion,0
+399,мэрем,[marem],Friday,0
+400,мэхуэку,[maxʷakʷ],Thursday,0
+401,набгъэ,[naːbʁa],myopic (having a bad eye-sight),0
+402,набдзэ,[naːbd͡za],eyebrow,0
+403,напэ,[naːpa],face,0
+404,напэкӏуэнцӏ,[naːpakʷʼant͡sʼ],page,0
+405,нарт,[naːrt],(mythology) Nart,0
+406,насып,[naːsəp],"luck
+насып сиӏ — I have luck - I was lucky.",0
+407,натӏэ,[naːtʼa],forehead,0
+408,нобэ,[noːba],today,0
+409,нтӏэ,[ntʼa],yes,0
+410,ныбгъуэ,[nəbʁʷa],Quail (bird),0
+411,ныбджьэгъу,[nəbdʑaʁʷ],each,0
+412,ныбжьэгъу,[nəbʑaʁʷ],friend,0
+413,ныбэ,[nəba],stomach,0
+414,нысэ,[nəsa],"bride, daughter-in-law, sister-in-law",0
+415,нытӏэ,[nətʼa],yes,0
+416,нэгъуэщӏ,[naʁʷʼaɕʼ],"different, another (not the same)",0
+417,нэжэгужэ,[naʒaɡʷəʒa],"cheerful
+Щӏалэр нэжэгужэ — The boy is cheerful.",0
+418,нэз,[nazə],edge (of an area or place),0
+419,нэзы,[nazə],Alternative form of нэз (năz),0
+420,нэкӏу,/nakʷʼ/,face,0
+421,нэмщӏыр,[namɕʼər],"different, another (not the same)
+Нэмщӏыр бжэмышх къызотNămṣ̂ər bžăməšx q̇əzotGive me another spoon.",0
+422,нэмыс,[naməs],"modesty, decency
+Нэмыс зыдэщымыIэм насып щыIэкъым — Where there is no modesty, there is no luck (Circassian proverb)",0
+423,нэмыщӏ,[namɕʼ],"different, another (not the same)",0
+424,нэмыщӏыр,[naməɕʼər],"different, another (not the same)",0
+425,нэмэз,[namaz],prayer,0
+426,нэпс,[naps],tear,0
+427,нэпэуэн,[napawan],to slap someone's face,0
+428,нэпэфэуэн,[napafawan],to slap someone's face,0
+429,нэпэӏэплъэщӏ,[napaʔapɬaɕʼ],napkin,0
+430,нэф,[naf],blind,0
+431,нэху,[naːxʷ],light,0
+432,нэхъ,[naχ],more,0
+433,нэхь,[naħ],Alternative form of нэхъ (năχ),0
+434,нэцӏэн,[nat͡sʼan],Alternative form of енэцӏын (enăc̣ən),0
+435,нэчыхьытх,[nat͡ʃəħətx],"nakahitkh (marriage registration ceremony)
+Нэчыхьыр тхынымрэ абы епха хьэгъуэлIыгъуэмрэ.",0
+436,нэщанэ,[naɕana],Alternative form of нэщэнэ (năš̍ănă),0
+437,нэщэнэ,[naɕana],"sign, indication",0
+438,нэщӏ,[naɕʼ],empty,0
+439,папцӏэ,[paːpt͡sʼa],sharp (Sharp edge),0
+440,папщӏэ,[paːpɕʼa],"for
+Cабийхэм папщIэкIэ тхылъ.Cābijxăm pāpŝIăkIă txəł.book for children.
+Абы уэр папщIэкIэ сытри ищIэнщ.Ābə wăr pāpŝIăkIă sətri iŝIănŝ.he will do everything for you.
+Cабийхэм папщIэкIэ гузэвэн.Cābijxăm pāpŝIăkIă g°zăvăn.Worry about children or for children.
+Cабийхэм папIщIэ гулъытэ.Cābijxăm pāpIŝIă g°łətă.To care for children.
+Лэжьыгъэм папщIэ пщIэ етын.Lăẑəġăm pāpŝIă pŝIă etən.To pay for work.",0
+441,папщӏэкӏэ,[paːpɕʼat͡ʃʼa],"for
+А зэманым урыс культурэм пыщIа хъун папщIэ, бгырысхэм я дежкIэ хэкIыпIэ нэхъыщхьэу щытар урысыдзэм къулыкъу щыщIэнырт.Ā zămānəm wrəs k°l’twrăm pəš̍Iā χ°n pāpš̍Iă, bɣərəsxăm jā dežkIă xăkIəpIă năχəš̍ḥăw š̍ətār wrəsəʒăm q°ləq° š̍əš̍Iănərt.(please add an English translation of this usage example)
+Елдаррэ уэрэ папщIэ сэ сымыщIэн щыIэ?Eldārră wără pāpš̍Iă să səməš̍Iăn š̍əIă?Is there something I can't do for you and Jeldar?
+Анэм Кэзибан жриIэу: Ар {Джэримэс} цIыху Iейхэм къагъэпцIауэ Мис уэр папщIэ сфIагъэкIуэдыр.Ānăm Kăzibān žriIăw: Ār {Ǯ̍ărimăs} cIəx° Iejxăm qāġăpcIāwă Mis wăr pāpš̍Iă sfIāġăkIwădər.(please add an English translation of this usage example)",0
+442,пасэ,[paːca],early,0
+443,пащтыхь,[paːɕtəħ],"king, emperor, sultan, caesar",0
+444,пжэндэхъу,[pʒandaχʷ],starling,0
+445,пкъы,[pqə],body,0
+446,плъыжьы,[pɬəʑə],red,0
+447,плъэн,[pɬan],"to look
+щӏалэр пщащэм еплъы — The boy is looking at the girl.",0
+448,плӏы,[pɬʼə],four,0
+449,псалъэ,/psaːɬa/,word,0
+450,псей,[psej],fir,0
+451,псо,[psaw],"whole, intact",0
+452,псори,[psawri],all,0
+453,псы,[psə],"water, liquid",0
+454,псыбыб,[psəbəb],blister,0
+455,псыджэд,[psəd͡ʒad],duck,0
+456,псыдыуэ,[psədəwa],leech,0
+457,псынщӏэ,[psənɕʼa],"quick, fast
+Жьым хуэдэу псынщӏэ — as fast as wind",0
+458,псыунэ,[psəwəna],toilet,0
+459,псыфалъэ,[psəfaːɬa],"a tool to store drinkable liquid in (such as jug, glass, cup, mug and bowl)",0
+460,псыфэнд,[psəfand],hippopotamus,0
+461,псыхъо,[psəχʷa],river,0
+462,псэ,[psa],soul,0
+463,псэлъэкъуэн,[psaɬaqʷan],to talk,0
+464,псэлъэн,[mapsaɬan],to talk,0
+465,псэущхьэ,[psawɕħ],animal,0
+466,псэхэлӏэ,[psaxaɬʼz],"(animate) carrion, offal (dead flesh; carcasses), dead (of animals)",0
+467,пуд,[pʰud],cheap,0
+468,пхъампэ,[pχaːmpa],a piece of wood,0
+469,пхъу,[pχʷə],daughter,0
+470,пхъурылъху,[pχərəɬxʷ],grandchildren (on the line of the daughter); one's daughter's children,0
+471,пхъы,[pχə],carrot,0
+472,пхъэ,[pχa],wood,0
+473,пхъэдзакӏэ,[pχad͡zaːt͡ʃa],charred log,0
+474,пхъэхуей,,birch,0
+475,пхэ,[pxa],behind,0
+476,пхэнж,[pxanʒ],wrong,0
+477,пцӏанэ,[pt͡sʼaːna],naked,0
+478,пцӏы,[pt͡sʼə],a lie,0
+479,пшагъо,[pʃaːʁʷa],fog,0
+480,пшахъуэ,[pʃaχʷa],sand,0
+481,пшынэ,[pʃəna],accordion,0
+482,пщащэ,[pɕaːɕa],"girl, young woman",0
+483,пщтыр,[pɕtər],burned (usually food),0
+484,пщы,[pɕə],prince,0
+485,пщылӏы,[pɕəɬʼ],slave,0
+486,пщылӏыгъуэ,[pɕəɬʼəʁʷa],slavery,0
+487,пщынауэ,[pɕənaːwa],"accordionist, a person that plays accordion",0
+488,пщыхьэщхьэ,[pɕəħaɕħa],evening,0
+489,пщэдджыжь,[pɕadd͡ʒəʑ],morning,0
+490,пщэдей,[pɕadaj],tomorrow,0
+491,пщэдыкъ,[pɕadəq],front of the neck,0
+492,пщэры,[pɕarə],fat,0
+493,пщӏантӏэпс,[pɕʼaːntʼaps],sweat,0
+494,пщӏатӏэ,[pɕʼaːtʼa],sweat,0
+495,пщӀы,[pɕʼə],ten,0
+496,пщӏыхь,[pɕʼəħ],dream,0
+497,пщӏыхьапӏэ,[pɕʼəħaːpʼa],dream,0
+498,пычын,[pət͡ʃən],"to pick (fruit, ticket)",0
+499,пэ,[pa],nose,0
+500,пэж,[paʒ],truth,0
+501,пэш,[paʃ],room,0
+502,пэщын,[paɕən],snot,0
+503,пӏалъэ,[pʼaːɬa],appointment,0
+504,пӏастэ,[pʼaːsta],porridge,0
+505,пӏэнкӏын,[pʼant͡ʃʼəm],"to pop, to burst (to break from internal pressure)",0
+506,пӏэтепхъуэ,[pʼatepχʷa],bed sheet,0
+507,сабый,[saːbəj],child,0
+508,сабын,[saːbən],soap,0
+509,санэ,[saːna],currants,0
+510,сахъэ,[saːχa],saccharine grains,0
+511,сымаджэ,[səmaːd͡ʒa],"sick, ill",0
+512,сын,/sən/,statue,0
+513,сын,/sən/,to burn,0
+514,сыр,[sər],spicy,0
+515,сыт,[sət],what (tangible),0
+516,сыхьэт,/səħat/,hour,0
+517,сэкъат,[saqaːt],"defective, out of order, not functioning/working properly,",0
+518,сэхыжын,[saxəʒən],Alternative form of къэсэхыжын (qăsăxəžən),0
+519,сэхын,[saxən],Alternative form of къэсэхыжын (qăsăxəžən),0
+520,сэшхо,[saʃxʷa],sword,0
+521,телъэдэн,[tajɬadan],"to attack with unfounded accusations, to run toward;",0
+522,тенджыз,[tend͡ʒəz],sea,0
+523,теувэн,[tajvan],to stop on,0
+524,техакӏуэ,[tajxaːkʷʼa],robber,0
+525,техьэн,[tajħaːn],"to go on the surface of something,
+Щӏалэр унащхьэм техьэŠ̍ʾālăr wnāš̍ḥăm teḥăThe boy is going up the roof.",0
+526,тутын,[təwtən],cigarette,0
+527,тху,[txʷə],five,0
+528,тхуей,[txʷej],beech,0
+529,тхъо,[tχʷa],gray hair; dun,0
+530,тхъун,[tχʷən],"to clean (out, up)",0
+531,тхыбзэ,[txəbza],literary,0
+532,тхыгъэ,[txəʁa],writing,0
+533,тхыдэ,[txəda],story,0
+534,тхылъ,[txəɬ],book,0
+535,тхылъымпӏэ,[txəɬəmpʼa],paper,0
+536,тхыпкъылъэ,[txəpqəɬa],alphabet,0
+537,тхыпкъэ,[txəpqa],letter,0
+538,тхьэ,[tħa],god,0
+539,тхьэв,[tħav],dough,0
+540,тхьэкӏумэ,[tħakʷʼma],ear,0
+541,тхьэмадэ,[tħamaːda],"foreman (of a village), boss, master (superior person",0
+542,тхьэмахуэ,[tħamaːxʷa],week,0
+543,тхьэмбылыфэ,[tħambələfa],pink,0
+544,тхьэмбылыфэ,[tħambələfa],pink,0
+545,тхьэмпэ,[tħaːpa],leaf,0
+546,тхьэмыщкӏэ,[tħaːməɕt͡ʃa],poor (A person with little/no money or possessions),0
+547,тхьэрыкъу,[tħarəqʷ],pigeon,0
+548,Тхьэшхуэ,[tħaʃxʷa],The Supreme God.,0
+549,тхьэщӏын,[tħaɕʼən],to wash,0
+550,тхьэӏухуд,/tħaʔʷəxʷəd/,beauty,0
+551,тхэн,[txan],to write,0
+552,тынш,[tənʃ],easy,0
+553,тэлай,[talaj],"while
+зы тэлайкIэzə tălājkIăfor a while",0
+554,тӏатӏэ,[tʼaːtʼa],soft,0
+555,тӏу,,two,0
+556,тӏы,[tʼə],ram,0
+557,тӏын,[tʼən],to dig,0
+558,тӏысын,[tʼəsən],to sit down,0
+559,тӀэкӀу,[tʼakʷʼ],a bit,0
+560,тӏэпӏын,[tʼsapʼən],"to be unstitched, to be torn at the seams",0
+561,тӏэтэн,[tʼatan],to disband,0
+562,уанэ,[waːna],"saddle
+ишы уанэ трелъхьэ — He put saddle on his horse.
+шым уанэ тэлъ — There is a saddle on the horse.",0
+563,уасэ,[waːsa],"cost, price",0
+564,уафэ,[waːfa],sky,0
+565,уашхэ,[waːʃxa],badger,0
+566,убжьытхэн,[maʒʷətxan],to spit,0
+567,увын,[wvən],to stop,0
+568,уд,[wəd],witch,0
+569,удж,[wəd͡ʒ],dance,0
+570,уджын,[wd͡ʒən],to dance,0
+571,удз,[wəd͡z],grass,0
+572,удзыфэ,[wəd͡zəfa],green,0
+573,удзэгун,[wəd͡zaɡʷən],to rust,0
+574,ужэгъун,[wəʒaʁʷən],"to hate, to dislike
+ЩӀалэр мыӏэрыс еужэгъу — The boy dislikes apple.
+Абы сэ сеужэгъу — He hates me.",0
+575,уз,[wəz],"disease, illness",0
+576,узыншагъэ,[wəzənʃaʁa],"health
+А псори узыншагъэмкӀэ сэбэпщ. — All this is good for health.",0
+577,узыныгъэ,/wəzənəʁa/,pain,0
+578,укӏын,[wət͡ʃʼən],to kill,0
+579,укӏыт,[wt͡ʃət],"modesty, humility",0
+580,укӏытэн,[wt͡ʃətan],"to be ashamed
+щӏалэр мэукӏытэ — The boy is ashamed.",0
+581,унагъуэ,[wnaːʁʷa],family,0
+582,унагъуэбзэ,[wənaːʁʷabza],language family,0
+583,унагъуэцӏэ,[wnaːʁʷat͡sʼa],"family name, last name",0
+584,унафэ,[wənaːʂʷa],mention,0
+585,унащхьэ,[wnaːɕħa],roof,0
+586,унэ,[wəna],house,0
+587,унэгъуэцӏэ,[wənaʁʷat͡sʼa],"family name, surname",0
+588,унэӏут,[wnaʔʷt],servant; house serf; menial,0
+589,упщӏэ,[wəpɕʼa],question,0
+590,урыс,[wərəs],a Russian (person),0
+591,ухуэнщӏын,[wxʷanɕʼən],to sift,0
+592,ущхъухьын,[wəɕχʷħən],to cast a spell on someone,0
+593,ущыгун,[wəɕəɡʷən],to chop,0
+594,уэ,[wa],you (singular),0
+595,уэд,[wad],"slim
+Щӏалэр уэд — The boy is slim.",0
+596,уэлбанэ,/waɮbaːna/,weather,0
+597,уэн,[wan],"to hit (someone or something, not by throwing)",0
+598,уэндэгъу,[wandaʁʷ],heavy,0
+599,уэрам,/waraːm/,street,0
+600,уэрэд,[warad],song,0
+601,уэрэджыӏакӏуэ,[warad ʒəʔaːkʷʼa],"singer
+кӀалэр уэрэджыӏакӏуэ — The boy is a singer.",0
+602,уэс,[wasə],snow,0
+603,уэфэгу,[wafaɡʷ],"sky, zenith",0
+604,фадэ,/faːda/,wine,0
+605,фиин,[fəjan],"to whistle
+Щӏалэр мэфийŠ̍ʾālăr măfijThe boy is whistling.
+Сэ сэфыйSă săfəjI am whistling.",0
+606,фо,[faw],honey,0
+607,фоч,[fot͡ʃ],rifle,0
+608,фошыгъу,[fawʃəʁʷ],sugar,0
+609,фты,[fətə],"butt, buttock",0
+610,фыз,[fəz],"wife, woman",0
+611,фызабэ,[fəzaːba],widow,0
+612,фэ,[fa],you (plural),0
+613,фэ,[fa],"skin, color",0
+614,фэу,[faw],Alternative form of фо (fo),0
+615,фӏалъэ,[fʼaːɬa],foreleg,0
+616,фӏамыщӏ,[fʼaːməɕʼ],coal,0
+617,фӏей,[fʼej],"dirty, джэнэ фӏэй ― ǯ̍ănă f̣ăj ― Dirty shirt, crud",0
+618,фӏы,[fʼə],good,0
+619,фӏыншэ,,palate,0
+620,фӏыцӏафэ,[fʼət͡sʼaːfa],dark,0
+621,фӏыцӏэ,[fʼət͡sʼa],black,0
+622,фӏыцӏэ,[fʼət͡sʼa],black,0
+623,фӏыщӏэ,[fʼəɕʼa],noble,0
+624,фӏэкӏ,[baːɮəd͡ʒa],except,0
+625,фӏэхъус,[fʼaχʷəs],greetings,0
+626,фӏэщ,[fʼaɕ],hypothesis,0
+627,фӏэщӏын,[fʼaɕʼən],to seem for,0
+628,хадэ,[xaːda],garden,0
+629,хамэ,[xaːma],stranger,0
+630,хуабжь,[xʷaːbʑ],big,0
+631,хуабэ,[xʷaːba],"heat
+хуабэм сеукӏы — The heat is killing me.",0
+632,хуабэ,[xʷaːba],hot,0
+633,хугу,[xʷəɡʷ],mallet,0
+634,хуеин,[xʷejən],"to want
+Абы зири хуеякъым — Nobody wanted that.
+Щӏалэр мыӏэрыс хуей — The boy want an apple.",0
+635,хужьы,[xʷəʑə],white,0
+636,хужьы,[xʷəʑə],white,0
+637,хун,[xʷən],"to drive
+шыхэр псым хун.šəxăr psəm x°n.To drive the horses to the water.",0
+638,хущхъуэ,[xʷəɕχʷa],medication,0
+639,хуэгуэшын,[xʷaɡʷaʃən],Alternative form of гуэшын (g°ăšən),0
+640,хуэгъэгъун,[xʷaʁaʁʷən],to forgive,0
+641,хуэд,[xʷad],"like (Similar)
+щӏалэр къэсхуэд — The boy is like me.
+синэмэ яхуэд — Like my eyes.
+а хуэдэу зымышӏ — Don't be/act like that.
+cэхуэд — Like me.",0
+642,хуэпэн,[xʷapan],"to dress someone
+Сабыир хуэпэнSābəir x°ăpănTo dress a baby.
+Пщащэм сабыир йохуапэPš̍āš̍ăm sābəir jox°āpăThe girl is dressing the baby.",0
+643,хуэфӏ,[zaːɬʼaʒən],to be suitable for,0
+644,хуэщӏын,[xʷaɕʼən],"to do something for someone
+Шӏалэм унэ сэ хуэсэщӏыṢ̂ālăm wnă să x°ăsăš̍ʾəI am doing a house for the boy.",0
+645,хуэӏаз,[xʷaʔaːz],"skillful, Ар IохущIакIэм хуэIазĀr Iox°š̍IākIăm x°ăIāzHe",0
+646,хъарбыз,[χaːrbəz],watermelon,0
+647,хъу,[χʷə],male,0
+648,хъуанэ,[χʷaːna],"curse, swear",0
+649,хъужын,[χʷəʒən],"to become healthy again, to become cured",0
+650,хъулъхугъэ,[χʷəɬxʷəʁa],man,0
+651,хъумбылэ,[χʷəmbəɮa],hop (plant),0
+652,хъумпӏэцӏэдж,[χʷmpʼat͡ʃʼad͡ʒ],ant,0
+653,хъумэн,[χʷəman],to guard,0
+654,хъунщӏакӏуэ,[χʷnɕʼaːkʷʼa],"thief, burglar, robber",0
+655,хъурей,[χʷəreːj],circle,0
+656,хъуэжэн,[χʷaʑan],to exchange,0
+657,хъуэнэн,[χʷanan],"to curse, to swear
+щӏалэр мэхъуанэ — The boy is cursing.",0
+658,хъуэпсэн,[χʷapsan],to envy,0
+659,хъыджэбз,[χəd͡ʒabz],girl,0
+660,хъэн,[χan],"to tie up, to bind",0
+661,хы,[xə],six,0
+662,хы,[xə],sea,0
+663,хыкхъуэ,[xəq͡χʷa],dolphin,0
+664,хьакӏэкхъуакӏэ,[ħaːt͡ʃaqχʷaːt͡ʃa],predatory,0
+665,хьамцӏырачэ,[ħaːmt͡sʼəraːt͡ʃa],wart,0
+666,хьащӏэ,[ħaːɕʼa],guest,0
+667,хьейнапэ,[ħajənaːp],shame,0
+668,хьэ,[ħa],dog,0
+669,хьэв,[ħav],puppy,0
+670,хьэвэ,[ħava],rick,0
+671,хьэдэ,[ħada],"a dead body, corpse",0
+672,хьэжыгъэ,[ħaʒəʁa],flour,0
+673,хьэку,[ħakʷ],oven,0
+674,хьэкъмакъ,[ħaqmaːq],fool,0
+675,хьэлъэ,[ħaɬa],weight,0
+676,хьэлэмэт,[ħaɮamat],interesting,0
+677,хьэмашэ,[ħamaːʃa],penis,0
+678,хьэмбылыу,[ħambələw],worm,0
+679,хьэндырабгъуэ,[ħandəraːbʁʷa],butterfly,0
+680,хьэндыркъуакъуэ,[ħandərqʷaːqʷa],frog,0
+681,хьэнцэ,[ħant͡sa],shovel,0
+682,хьэпӏацӏэ,[ħapʼaːt͡sʼa],worm,0
+683,хьэрыф,[ħarəf],"letter, Synonym: тхыпкъэ (txəpq̇ă)",0
+684,хьэрыфылъэ,[ħarəfəɬa],alphabet,0
+685,хьэуа,/ħawaː/,air,0
+686,хьэуэ,[ħawa],no,0
+687,хьэщомыщ,[ħaɕawməɕ],tiger,0
+688,хьэщхьэрыӏуэ,[ħaɕħarəʔʷ],mad,0
+689,хэдзын,[xad͡zən],"to choose, to elect",0
+690,хэкъутыхьын,[xaqʷətəħən],"to break/shatter an object in a certain area (like inside a battlefield)
+Дзакӏуэм и пжы зэуапӏэм хикъутыхьащƷāḳ°ăm i pžə zăwāṗăm xiq°təḥāš̍The soldier broke his spear in the battlefield.",0
+691,хэкӏын,[xat͡ʃʼən],"to get through, to go through
+Щӏалэр псым хэкӏащ — The boy got through the water.",0
+692,хэлъын,[xaɬən],"to lie somewhere, in smth.
+пIэм хэлъын — to lie in bed.",0
+693,хэт,[xat],who,0
+694,хэхын,[xaxən],to take something/someone from among others,0
+695,хэщӏын,[xaɕʼən],to get decreased,0
+696,цакуэ,[t͡saːkʷa],jacket,0
+697,цы,[t͡sə],yarn,0
+698,цӏакӏэ,[t͡sʼaːt͡ʃa],nit,0
+699,цӏуун,[t͡sʼəwən],"to shine
+Вагъуэр мэцӏууVāġ°ăr măcʾ°wThe star is shining.",0
+700,цӏыжьбанэ,/t͡sʼəʑbaːna/,hedgehog,0
+701,цӏыкӏу,[t͡sʼəkʷʼ],"little
+щӏэлэ цӏыкӏу — Little boy.
+щӏалэр цӏыкӏу — The boy 'is little.",0
+702,цӏыху,[t͡sʼəxʷə],"person, human",0
+703,цӏыхубз,/t͡sʼəxʷəbz/,woman,0
+704,цӏыхун,[t͡sʼəxʷən],"to know someone
+Сыцӏыхукъым ар — I don't know him.",0
+705,цӏыхухъу,/t͡sʼəxʷəχʷ/,"man, husband",0
+706,цӏэ,[t͡sʼa],name,0
+707,чы,[t͡ʃə],twig,0
+708,чыл,[t͡ʃəɮ],hut,0
+709,чэ,[t͡ʃa],spleen,0
+710,чэнж,[t͡ʃanʒ],shallow,0
+711,шабзэ,[ʃabza],arrow,0
+712,шагъыр,/ʃaːʁər/,wine,0
+713,шае,[ʃaːja],tea,0
+714,шамбыр,,bamboo,0
+715,шатэ,[ʃaːta],cream,0
+716,шу,[ʃəw],horseman,0
+717,шхуэ,[ʃxʷa],big,0
+718,шхъуантӏэ,/ʃχʷaːntʼa/,blue,0
+719,шхыӏэн,[ʃxəʔan],bed sheet,0
+720,шыбжий,[ʃəbʒij],pepper,0
+721,шыгъу,[ʃəʁʷ],salt,0
+722,шыд,[ʃəd],donkey,0
+723,шыды,[ʃəd],Alternative form of шыд (šəd),0
+724,шылъэгу,[ʃəɬaɡʷə],turtle,0
+725,шылэ,/ʃəɮa/,silk,0
+726,шынагъуэ,[ʃənaʁʷa],fear,0
+727,шынэхъыжь,[ʃənaːχəʑ],older brother,0
+728,шынэхъыщӏ,[ʃənaːχətɕʼ],younger brother,0
+729,шыпхъу,[ʃəpχʷ],sister,0
+730,шэ,[ʃa],milk,0
+731,шэджагъуэ,[ʃad͡ʒaːʁʷa],noon,0
+732,шэмэдж,[ʃamaɡʲʼ],scythe,0
+733,шэрэхъ,[ʃaraχ],wheel,0
+734,шэсын,[ʃasən],to mount,0
+735,шэфтал,/ʃaftaːɮ/,peach,0
+736,шэху,[ʃaxʷə],wax,0
+737,щабэ,[ɕaːba],soft,0
+738,щапхъэ,[ɕaːpχa],"example
+Щапхъэ техынŠ̍āpχă texənTo take an example from someone.
+Щапхъэ егъэлъэгъунŠ̍āpχă eġăłăġ°nTo show an example.
+Щапхъэ къэхьынŠ̍āpχă qăḥənTo bring an example.",0
+739,щауэ,[ɕaːwa],boy,0
+740,щхъухь,/ɕχʷəħ/,poison,0
+741,щхъырыб,[ɕχərəb],gooseberry,0
+742,щхьэ,[ɕħa],head,0
+743,щхьэгъубжэ,[ɕħaʁʷəbʒa],window,0
+744,щхьэгъусэ,[ɕħaʁʷəsa],"spouse, marriage partner",0
+745,щхьэкӏэ,[ɕħat͡ʃʼa],"however, although, yet
+Жэщыр хэкIуэта щхьэкIэ, уэрамым цIыху куэд щызэхэзеуэрт.Žăš̍ər xăkIwătā š̍ḥăkIă, wărāməm cIəx° k°ăd š̍əzăxăzewărt.(please add an English translation of this usage example)
+ХамэIэр Iэгъэпсэху щхьэкIэ, гугъэпсэхукъымXāmăIăr Iăġăpsăx° š̍ḥăkIă, g°ġăpsăx°qəm(please add an English translation of this usage example)",0
+746,щхьэхын,[ɕħaxən],"to be lazy, to be unwilling to do work or make an effort,",0
+747,щхэн,[ɕxan],to eat,0
+748,щы,,three,0
+749,щыгу,[ɕəɡʷ],"peak, peak top",0
+750,щыгуфӏыкӏын,[ʃəɡʷəfʼt͡ʃʼən],to rejoice for someone,0
+751,щыгъуэ,[ɕəʁʷa],mourning,0
+752,щыгъэтын,[ɕəʁatən],"to shut up; to stop talking; to shush
+Щӏалэм щегъэтыŠ̍ʾālăm š̍eġătəThe boy shuts up.
+ЩыгъэтŠ̍əġătShut up.
+Щӏалэм щигъэтырэпŠ̍ʾālăm š̍iġătərăpThe boy does not shut up.
+Сэ щэсэгъэтыSă š̍ăsăġătəI shut up.",0
+753,щыдыхьэшхын,[ɕədəħaʃxən],"to laugh at someone
+Щӏалэр пщащэм щыдыхьэщхыṢ̂ālăr pŝāŝăm ŝədəḥăŝxəThe boy is laughing at the girl.",0
+754,щынэ,[ɕəna],lamp,0
+755,щыхьэр,/ɕəħar/,city,0
+756,щыӏ,[ɕəʔ],exist,0
+757,щыӏэн,[ɕəʔan],to exist,0
+758,щыӏэцӏэ,[ɕəʔat͡sʼa],noun,0
+759,щэ,[ɕa],hundred,0
+760,щэбэт,[ɕabat],Saturday,0
+761,щэкӏ,[ɕat͡ʃʼ],fabric,0
+762,щэн,[ɕan],behavior,0
+763,щэн,[ɕan],to sell,0
+764,щэныншэ,[ɕanənʃa],"a naughty person, a person with a bad behavior",0
+765,щэху,[ɕaxʷə],"quiet, silence, Щӏалэ щэхур мэщхащ — The quiet boy",0
+766,щэхун,[ɕaxʷən],to buy,0
+767,щӏакхъуэ,/ɕʼaːqχʷa/,bread,0
+768,щӏакхъуэгъэтэдж,[ɕʼaːqχʷaʁataːd͡ʒ],hop (plant),0
+769,щӏалэ,[ɕʼaːɮa],"boy, young man",0
+770,щӏалэгъуалэ,[ɕʼaːɮaʁʷaːɮa],"the young, youth, young people (collective)",0
+771,щӏегъуэжын,[ɕʼeʁʷaʑən],to regret,0
+772,щӏы,[ɕʼa],ground,0
+773,щӏыб,[ɕʼəb],"behind
+Уи щӏыб къэсхуэмыгъазэ — Don't turn your back on me.",0
+774,щӏыгу,[ɕʼəɡʷ],"land, earth",0
+775,щӏыгъун,[ɕʼəʁʷən],"to accompany, to escort",0
+776,щӏыкӏафӏэ,[ɕʼət͡ʃʼaːfʼa],manners,0
+777,щӏыкӏэ,[ɕʼət͡ʃʼa],manner,0
+778,щӏылъэ,[ɕʼəɬa],land,0
+779,щӏымахуэ,/ɕʼəmaːxʷa/,winter,0
+780,щӏышылэ,[ɕʼəʃəla],January,0
+781,щӏыӏу,[ɕʼəʔʷ],button,0
+782,щӏыӏэ,[ɕʼəʔa],cold,0
+783,щӏыӏэ,[ɕʼəʔa],cold,0
+784,щӏэ,[ɕʼa],"new, modern, fresh, young",0
+785,щӏэлъхьэн,[ɕʼaɬħan],"to put/place something under something
+тхылъыр ӏанэм щIилъхьащtxəłər ʾānăm š̍Iiłḥāš̍(S)he placed the book under the table.",0
+786,щӏэлэ-гъуал,[ɕʼala ʁʷaːɮa],child,0
+787,щӏэлэгъу,[ɕʼaɮaʁʷ],childhood,0
+788,щӏэн,[ɕˈan],hemp,0
+789,щӏэн,[ɕˈan],to do,0
+790,щӏэныгъэ,[ɕʼanəʁa],knowledge,0
+791,щӏэп,[ɕʼap],"(botany) cannabis, hemp",0
+792,щӏэтэкъун,[ɕʼataqʷən],"to strew (on the ground), To distribute objects or pieces of something on the ground (especially in a random manner)",0
+793,щӏэупщӏэн,[ɕʼawptɕʼan],to ask,0
+794,щӏэуфэ,[ɕʼawfa],camouflage,0
+795,щӏэуфэн,[ɕʼawfan],to cover,0
+796,щӏэхыу,[ɕʼaxaw],"quickly
+Щӏэхэу ӏуэхур зэфӏэкӏащŠ̍ʾăxăw ʾ°ăx°r zăf̣ăč̣̍āš̍The work was done quickly.
+Щӏэхэу кӏуащŠ̍ʾăxăw ḳ°āš̍He went quickly.",0
+797,щӏэхьэн,[ɕʼəħan],"to overtake someone and surpass him, to catch up with someone",0
+798,яжьэ,[jaːʑa],ash,0
+799,япэ,/jaːpa/,first,0
+800,япэ,/jaːpa/,first person,0
+801,ятӏэ,[jaːtʼa],dirt,0
+802,ӏанэ,[ʔaːna],Alternative form of анэ (ānă),0
+803,ӏахъуэ,[ʔaχʷa],herdsman,0
+804,ӏу,[ʔʷə],mouth,0
+805,ӏуащхьэ,[ʔʷaːɕħa],mount,0
+806,ӏуащхьэмахуэ,[ʔʷaɕħamaːxʷa],Mount Elbrus (a mountain in the Caucasus),0
+807,ӏувы,[ʔʷəvə],"thick, dense",0
+808,ӏугъо,[ʔʷəʁʷa],smoke,0
+809,ӏункӏыбзэ,[ʔʷənt͡ʃʼəbza],key,0
+810,ӏупс,[ʔʷəp],saliva,0
+811,ӏупэ,[ʔʷəpa],lip,0
+812,ӏущэщэн,[ʔʷəɕaɕan],"to whisper
+абы Iущэщэныр ищIас — He likes to whisper.",0
+813,ӏуэху,[ʔʷaxʷ],work,0
+814,ӏыгъэн,[ʔəʁan],to hold,0
+815,ӏэ,[ʔa],arm,0
+816,ӏэбжьанэ,[ʔabʑaːna],fingernail,0
+817,ӏэгъуапэ,[ʔaʁʷaːpa],sleeve (of a shirt),0
+818,ӏэзэ,[ʔaza],skilful,0
+819,ӏэлъын,[ʔaɬən],ring,0
+820,ӏэпкълъэпкъ,[ʔapqɬapq],body (of a human or animal),0
+821,ӏэпхъуамбэ,/ʔapχʷaːmba/,finger,0
+822,ӏэрыпӏ,[ʔarəpʼ],tame,0
+823,ӏэтын,[ʔaːtən],"to lift, to raise",0
+824,ӏэхъуэгъу,[ʔaχʷaʁʷ],herd,0
+825,ӏэщӏэзын,[ʔaɕʼazən],"to drop something unintentionally (from one's hand)
+Мыӏэрысхэр къыпӏэщӏэзыхMəʾărəsxăr qəṗăš̍ʾăzəxYou are dropping the apples.(literally, “The apples are dropping from you.”)",0
+826,ӏэщӏэкӏын,[ʔaɕʼat͡ʃʼən],"to let someone get away or run away (inadvertently),",0
+827,ӏэщӏэукӏэн,[ʔaɕʼawt͡ʃʼan],to kill somebody inadvertently,0

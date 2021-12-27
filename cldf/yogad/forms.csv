@@ -1,0 +1,645 @@
+ID,Form,IPA,Gloss,Language_ID
+0,abaga,,(anatomy) shoulder,0
+1,abak,,sleeping mat,0
+2,abang,,boat,0
+3,abbay,,female carabao,0
+4,abbung,,cover,0
+5,abbut,,hole,0
+6,abu,,ash,0
+7,abugadu,,lawyer,0
+8,abungubungu,,(anatomy) fontanelle,0
+9,addan,,"ladder, stairs; stairway; staircase",0
+10,addu,,two,0
+11,addug,,thunder,0
+12,adwafulu,,twenty,0
+13,afu,,grandchild,0
+14,afungat,,chicken louse,0
+15,afuy,,fire,0
+16,agal,,(anatomy) liver,0
+17,agatul,,crab,0
+18,agaw,,ginger,0
+19,agaw,,day,0
+20,agirerattan,,doormat,0
+21,akakawa,,spider,0
+22,akkawangan,,waist,0
+23,alag,,scabbard,0
+24,alambri,,wire,0
+25,alinak,,short,0
+26,alinta,,leech,0
+27,alipappat,,firefly,0
+28,alit,,snot; mucus,0
+29,alladdu,,key,0
+30,allak,,pity; mercy,0
+31,allalatang,,poison ivy,0
+32,alugganakan,,(anatomy) uterus,0
+33,alwang,,wide,0
+34,anak,,child,0
+35,anay,,termite,0
+36,andagwak,,heron,0
+37,anggi,,body odor,0
+38,angulolu,,tadpole,0
+39,anibib,,whisper,0
+40,aninu,,shadow; reflection,0
+41,annab,,flood,0
+42,annam,,six,0
+43,annamafulu,,fifty,0
+44,annun,,locust,0
+45,anup,,hunt,0
+46,aparador,,cabinet,0
+47,apili,,pin,0
+48,apilyidu,,surname,0
+49,appan,,bait; trap,0
+50,appat,,four,0
+51,appin,,diaper,0
+52,aradu,,plow,0
+53,arak,,(anatomy) throat,0
+54,aranggok,,snore,0
+55,aresga,,effort,0
+56,arigi,,post (of a house),0
+57,arimusal,,breakfast,0
+58,arina,,flour,0
+59,aritus,,earring,0
+60,asada,,hoe,0
+61,asil,,(anatomy) vulva,0
+62,asin,,salt,0
+63,asit,,thorn,0
+64,asitu,,puppy,0
+65,assamal,,flea,0
+66,assimban,,church,0
+67,assip,,rice crust; burnt rice sticking to the bottom of the pot,0
+68,assup,,steam; vapor,0
+69,asukar,,sugar,0
+70,atallin,,narrow,0
+71,atang,,offering; sacrifice,0
+72,atap,,roof (the cover at the top of a building),0
+73,atatub,,joke,0
+74,atawa,,spouse; husband; wife,0
+75,atawli,,starch,0
+76,attay,,feces,0
+77,attit,,fool,0
+78,attud,,stump (of a tree),0
+79,attut,,fart,0
+80,atu,,dog,0
+81,atuk,,smoke,0
+82,ayam,,animal,0
+83,ayayat,,taunt,0
+84,ayong,,monkey,0
+85,babay,,woman,0
+86,babbag,,wind,0
+87,baggina,,he; she,0
+88,bagu,,new,0
+89,baka,,cow,0
+90,bakulud,,mountain,0
+91,balangkag,,fool,0
+92,balansinat,,eggplant,0
+93,balat,,answer; reply,0
+94,baldi,,bucket,0
+95,balsa,,raft,0
+96,bambal,,laundry,0
+97,bambang,,(anatomy) ear,0
+98,bangus,,milkfish,0
+99,banig,,ghost,0
+100,banwet,,fishhook,0
+101,barabara,,tapeworm,0
+102,barabay,,stick (for throwing),0
+103,barbas,,beard,0
+104,baruk,,(anatomy) bladder,0
+105,basi,,sugarcane wine,0
+106,basikul,,a kind of aquatic snail,0
+107,basikut,,lizard,0
+108,basingil,,mumps,0
+109,basisaw,,urinary discomfort,0
+110,basiyan,,sneeze,0
+111,basura,,garbage; trash,0
+112,bata,,wet,0
+113,battu,,blister,0
+114,bayabat,,guava,0
+115,bebay,,ocean,0
+116,bentilador,,electric fan,0
+117,bibig,,(anatomy) mouth,0
+118,bigote,,moustache,0
+119,biki,,eggshell,0
+120,bikul,,hairknot,0
+121,bilang,,number,0
+122,billak,,bamboo stick,0
+123,binalay,,house,0
+124,binallay,,a kind of rice cake,0
+125,binarayan,,wine,0
+126,bingkan,,coconut shell,0
+127,binola,,thread,0
+128,bintana,,window,0
+129,birang,,dragonfly,0
+130,bisin,,hunger,0
+131,bisita,,visitor,0
+132,bittul,,knot,0
+133,bitugal,,gizzard,0
+134,bitun,,star,0
+135,bolsa,,pocket,0
+136,bombong,,bamboo piggybank,0
+137,bote,,bottle,0
+138,botika,,drugstore,0
+139,botu,,vote,0
+140,boyang,,naked,0
+141,braso,,(anatomy) arm,0
+142,brilyante,,diamond,0
+143,bubun,,well (for water),0
+144,bugat,,harvest,0
+145,buk,,hair,0
+146,bukarut,,crocodile,0
+147,bukat,,rat,0
+148,bukul,,bump; lump,0
+149,bula,,boar,0
+150,bulador,,kite (toy),0
+151,bulalayaw,,rainbow,0
+152,bulan,,moon,0
+153,bulaw,,blind,0
+154,bulawan,,gold,0
+155,buli,,lead (metal),0
+156,bulkan,,volcano,0
+157,bullak,,small,0
+158,bumbug,,rice gruel,0
+159,bumbul,,pubic hair,0
+160,buna,,leftover,0
+161,bungal,,toothless,0
+162,bungbung,,dynamite,0
+163,bungug,,anal area,0
+164,buntut,,stink,0
+165,burbur,,fur (fabric),0
+166,buru,,plant hair,0
+167,busilak,,corn husk,0
+168,bussit,,pregnant,0
+169,bussut,,(large) tummy,0
+170,butelya,,bottle,0
+171,buyuk,,foul odor,0
+172,buyun,,mud,0
+173,byahe,,travel; trip,0
+174,Byernis,,Friday,0
+175,byulin,,violin,0
+176,daddaman,,road; path,0
+177,daffug,,carabao; water buffalo,0
+178,daga,,blood,0
+179,dagat,,sand,0
+180,daggang,,booger,0
+181,dagguht,,strong taste or smell,0
+182,dagiwat,,pimple,0
+183,dagun,,year,0
+184,dakal,,big; large,0
+185,daki,,food between the teeth,0
+186,dakig,,blame,0
+187,dalag,,coconut crust,0
+188,dalak,,mucus; pleghm,0
+189,dalayap,,lemon; lime,0
+190,dalikan,,earthen stove,0
+191,daluduk,,house lizard,0
+192,daluhg,,mudfish,0
+193,damara,,temporary shed,0
+194,damilig,,a kind of banana,0
+195,damman,,again,0
+196,dammat,,heavy,0
+197,dana,,old (of objects),0
+198,danak,,(upland) meadow,0
+199,dangan,,tip of an outstretched thumb to an outstretched middle finger (unit of measure),0
+200,dangit,,rice crust; burnt rice sticking to the bottom of the pot,0
+201,dangkul,,knock-kneed,0
+202,dannu,,sap (of a plant),0
+203,dansaw,,(interrogative) to where; to what place,0
+204,dantay,,leg support (while sleeping),0
+205,danum,,water,0
+206,dapan,,(anatomy) sole,0
+207,dappit,,shore,0
+208,dati,,before; earlier,0
+209,dekat,,a kind of rice cake made from sweet rice or corn,0
+210,dekorasyon,,decoration,0
+211,dibate,,debate,0
+212,didal,,thimble,0
+213,digat,,difficulty; hardship,0
+214,diktador,,dictator,0
+215,dila,,(anatomy) tongue,0
+216,dilam,,dusk,0
+217,dinding,,wall,0
+218,dinna,,still,0
+219,dipa,,(interrogative) where (stationary),0
+220,disgrasya,,accident; misfortune,0
+221,Disyembre,,December,0
+222,dita,,venom,0
+223,doktor,,doctor,0
+224,dolyar,,dollar,0
+225,domat,,perhaps,0
+226,don,,leaf (of a plant),0
+227,duda,,doubt,0
+228,dudul,,a kind of rice cake,0
+229,dudut,,feather,0
+230,dugu,,corner,0
+231,dukyal,,bolo knife,0
+232,dulam,,cloud,0
+233,dullungan,,starfruit,0
+234,durun,,grasshopper,0
+235,ehemplo,,example,0
+236,eksamen,,examination,0
+237,eksersisyu,,exercise,0
+238,elad,,slug,0
+239,elektrisidad,,lights,0
+240,enhinyero,,engineer,0
+241,eroplano,,airplane,0
+242,espehu,,mirror,0
+243,fakkangenana,,damn!,0
+244,familya,,family,0
+245,Filipinas,,Philippines,0
+246,firma,,signature,0
+247,fritu,,fried,0
+248,fugab,,afternoon,0
+249,fugu,,island,0
+250,fukkal,,lump,0
+251,fukkanenam,,(vulgar) one's mother's vula (curse word),0
+252,fukkul,,pubic area,0
+253,fulikat,,deep (of liquids),0
+254,fullaw,,white (color),0
+255,fullaw,,white (color),0
+256,fulu,,ten,0
+257,fungan,,pillow,0
+258,fungu,,(anatomy) forearm,0
+259,futag,,(anatomy) navel,0
+260,futtul,,mound (of ants or termite),0
+261,futu,,(anatomy) heart,0
+262,gabat,,debris (usually from a flood),0
+263,gabi,,night,0
+264,gabyon,,hoe (tool),0
+265,gagangay,,habit; usual practice,0
+266,gaka,,offspring,0
+267,gakaw,,(anatomy) chest,0
+268,gakit,,raft,0
+269,gallit,,line,0
+270,gallu,,noise,0
+271,gamit,,worn-out rag,0
+272,gamut,,root (of a plant),0
+273,ganansya,,profit,0
+274,ganding,,goat,0
+275,ganggal,,saw (tool),0
+276,gani,,(interrogative) what,0
+277,gannud,,kind; type,0
+278,gansu,,goose,0
+279,ganta,,ganta (twenty-five of which makes one kaban),0
+280,gapas,,straight scythe,0
+281,garafon,,glass container,0
+282,garaggad,,scrape (on one's skin),0
+283,garahe,,garage,0
+284,garsib,,scissors,0
+285,gasig,,(medicine) sty,0
+286,gasolina,,gasoline,0
+287,gassik,,seedling (usually tobacco),0
+288,Gassilang,,"Spanish (person), Spanish (language)",0
+289,gattak,,milk,0
+290,gatud,,(anatomy) hip,0
+291,gatut,,hundred,0
+292,gayang,,crow,0
+293,gera,,war,0
+294,giban,,water cup made of coconut,0
+295,gibaw,,fence,0
+296,gikan,,pad (to cushion things carried on the head),0
+297,gindan,,then; therefore,0
+298,gintuturu,,(anatomy) index finger,0
+299,girafuk,,dust,0
+300,giral,,corner,0
+301,girawa,,shout,0
+302,giri,,scrap of cloth (leftover from cutting),0
+303,girit,,slice,0
+304,gitara,,guitar,0
+305,giwang,,gap,0
+306,gobyernu,,government,0
+307,golagola,,a kind of kite,0
+308,grabe,,grave; serious,0
+309,gubin,,near,0
+310,gugu,,bark (of a tree used for soap),0
+311,gugurat,,intentionally; on purpose,0
+312,gukung,,sow; mother pig,0
+313,gumamela,,Chinese hibiscus (Hibiscus rosa-sinensis),0
+314,gundarakal,,(anatomy) thumb,0
+315,gurami,,hay,0
+316,guyabano,,soursop,0
+317,gwantes,,gloves,0
+318,gwapo,,handsome,0
+319,gwardya,,guard,0
+320,halag,,barrio,0
+321,hamon,,ham,0
+322,haola,,cage,0
+323,higante,,giant,0
+324,hustuhustu,,just then,0
+325,hwes,,judge,0
+326,ibag,,drool,0
+327,ibu,,urine,0
+328,ibung,,(unfertilized) egg,0
+329,idad,,age,0
+330,ifut,,tail,0
+331,igat,,eel,0
+332,igaw,,sun,0
+333,igung,,(anatomy) nose,0
+334,ikag,,cough,0
+335,ilal,,(anatomy) thigh,0
+336,ilug,,egg,0
+337,iraw,,snake,0
+338,kaddat,,grass,0
+339,kaiwan,,far,0
+340,kam,,you (plural),0
+341,kamasit,,tomato,0
+342,kamat,,(anatomy) hand,0
+343,kamay,,baby louse,0
+344,kami,,we (exclusive of the person spoken to),0
+345,kamosi,,sweet yam,0
+346,kamug,,mosquito,0
+347,kandelat,,candle,0
+348,kannit,,bedbug,0
+349,kapat,,cotton,0
+350,kapitta,,cousin,0
+351,karalang,,earthworm,0
+352,karalet,,side; edge; bank,0
+353,karalong,,(anatomy) throat,0
+354,karne,,meat,0
+355,karneru,,sheep,0
+356,karruba,,neighbor,0
+357,kasafego,,"match (for lighting candles, cigars, etc.)",0
+358,kasat,,shortcut,0
+359,kassandi,,(interrogative) how,0
+360,kassib,,bite,0
+361,kasta,,beauty,0
+362,katal,,itch,0
+363,kattut,,surprise,0
+364,katugangan,,parent-in-law,0
+365,kawad,,chain,0
+366,kawan,,typhoon,0
+367,kawayan,,bamboo,0
+368,kawit,,hook,0
+369,kayang,,lazy,0
+370,kayu,,tree,0
+371,kayung,,brother-in-law (wife's brother),0
+372,kepal,,infected nail (fingernail or toenail),0
+373,kibu,,mixture,0
+374,kidag,,(anatomy) elbow,0
+375,kilakilat,,lightning,0
+376,kilikili,,(anatomy) armpit,0
+377,kimat,,eyelash,0
+378,kimi,,cockroach,0
+379,kiring,,ring (of a telephone),0
+380,kisame,,ceiling,0
+381,kitam,,we (inclusive of the person spoken to),0
+382,kobeta,,toilet,0
+383,kokwa,,chocolate,0
+384,kolak,,friend,0
+385,kolgeit,,toothpaste,0
+386,kongit,,noise; sound,0
+387,kopya,,copy,0
+388,korte,,court (of law),0
+389,koryente,,electricity,0
+390,kosetyero,,farmer,0
+391,kosina,,kitchen,0
+392,kotye,,car,0
+393,kugipa,,dandruff,0
+394,kuku,,nail; claw; hoof,0
+395,kuku,,possession,0
+396,kulikug,,fever,0
+397,kulut,,curly,0
+398,kumpay,,(curved) scythe,0
+399,kundag,,slippery,0
+400,kurap,,flicker,0
+401,kurba,,curve,0
+402,kurbata,,necktie,0
+403,kurtina,,curtain,0
+404,kuruga,,too,0
+405,kurus,,cross,0
+406,kuryat,,cricket,0
+407,kusa,,cat,0
+408,kusut,,sawdust; wood shaving,0
+409,kutu,,louse (insect),0
+410,kutyilyu,,knife,0
+411,labu,,fight,0
+412,labwag,,bastard,0
+413,lagunut,,riddle,0
+414,lakay,,grandfather,0
+415,lalaki,,male; man,0
+416,langit,,sky,0
+417,lanut,,vine,0
+418,lapis,,pencil,0
+419,lappang,,owl,0
+420,lappat,,dew; fog,0
+421,lappaw,,flower,0
+422,lasa,,flavor,0
+423,lasang,,red (color),0
+424,lasang,,red (color),0
+425,latag,,(anatomy) testicle; scrotum,0
+426,lehwan,,(ceremonial) procession,0
+427,lelaw,,morning,0
+428,libad,,python,0
+429,libru,,book,0
+430,lidag,,a kind of edible aquatic snail,0
+431,lig,,(anatomy) neck,0
+432,lima,,five,0
+433,limafulu,,fifty,0
+434,lingat,,sweat; perspiration,0
+435,lita,,louse egg,0
+436,lityon,,roasted pig,0
+437,liwat,,mistake; sin; crime,0
+438,lubid,,rope,0
+439,luget,,chicken feces,0
+440,lukek,,armpit,0
+441,lulu,,bubble; foam,0
+442,lumut,,moss,0
+443,lungun,,coffin; casket,0
+444,lunig,,earthquake,0
+445,luta,,land; earth; soil,0
+446,lwa,,tear,0
+447,mabaw,,cooked rice,0
+448,maga,,dry,0
+449,makopa,,wax apple,0
+450,malagama,,scorpion,0
+451,malibamban,,butterfly,0
+452,mangga,,mango,0
+453,mani,,nut,0
+454,maninsig,,male carabao,0
+455,manok,,chicken,0
+456,mansanas,,apple,0
+457,manugang,,child-in-law,0
+458,mapi,,good,0
+459,maral,,bad; evil,0
+460,mata,,"eye (organ), knot (in wood)",0
+461,mata,,raw (of food),0
+462,mata,,raw (of food),0
+463,mula,,a plant,0
+464,mundu,,world,0
+465,muruk,,tip,0
+466,muyung,,mad dog,0
+467,nagan,,name,0
+468,nagyan,,content,0
+469,nana,,pus; abscess,0
+470,nanguht,,fishy smell,0
+471,natang,,vegetable,0
+472,ngagan,,noun,0
+473,ngaral,,voice,0
+474,ngarud,,(anatomy) gums,0
+475,ngipan,,(anatomy) tooth,0
+476,ngisit,,black,0
+477,ngisit,,black,0
+478,nigosyo,,business,0
+479,nipa,,nipa palm,0
+480,nufugab,,yesterday,0
+481,nuwani,,a short while ago,0
+482,omma,,or,0
+483,oras,,time,0
+484,ornu,,oven,0
+485,pabu,,turkey,0
+486,paddit,,pinch,0
+487,pagay,,rice plant,0
+488,pagginan,,place of residence,0
+489,pakak,,breadfruit,0
+490,pakang,,bowlegged,0
+491,pakaw,,handle (of a tool),0
+492,pakul,,ladle,0
+493,palad,,palm (of the hand),0
+494,palakapak,,cart (usually made of bamboo),0
+495,palappak,,applause,0
+496,palaw,,pond,0
+497,palda,,skirt,0
+498,palengke,,market,0
+499,palepped,,fin,0
+500,palikad,,stair step,0
+501,palsik,,slingshot,0
+502,paltat,,catfish,0
+503,paluga,,paddle; row,0
+504,pamyenta,,pepper,0
+505,pan,,bread,0
+506,pana,,spear,0
+507,panday,,blacksmith,0
+508,panga,,branch (of a tree),0
+509,panganakan,,nephew; niece,0
+510,panggung,,nosebleed,0
+511,pantalon,,pants,0
+512,pantyon,,(constructed) tomb,0
+513,panyok,,handkerchief,0
+514,papaitan,,dish made with pig tripe,0
+515,papandan,,only,0
+516,papel,,papel,0
+517,pappak,,wing (of an animal),0
+518,paragut,,harrow,0
+519,parakol,,yoke,0
+520,parensa,,iron (tool),0
+521,paringil,,(anatomy) cheek,0
+522,pating,,shark,0
+523,patis,,fish sauce,0
+524,pattat,,catfish,0
+525,pattugungan,,chair,0
+526,patu,,duck,0
+527,patul,,king,0
+528,payong,,umbrella,0
+529,pekas,,freckles,0
+530,penam,,habit; custom,0
+531,pitu,,seven,0
+532,ribu,,thousand,0
+533,sassanat,,doll,0
+534,sastri,,tailor,0
+535,sawwe,,right now,0
+536,selyu,,postage stamp,0
+537,siffun,,(pathology) common cold,0
+538,sigarafuy,,firefly,0
+539,siku,,(anatomy) elbow,0
+540,silam,,vinegar,0
+541,silawan,,east,0
+542,sili,,chilli,0
+543,silindru,,harmonica,0
+544,silya,,chair,0
+545,simaron,,wild; untamed,0
+546,simid,,(anatomy) chin,0
+547,simintu,,cement,0
+548,sinay,,(anatomy) intestines,0
+549,singkamas,,jicama,0
+550,sinni,,(interrogative) who,0
+551,sinsilyu,,loose change,0
+552,sinturon,,belt (for clothes),0
+553,sinyelas,,slippers,0
+554,sipilyu,,toothbrush,0
+555,siping,,twin,0
+556,sipit,,pincers; tongs; tweezers,0
+557,sippit,,bill (of a bird),0
+558,sira,,they,0
+559,sirag,,cicada,0
+560,siri,,lie; falsehood,0
+561,siwang,,opening; space; gap,0
+562,sobre,,envelope,0
+563,sussu,,(anatomy) breast,0
+564,sussut,,whistle (act of whistling),0
+565,swelu,,floor,0
+566,syam,,nine,0
+567,syamafulu,,ninety,0
+568,tagang,,(anatomy) rib,0
+569,tagetay,,comb,0
+570,taggam,,ant,0
+571,taggapan,,west,0
+572,taginsak,,cricket,0
+573,tagukud,,walking cane,0
+574,takit,,pain,0
+575,takki,,leg; foot,0
+576,talagguhn,,coward,0
+577,talak,,trust,0
+578,talattak,,kingfisher,0
+579,taletay,,bridge,0
+580,tallang,,(anatomy) upper jaw,0
+581,tallu,,three,0
+582,tallutaggik,,seldom,0
+583,talun,,forest,0
+584,talwafulu,,thirty,0
+585,tampal,,slap (with an open hand),0
+586,tamu,,direction,0
+587,tamuhng,,escape,0
+588,tamuru,,(anatomy) finger,0
+589,tan,,more; -er,0
+590,tanggil,,fang,0
+591,tangnga,,middle; center,0
+592,tangngad,,(anatomy) nape,0
+593,tansu,,copper,0
+594,tanud,,needle,0
+595,tapit,,a kind of garment for women,0
+596,tappak,,hornet,0
+597,tappat,,surface,0
+598,tarabitab,,talkative,0
+599,taram,,"sharp (of knives, blades, etc.)",0
+600,tarat,,sieve,0
+601,tarauk,,crow (bird),0
+602,tarit,,spur (used in cockfights),0
+603,taruluk,,mushroom,0
+604,tata,,one,0
+605,tataw,,proficient; knowledgeable,0
+606,tawad,,discount; bargain,0
+607,tawlay,,person,0
+608,telebisyon,,television,0
+609,tinta,,ink,0
+610,tiya,,aunt,0
+611,tiyu,,uncle,0
+612,tud,,(anatomy) knee,0
+613,tugud,,two-sided comb for lice,0
+614,tukak,,frog,0
+615,tulang,,(anatomy) bone,0
+616,tuliwan,,labor pains,0
+617,tunggil,,(anatomy) clitoris,0
+618,tunidor,,fork,0
+619,ubas,,grape,0
+620,ubban,,calf] (animal),0
+621,ubbung,,spring (body of water),0
+622,uddu,,light,0
+623,uffu,,thigh,0
+624,uging,,charcoal,0
+625,ulila,,orphan,0
+626,umma,,kiss,0
+627,umuk,,nest,0
+628,upa,,hen,0
+629,upak,,husk,0
+630,uran,,rain,0
+631,uruhng,,marrow,0
+632,utak,,brain,0
+633,utta,,deer,0
+634,uwak,,crow,0
+635,uwaw,,thirsty,0
+636,uway,,rattan,0
+637,wagi,,sibling,0
+638,walu,,eight,0
+639,wanan,,right,0
+640,wigi,,left,0
+641,dollar,,,1
+642,ejercicio,,,1
+643,Colgate,,,1

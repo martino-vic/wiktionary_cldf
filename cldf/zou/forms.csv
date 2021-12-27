@@ -1,0 +1,394 @@
+ID,Form,IPA,Gloss,Language_ID
+0,a,,hen,0
+1,ah,/aʔ˧/,"fowl, (specifically) chicken (Gallus gallus)",0
+2,ahpi,/aʔ˧.pi˧/,hen,0
+3,ahsa,/aʔ˧.sa˧˥/,chicken meat,0
+4,ahsi,,star,0
+5,ai,/ai̯˧˥/,crab,0
+6,anngol,,"fast, quick",0
+7,asa,/a˧.sa˧/,(transitive) to hope,0
+8,asi,/a˧.si˧/,star,0
+9,atui,,egg,0
+10,awl,/ɔl˧/,easy,0
+11,awm,/ɔm˧˥/,(intransitive) to exist,0
+12,awp,/ɔp˧˩/,(transitive) to brood,0
+13,ba,,(transitive) to owe,0
+14,ba,,bat (mammal),0
+15,ba,,bat (mammal),0
+16,bah,,bet,0
+17,ban,/ban˧˩/,arm,0
+18,bang,/baŋ˧/,wall,0
+19,bawl,/bɔl˧/,blunt,0
+20,bawu,/bɔu̯˧/,(intransitive) to swell,0
+21,be,/be˧˩/,bean,0
+22,beita,,end,0
+23,bengnge,,what,0
+24,beteu,,peacock,0
+25,bi,,thatch,0
+26,bil,/bil˧/,ear,0
+27,boksa,,pork,0
+28,bom,/bom˧/,(transitive) to bind,0
+29,bong,/boŋ˧/,cow,0
+30,bongneu,,calf,0
+31,bongnoi,,milk,0
+32,bongsa,/boŋ˧.sa˧˥/,beef,0
+33,bongtel,,bull,0
+34,bu,,(transitive) to hide,0
+35,bu,,"nest, cottage, hut",0
+36,bu,,cooked rice,0
+37,bu,,"nest, cottage, hut",0
+38,bu,,cooked rice,0
+39,bu,,cooked rice,0
+40,bungsing,,banyan,0
+41,chi,,seed,0
+42,chi,,salt,0
+43,chi,,salt,0
+44,chibon,,mole,0
+45,chil,/cil˧/,saliva,0
+46,ching,/ciŋ˧/,claw,0
+47,chouphe,,grasshopper,0
+48,dah,/daʔ˧/,bell,0
+49,dai,,dew,0
+50,dai,,(transitive) to hinder,0
+51,dai,,"fence, hedge",0
+52,dai,,(transitive) to hinder,0
+53,dai,,"fence, hedge",0
+54,dai,,"fence, hedge",0
+55,delkop,,turban,0
+56,demdoteng,,tablet,0
+57,dipkua,,nausea,0
+58,don,,drink,0
+59,dong,,(transitive) to solicit,0
+60,dong,,(transitive) to intercept,0
+61,dong,,(transitive) to hinder,0
+62,dong,,(intransitive) to ask,0
+63,dong,,(transitive) to intercept,0
+64,dong,,(transitive) to hinder,0
+65,dong,,(intransitive) to ask,0
+66,dong,,(transitive) to hinder,0
+67,dong,,(intransitive) to ask,0
+68,dong,,(intransitive) to ask,0
+69,e-,/ə˧/,"Used to form agent nouns from verbs; -er
+‎e- + ‎ne (“to eat”) → ‎ene (“eater”)",0
+70,ebane,/ə˧.ba˧.nə˧/,between,0
+71,ebom,,bunch,0
+72,ebom,,binder,0
+73,ebom,,binder,0
+74,ehunghi,,become,0
+75,ei,/əi̯˧/,we (exclusive),0
+76,eigel,,we first personal pronoun plural inclusive,0
+77,ejan,,(of weight) light,0
+78,ekamtheu,,mustard oil,0
+79,ekap,/ə˧.kap˧˥/,shooter,0
+80,ekel,/ə˧.kəl˧/,climber,0
+81,eki,/ə˧.ki˧˥/,Alternative form of ki (“horn”),0
+82,ekop,,pair,0
+83,ema,/ə˧.ma˧˩/,"he, she",0
+84,en,,(intransitive) to look,0
+85,en,,"food, meal",0
+86,en,,"food, meal",0
+87,ene,/ə˧.ne˧/,eater,0
+88,engai,,digest,0
+89,engphuan,,foam,0
+90,enjelui,,feast,0
+91,enkemmu,,mustard seed,0
+92,enkemnu,,mustard seed,0
+93,enngol,,fast,0
+94,epa,,his father,0
+95,epha,,good,0
+96,evam,,ash,0
+97,gal,/ɡal˧/,war,0
+98,galmi,/ɡal˧.mi˧˩/,"warrior, soldier",0
+99,ganhing,,insect,0
+100,gemla,,distance,0
+101,gen,/ɡen˧/,(transitive) to say,0
+102,gil,/ɡil˧/,belly,0
+103,gilja,,hip,0
+104,gilkiya,,appetite,0
+105,gilpi,,stomach,0
+106,gong,,thin,0
+107,gu,/ɡu˧˩/,bone,0
+108,gua,/ɡu˧.(w)a˧/,bamboo,0
+109,guk,/ɡuk˧˩/,six,0
+110,gukna,/ɡuk˧˩na˧/,sixth,0
+111,gul,/ɡul˧/,"snake, serpent",0
+112,guo,,rain,0
+113,ha,/ha˧/,tooth,0
+114,hai,,mango,0
+115,hai,,"(intransitive) to chew, (transitive) to skim off",0
+116,hai,,cup,0
+117,hai,,(transitive) to forget,0
+118,hai,,"(intransitive) to chew, (transitive) to skim off",0
+119,hai,,cup,0
+120,hai,,(transitive) to forget,0
+121,hai,,cup,0
+122,hai,,(transitive) to forget,0
+123,hai,,(transitive) to forget,0
+124,hampa,,grass,0
+125,hamtheileu,,dumb,0
+126,hanmun,/han˧.mun˧/,grave,0
+127,hi,/hi˧/,disease,0
+128,hinkhu,,life,0
+129,hitang,,common cold,0
+130,hoileu,,bad,0
+131,hong,,open,0
+132,hu,/hu˧/,steam,0
+133,huengpeio,,come,0
+134,huwan,,cook,0
+135,huwot,,brain,0
+136,ikim,/i˧.kim˧/,surroundings,0
+137,in,/in˧˥/,house,0
+138,inmai,,courtyard,0
+139,insa,,"pet, domestic animal",0
+140,insung,,room,0
+141,intung,,roof,0
+142,intuseng,,roof,0
+143,ja,,hear,0
+144,jatkhat,,one hundred,0
+145,jeneitain,,regularly,0
+146,jeng,/ɟəŋ˧/,penis,0
+147,ji,,spouse,0
+148,jingcheng,,tomorrow,0
+149,jingekal,/ɟi˧.ŋə˧.kal˧/,morsel,0
+150,jong,/ɟoŋ˧/,monkey,0
+151,jongkhal,,weak,0
+152,jumhoime,,shameful,0
+153,jun,,urine,0
+154,jutjol,,smooth,0
+155,kai,,"(intransitive) to rise, ascend, go up",0
+156,kai,,"askew, low",0
+157,kai,,"(transitive) pull, drag, draw",0
+158,kai,,"askew, low",0
+159,kai,,"(transitive) pull, drag, draw",0
+160,kai,,"(transitive) pull, drag, draw",0
+161,kal,/kal˧/,(intransitive) to increase,0
+162,kamkei,/kam˧.kəi̯˧/,tiger,0
+163,kangva,,swan,0
+164,kap,/kap˧˥/,(transitive) to shoot,0
+165,kei,,I,0
+166,kel,,goat,0
+167,kel,,kidney,0
+168,kel,,(transitive) to climb,0
+169,kel,,kidney,0
+170,kel,,(transitive) to climb,0
+171,kel,,(transitive) to climb,0
+172,kem,,mouth,0
+173,ken,/ken˧/,wheel,0
+174,keng,,"(transitive) to bring, (transitive) to carry",0
+175,keng,,leg,0
+176,keng,,naked,0
+177,keng,,(transitive) to fry,0
+178,keng,,leg,0
+179,keng,,naked,0
+180,keng,,(transitive) to fry,0
+181,keng,,naked,0
+182,keng,,(transitive) to fry,0
+183,keng,,(transitive) to fry,0
+184,kenglo,,shoes,0
+185,keu,,"we, first personal pronoun plural exclusive",0
+186,khao,,rope,0
+187,khat,/kʰat˧˩/,Alternative form of khet (“one”),0
+188,khe,/kʰə˧/,bitter,0
+189,khel,,borrow,0
+190,khet,/kʰət˧˩/,one,0
+191,khet,/kʰət˧˩/,"a, an (indefinite article)",0
+192,khetna,/kʰət˧˩.na˧/,first,0
+193,kheula,,cockroach,0
+194,khi,/kʰi˧˩/,necklace,0
+195,khouphe,,grasshopper,0
+196,khuching,,nail,0
+197,khup,,knee,0
+198,khutphang,,palm,0
+199,khutpi,,thumb,0
+200,ki,,horn,0
+201,ki,,parrot,0
+202,ki,,"scared, disgusted",0
+203,ki,,parrot,0
+204,ki,,"scared, disgusted",0
+205,ki,,"scared, disgusted",0
+206,kiginni,,Saturday,0
+207,kil,/kil˧/,corner,0
+208,kimkhit,,half,0
+209,kimol,,play,0
+210,kiu,,elbow,0
+211,kolbuthei,,pomegranate,0
+212,kolthei,,guava,0
+213,komla,,orange,0
+214,kot,,door,0
+215,kotbeng,,bar (of a door),0
+216,kuo,/ku˧˥.o˧/,nine,0
+217,lauhuwai,,danger,0
+218,le,,and,0
+219,lei,,tongue,0
+220,lei,,"ground, soil, land, earth",0
+221,lei,,bridge,0
+222,lei,,"ground, soil, land, earth",0
+223,lei,,bridge,0
+224,lei,,bridge,0
+225,lekhleng,,kite,0
+226,lempi,,road,0
+227,leng,,pigeon,0
+228,leukai,,courage,0
+229,li,/li˧/,four,0
+230,linlem,,looking-glass,0
+231,loi,,buffalo,0
+232,lou,,weed,0
+233,lou,,"ricefield, paddy, farm",0
+234,lou,,(transitive) to pick (flowers or fruit),0
+235,lou,,"ricefield, paddy, farm",0
+236,lou,,(transitive) to pick (flowers or fruit),0
+237,lou,,(transitive) to pick (flowers or fruit),0
+238,lu,/lu˧/,head,0
+239,lukhu,,cap,0
+240,lungsimhoi,,honest,0
+241,lungsimsia,,cruel,0
+242,lupha,,bed,0
+243,lupna,,bed,0
+244,lut,,enter,0
+245,mai,,face,0
+246,mai,,pumpkin,0
+247,mai,,pumpkin,0
+248,maie,,face,0
+249,mal,,thigh,0
+250,mangbu,,wheat,0
+251,manleng,,(intransitive) to hurry,0
+252,mei,/məi̯˧˩/,fire,0
+253,meihol,,charcoal,0
+254,mellem,,north,0
+255,melta,,chilly,0
+256,menlang,,early,0
+257,met,/mət˧/,bug,0
+258,meu,,cat (Felis catus),0
+259,mit,/mit˧˩/,eye,0
+260,mithet,,"killer, murderer",0
+261,mitmul,,eyelid,0
+262,mittha,,butterfly,0
+263,mitto,,blind,0
+264,mu,,see,0
+265,natengna,,banana leaf,0
+266,ne,/ne˧/,lip,0
+267,ne,/ne˧/,(transitive) to eat,0
+268,neng,,"you, thou",0
+269,nga,,five,0
+270,nga,,fish,0
+271,nga,,(transitive) to receive,0
+272,nga,,(intransitive) to wait,0
+273,nga,,fish,0
+274,nga,,(transitive) to receive,0
+275,nga,,(intransitive) to wait,0
+276,nga,,(transitive) to receive,0
+277,nga,,(intransitive) to wait,0
+278,nga,,(intransitive) to wait,0
+279,ngan,,request,0
+280,ngapleu,,idle,0
+281,ngathu,,fermented fish,0
+282,ningani,,Thursday,0
+283,noi,,breast,0
+284,nu,/nu˧/,mother,0
+285,oi,/oi̯˧/,belly,0
+286,om,/om˧/,(transitive) to disengage,0
+287,op,/op˧˥/,chest,0
+288,pa,,"father, grandfather",0
+289,pa,,cousin,0
+290,pa,,cousin,0
+291,pah,/paʔ˧/,lily,0
+292,pai,/pai̯˧˥/,(intransitive) to go,0
+293,pamme,/pam˧.me˧/,swelling,0
+294,pan,,thin,0
+295,pat,,cotton,0
+296,pe,/pe˧/,(intransitive) to kick,0
+297,pei,,go,0
+298,pem,,embrace,0
+299,pengpelek,,butterfly,0
+300,pesem,,god,0
+301,phim,,needle,0
+302,pho,,shield,0
+303,phung,,surname,0
+304,phunggui,,clan,0
+305,phungmin,,surname,0
+306,-pi,/pi˧/,"Used to form nouns for female animals., ‎ah (“chicken”)",0
+307,pi,,big,0
+308,pi,,leader,0
+309,pi,,thatch,0
+310,pi,,thatch,0
+311,piching,,mature,0
+312,pil,,clever,0
+313,pilvang,,care,0
+314,pinden,,room,0
+315,pon,/pon˧/,Alternative form of puon,0
+316,pona,,shirt,0
+317,ponsil,,pot,0
+318,pota,,basket,0
+319,pu,/pu˧/,maternal uncle (mother's brother),0
+320,punthom,,(transitive) to combine,0
+321,puon,/pu˧.(w)on˧˥/,cloth,0
+322,reng,/rəŋ˧/,colour,0
+323,sa,,hot,0
+324,sa,,"meat, animal",0
+325,sa,,"dense, thick",0
+326,sa,,"meat, animal",0
+327,sa,,"dense, thick",0
+328,sa,,"dense, thick",0
+329,savun,/sa˧.vun˧˥/,leather,0
+330,segi,/sə˧.ɡi˧˥/,seven,0
+331,seitengthum,,we,0
+332,sekol,,horse,0
+333,sem,,hair,0
+334,semchi,,comb,0
+335,semvom,,black hair,0
+336,seppetni,,Monday,0
+337,si,/si˧˩/,blood,0
+338,si,/si˧˩/,(intransitive) to die,0
+339,sien,,blood,0
+340,sim,,south,0
+341,sing,/siŋ˧˥/,ginger,0
+342,sing,/siŋ˧˥/,tree,0
+343,sing,/siŋ˧˥/,tree,0
+344,som,/som˧˩/,ten,0
+345,somnga,,fifty,0
+346,somsegi,,seventy,0
+347,somsegileli,,seventy-two,0
+348,somsegilesegi,,seventy-seven,0
+349,somthum,,thirty,0
+350,somthumlekhat,,thirty-one,0
+351,somthumlesegi,,thirty-seven,0
+352,ta,/ta˧/,hard,0
+353,tai,,run,0
+354,tembo,,ship,0
+355,temtahneu,,dagger,0
+356,tepkhu,,furnace,0
+357,tet,,publish,0
+358,teu,,dig,0
+359,teukoh,,kingfisher,0
+360,theda,,idle,0
+361,theihon,,orchard,0
+362,thel,,bow,0
+363,then,,maggot,0
+364,thengkip,,lizard,0
+365,thet,,kill,0
+366,theu,,housefly (Musca domestica),0
+367,theu,,gun,0
+368,theu,,gun,0
+369,thotsa,,send,0
+370,thum,/tʰum˧/,three,0
+371,toka,,paint,0
+372,topsa,,finish,0
+373,tui,/tui̯˧˩/,water,0
+374,tungvai,,mad,0
+375,ui,/ui̯˧/,dog (Canis familiaris),0
+376,ule,/u˧.le˧/,crocodile,0
+377,upho,,toad,0
+378,va,/va˧˥/,bird,0
+379,vala,,quail,0
+380,van,,sky,0
+381,vao,,thread,0
+382,vasa,/va˧.sa˧˥/,bird meat,0
+383,ven,/vən˧/,thing,0
+384,vik,/vik˧/,(transitive) to launch,0
+385,vok,/vok˧˩/,pig,0
+386,vokmai,,tail of a pig,0
+387,vokpi,,"sow, female pig",0
+388,voksa,/vok˧.sa˧˥/,pork,0
+389,vot,,breeze,0
+390,vun,/vun˧˥/,skin,0
+391,zan,,down,0

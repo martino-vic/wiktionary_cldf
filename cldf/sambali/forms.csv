@@ -1,0 +1,463 @@
+ID,Form,IPA,Gloss,Language_ID
+0,ambay,,sea,0
+1,amog,,dew,0
+2,asin,,salt,0
+3,awlo,,day,0
+4,ba-yo,,new,0
+5,baboy,,pig,0
+6,balo,,widow; widower,0
+7,balo,,but,0
+8,balok,,(anatomy) gall bladder,0
+9,balotabot,,mildew; mold,0
+10,bana,,because,0
+11,banga,,earthen jar,0
+12,bangkay,,corpse,0
+13,bangkita,,sidewalk,0
+14,bangko,,bench,0
+15,bangongot,,nightmare,0
+16,banta,,threat; menace,0
+17,bantaw,,(anatomy) collarbone,0
+18,bantog,,famous; well-known,0
+19,baog,,barren; sterile,0
+20,baol,,chest; trunk,0
+21,bapor,,ship,0
+22,bara-nan,,reason; cause; excuse,0
+23,barado,,clogged,0
+24,baso,,drinking glass,0
+25,basora,,garbage,0
+26,batag,,banana,0
+27,bato,,stone; rock,0
+28,batya,,tub,0
+29,bawang,,garlic,0
+30,baya,,ember,0
+31,baya,,(anatomy) lung,0
+32,bayabay,,handrail,0
+33,bayar,,pay; payment,0
+34,bayaw,,brother-in-law,0
+35,bayli,,dance,0
+36,bi-hing,,piece,0
+37,bi-tang,,step,0
+38,bihira,,rarely; seldom,0
+39,bilang,,number,0
+40,binabayi,,sissy,0
+41,binatilyo,,teenager,0
+42,bintay,,snare,0
+43,birdi,,green,0
+44,bisagra,,hinge,0
+45,bisita,,guest; visitor,0
+46,bista,,trial,0
+47,bisyo,,vice,0
+48,bitayon,,to hang,0
+49,bitil,,hunger,0
+50,bitkolon,,to choke; to strangle,0
+51,bitoka,,bowels; intestines,0
+52,bitoon,,star,0
+53,bitsay,,sieve,0
+54,bitsayon,,to sift,0
+55,biya,,scar,0
+56,biyay,,life,0
+57,bobon,,well,0
+58,bobongan,,roof; housetop,0
+59,boboy,,mouth,0
+60,boga-boga,,barely,0
+61,bohaghag,,rash; reckless,0
+62,bola,,ball,0
+63,bola,,foam; bubble,0
+64,bolsa,,pocket,0
+65,bongat,,only; just,0
+66,boyangin,,sand,0
+67,braso,,(anatomy) arm,0
+68,dila,,(antomy) tongue,0
+69,dilap,,tomorrow,0
+70,dotak,,mud,0
+71,gamot,,hand,0
+72,gigang,,spider,0
+73,gira,,war,0
+74,golotoy,,(medicine) sty,0
+75,hahakyan,,vehicle,0
+76,halak,,fear,0
+77,halay,,nest,0
+78,halot,,epidemic; plague,0
+79,harakhak,,laughter,0
+80,hayapal,,queue,0
+81,hayngot,,sweat,0
+82,hiko,,elbow,0
+83,hiya,,he; she; it,0
+84,kaagoman,,greed,0
+85,kaarian,,kingdom,0
+86,kaaway,,foe; enemy,0
+87,kabantogan,,fame,0
+88,kabayo,,horse,0
+89,kabonlalangaw,,rainbow,0
+90,kadina,,chain,0
+91,kagamitan,,equipment,0
+92,kaging,,bat (animal),0
+93,kahal,,marriage,0
+94,kahalitaan,,proverb,0
+95,kaholibay,,neighbor,0
+96,kahon,,box,0
+97,kailangan,,necessary,0
+98,kalabaha,,squash,0
+99,kalamoan,,companion,0
+100,kalapati,,dove; pigeon,0
+101,kaligsawan,,health,0
+102,kaliliktan,,joy,0
+103,kalindoronot,,caterpillar,0
+104,kalolwa,,soul,0
+105,kamatyan,,death,0
+106,kambal,,twin,0
+107,kamoro,,pimple,0
+108,kandado,,lock; padlock,0
+109,kandila,,candle,0
+110,kanding,,goat,0
+111,kanlolongo,,tadpole,0
+112,kanta,,song,0
+113,kapangyarian,,power; authority,0
+114,kapoloan,,archipelago,0
+115,kaptogan,,truth,0
+116,karayom,,needle,0
+117,karingoyan,,shame,0
+118,karni,,meat,0
+119,karsada,,road,0
+120,kasalanan,,sin; guilt; fault,0
+121,kasilyas,,toilet,0
+122,katat,,skin,0
+123,katinokan,,peace,0
+124,katitob,,bedbug,0
+125,katlib,,scissors,0
+126,kayamanan,,wealth,0
+127,kayo,,wood; lumber,0
+128,kiloy,,(anatomy) eyebrow,0
+129,kimat,,lightning,0
+130,kindat,,wink (of one's eye),0
+131,kintsay,,Chinese celery,0
+132,kolang,,drought,0
+133,kolap,,owl,0
+134,kolaw,,infant,0
+135,kolita,,octopus,0
+136,komkom,,fist,0
+137,kona,,fish,0
+138,koniho,,rabbit,0
+139,korbata,,necktie,0
+140,korol,,thunder,0
+141,kortina,,curtain,0
+142,kosot,,sawdust,0
+143,kotsara,,spoon,0
+144,kotsi,,car,0
+145,kotsilyo,,knife,0
+146,kơting,,kitten,0
+147,labi,,(anatomy) lip,0
+148,labi,,love,0
+149,labon,,mire,0
+150,lalaki,,man; male,0
+151,lalo,,interior,0
+152,langis,,oil,0
+153,lango,,fly (insect),0
+154,lanom,,water,0
+155,lason,,poison,0
+156,lata,,thirst,0
+157,lata,,can; tin,0
+158,lawaw,,saliva,0
+159,layat,,ocean,0
+160,layon,,earthquake,0
+161,layop,,cold,0
+162,libaba,,west,0
+163,libro,,book,0
+164,ligat,,drought,0
+165,liglig,,edge; side; border,0
+166,liking,,side,0
+167,lilin,,wax,0
+168,lilip,,hem,0
+169,linta,,leech,0
+170,linya,,line,0
+171,liring,,fin,0
+172,liyopan,,scorpion,0
+173,logar,,place,0
+174,lohik,,sprout,0
+175,lokton,,grasshopper; locust,0
+176,lolo,,sorrow,0
+177,lololanan,,vehicle,0
+178,lolom,,cloud,0
+179,lonop,,flood,0
+180,loob,,interior; inside,0
+181,looy,,(anatomy) neck,0
+182,lora,,spit; sputum,0
+183,lota,,soil; earth; ground,0
+184,lowa,,tear,0
+185,maabig,,good,0
+186,maalop,,nice,0
+187,maamoy,,shady,0
+188,maata,,unripe; raw,0
+189,mababo,,shallow,0
+190,mabagal,,slow,0
+191,mabagsit,,cruel; violent; brutal,0
+192,mabikas,,elegant,0
+193,maboling,,boa; python,0
+194,madalit,,sticky,0
+195,madalonot,,slimy,0
+196,mag-aral,,to study,0
+197,mag-ari,,to reign,0
+198,mag-ingat,,to beware,0
+199,mag-ompisa,,to start; to begin,0
+200,maganda,,pretty,0
+201,magaspang,,rough; coarse (of a surface),0
+202,magato,,itchy,0
+203,magdasal,,to pray,0
+204,magdoda,,to doubt,0
+205,maghanda,,to prepare,0
+206,maghirarayaw,,to boast,0
+207,maghon,,firm; stiff,0
+208,magkanta,,to sing,0
+209,magpoyat,,to wake,0
+210,mairap,,difficult; hard,0
+211,makapoy,,weak,0
+212,makasarili,,selfish,0
+213,makasta,,ugly,0
+214,makatis,,tiny,0
+215,makatlok,,loud,0
+216,makipot,,narrow,0
+217,maklang,,dry,0
+218,malapar,,broad; wide,0
+219,malapot,,blurred; hazy; vague,0
+220,malawang,,wide; broad,0
+221,malay,,consciousness,0
+222,malayop,,cool,0
+223,maliga,,merry; happy; glad,0
+224,maliha,,pepper,0
+225,malikhi,,nimble,0
+226,malimpok,,round,0
+227,malinis,,clear,0
+228,malino,,clear,0
+229,malita,,suitcase,0
+230,malolo,,sad,0
+231,malombit,,pregnant,0
+232,malongo,,lonely,0
+233,maloto,,ripe,0
+234,mamagil,,to winnow,0
+235,mamamana,,archer,0
+236,mamaptog,,to testify,0
+237,mamasa,,to read,0
+238,mamastang,,to inquire,0
+239,mamasyar,,to stroll,0
+240,mamiyay,,to live,0
+241,mamora,,cheap,0
+242,man,,also,0
+243,mana,,heritage,0
+244,manakaw,,to steal,0
+245,manala,,to weave,0
+246,mananawil,,heir,0
+247,mangitit,,black,0
+248,maninilay,,fisherman,0
+249,manok,,chicken,0
+250,manoyang,,child-in-law,0
+251,mantika,,oil,0
+252,mantikilya,,butter,0
+253,mantil,,tablecloth,0
+254,mantsa,,stain; spot,0
+255,maogong,,resonant,0
+256,maosisa,,curious,0
+257,mapagal,,weary,0
+258,mapaibat,,since,0
+259,mapait,,bitter,0
+260,mapalot,,thick (of liquid),0
+261,mapanalabat,,hospitable,0
+262,mapangabot,,considerate,0
+263,mapanomtom,,thoughtful,0
+264,maparas,,quick,0
+265,mapasinsya,,patient,0
+266,mapoti,,white,0
+267,mapotla,,pale,0
+268,maptog,,honest; sincere; upright,0
+269,marahil,,maybe; perhaps,0
+270,maralikot,,sticky,0
+271,maramsak,,cruel; fierce,0
+272,marangal,,noble,0
+273,marani,,near,0
+274,marantal,,flat,0
+275,marapat,,proper,0
+276,marayo,,far,0
+277,mariringoyon,,shy; timid; bashful,0
+278,maroblom,,dark,0
+279,marolmong,,filthy,0
+280,maromlong,,filthy,0
+281,marona,,slow; tender,0
+282,maronong,,wise,0
+283,maroron,,shy,0
+284,masakit,,disease,0
+285,masamit,,sugar,0
+286,masanto,,holy,0
+287,masbali,,rather,0
+288,masilos,,jealous,0
+289,maski,,although,0
+290,masostansya,,nutritious,0
+291,mata,,eye (organ),0
+292,mataba,,fat,0
+293,matabang,,tasteless; bland,0
+294,matalabit,,fast; swift,0
+295,matalag,,rare,0
+296,matalas,,sharp,0
+297,matalino,,smart; intelligent,0
+298,matamlar,,lazy,0
+299,matantan,,slow,0
+300,matayngi,,crispy,0
+301,matibay,,sturdy,0
+302,matiboy,,hard,0
+303,matibya,,red,0
+304,matimbang,,just,0
+305,matoa,,parent,0
+306,matpol,,brave; tough; valiant,0
+307,mayaman,,rich; wealthy,0
+308,mayamo,,smooth,0
+309,mayanan,,north,0
+310,mayangang,,spicy; hot,0
+311,midyas,,sock,0
+312,milmil,,crumb,0
+313,minoto,,minute,0
+314,minsahi,,message,0
+315,mirindal,,snack,0
+316,modilo,,model,0
+317,mondo,,world,0
+318,motya,,pearl,0
+319,mwiblis,,furniture,0
+320,naapon,,yesterday,0
+321,nana,,aunt,0
+322,nana,,pus,0
+323,nanay,,mother,0
+324,nati,,dead,0
+325,nigosyo,,business,0
+326,nilogaw,,gruel,0
+327,otang,,debt,0
+328,oysa,,deer,0
+329,palbangon,,dawn,0
+330,pamangan,,food,0
+331,payong,,umbrella,0
+332,pihing,,vegetable,0
+333,piklat,,scar,0
+334,pinghan,,cousin,0
+335,pipino,,cucumber,0
+336,pirlas,,pearl,0
+337,pirma,,signature,0
+338,pirmi,,always,0
+339,pitsa,,date,0
+340,plima,,phlegm,0
+341,pogal,,nest,0
+342,pohol,,(anatomy) navel,0
+343,polot,,honey,0
+344,polta,,door,0
+345,pool,,fire,0
+346,poonan,,capital (money),0
+347,posa,,cat,0
+348,posit,,squid,0
+349,poso,,(anatomy) heart,0
+350,posporo,,match; safety match,0
+351,potog,,true; real,0
+352,problima,,problem; trouble,0
+353,rigalo,,gift,0
+354,ripolyo,,cabbage,0
+355,risibo,,receipt,0
+356,rosas,,rose (flower),0
+357,sadya,,intent,0
+358,sakang,,bowlegged,0
+359,salakay,,raid,0
+360,sapakatan,,conspiracy,0
+361,sapat,,enough; sufficient,0
+362,sapatos,,shoe,0
+363,saraksak,,kingfisher,0
+364,sarampak,,snub-nosed,0
+365,sastri,,tailor,0
+366,saya,,skirt,0
+367,siboyas,,onion,0
+368,sigarilyo,,cigarette,0
+369,silir,,room,0
+370,silya,,chair,0
+371,singsing,,ring,0
+372,sinilas,,slippers,0
+373,sipilyo,,toothbrush,0
+374,sisiw,,chick; young chicken,0
+375,siyam,,nine,0
+376,soka,,vinegar,0
+377,sosi,,key,0
+378,swildo,,salary; wage,0
+379,swirti,,luck,0
+380,syodad,,city,0
+381,taga,,fishhook,0
+382,tagyang,,(anatomy) rib,0
+383,talakba,,frog; toad,0
+384,talinga,,earring,0
+385,talino,,intellect,0
+386,talokbong,,veil,0
+387,talom,,eggplant,0
+388,talonahan,,eel,0
+389,tamal,,poison,0
+390,tambal,,medicine; remedy,0
+391,tambay,,help,0
+392,tamoro,,(anatomy) forefinger,0
+393,tana,,only,0
+394,tanaman,,plant,0
+395,tango,,nod,0
+396,tanso,,copper; brass,0
+397,taon,,year,0
+398,taoy,,rust,0
+399,tapal,,patch,0
+400,tapik,,pat; tap,0
+401,tari,,spur,0
+402,tarom,,blade,0
+403,tatay,,father,0
+404,tatyaw,,cock; rooster,0
+405,taway,,taste,0
+406,tawil,,heritage,0
+407,tawo,,person; human being,0
+408,tawtawo,,people (as a group),0
+409,taya,,bet,0
+410,tayakotok,,drizzle,0
+411,tayi,,seam; stitch,0
+412,taynop,,dream,0
+413,taytay,,bridge,0
+414,tikala,,chain,0
+415,timol,,flea,0
+416,tina,,dye,0
+417,tinabon,,tomb,0
+418,tinanda,,knowledge,0
+419,tinapay,,bread,0
+420,tindawan,,store; shop,0
+421,tingga,,lead (metal),0
+422,tingkapan,,job; vocation,0
+423,tiok,,hiccup,0
+424,tobling,,furrow,0
+425,toktok,,peak; summit,0
+426,tolok,,deaf,0
+427,tolok,,noise,0
+428,tomangoy,,to swim,0
+429,tomibaw,,to visit,0
+430,toon,,(anatomy) nape,0
+431,toor,,(anatomy) knee,0
+432,topa,,sheep,0
+433,tori,,tower,0
+434,totolyan,,(anatomy) ear,0
+435,toyot,,footprint,0
+436,trangkaso,,(pathology) influenza; flu,0
+437,trapo,,rug,0
+438,trigo,,wheat,0
+439,tripolanti,,crew,0
+440,tsa,,tea,0
+441,tsismis,,gossip,0
+442,tyan,,(anatomy) abdomen,0
+443,wakay,,vine,0
+444,walong,,(anatomy) forehead,0
+445,wanan,,right (direction),0
+446,wawali,,advice; counsel,0
+447,wili,,left (direction),0
+448,yabi,,evening; night,0
+449,yamot,,root (of a plant),0
+450,yamtok,,rattan,0
+451,yangat,,dirt,0
+452,yaong,,bowl,0
+453,yapon,,first,0
+454,yatok,,sap,0
+455,yawi,,key,0
+456,yawo,,dart,0
+457,yilo,,ice,0
+458,yobil,,rope; string,0
+459,yogyog,,tremor,0
+460,yokib,,cave,0
+461,yopi,,dent,0

@@ -1,0 +1,157 @@
+ID,Form,IPA,Gloss,Language_ID
+0,а,,and,0
+1,А,,"The first letter of the Ingush alphabet, written in the Cyrillic script.",0
+2,ахка,,summer,0
+3,аьла,,prince,0
+4,бархӏ,/ˈbaɾ̥/,eight,0
+5,бер,,child,0
+6,бийса,/ˈbiːsa/,"night, йийкха бийса ― jīqa bīsa ― clear (cloudless)",0
+7,боамби,,"absorbent cotton, cotton wool, wadding, batting, cotton",0
+8,борз,/boɾz/,wolf,0
+9,борш,/ˈboɾʃ/,"bull-calf, a male",0
+10,буд,/ˈbud/,vulva,0
+11,бутт,/ˈbutː/,"month, moon",0
+12,бӏарг,,eye (organ of sight),0
+13,бӏаьсти,,spring,0
+14,вир,/ˈviɾ/,donkey,0
+15,ворхӏ,/ˈvoɾ̥/,seven,0
+16,воша,/ˈvoʃa/,brother,0
+17,воӏ,,son,0
+18,газа,,goat,0
+19,герми,,"rag (piece of cloth)[1], floorcloth[2], cork[3], wad",0
+20,гуйре,,autumn,0
+21,гӏа,/ˈʁa/,leaf,0
+22,Гӏалгӏай,,"Ingush people
+гӀалгӀай мотт ― ġalġaj mott ― Ingush language",0
+23,Гӏалгӏайче,,Ingushetia (a republic of Russia),0
+24,гӏум,,sand,0
+25,да,/ˈda/,father,0
+26,дахка,/ˈdaχka/,mouse,0
+27,даьла,/ˈdæla/,god,0
+28,дезал,,family,0
+29,дешархо,,"schoolchild, pupil",0
+30,ди,/ˈdi/,day,0
+31,ди-бийса,,"24-hour day, nychthemeron, Ди-бийса ткъаь диъ сахьат",0
+32,диг,/ˈdiɡ/,axe,0
+33,дийхк,,pine tree,0
+34,диъ,/ˈdiʔ/,four,0
+35,дог,/ˈdoɡ/,(anatomy) heart,0
+36,дос,/ˈdos/,"wood, firewood",0
+37,доттагӏа,,friend,0
+38,дотув,/ˈdotuː/,silver,0
+39,дош,/ˈdoʃ/,word,0
+40,дошув,/ˈdoʃuː/,gold,0
+41,ера,,Thursday,0
+42,жӏали,/ˈʒʔali/,dog,0
+43,из,,"third-person singular pronouns: he, she",0
+44,ийс,/ˈiːs/,nine,0
+45,имам,,(Islam) imam,0
+46,ираз,,happiness,0
+47,итт,/ˈitː/,ten,0
+48,йиша,/ˈjiʃa/,sister,0
+49,йокъ,/ˈjoqʼ/,ashes,0
+50,йоӏ,,"daughter, girl, Virgo (constellation)",0
+51,кир,,"lime, calcium oxide",0
+52,ког,/ˈkoɡ/,"leg, foot",0
+53,кор,/ˈkoɾ/,window,0
+54,корта,/ˈkoɾta/,head,0
+55,кхаьра,,Wednesday,0
+56,кхера,/ˈqeɾa/,stone,0
+57,кхокх,/ˈqoq/,pigeon,0
+58,кхокха,/ˈqoqa/,pigeon,0
+59,кхоъ,/ˈqoʔ/,three,0
+60,къурда,,rags; junk,0
+61,кӏа,/ˈkʼa/,wheat,0
+62,кӏира,,week,0
+63,кӏиранди,,Sunday,0
+64,кӏомсар,/ˈkʼomsaɾ/,canine tooth,0
+65,кӏур,/ˈkʼuɾ/,smoke,0
+66,лаьтта,/ˈlætːa/,earth,0
+67,лерг,/ˈleɾɡ/,(anatomy) ear,0
+68,лоам,/ˈlɔam/,mountain,0
+69,лом,,lion,0
+70,лор,,doctor,0
+71,Магас,,Magas (a city in Russia),0
+72,малагӏа,,"(interrogative) what, which, what kind of",0
+73,малх,/ˈmalχ/,sun,0
+74,мар,/ˈmaɾ/,husband,0
+75,марс,/ˈmaɾs/,sickle,0
+76,масса,,"how much, how many, Масса сахьат даьннад? ― Massa saḥat",0
+77,минот,,minute,0
+78,модз,/ˈmod͡z/,honey,0
+79,морх,/ˈmoɾχ/,cloud,0
+80,москал,,turkey,0
+81,мотт,/ˈmotː/,"language, tongue, мотт тохка Iилма ― mott toχka Iilma",0
+82,мух,/ˈmuχ/,wind,0
+83,нана,/ˈnana/,mother,0
+84,неш,,friend (female),0
+85,никъ,/ˈniqʼ/,road,0
+86,нитт,/ˈnitː/,nettle,0
+87,ножганцӏей,,December,0
+88,оалхазар,/ˈɔalχazaɾ/,bird,0
+89,оршот,,Monday,0
+90,пхиъ,/ˈpχiʔ/,five,0
+91,пхьид,/ˈpħid/,frog,0
+92,пхьид,/ˈpħid/,(anatomy) calf of the leg,0
+93,пхьид,/ˈpħid/,(anatomy) calf of the leg,0
+94,пӏаьраска,,Friday,0
+95,пӏелг,/ˈpʼelɡ/,finger,0
+96,Россе,,Russia,0
+97,са,,"(possessive) my
+Са цӀи Саид я. ― Sa c̣i Said ja. ― My name is Said.
+Хил дехьа бах са гаргара нах. ― Χil deḥa baχ sa gargara naχ. ― My relatives live on the other side of the river.
+Са наьнал дикагӀа саг вац. ― Sa nänal dikaġa sag wac. ― There's nobody better than my mother.",0
+98,са,,soul,0
+99,са,,corner,0
+100,сайре,,evening,0
+101,сахьат,,"hour, clock",0
+102,тахан,,today,0
+103,таьрахь,,date,0
+104,тха,,(possessive) our,0
+105,тӏом,,war,0
+106,уж,,third-person plural pronoun: they,0
+107,уст,/ˈust/,bull,0
+108,фу,,seed,0
+109,фу,,what,0
+110,фу,,what,0
+111,фуъ,/ˈfuʔ/,"egg, grain",0
+112,ха,,time,0
+113,ха,,"thigh, hip",0
+114,ха,,"guard, guards",0
+115,ха,,"thigh, hip",0
+116,ха,,"guard, guards",0
+117,ха,,"guard, guards",0
+118,хи,/ˈχi/,trunk of a tree,0
+119,хий,/χiː/,"water, river",0
+120,хох,,onion,0
+121,хьа,,"(possessive) your (2nd-person familiar, singular only)",0
+122,хьазилг,/ˈħazilɡ/,sparrow,0
+123,хьакха,/ˈħaqa/,pig,0
+124,хьо,,second-person singular pronoun: you,0
+125,хьу,/ˈħu/,forest,0
+126,хӏанз,,now,0
+127,ца,/ˈt͡sa/,tooth,0
+128,ца,/ˈt͡sa/,not,0
+129,ца,/ˈt͡sa/,not,0
+130,цар,,(possessive) their,0
+131,царг,/ˈt͡saɾɡ/,tooth,0
+132,цаӏ,/ˈt͡saʕ/,one,0
+133,цогал,,fox,0
+134,цун,,"(possessive) his, her",0
+135,цӏи,/ˈt͡sʼi/,name,0
+136,цӏи,/ˈt͡sʼi/,fire,0
+137,цӏи,/ˈt͡sʼi/,fire,0
+138,цӏонг,/ˈt͡sʼonɡ/,(anatomy) navel,0
+139,ча,/ˈt͡ʃa/,bear,0
+140,чо,/ˈt͡ʃo/,hair,0
+141,ша,[ʃʌ],ice,0
+142,шинара,,Tuesday,0
+143,шиъ,/ˈʃiʔ/,two,0
+144,шоатта,,Saturday,0
+145,шу,,year,0
+146,шун,,(possessive) your (2nd-person plural),0
+147,шура,/ˈʃuɾa/,milk,0
+148,юрт,,village,0
+149,ялх,/ˈjalχ/,six,0
+150,ӏа,,winter,0
+151,ӏуйре,,morning,0

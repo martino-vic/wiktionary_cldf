@@ -5,3 +5,4 @@
 ```subprocess.run(f"cldf validate {self.meta}").check_returncode()```
 - ```metadata_template.json``` serves as a template to create ```metadata.json``` for each language
 - If a file doesn't pass the validation, the logger will log the error message to ```cldf.log```
+- The corresponding Wiktionary link is ```https://en.wiktionary.org/wiki/```

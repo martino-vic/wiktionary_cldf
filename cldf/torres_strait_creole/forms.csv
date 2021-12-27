@@ -1,0 +1,178 @@
+ID,Form,IPA,Gloss,Language_ID
+0,abal,,(eastern dialect) pandanus,0
+1,adawaiwai,,penis,0
+2,ageg,,(eastern dialect) an overripe coconut,0
+3,ai,,I (see also mi),0
+4,ai,,eye,0
+5,ai,,eye,0
+6,ailan,,island,0
+7,aka,,grandmother,0
+8,akari,,(Eastern dialect) co-brother-in-law (the husband of one's wife's sister),0
+9,ama,,mother,0
+10,an,,"hand, lower arm, flipper",0
+11,angre,,hungry,0
+12,anis,,ant,0
+13,ankel,,paternal uncle; one's father's brother,0
+14,anti,,paternal aunt; one's father's sister,0
+15,aryari,,(eastern dialect) Murray Island sardine (Harengula ovalis),0
+16,at,,heart,0
+17,ata,,"(eastern dialect) grandparent, Synonyms: pop, popa",0
+18,bag,,"(anatomy, eastern dialect) cheek",0
+19,baik,,back (of the body),0
+20,baziguru,,(western dialect) quail,0
+21,beli,,abdomen,0
+22,beuger,,(eastern dialect) booby (bird),0
+23,big,,big,0
+24,biged,,loggerhead turtle,0
+25,blad,,blood,0
+26,blaik,,black,0
+27,bodi,,"body, tree trunk",0
+28,bon,,bone,0
+29,brein,,brain,0
+30,bulmakau,,"cow, cattle",0
+31,bunara,,bow and arrow,0
+32,byain,,buttocks,0
+33,daumer,,(eastern dialect) Torres Strait pigeon,0
+34,dempla,,"they, them (more than three; definite)",0
+35,demtu,,"they (two people), those two",0
+36,dhangal,,"(western dialect) dugong, Dugong dugon",0
+37,dog,,dog,0
+38,dugong,,"dugong, Dugong dugon",0
+39,ed,,head,0
+40,em,,he/she/it (third-person singular pronoun),0
+41,eya,,"head hair, fur",0
+42,gad,,(eastern dialect) an immature coconut,0
+43,giru,,(eastern dialect) a sprouting coconut,0
+44,kaikai,,food,0
+45,kenani,,(eastern dialect) armpit,0
+46,komus,,(eastern dialect) body hair,0
+47,kopespes,,(eastern dialect) a developing coconut,0
+48,kopor,,(eastern dialect) navel,0
+49,kup,,(western dialect) buttocks,0
+50,leg,,"lower leg, foot",0
+51,liba,,liver,0
+52,man,,"husband, a married man, any man",0
+53,mar,,(western dialect) a person's shadow,0
+54,maut,,"mouth, beak",0
+55,merod,,(eastern dialect) the calf of the leg,0
+56,mipla,,"we, us (more than three, not including the listener)",0
+57,mitu,,"we two, us two (not including the listener)",0
+58,morop,,(eastern dialect) forehead,0
+59,motop,,(eastern dialect) buttocks,0
+60,mukeis,,(eastern dialect) rat or mouse,0
+61,mun,,moon,0
+62,musu,,(western dialect) a coconut embryo,0
+63,nanigot,,goat,0
+64,neitawet,,(eastern dialect) husband's brother's wife,0
+65,nyap,,thirsty,0
+66,ol,,"they, them (more than three; indefinite)",0
+67,oman,,"wife, a married woman",0
+68,pes,,face,0
+69,pes,,(eastern dialect) a ripe coconut,0
+70,pes,,(eastern dialect) a ripe coconut,0
+71,pig,,"pig, Synonym: pwaka",0
+72,piknini,,child,0
+73,pingga,,finger,0
+74,pislama,,"bêche-de-mer, trepang, sea cucumber",0
+75,pusiket,,cat,0
+76,pwaka,,"pig
+Synonym: pig",0
+77,rat,,rat or mouse,0
+78,sak,,shark,0
+79,san,,sun,0
+80,saper,,"(Eastern dialect) flying fox, fruit bat",0
+81,sapur,,"(western dialect) flying fox, fruit bat",0
+82,sidaun,,to be sitting,0
+83,smol,,Small,0
+84,sneik,,snake,0
+85,solda,,shoulder,0
+86,spet,,saliva,0
+87,sugaken,,sugarcane,0
+88,swet,,sweat,0
+89,taigasak,,"tiger shark, Galeocerdo cuvier",0
+90,tang,,(anatomy) tongue,0
+91,tapot,,"(eastern dialect) fingernail, (eastern dialect) fingertip,",0
+92,tit,,tooth,0
+93,totol,,turtle,0
+94,traik,,"(anatomy) the sole of the foot, (anatomy) the foot",0
+95,tri,,three,0
+96,tri,,tree,0
+97,tri,,tree,0
+98,trot,,throat,0
+99,u,,Lua error: not enough memory. See Wiktionary:Lua memory errors for more information. a mature coconut,0
+100,wai,,(eastern dialect) a coconut embryo,0
+101,waitman,,"a white man, a European man",0
+102,wake,,"(eastern dialect) thigh, upper leg",0
+103,win,,wind,0
+104,wipsneik,,"A whip snake., A young carpet snake.",0
+105,wiskit,,facial hair,0
+106,yu,,you (singular),0
+107,yumi,,the first person dual inclusive: the speaker and the,0
+108,yumpla,,"The inclusive first person plural, yumpla refers to the speaker, the person(s) being spoken to, and other person(s); we, us.",0
+109,zo,,chin,0
+110,zori,,(western dialect) cicada,0
+111,I,,,1
+112,eye,,,1
+113,eye,,,1
+114,island,,,1
+115,hand,,,1
+116,hungry,,,1
+117,ants,,,1
+118,uncle,,,1
+119,aunty,,,1
+120,heart,,,1
+121,back,,,1
+122,belly,,,1
+123,big,,,1
+124,blood,,,1
+125,black,,,1
+126,body,,,1
+127,bone,,,1
+128,brain,,,1
+129,bow and arrow,,,1
+130,behind,,,1
+131,dog,,,1
+132,dugong,,,1
+133,head,,,1
+134,him,,,1
+135,hair,,,1
+136,leg,,,1
+137,liver,,,1
+138,man,,,1
+139,mouth,,,1
+140,me fellow,,,1
+141,moon,,,1
+142,nanny goat,,,1
+143,woman,,,1
+144,face,,,1
+145,face,,,1
+146,face,,,1
+147,pig,,,1
+148,pickaninny,,,1
+149,finger,,,1
+150,pussycat,,,1
+151,rat,,,1
+152,shark,,,1
+153,sun,,,1
+154,"""sit down""",,,1
+155,small,,,1
+156,snake,,,1
+157,shoulder,,,1
+158,spit,,,1
+159,sugarcane,,,1
+160,sweat,,,1
+161,tiger shark,,,1
+162,tongue,,,1
+163,teeth,,,1
+164,turtle,,,1
+165,track,,,1
+166,three,,,1
+167,tree,,,1
+168,tree,,,1
+169,throat,,,1
+170,"""white man""",,,1
+171,wind,,,1
+172,whip snake,,,1
+173,whiskers,,,1
+174,you,,,1
+175,jaw,,,1
