@@ -7,7 +7,6 @@ import os
 import requests
 import subprocess
 import sys
-from time import perf_counter
 
 import pandas as pd
 
@@ -150,7 +149,4 @@ def loop():
 
 
 if __name__ == "__main__":
-        start_time = perf_counter()
         loop()
-        total_time = perf_counter() - start_time
-        sys.stdout(f"took {total_time:.3f} seconds")
