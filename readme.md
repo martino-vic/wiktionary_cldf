@@ -3,6 +3,7 @@
 ## Content
 
 - cldf1 and cldf2 contain [cldf](https://cldf.clld.org/)-conform information about the vocabulary of all 1403 languages of the English Wiktionary.
+- cldf is an empty folder to which ````dfs2cldf.py``` writes it output. Generated output had to be migrated to folders cldf1 and cldf2 due to Github's limit of 1000 files per directory
 - raw1 and raw2 together contain 1403 csv-files of 125MB size in total. File names are languages as they appear on the English Wiktionary. Each file consist of 4 columns: 'L2_orth' representing the orthographical form of the word, 'L2_ipa' its IPA-transcription, 'L2_gloss' its English explanation and L2_etym the English word it originates from
 - lgs contains text-files with wordlists for every language that appears on the English Wiktionary. Files were created with WiktionaryParser.java.
 - WiktionaryParser.java is a courtesy of [Tomasz Jastrząb](https://scholar.google.com/citations?user=p2EcxaMAAAAJ&hl=pl) and was used to retrieve the wordlists found in the folder lgs 
