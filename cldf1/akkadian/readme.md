@@ -62,7 +62,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF BorrowingTable](http://cldf.clld.org/v1.0/terms.rdf#BorrowingTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 1
+[dc:extent](http://purl.org/dc/terms/extent) | 0
 
 
 ### Columns
