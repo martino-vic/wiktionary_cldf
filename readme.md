@@ -1,4 +1,4 @@
-# Wiktionary's English borrowings in the worlds languages
+# Wiktionary as CLDF
 
 ## Content
 
@@ -8,17 +8,17 @@
 - lglist.txt is a [complete list of languages that appear on the English Wiktioanry](https://en.wiktionary.org/wiki/Wiktionary:List_of_languages).
 - lglist_full.txt is a copy of lglist.txt - since the latter serves as input for makedfs.py it can be modified according to one's needs without losing the full list.
 - LICENSE: MIT
-- makedfs.py - The parser with which the csv files where obtained. With a download speed of 144Mbps the script needed 58 hours to parse all the languages from aari until zuni.
-- makedfs.ipynb - Some notes, documenting the parser's making-of
+- makedfs.py - The parser with which the csv files where obtained. With a download speed of 144Mbps it needed 58 hours to parse all the languages from aari until zuni.
+- makedfs.ipynb - Some notes, documenting the making-of of the parser
 - parser.log - Documenting corrupted file names and handling of errors that occured while squeezing parsed data into data frames
-- dfs is an empty folder into which the parser writes its results
+- dfs is an empty folder into which the parser writes its results. Generated outputs were migrated to raw1 and raw2 due to Git's limitation of maximum 1000 files per directory
+- changelog.txt - documenting manual deletion of false positive and insertion of false negative English loanwords
 
 # remarks
 - Sometimes the column "L2_etym" is not displayed by the csv-viewer in Github. This is likely the case whenever the first 100 lines of the column are empty. Clicking on "raw", the column can be seen again.
-- The reason why columns have the "L2_" prefix is that this data was first used for baselinetests, where they served as pseudo-donor words (hence "L2" ~ second language ~ donor language), even though
+- The reason why columns have the "L2_" prefix is that this data was first used for baseline tests, where they served as pseudo-donor words (hence "L2" ~ second language ~ donor language), even though
 in the current setting they represent the recipient language (L1). The distinction L1-L2 is only internal.
 
 # Todo
-- convert raw data to cldf
-- add missing IPA transcriptions using [epitran](https://pypi.org/project/epitran/), [copius_api](https://github.com/martino-vic/copius_api) and potential other software
-- Try to add those new IPA transcriptions to Wiktionary
+- add missing IPA transcriptions using [epitran](https://pypi.org/project/epitran/), [copius_api](https://github.com/martino-vic/copius_api, [espeak-ng](https://github.com/espeak-ng/espeak-ng) and potential other software
+- Try to contribute those new IPA transcriptions to Wiktionary
