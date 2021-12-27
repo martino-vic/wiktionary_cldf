@@ -20,5 +20,5 @@
 in the current setting they represent the recipient language (L1). The distinction L1-L2 is only internal.
 
 # Todo
-- add missing IPA transcriptions using [epitran](https://pypi.org/project/epitran/), [copius_api](https://github.com/martino-vic/copius_api, [espeak-ng](https://github.com/espeak-ng/espeak-ng) and potential other software
+- add missing IPA transcriptions using [epitran](https://pypi.org/project/epitran/), [copius_api](https://github.com/martino-vic/copius_api), [espeak-ng](https://github.com/espeak-ng/espeak-ng) and potential other software
 - Try to contribute those new IPA transcriptions to Wiktionary
