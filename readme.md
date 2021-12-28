@@ -1,4 +1,4 @@
-[![CLDF validation](https://raw.githubusercontent.com/martino-vic/en_borrowings/master/cldf/badge.svg)](https://github.com/martino-vic/en_borrowings/blob/master/cldf/dfs2cldf.py#L53)
+[![CLDF validation](https://raw.githubusercontent.com/martino-vic/en_borrowings/master/cldf/badge.svg)](https://github.com/martino-vic/en_borrowings/blob/master/cldf/dfs2cldf.py#L53) [![DOI](https://zenodo.org/badge/441361769.svg)](https://zenodo.org/badge/latestdoi/441361769)
 
 # Wiktionary as CLDF
 
