@@ -1,0 +1,575 @@
+ID,Form,IPA,Gloss,Language_ID
+0,baa,/baː/,hip,0
+1,baadal,/ˈbaːdal/,comb,0
+2,baadali,/ˈbaːdali/,comb,0
+3,baadhal,/baːdal/,bottle,0
+4,baadi,/baːdi/,paddock,0
+5,baadjin,/baːd͡ʒin/,poison,0
+6,baagii,/baːɡiː/,maternal grandmother,0
+7,Baalaay,/ˈbaːlaːj/,Monday,0
+8,baaldharradharra,/ˈbaːld̪arad̪ara/,spur-winged plover,0
+9,baaluu,/baːluː/,moon,0
+10,baama,/baːma/,cloud,0
+11,baan,/baːn/,mistletoe,0
+12,baandali,/ˈbaːndali/,straighten up (tidy),0
+13,baanduu,/baːnduː/,horsefly,0
+14,baawaa,/baːvaː/,sister,0
+15,baawul,/baːvul/,chicken,0
+16,baayali,/ˈbaːyali/,crack between teeth,0
+17,baayami,/baːjami/,god,0
+18,baayandhu,/baːjand̪u/,see you soon,0
+19,baaybuu,/baːjbuː/,pipe,0
+20,baaylirrmali,/ˈbaːjlirˌmali/,boil,0
+21,babuligaarr,/babuliɡaːr/,hotel,0
+22,baburr,/ˈbaːbuːr/,foot,0
+23,badha,/bad̪a/,sad,0
+24,badha,/bad̪a/,beer,0
+25,badhii,/badhiː/,grandmother,0
+26,badi,/badi/,fence,0
+27,badjigal,/bad͡ʒiɡal/,bicycle,0
+28,badjin,/bad̪jin/,small,0
+29,badjinbal,/bad͡ʒinbal/,gradually,0
+30,baga,/baɡa/,river bank,0
+31,bagaan,/baɡaːn/,older sister,0
+32,bagandi,/baɡandi/,"quoll, native cat",0
+33,balabalaa,/balabalaː/,butterfly,0
+34,balal,/balal/,dry,0
+35,balalmal,/balalmal/,towel,0
+36,balan,/balan/,zero,0
+37,balima,/balima/,place far away,0
+38,balu,/balu/,dead,0
+39,balugi,/ˈbaluɡi/,to die,0
+40,balumbaluu,/balumbaluː/,weak,0
+41,baluwaa,/baluvaː/,"slowly, steadily",0
+42,baluwaal,/baluwaːl/,never,0
+43,bamba,/bamba/,hard,0
+44,bambubambul,/bambubambul/,orange,0
+45,bambul,/bambul/,December,0
+46,banaba,/banaba/,health,0
+47,banagay,/ˈbanaɡaj/,to run,0
+48,banay,/banay/,ten,0
+49,banbu,/banbu/,bus,0
+50,bandaarr,/bandaːr/,kangaroo,0
+51,bandu,/bandu/,dirty,0
+52,banggabaa,/banɡabaː/,white,0
+53,banggulbaa,/banɡulbaː/,bank,0
+54,-baraay,/baɻaːj/,"X-having
+milambaraaycow
+galibaraaywet",0
+55,barabin,/baɻabin/,semen,0
+56,barrgay,/barɡaj/,July,0
+57,barriga,/bariɡa/,hundred,0
+58,bawili,/ˈbawili/,to sing,0
+59,bawurra,/bawura/,"red kangaroo, Macropus rufus",0
+60,bayn,/bajn/,sore,0
+61,baynbaa,/ˈbajn baː/,sick bay,0
+62,bibubibu,/bibubibu/,purple,0
+63,-bidi,/bidi/,big,0
+64,bigibila,/biɡibila/,"echidna, Tachyglossus aculeatus",0
+65,biiba,/biːba/,paper,0
+66,biibabiiba,/biːbabiːba/,book,0
+67,biilaa,/biːlaː/,shoulder blade,0
+68,biimali,/ˈbiːmali/,brush,0
+69,-bil,/bil/,covered with,0
+70,bina,/bina/,ear,0
+71,biri,/biɻi/,chest,0
+72,birray,/ˈbiraj/,boy,0
+73,-biyaay,/bijaːj/,with,0
+74,biyan,/bijan/,fruit,0
+75,buba,/ˈbuba/,biceps,0
+76,bubaa,/bubaː/,father,0
+77,budhi,/bud̪i/,body hair,0
+78,bulaarr,/bulaːr/,two,0
+79,bulaarra,/bulaːra/,twice,0
+80,bulanggi,/bulaŋɡi/,blanket,0
+81,Bulawaa,/bulavaː/,April,0
+82,buligaa,/buliɡaː/,four,0
+83,buluuy,/buluːj/,black,0
+84,bumali,/ˈbumali/,hit,0
+85,bunbun,/bunbun/,grasshopper,0
+86,bundi,/bundi/,club,0
+87,bungun,/bunɡun/,arm,0
+88,buri,/buɻi/,match,0
+89,burrul,/burul/,big,0
+90,burrulaa,/burulaː/,many,0
+91,burruwi,/buruvi/,earthquake,0
+92,buru,/buɻu/,ball,0
+93,burugalaa,/buɻuɡalaː/,ball,0
+94,buruma,/ˈbuɻuma/,"tame dog
+Nginda dhii wuuna burumagu.You give the meat to the dog!
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, vol. 4
+Dog . . . bŭrrŭmă.
+1856, William Ridley, gurre kamilaroi or Kamilaroi Sayings
+baiame gīr yārāman, būrumo, bundar, mūte, dūli, dīnoun, buralga, biloela, millimumul, gulamboli, kobado, mullion, guiya, nūrai, ŋundoba, burulu, muŋin, kānuŋo di gimobi.
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, vol. 33
+Dog .... .... buruma",0
+95,buruwiy,/ˈbuɻuvij/,to rest,0
+96,buu,/ˈbuː/,"testicles, balls",0
+97,buubal,/ˈbuːbal/,music,0
+98,buubali,/ˈbuːbali/,fart,0
+99,buubili,/ˈbuːbili/,smoke tobacco,0
+100,buubumurr,/buːbumur/,platypus,0
+101,buuga,/buːɡa/,steam,0
+102,buumadhayaa,/buːmadajaː/,fox,0
+103,buurraan,/buːraːn/,vessel,0
+104,buuwiir,/buːviːɻ/,smallpox,0
+105,buwiy,/ˈbuwij/,smell,0
+106,buyu,/buju/,leg,0
+107,-dha,/d̪a/,"X-at, in, on something for words ending with i
+wiidhaon the fire",0
+108,dhaadhaa,/d̪aːd̪aː/,grandfather,0
+109,dhaal,/d̪aːl/,cheek,0
+110,dhaalagi,/ˈd̪aːlaɡi/,feel sick,0
+111,dhaalan,/d̪aːlan/,pronunciation,0
+112,dhaarri,/ˈd̪aːri/,have sex,0
+113,dhaay,/d̪aːj/,this way,0
+114,dhadhaal,/dadaːl/,grey,0
+115,dhadhali,/ˈd̪ad̪ali/,to taste,0
+116,dhadhin,/d̪ad̪in/,picture,0
+117,dhagaan,/d̪aɡaːn/,brother,0
+118,dhagaay,/d̪aɡaːj/,"golden perch, yellowbelly (Macquaria ambigua)",0
+119,dhagin,/d̪aɡin/,socks,0
+120,dhal,/d̪al/,salt,0
+121,dhalaa,/d̪alaː/,"where
+dhalaa ngay gaala?Where is my mug?",0
+122,dhalbin,/d̪albin/,medicine,0
+123,dhali,/ˈd̪ali/,eat,0
+124,dhalngayiy,/ˈd̪alŋajij/,"eat breakfast
+Dhalngayinhanha ngaya.I am eating breakfast.",0
+125,dhamay,/ˈd̪amaj/,to rain,0
+126,dhanba,/d̪anba/,toothpaste,0
+127,dhanda,/d̪anda/,apple,0
+128,dhandarraa,/d̪andaraː/,winter,0
+129,dhandarrbaa,/d̪andarbaː/,freezer,0
+130,dhanga,/d̪anɡa/,heel,0
+131,dhanmurr,/d̪anmuɻ/,"burial ground, cemetery",0
+132,dharra,/d̪aɻa/,"thigh, leg",0
+133,dharrarr,/d̪arar/,rib,0
+134,dharrawurra,/d̪aravura/,"pants, trousers",0
+135,dhawadha,/d̪avad̪a/,thousand,0
+136,dhawun,/d̪avun/,"earth, ground, dirt",0
+137,dhawunda,/d̪avunda/,map,0
+138,dhaya,/daja/,brother (older),0
+139,dhaygal,/d̪ajɡal/,hair,0
+140,dhigaraa,/diɡaɻaː/,bird,0
+141,dhii,/diː/,meat,0
+142,dhiil,/diːl/,tail,0
+143,dhiirrabaa,/diːrabaː/,school,0
+144,dhiiyaan,/diːjaːn/,family,0
+145,dhimba,/dimba/,sheep,0
+146,dhina,/dina/,Alternative form of thina,0
+147,dhinawan,/dinavan/,emu,0
+148,dhinbirr,/dinbir/,knee,0
+149,dhindu,/dindu/,mouse,0
+150,dhinggaa,/dinɡaː/,meat,0
+151,dhinmirr,/dinmir/,eyebrow,0
+152,dhiri,/diri/,tea,0
+153,dhirra,/dira/,flash,0
+154,dhiyarral,/d̪ijaral/,spoon,0
+155,dhuba,/d̪uba/,direction,0
+156,dhubil,/d̪ubil/,spit,0
+157,dhuga,/d̪uɡa/,sugar,0
+158,dhugay,/duɡaj/,always,0
+159,dhulu,/dulu/,tree,0
+160,dhumadhuma,/dumaduma/,smallpox,0
+161,dhun,/dun/,penis,0
+162,dhurrabal,/d̪uɻabal/,road,0
+163,dhurri,/ˈd̪uri/,write,0
+164,dhuru,/duru/,snake,0
+165,dhuubuu,/duːbuː/,soap,0
+166,-DHuul,/d̪uːl/,small,0
+167,dhuuman,/duːman/,butter,0
+168,dhuurrbal,/duːrbal/,train,0
+169,gaabu,/ɡaːbu/,shhh,0
+170,gaagal,/ɡaːɡal/,beach,0
+171,gaagi,/ˈɡaːɡi/,take,0
+172,gaaguluu,/ˈɡaːɡuˈluː/,"February, bush banana",0
+173,gaala,/ɡaːla/,cup,0
+174,gaanbal,/ɡaːnbal/,wiper,0
+175,gaarramali,/ˈɡaːramali/,steal,0
+176,gaayli,/ɡaːjli/,"child, children",0
+177,gaba,/ɡaba/,all right,0
+178,gaban,/ɡaban/,lung,0
+179,gabangaarr,/ɡabaɳaːr/,nicely,0
+180,gabi,/ɡabi/,A male marriage class or skin group. A gabi can marry,0
+181,gabi,/ɡabi/,coffee,0
+182,gabi,/ɡabi/,coffee,0
+183,Gabudhaa,/ɡabudaː/,women's social section,0
+184,gaga,/ɡaɡa/,wine,0
+185,gagali,/ˈɡaɡali/,call,0
+186,gagan,/ɡaɡan/,colour,0
+187,gagil,/ɡaɡil/,bad,0
+188,galay,/ɡalaj/,eight,0
+189,gali,/ɡali/,"water, rain",0
+190,galibaraay,/ɡalibaɻaːj/,wet,0
+191,gamil,/ɡomil/,no,0
+192,ganaay,/ɡanaːj/,digging stick,0
+193,ganaay,/ɡanaːj/,shallow,0
+194,ganaay,/ɡanaːj/,shallow,0
+195,ganay,/ɡanaj/,digging stick,0
+196,ganungawu,/ɡanunɡavu/,all,0
+197,garay,/ɡaɻaj/,word,0
+198,garrali,/ˈɡarali/,"cut
+Nginda nhama wii garrala wiigu.You cut the firewood for the fire!",0
+199,garriil,/ɡaˈriːl/,June,0
+200,garriya,/ɡaɻija/,no,0
+201,garruu,/ɡaruː/,uncle,0
+202,gawaarraa,/ɡavaːraː/,vegetable,0
+203,gawarrawaarr,/ɡavaravaːr/,green,0
+204,gawu,/ɡavu/,egg,0
+205,gawurragiil,/ɡawuraˈɡiːl/,May,0
+206,gay,/ɡaj/,snake track,0
+207,gayn.gayn,/ɡajn.ɡajn/,January (fruit which is ripe in this month),0
+208,gayrr,/ɡajr/,name,0
+209,gayrra,/ɡajra/,electricity,0
+210,gayrragumbirri,/ɡajraɡumbiri/,computer,0
+211,gibaylandhi,/ɡibajlandi/,formerly,0
+212,gibu,/ɡibu/,week,0
+213,gidjirrgidjirr,/ɡid͡zirɡid͡ʒir/,yellow,0
+214,giidjuugiidjuu,/ɡiːd͡ʒuːɡiːd͡ʒuː/,constant,0
+215,giigal,/ˈɡiːɡal/,scab,0
+216,gilaa,/ɡilaː/,galah,0
+217,gilgaay,/ɡilɡaːj/,shallow waterhole,0
+218,girrinil,/ɡirrinil/,door,0
+219,girrinya,/ˈɡiɻinja/,daughter in law,0
+220,giwiirr,/ˈɡiwiːr/,aboriginal man,0
+221,giyaan,/ˈɡijaːn/,tin can,0
+222,gubiyaanha,/ɡubiˈjaːn̪a/,"swimming
+guya nhama gubiyaanha — the fish is swimming.",0
+223,guda,/ɡuda/,"koala, Phascolarctos cinereus
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Native bear .... .... guda",0
+224,guduu,/ɡuduː/,murray cod (Maccullochella macquariensis),0
+225,gulaay,/ˈɡulaːj/,stool,0
+226,gulabaa,/ɡulabaː/,coolabah tree (Eucalyptuptus coolibah ssp. arida),0
+227,gulawularr,/ˈɡulavular/,sweetbread,0
+228,gulay,/ˈɡulaj/,netbag,0
+229,gulibaa,/ɡulibaː/,three,0
+230,guliirr,/ɡuliːr/,partner,0
+231,gulu,/ˈɡulu/,lump,0
+232,gumbirri,/ɡumbiri/,brain,0
+233,guna,/ɡuna/,"excrement, faeces, shit",0
+234,gunagunaa,/ɡunaɡunaː/,brown,0
+235,gunhugunhu,/ɡunuɡunu/,cough,0
+236,guni,/ɡuni/,mother,0
+237,gunidjarrbaa,/ɡunid͡ʒarbaː/,female,0
+238,gunii,/ɡuniː/,mother,0
+239,gunugayngaa,/ɡunuɡajnaː/,niece (sister's daughter),0
+240,guraay,/ɡuɻaːj/,slowly,0
+241,gurayn,/ɡuɽajn/,flower,0
+242,guriya,/ɡuɻija/,backbone,0
+243,gurru,/ɡuɻu/,grave,0
+244,gurrubuu,/ɡuruˈbuː/,year,0
+245,gurrwa,/ɡurva/,sea,0
+246,guuguu,/ɡuːɡuː/,dead relative (one who died and you dont want to mention his name),0
+247,guulay,/ɡuːlaj/,seven,0
+248,guwaali,/ɡuˈwaːli/,talk,0
+249,guwaaybaa,/ɡuvaːjbaː/,slowly,0
+250,guwadhaa,/ɡuwaˈd̪aː/,October,0
+251,guwaguway,/ɡuvaɡuvaj/,pink,0
+252,guwaguwaymbarra,/ɡuvaɡuvajmbara/,pink,0
+253,guway,/ɡuvaj/,blood,0
+254,guwaymbarra,/ɡuvajmbara/,red,0
+255,guwibirr,/ˈɡuwibir/,March (fruit which is ripe in this month),0
+256,guwiirr,/ɡuviːr/,sweet,0
+257,guwiirr,/ɡuviːr/,manna on gum leaves,0
+258,guwiirra,/ɡuviːra/,sweets,0
+259,guya,/ˈɡuja/,"fish, guya nhama gubiyaanhathe fish is swimming., mari",0
+260,guyaarr,/ɡujaːr/,long,0
+261,maal,/maːl/,one,0
+262,maala,/maːla/,once,0
+263,maalinha,/ˈmaːlin̪a/,September,0
+264,maang,/maːnɡ/,message stick,0
+265,maanggii,/maːŋɡiː/,small mussel,0
+266,maanggiiwarraywarraymal,/maːnɡiːvarajwarajmal/,seagull,0
+267,maaru,/maːru/,well,0
+268,maarumali,/maːrumali/,fix,0
+269,maayu,/maːju/,well,0
+270,madja,/mad͡ʒa/,sorry,0
+271,magal,/maɡal/,knife,0
+272,malagan,/malaɡan/,menstruation,0
+273,malawil,/malawil/,human shadow,0
+274,malga,/malɡa/,mulga (Acacia aneura) Small tree 5-10 m with silver grey leaves  and yellow rod-shapped flowers.,0
+275,maliyaa,/malijaː/,friend,0
+276,malu,/malu/,silent,0
+277,man.garr,/man ɡar/,bag,0
+278,mandayaa,/mandajaː/,male,0
+279,manduwii,/manduˈwiː/,shoe,0
+280,manga,/manɡa/,"ear
+Synonym: bina",0
+281,mara,/maɻa/,"hand, finger",0
+282,marabin,/maɽabin/,gloves,0
+283,maRawal,/maɻawal/,"echidna, Tachyglossus aculeatus.",0
+284,mari,/maɻi/,"aboriginal person
+Burrula nhama mari.There are many people.",0
+285,marigiirr,/maɽiɡiːr/,indigenous,0
+286,mayabuu,/majabuː/,still (continuing),0
+287,mayan,/majan/,pool,0
+288,mayrraa,/majraː/,wind,0
+289,miirrmiirr,/miːrmiːr/,backwards,0
+290,mila,/mila/,glasses,0
+291,milambaraay,/milambaɻaːj/,cow,0
+292,Milaygiin,/milaiːɡin/,spirit,0
+293,minya,/miɲa/,what,0
+294,minyagu,/ˈmiɲaɡu/,why,0
+295,minyama,/minjama/,what,0
+296,minyangay,/miɲjanɡaj/,how much,0
+297,mirraal,/miɽaːl/,nine,0
+298,mirril,/miril/,mucus,0
+299,miyaa,/mijaː/,weekend,0
+300,miyay,/mijaj/,girl,0
+301,mubal,/mubal/,stomach,0
+302,mubalyaal,/mubalyaːl/,pregnant,0
+303,mubirr,/mubir/,scar,0
+304,mudhay,/mud̪aj/,brushtail possum,0
+305,mugiin.gaa,/muˈɡiːnˈɡaː/,"November, sandfly",0
+306,mungin,/munɡin/,mosquito,0
+307,murrun,/muɽun/,alive,0
+308,muurr,/muːɽ/,full,0
+309,muwili,/ˈmuvili/,shut,0
+310,muyaan,/mujaːn/,branch,0
+311,muyu,/ˈmuju/,nose,0
+312,nga,/ŋa/,hey,0
+313,ngaana,/ŋaːna/,"who?
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Nganna, who?",0
+314,ngaanbanaa,/ŋaːnbanaː/,cockatoo,0
+315,ngaandi,/naːndi/,who,0
+316,ngaarr,/ɲaːɽ/,hard,0
+317,ngali,/ŋali/,We two (first person dual pronoun),0
+318,ngalingu,/ŋaliŋu/,our (two people),0
+319,ngalingunda,/ŋaliŋunda/,to us (two people),0
+320,ngalingundi,/ŋaliŋundi/,from us (two people),0
+321,ngamili,/ˈŋamili/,look,0
+322,ngamu,/ŋamu/,"breastmilk, breast, milk",0
+323,ngamuldiilbil,/namuldiːlbil/,microwave oven,0
+324,ngana,/ɲana/,room,0
+325,nganabidi,/ɲanabidi/,hall,0
+326,ngandabaa,/ŋandabaː/,red snake,0
+327,ngandanganda,/ɲandananda/,shiny,0
+328,nganha,/ˈŋan̪a/,"me (done to)
+Burumagu nganha yiili.The dog will bite me.",0
+329,nganunda,/ŋanunda/,"to me
+Garay guwaala nganunda.Talk to me.",0
+330,nganundi,/ŋanundi/,from me,0
+331,ngarragaa,/ɲaranɡaː/,poor (helpless),0
+332,ngarriy,/ˈŋarij/,sit,0
+333,ngarugi,/ˈŋaɻuɡi/,drink,0
+334,ngay,/ŋaj/,my (to me),0
+335,ngaya,/ŋaja/,I (first person nominative singular pronoun),0
+336,ngibaay,/ŋibaːj/,"strange!
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Ngibai! surprise.",0
+337,nginaalinya,/ŋinaːlinja/,you two people (done to),0
+338,nginda,/ŋinda/,you,0
+339,ngindaali,/nindaːli/,you (two people),0
+340,ngindaay,/nindaːj/,you (more than two people),0
+341,nginu,/ŋinu/,your one person to you one person,0
+342,nginundi,/ŋanundi/,from you one person,0
+343,nginunha,/ŋinuŋunha/,you one person (done to),0
+344,ngiyani,/ŋijani/,we more than two people (doers),0
+345,ngiyaningu,/ŋijaniŋu/,our more than two people,0
+346,ngiyaningunda,/ŋijaniŋunda/,to us more than two people,0
+347,ngiyaningundi,/ŋijaniŋundi/,from us more than two people,0
+348,ngiyaninya,/ŋijaninja/,us more than two people (done to),0
+349,ngulu,/ŋulu/,"face, forehead",0
+350,nguluurr,/nuluːr/,tear,0
+351,nguru,/ŋuɻu/,he,0
+352,nguruwi,/nuːɻuvi/,sweat,0
+353,nguu,/ɲuː/,book,0
+354,nguuwi,/nuːvi/,sweat,0
+355,nhalay,/nalaj/,this,0
+356,nhama,/nama/,that,0
+357,nhama-dhaay,/nama daːj/,look out,0
+358,nhuubala,/n̪uːbala/,new,0
+359,nyii,/ɲiː/,"anus
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Anus .... .... | nyi",0
+360,thalay,/t̪alaj/,tongue,0
+361,tharra,/t̪ara/,(anatomy) thigh,0
+362,tharrarr,/d̪arar/,ribs,0
+363,tharrawurra,/d̪arawura/,"pants, trousers",0
+364,thawun,/d̪awun/,"earth, ground, dirt",0
+365,thina,/t̪ina/,foot,0
+366,waa,/vaː/,expression of praise,0
+367,waa,/vaː/,pendant,0
+368,waali,/ˈwaːli/,throw,0
+369,wadhaagudjaaylwan,/vadhaːɡud͡ʒaːjalvan/,birth spirit,0
+370,wadjiin,/vad͡ʒiːn/,"a white woman, a European woman",0
+371,wal,/val/,container,0
+372,walarr,/valar/,shoulder,0
+373,walgan,/valɡan/,aunt,0
+374,walingay,/valinɡaj/,out of place,0
+375,wambanhiiya,/vambaniːja/,cousin,0
+376,wanda,/vanda/,"white man, ghost, spirit",0
+377,waraba,/vaɻaba/,short necked turtle (Chelodina expansa),0
+378,waygal,/vajɡal/,woven bag,0
+379,wii,/viː/,fire,0
+380,wiigu,/viːɡu/,toaster,0
+381,wiiluun,/ˈwiːˈluːn/,dribble,0
+382,wiirrali,/ˈwiːrali/,shave,0
+383,wilbaarr,/vilbaːr/,car,0
+384,winangali,/ˈwinaˌŋali/,hear,0
+385,winingay,/ˈwiniŋaj/,understand,0
+386,wiringin,/wiɻinɡin/,aboriginal doctor,0
+387,wirri,/viri/,plate,0
+388,wirribula,/ˈviribula/,goat,0
+389,wirrilaa,/ˈvirilaː/,bush turkey - Alectura lathami,0
+390,wiwurra,/vivura/,million (1000000),0
+391,wiyayl,/vijajl/,pen,0
+392,wubun,/ˈvubun/,"blue-tongued skink, Tiliqua scincoides",0
+393,wuguu,/vuɡuː/,flood,0
+394,wulbul,/vulbul/,plastic,0
+395,wulbul,/vulbul/,plastic,0
+396,wurrugaa,/wuruˈɡaː/,owner,0
+397,wurrun,/ˈwurun/,swelling,0
+398,wurumal,/vuɻumal/,sleepy lizard,0
+399,wuuna,/ˈuːna/,"imperative of wuurri: give!
+Nginda dhii wuuna burumagu.give the meat to the dog.",0
+400,wuurri,/ˈuːri/,give,0
+401,yaadha,/jaːdaj/,day,0
+402,yaal,/jaːl/,lie,0
+403,yaama,/jaːma/,hello,0
+404,yabil,/ˈjabil/,large bark vessel,0
+405,yabili,/ˈjabili/,kiss,0
+406,yadha,/jada/,movie,0
+407,yagaay,/jaɡaːj/,ouch,0
+408,yalagiirrmawu,/jalaɡiːrmavu/,at that time,0
+409,yaliwunga,/jalivunɡa/,always,0
+410,yaluu,/jaluː/,see you later,0
+411,yambi,/jambi/,old woman,0
+412,yambuli,/jambuli/,"old woman
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Old woman .... .... | yambolinya",0
+413,yananhi,/ˈjanan̪i/,"past tense of yanay: went, came, walked",0
+414,yanay,/ˈjanaj/,"go, come, walk",0
+415,yanaya,/ˈjanaja/,"imperative of yanay: go!, come!, walk!
+dhaay yanayacome here!",0
+416,yanggal,/jaŋɡal/,"vagina
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Vulva .... .... | yangal
+[...]
+Vagina .... .... | same as vulva",0
+417,yaraay,/jaɻaːj/,"the sun
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, volume 4:
+The sun . . yărai, or yūrōkă.
+1856, William Ridley, gurre kamilaroi, or Kamilaroi Sayings
+baiame gīr yarai, gille, mirri, taon ellibu gimobi.
+God verily sun, moon, stars, earth also made.
+1873, William Ridley, Australian Languages and Traditions, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 2:
+Sun | yarai
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Sun .... .... .... | yerrai",0
+418,yaray,/jaɻaj/,a sheep's small intestine,0
+419,yarraaman,/jaraːman/,"horse
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, vol. 4
+To the horse the blacks, by general consent, have given the name “yārămăn.” Of course, as no such animal was known here till the colonists introduced them, we cannot give yārămăn as an Australian word. I know not its origin.
+1856, William Ridley, gurre kamilaroi, or Kamilaroi Sayings
+baiame gīr yārāman, būrumo, bundar, mūte, dūli, dīnoun, buralga, biloela, millimumul, gulamboli, kobado, mullion, guiya, nūrai, ŋundoba, burulu, muŋin, kānuŋo di gimobi
+God verily horse, dog, kangaroo, opossum, goanna, emu, native companion, cockatoo, swallow, pelican, parrot, eagle, fish, brown-snake, deadly-black-snake, flies, mosquitoes, all animals made.",0
+420,yarraan,/jaraːn/,"gum tree, Eucalyptus spp.",0
+421,yarrangan,/jaraŋan/,"A kind of edible grub.
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Edible grub (gum tree). | yerrungun",0
+422,yarray,/jaraj/,"beard, 1856, William Ridley, On the Kamilaroi Tribe",0
+423,yarrin,/ˈjaɻin/,water current,0
+424,yarrul,/jarul/,stone,0
+425,yathaarr,/jad̪aːr/,"the down of birds
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Down of birds .... yuddhar.",0
+426,yathala,/jad̪ala/,"sharp
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Sharp .... .... yuddhala",0
+427,yawali,/ˈjawali/,track,0
+428,yawurr,/jawur/,A kind of berry.,0
+429,yaydja,/ˈjajɟa/,skin cracks,0
+430,yibaay,/jibaːj/,"A male marriage class or skin group. A yibaay can marry only a gabutha; his sons will be marrii, and his daughters matha.
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, volume 4:
+The children of “ippai” by “kāpōta” are all “mūrrī,” or “baia,” and “mātā.”
+1873, William Ridley, Australian Languages and Traditions, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 2:
+Class Names of Men. | Ippai",0
+431,yibatha,/jibad̪a/,"A female marriage class or skin group. A yibatha can marry only a gabi; her sons will be gambu, and her daughters buuthaa.
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, volume 4:
+A “kŭbbĭ” may marry only an “ippātā.”
+1873, William Ridley, Australian Languages and Traditions, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 2:
+Class names of Women. | Ippāthā",0
+432,yila,/jila/,"soon
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Soon, ila.",0
+433,yilaathu,/jilaːd̪u/,now,0
+434,yilambu,/jilambu/,"long ago
+1856, William Ridley, gurre kamilaroi, or Kamilaroi Sayings
+īlambo immanuel taongo tai-yanani, giwīr ginyi.
+Long ago Immanuel to earth came, man he became.
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Long ago, yilambu.",0
+435,yiluwidi,/jiluvidi/,blue,0
+436,yin.ga-gabu,/jinɡa ɡabu/,August,0
+437,yinarr,/jinar/,"an Aboriginal woman
+1856, William Ridley, On the Kamilaroi Tribe of Australians and Their Dialect, in Journal of the Ethnological Society of London, volume 4:
+Woman . . īnă.
+1856, William Ridley, gurre kamilaroi, or Kamilaroi Sayings
+baiame goë: “kamil murruba giwīr ŋāndil ŋuddelago; ŋaia giwīrgo īnar gimbille.”
+God said, “Not good man alone for to dwell; I for man woman will make.”
+1873, William Ridley, Australian Languages and Traditions, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 2:
+Woman | īnar
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+A woman .... .... inar",0
+438,yinggil,/jiŋɡil/,tired,0
+439,yira,/jiɻa/,"tooth, 1856, William Ridley, On the Kamilaroi Tribe",0
+440,yithiyan,/jid̪ijan/,"A small mopoke, Ninox novaeseelandiae",0
+441,yiyagungawuma,/ˈjijaɡuɲavuma/,small hailstone,0
+442,yuga,/juɡa/,tear,0
+443,yugal,/juɡal/,song,0
+444,yugi,/ˈjuɡi/,"to cry
+1856, William Ridley, gurre kamilaroi, or Kamilaroi Sayings
+mari māta ellibu yūgillona.
+Mary, Martha also were weeping.
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Weep ... ... yunga",0
+445,yuguwa,/ˈjuɡuwa/,"yulugi, guwaali",0
+446,yuguwa,/ˈjuɡuwa/,party,0
+447,yulaali,/juˈlaːli/,to tie up,0
+448,yulay,/julaj/,"skin
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Skin .... .... yulai",0
+449,yuli,/juli/,six,0
+450,yulu,/julu/,"nail, fingernail, toenail, claw",0
+451,yulugi,/ˈjuluɡi/,"to play, dance
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Play or dance .... yulunga",0
+452,yuluwirri,/juluwiri/,"rainbow
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Rainbow .... ... yuluwirri.",0
+453,yurayaa,/juɽajaː/,frog,0
+454,yurra,/jura/,hour,0
+455,yurraamu,/juraːmu/,alcohol,0
+456,yurrandaali,/jurandaːli/,"a tree goanna
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Tree iguana .... yurundiali",0
+457,yurrul,/jurul/,"scrub
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Trees, collectively ... yutil",0
+458,yurrun,/jurun/,"scar
+1903, R. H. Mathews, Languages of the Kamilaroi and Other Aboriginal Tribes of New South Wales, in The Journal of the Anthropological Institute of Great Britain and Ireland, volume 33:
+Scar (of a wound) .... yurun",0
+459,yurruun,/juruːn/,"track, road",0
+460,yuru,/juɻu/,"cloud, 1873, William Ridley, Australian Languages and",0
+461,yuu,/juː/,dust,0
+462,yuul,/juːl/,food,0
+463,yuularaay,/juːlaɻaːj/,"full, satisfied",0
+464,yuulmal,/juːlmal/,kitchen,0
+465,yuulngin,/juːlŋin/,"hungry, Yuulungin ngaya gilanhi.I was hungry., 1903,",0
+466,yuundu,/juːndu/,"stone axe
+1873, William Ridley, Australian Languages and Traditions, The Journal of the Anthropological Institute of Great Britain and Ireland, volume 2:
+Axe | yūnda",0
+467,Yuurrila,/juːrila/,spirit,0
+468,bicycle,bˈaɪsɪkəl,,1
+469,blanket,blˈæŋkɪt,,1
+470,coffee,kˈɔfi,,1
+471,coffee,kˈɔfi,,1
+472,milk,mˈɪlk,,1
+473,"""new-fella""",nuːfˈɛlə,,1
+474,trousers,tɹˈaʊsɚz,,1
+475,"""white gin""",wˈaɪt d͡ʒˈɪn,,1
+476,rum,ɹˈʌm,,1

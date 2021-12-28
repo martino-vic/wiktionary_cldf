@@ -1,53 +1,228 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-agos,ˈɔːɡəst,August,August
-agys,ˈɔːɡəst,August,August
-desembol,dᵻsˈɛmbɚ,December,December
-januari,d͡ʒˈænjuːˌɛɹi,January,January
-jenuari,d͡ʒˈænjuːˌɛɹi,January,January
-jero,zˈiəɹoʊ,zero,zero
-julai,d͡ʒuːlˈaɪ,July,July
-jun,d͡ʒˈuːn,June,June
-kek,kˈeɪk,cake,cake
-kek,kˈeɪk,to chop (wood),cake
-kek,kˈeɪk,to grow,cake
-kek,kˈeɪk,blunt; dull,cake
-kek,kˈeɪk,to chop (wood),cake
-kek,kˈeɪk,to grow,cake
-kek,kˈeɪk,blunt; dull,cake
-kek,kˈeɪk,to grow,cake
-kek,kˈeɪk,blunt; dull,cake
-kek,kˈeɪk,blunt; dull,cake
-mai,mˈeɪ,May,May
-mai,mˈeɪ,May,May
-march,mˈɑː͡ɹt͡ʃ,March,March
-mars,mˈɑː͡ɹt͡ʃ,March,March
-me,mˈeɪ,May,May
-mei,mˈeɪ,May,May
-miting,mˈiːɾɪŋ,meeting,meeting
-miting,mˈiːɾɪŋ,to hold a meeting,meeting
-nain,nˈaɪn,nine,nine
-netwak,nˈɛtwɜːk,network,network
-nobembol,noʊvˈɛmbɚ,November,November
-nobembyl,noʊvˈɛmbɚ,November,November
-oktobol,ɑːktˈoʊbɚ,October,October
-oktobyl,ɑːktˈoʊbɚ,October,October
-paip,fˈaɪv,five,five
-phadyr,fˈɑːðɚ,father (priest),father
-phebuari,fˈɛbɹuːˌɛɹi,February,February
-por,fˈoː͡ɹ,four,four
-redio,ɹˈeɪdɪˌoʊ,radio,radio
-reel,ɹˈeɪl,"rains, train, stud (of a fence)",rail
-rens,ɹˈɛnt͡ʃ,wrench,wrench
-seben,sˈɛvən,seven,seven
-septembol,sɛptˈɛmbɚ,September,September
-septembyl,sɛptˈɛmbɚ,September,September
-sik,sˈɪks,six,six
-siks,sˈɪks,six,six
-skul,skˈuːl,school,school
-spun,spˈuːn,spoon,spoon
-ten,tˈɛn,ten,ten
-tin,tˈɪn,corrugated iron,tin
-tri,θɹˈiː,three,three
-tu,tˈuː,two,two
-wach,wˈɑːt͡ʃ,watch (equipment),watch
-wan,wˈʌn,one,one
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+aat,/aːt/,eight,,
+agos,/aɡos/,August,August,ˈɔːɡəst
+aguk,/aɡuk/,grasshopper (generic term),,
+agynja,/aɡənd͡ʑa/,(archaic) November,,
+agys,/aɡəs/,August,August,ˈɔːɡəst
+aina,/ajna/,mirror,,
+asalja,/asʰald͡ʑa/,(archaic) June,,
+asingja,/asʰiŋd͡ʑa/,(archaic) September,,
+askhui,/askʰuj/,star,,
+aski,/aski/,star,,
+askui,/askuj/,star,,
+asyngja,/asʰəŋd͡ʑa/,(archaic) September,,
+awa,/awa/,father,,
+baba,/baba/,father,,
+badolja,/badold͡ʑa/,(archaic) August,,
+banga,/baŋa/,five,,
+boisaja,/bojsʰad͡ʑa/,(archaic) April,,
+byryi,/bərəj/,four,,
+cha,/t͡ɕa/,four,,
+chak,/t͡ɕak/,"hand, arm",,
+chak,/t͡ɕak/,leaf,,
+chak,/t͡ɕak/,used with leaves,,
+chak,/t͡ɕak/,leaf,,
+chak,/t͡ɕak/,used with leaves,,
+char,/t͡ɕar/,four,,
+chatgyk,/t͡ɕatɡək/,eight,,
+che,/t͡ɕe/,six,,
+cheke,/t͡ɕeke/,sieve,,
+chinara,/t͡ɕinara/,lemon,,
+chini,/t͡ɕini/,sugar,,
+choi•etja,/t͡ɕojʔetd͡ʑa/,(archaic) March,,
+chola,/t͡ɕola/,shirt,,
+chyigyk,/t͡ɕəjɡək/,ten,,
+chykhyw,/t͡ɕəkʰəw/,nine,,
+das,/das/,ten,,
+daw•,/dawʔ/,(only in compounds) bird,,
+desembol,/desʰembol/,December,December,dᵻsˈɛmbɚ
+do,/do/,two,,
+dys,/dəs/,ten,,
+eek,/eːk/,one,,
+gada,/ɡada/,donkey,,
+gawi,/ɡawi/,female,,
+han•cheng,/hanʔt͡ɕeŋ/,sand,,
+husyring,/husʰəriŋ/,rabbit,,
+itihas,/itihas/,history,,
+jabol,/d͡ʑabol/,garbage,,
+jama,/d͡ʑama/,shirt,,
+januari,/d͡ʑanuari/,January,January,d͡ʒˈænjuːˌɛɹi
+ja•bek,/d͡ʑaʔbek/,curry,,
+jenuari,/d͡ʑenuari/,January,January,d͡ʒˈænjuːˌɛɹi
+jero,/d͡ʑero/,zero,zero,zˈiəɹoʊ
+jetja,/d͡ʑetd͡ʑa/,(archaic) May,,
+julai,/d͡ʑulaj/,July,July,d͡ʒuːlˈaɪ
+jun,/d͡ʑun/,June,June,d͡ʒˈuːn
+jyk,/d͡ʑək/,wife; spouse,,
+kal,/kal/,horn (traditional instrument),,
+kala,/kala/,deaf person,,
+kalai,/kalaj/,loincloth,,
+kaljak,/kald͡ʑak/,catfish,,
+kana,/kana/,blind person,,
+kapangsi,/kapaŋsʰi/,clam,,
+kapkung,/kapkuŋ/,snail,,
+karang,/karaŋ/,wing,,
+katija,/katid͡ʑa/,(archaic) October,,
+katua,/katua/,turtle; tortoise,,
+kek,/kek/,cake,cake,kˈeɪk
+kek,/kek/,to chop (wood),cake,kˈeɪk
+kek,/kek/,to grow,cake,kˈeɪk
+kek,/kek/,blunt; dull,cake,kˈeɪk
+kek,/kek/,to chop (wood),cake,kˈeɪk
+kek,/kek/,to grow,cake,kˈeɪk
+kek,/kek/,blunt; dull,cake,kˈeɪk
+kek,/kek/,to grow,cake,kˈeɪk
+kek,/kek/,blunt; dull,cake,kˈeɪk
+kek,/kek/,blunt; dull,cake,kˈeɪk
+kereng,/kereŋ/,bone,,
+khansyrui,/kʰansʰəruj/,earthworm,,
+khatchi,/kʰatt͡ɕi/,sickle,,
+khatua,/kʰatua/,turtle; tortoise,,
+khong•,/kʰoŋʔ/,to bark,,
+khonok,/kʰonok/,to grope; to search by feeling,,
+khori,/kʰori/,"watch (equipment), clock",,
+khuchina,/kʰut͡ɕina/,eel,,
+khuli,/kʰuli/,opium,,
+khuli,/kʰuli/,to open,,
+khuli,/kʰuli/,to open,,
+khu•chuk,/kʰuʔt͡ɕuk/,"mouth, language",,
+khu•chul,/kʰuʔt͡ɕul/,lips,,
+khym,/kʰəm/,to marry,,
+kitap,/kitap/,book,,
+kok,/kok/,basket,,
+kolachita,/kolat͡ɕita/,Indian bitter melon,,
+kombol,/kombol/,blanket,,
+komyla,/koməla/,orange (fruit),,
+konglarong,/koŋlaroŋ/,orange (color),,
+korea,/korea/,big metal pan,,
+korok,/korok/,six,,
+korong,/koroŋ/,horn (of animals),,
+ko•rot,/koʔrot/,sugar cane,,
+kuli,/kuli/,to open,,
+kyisym,/kəjsʰəm/,salty,,
+kyi•,/kəjʔ/,dog,,
+kylchap,/kəlt͡ɕap/,cotton,,
+kyrong,/kəroŋ/,horn (of animals),,
+laha,/laha/,resin,,
+mai,/maj/,rice,,
+mai,/maj/,May,May,mˈeɪ
+mai,/maj/,May,May,mˈeɪ
+mai•raja,/majʔrad͡ʑa/,(archaic) December,,
+makja,/makd͡ʑa/,(archaic) January,,
+march,/mart͡ɕ/,March,March,mˈɑː͡ɹt͡ʃ
+mars,/mars/,March,March,mˈɑː͡ɹt͡ʃ
+matsa,/matsʰa/,tiger,,
+me,/me/,May,May,mˈeɪ
+mei,/mej/,May,May,mˈeɪ
+me•mang,/meʔmaŋ/,ghost; spirit,,
+miting,/mitiŋ/,meeting,meeting,mˈiːɾɪŋ
+miting,/mitiŋ/,to hold a meeting,meeting,mˈiːɾɪŋ
+mi•mang,/miʔmaŋ/,ghost; spirit,,
+nain,/najn/,nine,nine,nˈaɪn
+nem,/nem/,to get better; to heal (oneself),,
+nem,/nem/,good,,
+nemnuk,/nemnuk/,to like,,
+netwak,/netwak/,network,network,nˈɛtwɜːk
+ni,/ni/,two,,
+no,/no/,to say,,
+no,/no/,nine,,
+no,/no/,nine,,
+nobembol,/nobembol/,November,November,noʊvˈɛmbɚ
+nobembyl,/nobembəl/,November,November,noʊvˈɛmbɚ
+nok,/nok/,house,,
+norok,/norok/,hell,,
+oktobol,/oktobol/,October,October,ɑːktˈoʊbɚ
+oktobyl,/oktobəl/,October,October,ɑːktˈoʊbɚ
+paip,/pajp/,five,five,fˈaɪv
+palong,/paloŋ/,bed,,
+palyng,/paləŋ/,jungle,,
+pan,/pan/,"tree, firewood",,
+pan,/pan/,"used with apparatus, appliances, mechanical and electrical",,
+pan,/pan/,"used with apparatus, appliances, mechanical and electrical",,
+panch,/pant͡ɕ/,five,,
+panchung,/pant͡ɕuŋ/,jackfruit,,
+pargunja,/parɡund͡ʑa/,(archaic) February,,
+patyl,/patəl/,slingshot,,
+phadyr,/pʰadər/,father (priest),father,fˈɑːðɚ
+phakwal,/pʰakwal/,armpit,,
+pha•lap,/pʰaʔlap/,whore; prostitute,,
+phebuari,/pʰebuari/,February,February,fˈɛbɹuːˌɛɹi
+pheru,/pʰeru/,fox,,
+phulkobi,/pʰulkobi/,cauliflower,,
+pibok,/pibok/,"white, unripe (of fruits), very light green (like unripe",,
+picham,/pit͡ɕam/,old (of things),,
+pidan,/pidan/,new,,
+pinak,/pinak/,black,,
+pisak,/pisʰak/,red,,
+por,/por/,four,four,fˈoː͡ɹ
+purun,/purun/,goat,,
+pyw,/pəw/,"to fly, to flee",,
+rai,/raj/,reed,,
+raja,/rad͡ʑa/,king,,
+rang,/raŋ/,a type of traditional brass drum or gong,,
+rang,/raŋ/,rain,,
+rang,/raŋ/,rain,,
+redio,/redio/,radio,radio,ɹˈeɪdɪˌoʊ
+reel,/reːl/,"rains, train, stud (of a fence)",rail,ɹˈeɪl
+rek,/rek/,banana tree,,
+rekkun,/rekkun/,banana flower,,
+rekphang,/rekpʰaŋ/,banana tree,,
+rekphul,/rekpʰul/,non-edible banana flower,,
+rekthai,/rektʰaj/,banana fruit,,
+rens,/rens/,wrench,wrench,ɹˈɛnt͡ʃ
+ri•gol,/riʔɡol/,(vulgar) penis,,
+rongni,/roŋni/,two,,
+rongsa,/roŋsʰa/,one,,
+rongtham,/roŋtʰam/,three,,
+sa,/sʰa/,one,,
+saat,/sʰaːt/,seven,,
+salam,/sʰalam/,hello,,
+sam,/sʰam/,"grass; weed, medicine",,
+sam,/sʰam/,to wait,,
+sam,/sʰam/,"used with any bilateral body part, hands, eyes, etc.",,
+sam,/sʰam/,to wait,,
+sam,/sʰam/,"used with any bilateral body part, hands, eyes, etc.",,
+sam,/sʰam/,"used with any bilateral body part, hands, eyes, etc.",,
+saw,/sʰaw/,rotten,,
+sa•wynja,/sʰaʔwənd͡ʑa/,(archaic) July,,
+seben,/sʰeben/,seven,seven,sˈɛvən
+sene,/sʰene/,seven,,
+septembol,/septembol/,September,September,sɛptˈɛmbɚ
+septembyl,/septembəl/,September,September,sɛptˈɛmbɚ
+sik,/sʰik/,six,six,sˈɪks
+siks,/sʰiks/,six,six,sˈɪks
+skul,/skul/,school,school,skˈuːl
+sona,/sʰona/,gold,,
+sorong,/sʰoroŋ/,straight,,
+sorong,/sʰoroŋ/,straight,,
+spun,/sʰpun/,spoon,spoon,spˈuːn
+syl,/sʰəl/,iron,,
+syl,/sʰəl/,beautiful; pretty,,
+syl,/sʰəl/,beautiful; pretty,,
+taia,/taja/,to pull,,
+takbewal,/takbewal/,tradition,,
+tangka,/taŋka/,money,,
+taw•,/tawʔ/,"bird, chicken",,
+ten,/ten/,ten,ten,tˈɛn
+tham,/tʰam/,three,,
+thanyng,/tʰanəŋ/,brain,,
+thapyra,/tʰapəra/,"ash, ashes",,
+thorok,/tʰorok/,to jump,,
+thorom,/tʰorom/,religion,,
+thyi,/tʰəj/,to die,,
+thyi•,/tʰəjʔ/,blood,,
+tiin,/tiːn/,three,,
+tin,/tin/,corrugated iron,tin,tˈɪn
+tri,/tri/,three,three,θɹˈiː
+tu,/tu/,two,two,tˈuː
+tyi,/təj/,"water, (fruit) juice, sweat",,
+uching,/ut͡ɕiŋ/,leech,,
+ukching,/ukt͡ɕiŋ/,leech,,
+u•ching,/uʔt͡ɕiŋ/,leech,,
+wach,/wat͡ɕ/,watch (equipment),watch,wˈɑːt͡ʃ
+wak,/wak/,"pig, pork",,
+wal•,/walʔ/,"fire, torch",,
+wal•kungki,/walʔkuŋki/,black ashes,,
+wan,/wan/,one,one,wˈʌn
+wa•,/waʔ/,father,,
+ymbyng,/əmbəŋ/,bamboo flute,,

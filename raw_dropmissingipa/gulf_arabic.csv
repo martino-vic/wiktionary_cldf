@@ -1,51 +1,443 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-أوردي,ɔːlɹˈɛdi,already,already
-اقزوز,ɛɡzˈɔːst,exhaust pipe,exhaust
-اوتوماتيك,ˌɔːɾəmˈæɾɪk,"automatic, self-reliant, does not need manual input.,",automatic
-بار,bˈɑː͡ɹ,bar (alcohol shop),bar
-بالطو,pˈælɪtˌɑːt,"an overcoat., a lab coat.",paletot
-بريك,bɹˈeɪk,"brake pedal, a break, a gradual or sudden stop in a",break
-بلنتي,pˈɛnəlɾi,"penalty kick, 2018 June 19,  Newspaper editor,  “كين",penalty
-بنسل,pˈɛnsəl,"(Kuwait, obsolete) pencil., Synonym: قلم رصاص‎ (qalam",pencil
-بوفيه,bˈʌfɪt,buffet,buffet
-بيبي,bˈeɪbi,baby,baby
-تانكي,tˈæŋk,"a water tank, a big container of water usually placed",tank
-تاير,tˈaɪɚ,"tyre, tire, wheel",tyre
-ترانزيت,tɹˈænsɪt,"layover, ‏وراي ترانزيتين باچر‎I have to layovers tomorrow",transit
-توست,tˈoʊst,sliced bread,toast
-تيشيرت,tˈiːʃˈɜːt,T-shirt,T-shirt
-جيكر,d͡ʒˈoʊkɚ,"(Kuwait, often humorous) ugly",joker
-جيكر,d͡ʒˈoʊkɚ,(playing cards) the joker,joker
-روب,ɹˈoʊb,bath robe,robe
-روب,ɹˈoʊb,bath robe,robe
-زقارة,sˌɪɡɚɹˈɛt,cigarette,cigarette
-ستيك,stˈeɪk,meat steak,steak
-سستر,sˈɪstɚ,"a nurse, especially a female one., Synonyms: (female",sister
-سيكل,sˈaɪkəl,a motorcycle,cycle
-شات,ʃˈuːt,"to shoot, to kick with foot",shoot
-فاشنستا,fˈæʃənˌɪstə,"a social media celebrity, a social media influencer,",fashionista
-فريزر,fɹˈiːzɚ,freezer,freezer
-قراج,ɡɚɹˈɑːʒ,"garage (“A place where cars are serviced and repaired.”),",garage
-قروب,ɡɹˈuːp,(computing) group,group
-قلاص,ɡlˈæs,"a glass; a vessel for drinking, made mainly of glass",glass
-قيمر,ɡˈeɪmɚ,gamer,gamer
-قيمر,ɡˈeɪmɚ,gamer,gamer
-كاشير,kæʃˈɪɹ,"cashier, (sometimes) barista",cashier
-كبت,kˈʌbəd,closet,cupboard
-كلاس,klˈæs,"a class at a university or a tertiary education institute.,",class
-كلينكس,klˈiːnɛks,"kleenex; paper tissue; napkin; a soft, disposable piece",Kleenex
-كنديشن,kəndˈɪʃənɚ,"(obsolete) air conditioner, Synonym: مُكَيِّف‎ (mukayyif)",conditioner
-كنسل,kˈænsəl,"to cancel, to annul, to invalidate, ‏بكنسل حجزي لني",cancel
-كورس,kˈoː͡ɹs,"pedagogical semester or term., ‏الـكورس الأول دايمًا",course
-كوكتيل,kˈɑːkteɪl,"fruit punch, a drink made by mixing multiple fruit",cocktail
-كيكة,kˈeɪk,"a cake, (slang) a beautiful girl or woman; babe; hottie;",cake
-ليت,lˈaɪt,light,light
-ليزر,lˈeɪzɚ,laser,laser
-منيو,mˈɛnjuː,"a menu (of a restaurant), a bill of fare",menu
-نوط,nˈoʊt,"monetary note, monetary bill, 2017 April 14,  أميرة",note
-هرن,hˈɔː͡ɹn,"a motor vehicle horn; the loud alarm of a motor vehicle,",horn
-واير,wˈaɪɚ,"wire, cable",wire
-پايپ,pˈaɪp,a fluid or gas-transportation pipe,pipe
-چيك,t͡ʃˈɛk,"(intransitive) (with على‎ (ʕala, “on”)) to check, to",check
-چيك,t͡ʃˈɛk,"bank cheque, check, ‏- المسكين ليش قطوه السجن؟ - كاتب",cheque
-چيك,t͡ʃˈɛk,"bank cheque, check, ‏- المسكين ليش قطوه السجن؟ - كاتب",cheque
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+آش,/ɑːʃ/,"(Kuwait, uncountable) A thick green soup made from",,
+أوتي,/ˑuːti/,an iron,,
+أوردي,/oˈrːɪdi/,already,already,ɔːlɹˈɛdi
+ابلة,/əblˤə/,female teacher,,
+ابلة,/əblˤə/,a female teacher,,
+اثول,/ˈəθ.wəl/,simpleton,,
+احنا,/ˈəħ.nə/,we (subject pronoun),,
+اخترع,/ɪχtɪrəʕ/,"(transitive) to invent, ‏منو اخترع نواة لنكس؟‎‎Who",,
+اذون,/əˈðuːn/,"ear, Synonym: اذن‎ (iḏin)",,
+استانس,/ɪsˈtanəs/,"to be happy, to be joyful, ‏استانست يوم چفتچ‎‎I became",,
+استكان,/ˌɪstɪˈkɑːn/,"small, usually glassy teacups, used in homes, stores,",,
+اشارة,/ɪˈʃɑːrə/,"sign, ‏لغة الاشارة‎ ― luḡat il-išāra ― sign language,",,
+اشكار,/eʃ.kɑːr/,"(Kuwait) matter, ‏اشكارك؟‎‎eškārak?What's the matter?",,
+اشكرة,/əʃˈkərə/,obviously,,
+اصنصير,/əˌsˤanˈsˤeːr/,"lift, elevator",,
+اغراض,/əʁˈrɑːðˤ/,"(plural only) stuff, things, Synonym: اشياء‎ (ašyāʾ)",,
+اقزوز,/ɪɡzoːz/,exhaust pipe,exhaust,ɛɡzˈɔːst
+ال,/(ʕ)ɪl/,the definite article; the,,
+ال,/(ʕ)ɪl/,"(colloquial) the relative clause; that, who, which,",,
+ال,/(ʕ)ɪl/,"(colloquial) to (destination), Synonyms: (colloquial)",,
+ال,/(ʕ)ɪl/,"(colloquial) the relative clause; that, who, which,",,
+ال,/(ʕ)ɪl/,"(colloquial) to (destination), Synonyms: (colloquial)",,
+ال,/(ʕ)ɪl/,"(colloquial) to (destination), Synonyms: (colloquial)",,
+الاحد,/ɪlˈəˌħəd/,Sunday,,
+الاربعا,/ɪlˌərˈbɪʕə/,Wednesday,,
+الحين,/ɪlˈħin/,"now, Antonym: بعدين‎ (bə3den)",,
+الدنمارك,/dɪnɪˈmɑrk/,Denmark (a country in Europe),,
+اليمعة,/ɪlˈjɪmʕə/,Friday,,
+اليوم,/ɪlˈjoːm/,today,,
+انت,/ˈɪntə/,you (singular subject pronoun),,
+انت,/ˈɪntə/,Alternative form of انتي‎ (inti),,
+انتو,/ɪntəw/,"you (second-person plural subject pronoun), Synonym:",,
+انتي,/ˈɪnti/,you (second-person feminine singular subject pronoun),,
+انفش,/ɪn.fəʃ/,"to be deflated., ‏انفش التاير‎‎ ― infašš it-tayir ―",,
+اهم,/ʊhʊm/,"they (subject pronoun), Synonym: اهمه‎ (uhma)",,
+اهمه,/ʊhmə/,"they (subject pronoun), Synonym: اهم‎ (uhum)",,
+اهو,/ʊhʊ/,"he (subject pronoun), Synonym: اهوه‎ (uhwa)",,
+اهوه,/ʊhwə/,"he (subject pronoun), Synonym: اهو‎ (uhu)",,
+اهي,/ɪhi/,"she (subject pronoun), Synonym: اهيه‎ (ihya)",,
+اهيه,/ɪhjə/,"she (subject pronoun), Synonym: اهي‎ (ihi)",,
+اوتوماتيك,/o.to.məˈtɪk/,"automatic, self-reliant, does not need manual input.,",automatic,ˌɔːɾəmˈæɾɪk
+اچار,/əˈt͡ʃɑːr/,(uncountable) pickled vegetables.,,
+باجلا,/ˈbɑː.d͡ʒɪl.lə/,broad bean (Vicia faba),,
+بار,/bɑːr/,bar (alcohol shop),bar,bˈɑː͡ɹ
+باق,/bɑːɡ/,(also figuratively) to illegally or immorally take,,
+بالطو,/ˈbɑːlˤtˤʊ/,"an overcoat., a lab coat.",paletot,pˈælɪtˌɑːt
+بالول,/baa.luul/,salmon,,
+بالي,/ˈbɑː.li/,"بال‎ (bāl, “mind, thinking, attention”)+ـي‎ (-i, “first",,
+بالي,/ˈbɑː.li/,"untidy, unclean, in bad shape, Synonyms: مبهذل‎ (mbahḏal),",,
+باورة,/baaw.ra/,anchor,,
+بدون,/bɪduːn/,"without, sans",,
+بدون,/bɪduːn/,someone without a nationality; a bidoon,,
+بردة,/bɐr.də/,curtain,,
+بريك,/breːk/,"brake pedal, a break, a gradual or sudden stop in a",break,bɹˈeɪk
+بطاط,/bʊˈtˤɑːtˤ/,"potato (vegetable), French fries, fries, chips, crisps,",,
+بطيخ,/bətˤːiːχ/,"cantaloupe, muskmelon, ‏شنو تحب اكثر، الرقي ولا البطيخ؟‎‎šinu",,
+بعدين,/bəʕdeːn/,"later, Antonym: الحين‎ (ʾilḥīn)",,
+بغى,/ˈbɪ.ʁə/,to want,,
+بلبلة,/ˈbəlbələ/,"confusion, disorder, mess",,
+بلش,/ˈbəl.ləʃ/,"to start, to begin, to commence, ‏التلفون ما صارله",,
+بلنتي,/bəˈlənti/,"penalty kick, 2018 June 19,  Newspaper editor,  “كين",penalty,pˈɛnəlɾi
+بنسل,/ˈbɪnsɪl/,"(Kuwait, obsolete) pencil., Synonym: قلم رصاص‎ (qalam",pencil,pˈɛnsəl
+بنطرون,/bən.tˤəˈroːn/,"(pair of) pants, trousers, especially jeans",,
+بهار,/bhɑːr/,"spice, seasoning",,
+بهمن,/ˈbəhmən/,Kuwaiti family name; Bahman; Behman; Behmen,,
+بوفيه,/bofe/,buffet,buffet,bˈʌfɪt
+بيالة,/biˈjɑːla/,"a small glass cup, usually used for tea.",,
+بيبي,/ˈbe.bi/,baby,baby,bˈeɪbi
+بيمة,/ˈbiːmə/,"(obsolete) car insurance, Synonym: تأمين‎ (taʾmīn)",,
+بچى,/ˈbɪt͡ʃə/,"to cry, to weep (over), to lament",,
+تأتأة,/təʔ.tə.ʔə/,"stuttering, stammering",,
+تانكي,/ˈtɑːnki/,"a water tank, a big container of water usually placed",tank,tˈæŋk
+تاير,/ˈtɑ.jɪr/,"tyre, tire, wheel",tyre,tˈaɪɚ
+تحلطم,/təˈħəɫ.tˤəm/,"to nag, to whine, to complain",,
+تحلطم,/təˈħəɫ.tˤəm/,"nagging, whining, complaining",,
+تدوده,/tdoːdəh/,"to be confused, ‏چفت منيوهم شطوله چان اتدوده ما عرفت",,
+ترانزيت,/ˈtrɑːnzeːt/,"layover, ‏وراي ترانزيتين باچر‎I have to layovers tomorrow",transit,tɹˈænsɪt
+تسبح,/tə.səbːəħ/,"to swim, to bathe, to take a shower.
+‏بتسبح سباحة سريعة بعدها علطول نطلع‎I want to take a fast shower and then we will leave immediately",,
+تعبان,/təʕˈbɑːn/,"tired, fatigued",,
+تقليد,/təqˈliːd/,"tradition, habit, imitation, impression, (Islam) Taqlid,",,
+تكانة,/tɪˈkɑːnə/,dependable and reliable person,,
+تمبل,/ˈtəm.bəl/,a lazy person,,
+تمشى,/təˈmə.ʃːə/,to walk for leisure,,
+توست,/toːst/,sliced bread,toast,tˈoʊst
+توهق,/təˈwəhːəɡ/,"to fall into trouble, 2010 October 10,  “كواليس”, in",,
+تيشيرت,/tiːˈʃeːrt/,T-shirt,T-shirt,tˈiːʃˈɜːt
+تيلة,/ˈtiːlə/,a marble  (tiny glassy ball toy),,
+جادة,/ˈd͡ʒɑːdːə/,(Kuwait) avenue (used with addresses but not in common,,
+جار,/d͡ʒɑr/,Alternative form of يار‎ (yār),,
+جاس,/d͡ʒɑːs/,to touch,,
+جامة,/ˈd͡ʒɑː.mə/,"a window of a motor vehicle such as a car or an aeroplane,",,
+جبن,/d͡ʒɪbɪn/,cheese,,
+جدر,/d͡ʒɪˈdɪr/,"a saucepot; a saucepan, ‏الي بالجدر يطلعه الملاس‎Whatever",,
+جعص,/d͡ʒɪʕsˤ/,"a stingy person, Synonym: بخيل‎ (baḵīl)",,
+جعص,/d͡ʒɪʕsˤ/,"stingy, Synonym: بخيل‎ (bəḵil)",,
+جليد,/d͡ʒəˈliːd/,ice,,
+جمعية,/d͡ʒəm.ˈʕiː.jə/,"supermarket, grocery store",,
+جناية,/d͡ʒɪˈnɑːjə/,"a felony (as opposed to a misdemeanor), crime",,
+جنطة,/ˈd͡ʒən.tˤə/,"a bag, a purse, Synonym: جنطة ايد‎ (janṭat īd)",,
+جوتي,/d͡ʒuːti/,shoes (a pair),,
+جونقر,/ˈd͡ʒoːŋ.ɡər/,someone who is very strong and powerful.,,
+جيكر,/ˈd͡ʒeːkər/,"(Kuwait, often humorous) ugly",joker,d͡ʒˈoʊkɚ
+جيكر,/ˈd͡ʒeːkər/,(playing cards) the joker,joker,d͡ʒˈoʊkɚ
+حاس,/ħɑːs/,"to roam around, to wander around, to walk around freely,",,
+حاس,/ħɑːs/,"active participle of حس‎ (ḥass, “to feel, to sense”),",,
+حاس,/ħɑːs/,"active participle of حس‎ (ḥass, “to feel, to sense”),",,
+حاش,/ħɑːʃ/,"to hit, ‏حاشتني انفلونزا‎I got hit by the flu",,
+حاش,/ħɑːʃ/,active participle of حَش‎ (ḥašš),,
+حاش,/ħɑːʃ/,active participle of حَش‎ (ḥašš),,
+حجي,/ħəd͡ʒːi/,"term of address for older people, a person who performed",,
+حجي,/ħəd͡ʒːi/,"term of address for older people, a person who performed",,
+حدث,/ˈħə.dəθ/,(law) minor; a person under the legal age (usually,,
+حدث,/ˈħə.dəθ/,"event; incident, Synonym: حادثة‎ (ḥādiṯa)",,
+حرامي,/ħəˈrɑːmi/,"thief, Synonym: بواق‎ (bawwāg)",,
+حرق,/ˈħɪrəɡ/,"(also figuratively) to burn, to set on fire",,
+حرق,/ˈħɪrəɡ/,"spoiler (“A document, review or comment that discloses",,
+حريجة,/ħəˈri.d͡ʒə/,"a fire (the occurrence, often accidental, of fire in",,
+حريم,/ħə.riːm/,"(plural only) women, plural of مرة‎ (mara), plural",,
+حش,/ħəʃ/,"gossip
+Synonym: غيبة‎ (ʁebə, ʁibə)",,
+حش,/ħəʃ/,"to gossip
+Synonym: اِغْتاب‎ (ɪʁtab)",,
+حكوك,/ħəˈkuːk/,"scorched rice, crusty rice; golden crust of cooked",,
+حلاو,/ħəˈlɑːw/,candy,,
+حلج,/ħəld͡ʒ/,mouth,,
+حلوج,/ħluːd͡ʒ/,"plural of حَلْج‎ (ḥalj, “mouth”)",,
+حمسة,/ħmɪsə/,"(archaic in Kuwaiti) turtle, tortoise, Synonym: سلحفاة‎",,
+حوالين,/ħəˈwɑːleːn/,around,,
+حواي,/ħəˈwːɑːj/,"apothecary, a specialist in traditional medicine, herbs,",,
+حوض,/ħoːðˤ/,"swimming pool, Synonyms: مسبح‎ (masbaḥ), حمام سباحة‎",,
+حيل,/ħel/,"very, strongly, heavily, a lot, ‏لعبة السوني كانت قوية",,
+حيل,/ħel/,"power, strength, ‏مافيني حيل اقوم اغسل ملابسي‎ ― I",,
+خاس,/χɑːs/,to rot (literally and figuratively),,
+خبيث,/χəˈbiːθ/,malignant; ill-intentioned,,
+خبيث,/χəˈbiːθ/,"malignant thing or person, (with اِل‎ (ɪl-)) cancer",,
+خربان,/χərˈbɑːn/,"defective, broken-down",,
+خرطي,/χrɪ.tˤi/,"of bad quality, Synonyms: بطقة/بو طقة‎ (buṭagga), أي",,
+خروف,/χəˈruːf/,"sheep, (derogatory) a man who lowers himself or does",,
+خشم,/xɐʃɪm/,nose,,
+خطب,/χɪtˤəb/,"to give a sermon, to orate, to ask for someone's hand",,
+خلص,/χəɫːəsˤ/,"to end, to finish, ‏متى يخلص الفلم صارله ثلث ساعات!‎‎",,
+خمستعش,/χə.mɪs.tə.ʕəʃ/,fifteenth,,
+خمستعش,/χə.mɪs.tə.ʕəʃ/,"fifteen, Indic numeral: ١٥‎",,
+دارسين,/ˈdɑːr.siːn/,cinnamon,,
+داية,/ˈdɑːjə/,"(historical) midwife, ‏امها حامل بتوم، الله يعين الداية!‎‎Her",,
+دبة,/ˈdəb.bə/,"car's trunk, (euphemistic) buttock, butt, Synonym:",,
+دروازة,/dɪrˈwɑzə/,"a great gate or port, especially a gate to a protective",,
+درى,/ˈdɪ.rə/,"to know (something), to realise, to come to one's knowledge,",,
+دري,/dərəj(j)/,"stairs, stairway, staircase",,
+دريشة,/dəˈriʃə/,"(not of a motor vehicle) a window, ‏منو كاسر دريشة",,
+دقمة,/ˈdɪɡ.mə/,button (a mechanical device meant to be pressed with,,
+دقوس,/dəˈqːuːs/,hot sauce,,
+دكور,/ˈdək.wər/,to show off,,
+دلاغ,/dlɑːʁ/,sock (clothing),,
+دوام,/dəˈwɑːm/,"work, occupation, or, less often, school., ‏وين دوامچ؟‎‎wēn",,
+دوشك,[doʊʃək],mattress,,
+دولكة,/ˈdoːlkə/,"a pitcher for drinking; a jug (especially a multiple-use,",,
+ديد,/deːd/,"breast, (obsolete) milk bottle for feeding babies",,
+ديرة,/diːrə/,"city, country, state, any place with shared culture,",,
+ديچ,/diːt͡ʃ/,rooster,,
+دچ,/dət͡ʃ/,to throw shade,,
+ذهب,/ðəˈhəb/,gold,,
+ذيب,/ðiːb/,wolf,,
+رادد,/ˈrɑː.dəd/,to talk back (“To reply impertinently or rudely; to,,
+ربع,/rʊbɪʕ/,"quarter, one fourth, (Kuwait) a quarter Kuwaiti Dinar,",,
+ربع,/rʊbɪʕ/,"(plural only) friends, Synonyms: (singular) رفيج‎ (rfīj),",,
+ربع,/rʊbɪʕ/,"(plural only) friends, Synonyms: (singular) رفيج‎ (rfīj),",,
+رجيم,/rɪd͡ʒiːm/,a nutritional diet,,
+رفيج,/rfiːd͡ʒ/,"friend, Synonyms: صاحب‎ (ṣāḥib), (plural only) ربع‎",,
+رقي,/rəɡːi/,"(Eastern Province, Kuwait) watermelon fruit, Synonym:",,
+روب,/roːb/,"yoghurt, yogurt",,
+روب,/roːb/,bath robe,robe,ɹˈoʊb
+روب,/roːb/,bath robe,robe,ɹˈoʊb
+روتي,/ˈroːti/,"(obsolete) bread, Synonym: خبز‎ (ḵubiz)",,
+روضة,/ˈroːðˤə/,"kindergarten, ‏فاطمة بالروضة صارت ولا للحينها بالحضانة؟‎‎Is",,
+زبيدي,/ˈzbeː.di/,"silver pomfret, white pomfret, Pampus argenteus[1][2]",,
+زربول,/zar.buːl/,kind of shoe worn by people traveling in the desert,,
+زف,/zəf/,"to scold, to rebuke, to reproach",,
+زفير,/zəˈfiːr/,"exhalation, expiration, Antonym: شهيق‎ (šahīq)",,
+زقارة,/zɪˈɡɑː.rə/,cigarette,cigarette,sˌɪɡɚɹˈɛt
+زقرت,/zɡɪrt/,"fashionable, cool, chic, elegant, stylish, Synonyms:",,
+زقوم,/zəqːuːm/,"(slang) expression of, disgust, annoyance, anger, dismay",,
+زهايمر,/zəˈhɑj.mɪr/,Alzheimer's disease,,
+زهرة,/ˈzəhrə/,"flower, cauliflower, dice (board games)",,
+زهيوي,/ˈzheːwi/,cockroach,,
+سبة,/ˈsibːə/,"reason, justification",,
+ستيك,/steːk/,meat steak,steak,stˈeɪk
+سستر,/ˈsɪs.tər/,"a nurse, especially a female one., Synonyms: (female",sister,sˈɪstɚ
+سلاحف,/səˈlaːħɪf/,"plural of سلحفاة‎ (sulḥafāt, sulḥifāt, “turtle”)",,
+سما,/sɪmə/,sky,,
+سمنديقة,/səˈməndeːɡə/,Alternative form of صمنديقة‎ (ṣamandēga),,
+سمي,/ˈsɪ.mi/,"namesake; a person who shares the same name as another.,",,
+سمي,/ˈsɪ.mi/,"namesake; a person who shares the same name as another.,",,
+سمچ,/sɪmɪt͡ʃ/,(uncountable) fish,,
+سنسون,/sənˈsuːn/,mucus (of nose),,
+سنع,/sənʕ/,"nice, good, well-behaved",,
+سنع,/sənʕ/,"nice, good, well-behaved",,
+سولف,/ˈsoːləf/,to converse,,
+سيارة,/səjːɑːrə/,"car, automobile, motorcar, ‏امس وديت السيارة القراج",,
+سيكل,/ˈseː.kəl/,a motorcycle,cycle,sˈaɪkəl
+سچين,/sɪt͡ʃːiːn/,"knife, Synonym: سچينة‎ (siččīna)",,
+شات,/ʃɑːt/,"to shoot, to kick with foot",shoot,ʃˈuːt
+شاصي,/ˈʃɑːsˤi/,(of motorvehicles) chassis,,
+شاوي,/ʃaa.wii/,shepherd,,
+شايب,/ˈʃɑːjɪb/,"old man, Coordinate term: عيوز‎ (ʿayūz, “old woman”)",,
+شبة,/ˈʃəbːə/,a streetlight,,
+شبزي,/ˈʃəb.zi/,"green herb stew, served with or without meat.",,
+شربت,/ˈʃərbət/,a drink made of mixture of fruit concentrate and sugar;,,
+شقردي,/ʃɪˈɡər.di/,"A kind person, Synonym: طَيِّب‎",,
+شقردي,/ʃɪˈɡər.di/,"kind person, Synonym: طَيِّب‎",,
+شنص,/ʃɪnəsˤ/,to take a chance and make out,,
+شنو,[ˈʃɪ.nu],"(interrogative) what?, ‏شنو اسمك؟‎‎Šinu ismek? (to",,
+شوربة,/ˈʃoːr.bə/,"soup, ‏شوربة عَدَس‎ ― šōrbat ʕadas ― lentil soup",,
+شيرة,-rə,tree,,
+شيرة,-rə,syrup,,
+شيرة,-rə,syrup,,
+شيشة,/ˈʃiːʃə/,"hookah, traditional meeting shops in which hookah or",,
+شين,/ʃeːn/,"bad, Antonym: زين‎ (zēn), ‏كل مكان فيه الزين وفيه الشين‎‎kil",,
+صاج,/sˤɑːd͡ʒ/,a type of bread,,
+صج,/sˤɪd͡ʒ(ː)/,"really, truthfully, ‏صج تبي تروح ولا لا؟‎‎ (Emirati)ṣaj",,
+صراحة,/sˤəˈrɑː.ħə/,"honestly, truthfully, ‏صراحة ما ارتاح الا وياچ‎ ― ṣarāḥa",,
+صراحة,/sˤəˈrɑː.ħə/,"honesty, ‏الصراحة راحة‎ ― iṣ-ṣarāḥa rāḥa ― Honesty",,
+صفرة,/ˈsˤʊf.rə/,tablecloth,,
+صكر,/sˤəkːər/,"to close (a place, store etc), ‏الجمعية متى تصكر؟‎‎",,
+صمنديقة,/sˤəˈməndeːɡə/,(mildly derogatory in some contexts) a person who has,,
+صمون,/sˤəmˈmuːn/,"(Kuwait) bread roll, bun, Synonym: (dialectal) صامولي‎",,
+ضبط,/ˈðˤəbːətˤ/,"to hook someone up (provide with needs, give special",,
+ضنا,/ˈðˤənə/,(old-fashioned) son or daughter; one's offspring,,
+ضيج,/ˈðˤəj.jid͡ʒ/,"tight, narrow",,
+طاح,/tˤɑːħ/,"(also figuratively) to fall, to drop down, ‏التلفون",,
+طر,/tˤər/,to beg,,
+طراد,/tˤər.rɑd/,boat,,
+طرارة,/ˈtˤrɑːrə/,begging,,
+طرثوث,/tˤərˈθuːθ/,"desert thumb, Cynomorium coccineum in the monophyletic",,
+طرش,/ˈtˤərːəʃ/,"(transitive) to send
+‏طرشلنا الصورة‎ ― Send us the photo.",,
+طريج,/tˤɪriːd͡ʒ/,"road, way, path",,
+طشت,/tˤəʃt/,a portable washbasin,,
+طماط,/tˤʊˈmɑːtˤ/,tomato,,
+طمباخية,/tˤɪmˈbɑːˌχiːj(j)ə/,"(old-fashioned) a ball, such as ones used in sports",,
+طنش,/tˤənːəʃ/,to ignore,,
+طنطل,/tˤəntˤəlˤ/,"(dated, of a person) tall, Synonym: طويل‎ (ṭwīl), Antonyms:",,
+طوفة,/ˈtˤoː.fə/,wall (“each of the substantial structures acting either,,
+طيب,/tˤəjːɪb/,"a kind person, Synonym: شقردي‎",,
+طيب,/tˤəjːɪb/,"good, nice, pleasant, Synonym: زين‎ (zen), Antonyms:",,
+عايلة,/ˈʕɑːjlə/,"family, family name, last name",,
+عباية,/ʕəˈbɑː.ja/,A black cloak worn by some women for religious or traditional,,
+عبيط,/ʕəˈbiːtˤ/,silly,,
+عبيط,/ʕəˈbiːtˤ/,silly,,
+عتيج,/ʕɪˈtiːd͡ʒ/,"(dated) antique, archaic, ancient, Synonym: اثري‎ (aṯari)",,
+عربانة,/ʕə.rə.ˈbɑ.nə/,"cart, ‏ليش عربانات الجمعية دايما خربانة؟‎‎Why are the",,
+عرموط,/ʕərˈmuːtˤ/,pear,,
+عشا,/ˈʕəʃə/,"dinner, supper",,
+عصاية,/ʕəˈsˤɑː.jə/,"stick, wand, walking stick, cane, Synonym: عكاز‎ (ʕikkāz)",,
+عطار,/ʕəˈtˤːɑːr/,"apothecary, a specialist in traditional medicine, herbs,",,
+علبنة,/ʕələbʊnːə/,"as if, as though, Synonym: على ابو ان‎",,
+علطول,/ʕə.lə.ˈtˤuːl/,immediately,,
+علوقة,/ʕəl.ˈluː.ɡə/,a catchphrase; a phrase that is often heard and repeated,,
+علچ,/ʕɪlt͡ʃ/,"gum, chewing gum",,
+عوار,/ʕəˈwɑːr/,(also figuratively) pain,,
+عيار,/ʕəyːaːr/,"(also humorous) cunning, deceptive (person)",,
+عيل,/ˈʕəjːəl/,"to produce offspring, to have children",,
+عيم,/ʕə.jəm/,"Ayam, Ajam (“Kuwaiti citizens of Iranian origin.”)",,
+عيوز,/ʕəjuːz/,"an old woman, Synonym: عَيوزة‎ (ʿayūza), Coordinate",,
+غشمرة,/ʁəʃ.mə.rə/,"sarcasm, kidding, joking",,
+غطا,/ʁə.tˤə/,"cover, lid",,
+غمض,/ʁəmːəðˤ/,"to close one or both eyes, ‏غمضوا عيونكم!‎‎ (plural)",,
+غوري,/ˈʁuː.ri/,"teapot, kettle",,
+فار,/fɑr/,"mouse, ‏في فار ببيتنا ولا يتراوالي؟‎‎Is there a mouse",,
+فاشنستا,/fə.ʃɪˈnɪs.tə/,"a social media celebrity, a social media influencer,",fashionista,fˈæʃənˌɪstə
+فرصة,/ˈfʊrsˤə/,"chance, opportunity, (K-12) recess, Synonym: (a recess",,
+فريزر,/ˈfreːzər/,freezer,freezer,fɹˈiːzɚ
+فضا,/fə.ðˤə/,outer space,,
+فضا,/fə.ðˤə/,"Alternative form of فضى‎ (fiḏ̣a, “to become empty”)",,
+فضا,/fə.ðˤə/,"Alternative form of فضى‎ (fiḏ̣a, “to become empty”)",,
+فطيرة,/fəˈtˤiːrə/,pie,,
+فقع,/fɘˈɡɪʕ/,desert truffles (Terfeziaceae),,
+فلوس,/fluːs/,"(plural only) money, plural of فِلْس‎ (“fils, a unit",,
+فنيان,/fɪnˈjɑːn/,a demitasse; a small cup used mainly to serve and drink,,
+في,/fi/,"there is, there are",,
+في,/fi/,forms the conjugated forms of the preposition بْـ‎,,
+فير,/ˈfə.jɪr/,"dawn, ‏صلاة الفير‎9əla-t-ɪl-fəyɪr(Islam) Dawn Prayer",,
+فيشة,/ˈfiːʃə/,"token, ticket (such as those used in arcade games)",,
+قاري,/ˈɡɑ.ri/,"a bicycle, a bike",,
+قام,/ɡɑːm/,"to stand (up), Synonym: وقف‎ (wigaf), to wake up, Synonym:",,
+قبقب,/ˈɡʊb.ɡʊb/,sea crab; sea cancer,,
+قحص,/ˈɡəħːəsˤ/,(motor vehicles) to drift,,
+قرا,/ɡɪrə/,"to read, ‏الاستاذ قرا الدرس وايد بسرعة، ما فهمت منه",,
+قراج,/ɡəˈrɑːd͡ʒ/,"garage (“A place where cars are serviced and repaired.”),",garage,ɡɚɹˈɑːʒ
+قروب,/ɡruːb/,(computing) group,group,ɡɹˈuːp
+قص,/ɡəsˤ/,"to cut, to cut class, to skip class, to trick, to deceive",,
+قطر,/ˈɡɪtˤər/,"Qatar, ‏قطر وين صايرة؟‎‎ ― Where is Qatar located?",,
+قطن,/ˈɡɪ.tˤɪn/,"(uncountable) cotton, ‏دشداشة قطن‎ ― dišdāšat giṭin",,
+قطو,/ɡəˈtˤʊ/,"a he-cat, a male cat., Synonym: عتوي‎ (ʿitwi)",,
+قطوة,/ˈɡətˤwə/,female equivalent of قطو‎ (gaṭu): a she-cat,,
+قلاص,/ɡlˤɑːsˤ/,"a glass; a vessel for drinking, made mainly of glass",glass,ɡlˈæs
+قلم,/ˈqələm/,"pen, Synonym: قلم حبر‎, pencil, Synonym: قلم رصاص‎",,
+قمر,/ˈɡʊmər/,"moon, (figuratively) a very beautiful or handsome person,",,
+قند,/qənd/,sugar cube,,
+قنفة,/qə.nə.fə/,"sofa, couch, ‏منو حاط القنفة بنص الصالة؟‎‎who put the",,
+قهوة,/ˈɡəh.wə/,"coffee shop, a traditional social gathering places",,
+قهوة,/ˈɡəh.wə/,coffee,,
+قوس,/qoːs/,"arch, bow (tool)",,
+قولچي,/ˈɡoːɫ.t͡ʃi/,"goalie, goalkeeper, Synonym: حارس‎ (ḥārɪs)",,
+قيمر,/ˈɡeːmər/,a type of dairy cream,,
+قيمر,/ˈɡeːmər/,gamer,gamer,ɡˈeɪmɚ
+قيمر,/ˈɡeːmər/,gamer,gamer,ɡˈeɪmɚ
+كار,/kɑːr/,"busy person, ‏ما كاري‎mā kāriI'm not busy",,
+كاشير,/ˈkɑːˌʃeːr/,"cashier, (sometimes) barista",cashier,kæʃˈɪɹ
+كاغد,/kɑːʁəd/,tobacco rolling paper,,
+كافيه,/kəˈfeː/,"coffee shop; café; a modern establishment, which usually",,
+كب,/kəbb(ˤ)/,to spill (a liquid),,
+كبت,/kəbət/,closet,cupboard,kˈʌbəd
+كبوت,/kəbːuːt/,"bonnet (UK), hood (US)",,
+كتكوت,/kətˈkuːt/,chick (baby chicken),,
+كربون,/kɪrbuːn/,"(Kuwaiti, Sharg sub-dialect) dear",,
+كرفتة,/kə.rə.ˈfɪt.tə/,necktie,,
+ككاو,/kəˈkːɑːw/,"cocoa, chocolate, usually milk chocolate",,
+كلاس,/klɑːs/,"a class at a university or a tertiary education institute.,",class,klˈæs
+كلش,/ˈkɪllɪʃ/,"at all, Synonym: مولية‎ (mūliya), ‏رفيجي ما يحب الكرة",,
+كلمة,/kɪl.mə/,"(grammar) word, ‏شنو سپلنق كلمة ""گربه"" بالايراني؟‎‎ʃinu",,
+كلى,/ˈkɪlə/,to eat,,
+كلى,/ˈkɪlə/,"kidney, Synonym: كِلْيَة‎ (kilya), plural of كِلْيَة‎",,
+كلى,/ˈkɪlə/,"kidney, Synonym: كِلْيَة‎ (kilya), plural of كِلْيَة‎",,
+كلينكس,/kleːnəks/,"kleenex; paper tissue; napkin; a soft, disposable piece",Kleenex,klˈiːnɛks
+كمام,/kəmːɑːm/,"surgical mask, medical mask, procedure mask",,
+كنديشن,/kənˈdeːʃɪn/,"(obsolete) air conditioner, Synonym: مُكَيِّف‎ (mukayyif)",conditioner,kəndˈɪʃənɚ
+كنسل,/ˈkənsəl/,"to cancel, to annul, to invalidate, ‏بكنسل حجزي لني",cancel,kˈænsəl
+كهربا,/kəhrəbə/,electricity,,
+كهربچي,/kəhrəbt͡ʃi/,electrician,,
+كوجة,/ˈkoːd͡ʒə/,greengage,,
+كورس,/kors/,"pedagogical semester or term., ‏الـكورس الأول دايمًا",course,kˈoː͡ɹs
+كوكتيل,/kʊkˈteːl/,"fruit punch, a drink made by mixing multiple fruit",cocktail,kˈɑːkteɪl
+كيكة,/ˈkeːkə/,"a cake, (slang) a beautiful girl or woman; babe; hottie;",cake,kˈeɪk
+لابچين,/lɑːbˈt͡ʃiːn/,"football shoes, soccer shoes",,
+لبن,/ˈlɪ.bən/,"(uncountable) leban, coagulated sour milk; yogurt drink",,
+لنج,/lənd͡ʒ/,a small boat,,
+لون,/loːn/,color,,
+ليت,/leːt/,light,light,lˈaɪt
+ليزر,/ˈleː.zər/,laser,laser,lˈeɪzɚ
+ليش,/leʃ/,"why?
+Synonym: شْحَقَّه‎ (ʃ7əggə)",,
+ماصخ,/ˈmɑːsˤɪχ/,"(of food) saltless (lacking salt), insipid (lacking",,
+ماي,/mɑj/,water,,
+مبلتع,/ˈmbəltəʕ/,someone who speaks proficiently and fluently without,,
+مبلتع,/ˈmbəltəʕ/,someone who speaks proficiently and fluently without,,
+مبچر,/mbət͡ʃːɪr/,"early, Antonym: متأخر‎ (mɪt'əxxɪr)",,
+متأخر,/mɪt.ʔə.χːɪr/,"late, Antonym: مبچر‎ (mbəccɪr)",,
+متخلف,/mɪtˈχəlːɪf/,"(of a person, culture, or idea) backward, backward-thinking,",,
+متلوث,/mɪtˈləwːɪθ/,"dirty, polluted",,
+محنة,/ˈmɪħ.nə/,"disaster, tragedy, tribulation, an extremely difficult",,
+مداحر,/mdɑːħər/,"arguing, picking on someone",,
+مزاج,/məˈzɑːd͡ʒ/,"mood, temperament",,
+مسلسل,/mʊˈsəlsəl/,"TV series, soap opera",,
+مسلسل,/mʊˈsəlsəl/,"chained, ‏خروف مسلسل‎ ― ḵarūf msalsal ― Kharuf Msalsal",,
+مسلسل,/mʊˈsəlsəl/,"chained, ‏خروف مسلسل‎ ― ḵarūf msalsal ― Kharuf Msalsal",,
+مسيد,/məs.jɪd/,"mosque, Synonym: جامع‎ (jāmiʕ)",,
+مشى,/mɨʃə/,"(intransitive) to walk, ‏بروح امشي شوي اغير جو‎bəruḥ",,
+مصخرة,/məsˤ.χə.rə/,A ridiculous and rage-inducing event or story; bullshit.,,
+مطر,/ˈmʊ.tˤər/,rain,,
+مطر,/ˈmʊ.tˤər/,A Kuwaiti family name; Mutar; Matar,,
+مطر,/ˈmʊ.tˤər/,to rain,,
+معكرونية,/məʕkəˈroːnjə/,"macaroni, pasta, spaghetti etc",,
+مقارنة,/mʊˈqɑ.rə.nə/,comparison,,
+مقلة,/ˈmɪɡlˤə/,frying pan,,
+مكوك,/məˈkːuːk/,"space shuttle, transport capsule, spaceship, (euphemistic)",,
+ملابس,/məˈlabɪs/,"plural of لبس‎ (lɪbs, “garment”)
+Synonym: هدوم‎ (hdum)",,
+ملاس,/mɪˈlːɑs/,"a kitchen spatula
+‏الي بالجدر يطلعه الملاس‎Whatever is in the saucepot the spatula will get out (famous Kuwaiti saying)",,
+ملف,/mə.ləf/,"file (“a collection of papers”), dossier, ‏حط اوراقك",,
+ملفوف,/məlˈfuːf/,cabbage,,
+ملقوف,/ˈməlˌɡuːf/,A nosy person,,
+منظرة,/mənˈðˤərə/,"mirror, Synonym: مْرايا‎ (mrāya)",,
+منو,/mɪ.nu/,"(interrogative) who?
+‏منو هذا؟‎‎Who’s  this?",,
+منيو,/ˈmɪnjʊ/,"a menu (of a restaurant), a bill of fare",menu,mˈɛnjuː
+مهتمل,/ˈmhət.məl/,"(obsolete) (of a person) untidy
+Synonym: مبهذل‎ (mbahḏal)
+Antonym: مرتب‎ (mrattab)",,
+مواعين,/ˈmwɑː.ʕiːn/,"(plural only) kitchen utensils, kitchenware, vessels",,
+موعد,/ˈməwʕɪd/,"appointment, romantic date, Synonym: (colloquial) ديت‎",,
+مينون,/məjˈnuːn/,"crazy, insane",,
+ميوة,/ˈmeː.wə/,"(dated) fruits, Synonyms: فاكهة‎ (fakhə), فواكه‎ (fəwakə)",,
+نحن,/nɪħɪn/,we (subject pronoun),,
+نط,/natˤ/,"to jump, Synonyms: نطنط‎ (naṭnaṭ), نقز‎ (nigaz)",,
+نفنوف,/nəfˈnuːf/,"dress, a traditional women dress in Kuwait, now mostly",,
+نفيش,/nʊˈfːeːʃ/,popcorn,,
+نكتة,/ˈnɪk.tə/,"joke, jest
+‏سِمَعْت آخِر نِكْتة‎ ― Did you hear the latest (newest/most recent) joke?",,
+نكهة,/ˈnəkhə/,"flavour, flavor, Synonym: طعم‎ (ṭaʿam)",,
+نوخذة,/ˈnoːχɪðə/,"skipper, sea captain, master mariner",,
+نوط,/noːtˤ/,"monetary note, monetary bill, 2017 April 14,  أميرة",note,nˈoʊt
+نيس,/nəjːɪs/,"(theology) impure, najis, Antonym: طاهِر‎ (ṭāhir)",,
+نيشن,/ˈneː.ʃən/,to aim,,
+هامور,/ˈhɑːmuːr/,"Greasy grouper, (negative connotation) filthy rich",,
+هدوم,/hduːm/,"(plural only) clothes, Synonym: ملابس‎ (malābis)",,
+هرن,/hɪˈrɪn/,"a motor vehicle horn; the loud alarm of a motor vehicle,",horn,hˈɔː͡ɹn
+هستر,/həstər/,"to laugh uncontrollably, to enter a state of hysteria",,
+هناك,/hnɑːk/,there,,
+هني,/hniː/,"here, Synonym: مني‎ (minnī), Coordinate terms: هناك‎",,
+هوشة,/ˈhoː.ʃə/,"quarrel, fight, altercation, Synonym: هواش‎ (hwāš),",,
+واير,/ˈwɑːjɪr/,"wire, cable",wire,wˈaɪɚ
+ورقة,/wrɪɡə/,"paper, leaf",,
+وناسة,/wəˈnɑː.sə/,"joy, happiness
+Antonyms: زعل‎ (zaʕal), تعاسة‎ (taʕāsa)",,
+يا,/jaː/,"vocative particle, ‏يا غريب كون اديب‎yā ḡərīb kūn ədībO",,
+يا,/jaː/,"either ... or, ‏يَا هَذَا يَا هَذَا.‎‎yā hāḏa yā hāḏa.Either",,
+يا,/jaː/,"either ... or, ‏يَا هَذَا يَا هَذَا.‎‎yā hāḏa yā hāḏa.Either",,
+ياثوم,/ˌjɑːˈθuːm/,sleep paralysis,,
+ياخور,/jɑːχuːr/,"barn, pen, stable",,
+يار,/jɑr/,"neighbour, neighbor",,
+ياز,/jɑz/,"to cease, stop, give up (a habit etc)
+‏بو طبيع ما يوز عن طبعه‎ ― Old habits die hard (Kuwaiti proverbs)
+‏هالولد ما يوز عن سوالفه‎this boy won't stop doing his [long-time] acts",,
+ياز,/jɑz/,"(with لـ‎ (l-))  to appeal to
+‏ما يازتلي هالماركة‎this brand did not appeal to me (I did not find it good)",,
+ياهل,/ˈjɑː.hɪl/,"kid, child, infant, Synonym: رضيع‎ (raḏ̣īʿ)",,
+يم,/jəm/,"beside, ‏وين صاير بيتكم؟يم الجمعية.‎‎– wen 9ayɪr betkʊm?–",,
+يمناوي,/yɪm.ˈnɑː.wi/,"right-handed, Antonym: عصماوي‎ (ʿaṣmāwī, “left-handed”)",,
+يني,/jɪn.ni/,"one of djinn, genie",,
+يوع,/juːʕ/,"hunger, ‏يلا متى تحطون الغدا تراني ميت يوع؟!‎‎yalla",,
+يوم,/joːm/,"day, ‏ما بتروحون معرض يوم البحار؟‎‎Are you not going",,
+پايپ,/pɑːjp/,a fluid or gas-transportation pipe,pipe,pˈaɪp
+پيپ,/peːp/,a smoking pipe,,
+چان,/t͡ʃɑːn/,"(past events only) hence, then, afterward, after that",,
+چاي,/t͡ʃɑːj/,"(uncountable) tea, (countable) a cup or glass of tea",,
+چبريت,/t͡ʃɪbˈriːt/,match (device to make fire),,
+چف,/t͡ʃəf/,palm of the hand,,
+چلب,/t͡ʃəlb/,"dog, canine, 2019 April 10, azzaman.com (Iraq), تأثير",,
+چم,/t͡ʃəm/,how many,,
+چم,/t͡ʃəm/,sleeve,,
+چم,/t͡ʃəm/,sleeve,,
+چنه,/ˈt͡ʃɪnːə/,"like, as, similar to, Synonym: مِثِل‎ (miṯil)",,
+چولة,/ˈt͡ʃuːlə/,"stove, burner, cooker",,
+چي,/t͡ʃi/,"like this, such as this, ‏ليش چي سويت، اختربت الكامرا",,
+چيس,/t͡ʃiːs/,"a plastic or paper bag, a disposable or multi-use bag",,
+چيك,/t͡ʃəjːək/,"(intransitive) (with على‎ (ʕala, “on”)) to check, to",check,t͡ʃˈɛk
+چيك,/t͡ʃəjːək/,"bank cheque, check, ‏- المسكين ليش قطوه السجن؟ - كاتب",cheque,t͡ʃˈɛk
+چيك,/t͡ʃəjːək/,"bank cheque, check, ‏- المسكين ليش قطوه السجن؟ - كاتب",cheque,t͡ʃˈɛk
+کمبل,/kɐm.bəl/,"blanket, Synonyms: لحاف‎ (laḥāf), بطانية‎ (baṭṭānīya)",,

@@ -1,21 +1,205 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-Fēpueli,fˈɛbɹuːˌɛɹi,February.,February
-hisitōlia,hˈɪstɚɹi,history (past events).,history
-kalasi,klˈæs,"A class, Pamphlets in the Tonga language, ""Koe Hisitolia",class
-konisitūtone,kˌɑːnstɪtˈuːʃən,constitution.,constitution
-kulupu,ɡɹˈuːp,group,group
-Maʻasi,mˈɑː͡ɹt͡ʃ,March.,March
-Mē,mˈeɪ,May.,May
-Nōvema,noʊvˈɛmbɚ,November.,November
-palemia,pɹəmˈɪɹ,premier; prime minister.,premier
-Pilitānia,bɹˈɪtən,Great Britain,Britain
-Sānuali,d͡ʒˈænjuːˌɛɹi,January.,January
-Sēpitema,sɛptˈɛmbɚ,September.,September
-Siaosi,d͡ʒˈɔː͡ɹd͡ʒ,"A male given name used, among others, by Tongan royalty.",George
-Siulai,d͡ʒuːlˈaɪ,July.,July
-Sune,d͡ʒˈuːn,June.,June
-Tisema,dᵻsˈɛmbɚ,December.,December
-ʻAokosi,ˈɔːɡəst,August.,August
-ʻEpeleli,ˈeɪpɹəl,April.,April
-ʻinisēkite,ˈɪnsɛkt,insect.,insect
-ʻOkatopa,ɑːktˈoʊbɚ,October.,October
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+afi,/a.fi/,fire (oxidation reaction),,
+aka,/a.ka/,"root (of plant), East Asian arrowroot (Pueraria montana",,
+alu,/a.lu/,to go,,
+ano,/a.no/,lake; bog; marsh,,
+anoano,/a.no.a.no/,marshy; boggy,,
+ao,/a.o/,cloud,,
+ao,/a.o/,"headdress, front of an island",,
+ao,/a.o/,"headdress, front of an island",,
+aoaofia,/a.o.a.o.fi.a/,cloudy; overcast,,
+ato,/a.to/,"thatch, Synonym: aʻu",,
+ato,/a.to/,To thatch,,
+au,/a.u/,"I (personal pronoun), me (direct object of a verb),",,
+e,/e/,by,,
+fā,/faː/,four,,
+fā,/faː/,pandanus,,
+fā,/faː/,pandanus,,
+fafanga,/fa.fa.ŋa/,to feed,,
+fafine,/fa.fi.ne/,woman,,
+faka,/fa.ka/,in the manner of; in (a specified) fashion,,
+fala,/fa.la/,a woven mat usually made from the leaves of the pandanus,,
+fale,/fa.le/,house (abode),,
+fana,/fa.na/,"to shoot, to dynamite",,
+fāngofulu,/faː.ŋo.fu.lu/,forty,,
+fangu,/fa.ŋu/,gourd,,
+fanongo,/fa.no.ŋo/,"(intransitive) listen, to hear (something).
+Fanongo ki he ipod. - Listen to an ipod.",,
+faʻa,/fa.ʔa/,in the manner of,,
+faʻa,/fa.ʔa/,"like
+Pamphlets in the Tonga language, ""Koe Hisitolia o Natula"", page 58:
+Oku faa vahe ae kalasi huhu kihe faahiga e hiva, o behe:—
+1. Koe manu nima ua (Bimana)
+There are nine things like parts called the classes which have breasts, like so:—
+1. The animals with two hands (Bimana)",,
+faʻē,/fa.ʔeː/,mother,,
+fefine,/fe.fi.ne/,woman,,
+feke,/fe.ke/,octopus,,
+fekika,/fe.ki.ka/,"The Malay apple, Syzygium malaccense",,
+Fēpueli,/feː.pu.e.li/,February.,February,fˈɛbɹuːˌɛɹi
+fili,/fi.li/,"to choose (to elect), to choose (to pick)",,
+fitu,/fi.tu/,seven,,
+fitungofulu,/fi.tu.ŋo.fu.lu/,seventy,,
+folau,/fo.la.u/,"journey, trip",,
+folau,/fo.la.u/,"to travel, to voyage",,
+fonu,/fo.nu/,"turtle, sea turtle, ʻI hono fōfoa‘í pē, ‘oku ‘alu leva",,
+fonu,/fo.nu/,"full (of container or its contents, or of a notebook",,
+fonu,/fo.nu/,"full (of container or its contents, or of a notebook",,
+fua,/fu.a/,fruit,,
+Haʻamoa,/ha.ʔa.mo.a/,Samoa,,
+heʻe,/he.ʔe/,grasshopper.,,
+hiapo,/hi.a.po/,"The paper mulberry, Broussonetia papyrifera",,
+hina,/hi.na/,grey (referring to hair),,
+hisitōlia,/hi.si.toː.li.a/,history (past events).,history,hˈɪstɚɹi
+hiva,/hi.va/,"nine, Pamphlets in the Tonga language, ""Koe Hisitolia",,
+hiva,/hi.va/,song,,
+hiva,/hi.va/,to sing,,
+hiva,/hi.va/,song,,
+hiva,/hi.va/,to sing,,
+hivangofulu,/hi.va.ŋo.fu.lu/,ninety,,
+hongofulu,/ho.ŋo.fu.lu/,ten,,
+huhu,/hu.hu/,"breast; breasts; teat, Pamphlets in the Tonga language,",,
+huhu,/hu.hu/,To suck,,
+huhu,/hu.hu/,wet,,
+huhua,/hu.hu.a/,"milk, juice (any non-water liquid)",,
+ifi,/i.fi/,"A tree with edible nuts, the Tahitian chestnut, Inocarpus",,
+ifi,/i.fi/,"to smoke (cigarettes, etc)",,
+ifi,/i.fi/,"to smoke (cigarettes, etc)",,
+ika,/i.ka/,fish (vertebrate animal),,
+kā,/kaː/,car,,
+kai,/ka.i/,food,,
+kai,/ka.i/,To eat,,
+kakau,/ka.ka.u/,to swim,,
+kalasi,/ka.la.si/,"A class, Pamphlets in the Tonga language, ""Koe Hisitolia",class,klˈæs
+kava,/ka.va/,bitter,,
+kava,/ka.va/,kava,,
+keli,/ke.li/,to dig (to move hard-packed earth out of the way),,
+ki,/ki/,to (in the dative sense),,
+kisikisi,/ki.si.ki.si/,dragonfly.,,
+kolo,/ko.lo/,village,,
+konisitūtone,/ko.ni.si.tuː.to.ne/,constitution.,constitution,kˌɑːnstɪtˈuːʃən
+kulī,/ku.liː/,dog,,
+kulupu,/ku.lu.pu/,group,group,ɡɹˈuːp
+kumā,/ku.maː/,"rat, mouse",,
+kumala,/ku.ma.la/,sweet potato,,
+kutu,/ku.tu/,louse (insect),,
+lahi,/la.hi/,big; large; great,,
+laka,/la.ka/,"to step, to march, to move on or forward, to proceed,",,
+langi,/la.ŋi/,sky (atmosphere above a point),,
+lango,/la.ŋo/,fly (insect),,
+lea,/le.a/,"language; speech, lea fakatonga ― Tongan language",,
+lelei,/le.le.i/,good,,
+loloa,/lo.lo.a/,long,,
+loto,/lo.to/,"interior, inland, lake",,
+lupe,/lu.pe/,dove,,
+mahaki,/ma.ha.ki/,"sickness, Mahalo pē ‘oku ‘ikai te ke hokosia ‘a e ngaahi",,
+mahaki,/ma.ha.ki/,"sick, ill, dead (polite for mate)",,
+mahina,/ma.hi.na/,"moon, ‘E ‘ikai taa‘i koe ‘e he la‘a, ‘aho, pe ko e",,
+māhoaʻa,/maː.ho.a.ʔa/,"Polynesian arrowroot, Tacca leontopetaloides",,
+maka,/ma.ka/,rock; stone.,,
+mana,/ma.na/,miracle,,
+manu,/ma.nu/,"animal
+Pamphlets in the Tonga language, ""Koe Hisitolia o Natula"", page 58:
+Oku faa vahe ae kalasi huhu kihe faahiga e hiva, o behe:—
+1. Koe manu nima ua (Bimana)
+There are nine things like parts called the classes which have breasts, like so:—
+1. The animals with two hands (Bimana)",,
+manupuna,/ma.nu.pu.na/,bird,,
+mata,/ma.ta/,eye (organ),,
+mate,/ma.te/,"death, the dead",,
+mate,/ma.te/,dead,,
+Maʻasi,/ma.ʔa.si/,March.,March,mˈɑː͡ɹt͡ʃ
+Mē,/meː/,May.,May,mˈeɪ
+mei,/me.i/,breadfruit,,
+mei,/me.i/,from,,
+moko,/mo.ko/,"lizard, gecko",,
+motu,/mo.tu/,island,,
+motuʻa,/mo.tu.ʔa/,old,,
+motuʻa,/mo.tu.ʔa/,parent,,
+namu,/na.mu/,mosquito,,
+ngata,/ŋa.ta/,"snake, serpent",,
+nifo,/ni.fo/,"(anatomy) tooth, tusk, horn",,
+nima,/ni.ma/,five,,
+nima,/ni.ma/,"hand, Pamphlets in the Tonga language, ""Koe Hisitolia",,
+nimangofulu,/ni.ma.ŋo.fu.lu/,fifty,,
+niu,/ni.u/,"coconut palm, coconut",,
+noa,/no.a/,zero,,
+nonu,/no.nu/,noni,,
+Nōvema,/noː.ve.ma/,November.,November,noʊvˈɛmbɚ
+ofa,/o.fa/,to love,,
+oku,/o.ku/,"To be
+Pamphlets in the Tonga language, ""Koe Hisitolia o Natula"", page 58:
+Oku faa vahe ae kalasi huhu kihe faahiga e hiva, o behe:—
+1. Koe manu nima ua (Bimana)
+There are nine things like parts called the classes which have breasts, like so:—
+1. The animals with two hands (Bimana)",,
+ono,/o.no/,six,,
+onongofulu,/o.no.ŋo.fu.lu/,sixty,,
+otu,/o.tu/,Marks certain nouns as plural,,
+ou,/o.u/,Alternative form of au,,
+palemia,/pa.le.mi.a/,premier; prime minister.,premier,pɹəmˈɪɹ
+pehe,/pe.he/,thus; so,,
+peka,/pe.ka/,flying fox,,
+pepe,/pe.pe/,butterfly.,,
+pēpē,/peː.peː/,baby,,
+Pilitānia,/pi.li.taː.ni.a/,Great Britain,Britain,bɹˈɪtən
+puaka,/pu.a.ka/,"pig, pork",,
+puataukanave,/pu.a.ta.u.ka.na.ve/,"A tree, Cordia subcordata",,
+pule,/pu.le/,cowrie shell,,
+pule,/pu.le/,"authority, leader; boss",,
+pule,/pu.le/,"authority, leader; boss",,
+puleʻanga,/pu.le.ʔa.ŋa/,kingdom; state; country.,,
+pusi,/pu.si/,cat,,
+Sānuali,/saː.nu.a.li/,January.,January,d͡ʒˈænjuːˌɛɹi
+Sēpitema,/seː.pi.te.ma/,September.,September,sɛptˈɛmbɚ
+sī,/siː/,ti (Cordyline fruticosa),,
+siale,/si.a.le/,gardenia,,
+Siaosi,/si.a.o.si/,"A male given name used, among others, by Tongan royalty.",George,d͡ʒˈɔː͡ɹd͡ʒ
+Siulai,/si.u.la.i/,July.,July,d͡ʒuːlˈaɪ
+Sune,/su.ne/,June.,June,d͡ʒˈuːn
+taha,/ta.ha/,one,,
+talo,/ta.lo/,taro,,
+tamai,/ta.ma.i/,father,,
+tamasiʻi,/ta.ma.si.ʔi/,"boy, male child",,
+tangata,/ta.ŋa.ta/,"man, human being",,
+tapa,/ta.pa/,"tapa (bordered Polynesian cloth), edge; border",,
+tau,/ta.u/,fight,,
+taʻahine,/ta.ʔa.hi.ne/,"girl, female child",,
+taʻovala,/ta.ʔo.va.la/,"a Tongan dress, a mat wrapped around the waist, worn by men and women, at all formal occasions",,
+taʻu,/ta.ʔu/,year,,
+Tisema,/ti.se.ma/,December.,December,dᵻsˈɛmbɚ
+tō,/toː/,sugar cane,,
+tofuāʻa,/to.fu.aː.ʔa/,whale,,
+toki,/ˈto.ki/,"axe, adze",,
+tolu,/to.lu/,three,,
+tolungofulu,/to.lu.ŋo.fu.lu/,thirty,,
+Tonga,/to.ŋa/,Tonga (a country in Oceania),,
+tuitui,/tu.i.tu.i/,candlenut,,
+ua,/u.a/,"two, Pamphlets in the Tonga language, ""Koe Hisitolia",,
+uo,/u.o/,lobster,,
+uofulu,/u.o.fu.lu/,"twenty, Synonym: ungofulu",,
+vahe,/va.he/,"A part or section
+Pamphlets in the Tonga language, ""Koe Hisitolia o Natula"", page 58:
+Oku faa vahe ae kalasi huhu kihe faahiga e hiva, o behe:—
+1. Koe manu nima ua (Bimana)
+There are nine things like parts called the classes which have breasts, like so:—
+1. The animals with two hands (Bimana)",,
+vai,/va.i/,water (clear liquid H₂O),,
+vaka,/va.ka/,waterborne vessel,,
+valu,/va.lu/,eight,,
+valungofulu,/va.lu.ŋo.fu.lu/,eighty,,
+vaotā,/va.o.taː/,forest,,
+vaʻakau,/va.ʔa.ka.u/,"stick (piece of wood), rod, staff",,
+ʻakau,/ʔa.ka.u/,plant (organism).,,
+ʻAokosi,/ʔa.o.ko.si/,August.,August,ˈɔːɡəst
+ʻeiki,/ʔe.i.ki/,noble,,
+ʻEpeleli,/ʔe.pe.le.li/,April.,April,ˈeɪpɹəl
+ʻinisēkite,/ʔi.ni.seː.ki.te/,insect.,insect,ˈɪnsɛkt
+ʻOkatopa,/ʔo.ka.to.pa/,October.,October,ɑːktˈoʊbɚ
+ʻone,/ʔo.ne/,sand,,
+ʻoneʻone,/ʔo.ne.ʔo.ne/,sand,,
+ʻosi,/ʔo.si/,"To finish, To complete",,
+ʻosi,/ʔo.si/,completed; complete,,
+ʻuha,/ʔu.ha/,rain,,
+ʻungongo,/ʔu.ŋo.ŋo/,carpenter bee.,,
+ʻunufe,/ʔu.nu.fe/,"worm, caterpillar, grub",,

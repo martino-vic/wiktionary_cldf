@@ -1,0 +1,531 @@
+ID,Form,IPA,Gloss,Language_ID
+0,ёг,/ˈjoɡ/,"litter, rubbish",0
+1,Ёма,/ˈjomɑ/,(mythology) Yoma; A folkloric character resembling,0
+2,-а,/-ɑ/,Used to form nouns describing the quality of an adjective; -ness,0
+3,агас,/ˈɑɡɑs/,harrow,0
+4,-анӧй,/ɑnəj/,"Forms endearing nouns.
+ныв (nyv, “girl”) → ныланӧй (nylanöj, “girlie”)",0
+5,ар,/ˈɑr/,"autumn, fall, (of an age) year",0
+6,аски,/ˈɑski/,tomorrow,0
+7,аскомысь,/ˈɑskomɨsʲ/,the day after tomorrow,0
+8,асыв,/ˈɑsɨv/,morning,0
+9,баба,/ˈbɑbɑ/,"woman, old woman, wife",0
+10,бадь,/ˈbɑdʲ/,willow,0
+11,бать,/ˈbɑtʲ/,"father, dad",0
+12,бедь,/ˈbedʲ/,stick,0
+13,берд,/ˈberd/,"a unit of length, equal to ca. 8 m or 26 ft., (obsolete)",0
+14,блюд,/ˈblʲud/,"dish, plate",0
+15,бобув,/ˈbobuv/,butterfly,0
+16,бон,/ˈbon/,bast,0
+17,бон,/ˈbon/,"completely, entirely, utterly",0
+18,бон,/ˈbon/,"completely, entirely, utterly",0
+19,борд,/ˈbord/,"wing, fin, flipper (of a fish), feather",0
+20,булка,/ˈbulkɑ/,"bread roll, bun",0
+21,бус,/ˈbus/,dust,0
+22,бутылка,/buˈtɨlkɑ/,bottle,0
+23,быг,/ˈbɨɡ/,"foam, seafoam",0
+24,ва,/ˈvɑ/,"water, juice, broth",0
+25,ва,/ˈvɑ/,"wet, humid",0
+26,вад,/ˈvɑd/,"bog, swamp",0
+27,важ,/ˈvɑʒ/,"old (of objects), Важ керка. ― Važ kerka. ― An old",0
+28,вал,/ˈvɑl/,"billow, wave",0
+29,вевт,/ˈvevt/,"roof, covering, cover, lid",0
+30,вевтӧс,/ˈvevtəs/,front side,0
+31,вежон,/ˈveʒon/,week,0
+32,ветымын,/ˈvetɨmɨn/,fifty,0
+33,видз,/ˈvid͡zʲ/,meadow,0
+34,видз,/ˈvid͡zʲ/,"fasting, fast",0
+35,видз,/ˈvid͡zʲ/,"imperative singular of видзны (vidzny), connegative",0
+36,видз,/ˈvid͡zʲ/,"fasting, fast",0
+37,видз,/ˈvid͡zʲ/,"imperative singular of видзны (vidzny), connegative",0
+38,видз,/ˈvid͡zʲ/,"imperative singular of видзны (vidzny), connegative",0
+39,видзысь,/ˈvid͡zʲɨsʲ/,present participle of видзны (vidzny),0
+40,видзысь,/ˈvid͡zʲɨsʲ/,"guard, watchman",0
+41,визув,/ˈvizuv/,"current, flow",0
+42,вины,/ˈvinɨ/,"(transitive) to kill, murder, (transitive) to exterminate,",0
+43,вис,/ˈvis/,"strait, channel",0
+44,вит,/ˈvit/,five,0
+45,вичко,/ˈvit͡sʲko/,church,0
+46,виысь,/ˈviɨsʲ/,present participle of вины (viny),0
+47,виысь,/ˈviɨsʲ/,killer,0
+48,во,/ˈvo/,year,0
+49,водз,/ˈvod͡zʲ/,early,0
+50,водз,/ˈvod͡zʲ/,"front, beginning, earliness",0
+51,водзир,/ˈvod͡zʲir/,fang,0
+52,вож,/ˈvoʒ/,shaft,0
+53,вож,/ˈvoʒ/,"branching, tributary, affluent, spike of a pitchfork,",0
+54,вож,/ˈvoʒ/,"branching, tributary, affluent, spike of a pitchfork,",0
+55,воз,/ˈvoz/,moth,0
+56,вой,/ˈvoj/,"night, north",0
+57,вок,/ˈvok/,brother,0
+58,воль,/ˈvolʲ/,"deerskin, elkskin",0
+59,вольӧс,/ˈvolʲəs/,bedding (for animals),0
+60,вом,/ˈvom/,"mouth, rivermouth",0
+61,вон,/ˈvon/,canopy,0
+62,воськов,/ˈvosʲkov/,step,0
+63,вуг,/ˈvuɡ/,handle,0
+64,вудж,/ˈvud͡ʒ/,bow,0
+65,вуж,/ˈvuʒ/,root,0
+66,вуз,/ˈvuz/,"cargo, product",0
+67,вуз,/ˈvuz/,"university, college, institute",0
+68,вуз,/ˈvuz/,"university, college, institute",0
+69,выллюн,/ˈvɨllʲun/,Alternative form of выльлун (vylʹlun),0
+70,выльлун,/ˈvɨlʲlun/,Monday,0
+71,вӧв,/ˈvəv/,horse (Equus caballus),0
+72,вӧв,/ˈvəv/,past connegative singular of вӧвны (vövny),0
+73,вӧв,/ˈvəv/,past connegative singular of вӧвны (vövny),0
+74,вӧр,/ˈvər/,"forest, wood",0
+75,вӧр,/ˈvər/,thief,0
+76,вӧр,/ˈvər/,thief,0
+77,вӧравны,/ˈvərɑvnɨ/,(intransitive) to hunt,0
+78,вӧралысь,/ˈvərɑlɨsʲ/,present participle of вӧравны (vöravny),0
+79,вӧралысь,/ˈvərɑlɨsʲ/,hunter,0
+80,вӧрк,/ˈvərk/,kidney,0
+81,вӧт,/ˈvət/,dream,0
+82,гаг,/ˈɡɑɡ/,"insect, bug",0
+83,гадь,/ˈɡɑdʲ/,"blister, (anatomy) bladder, (anatomy) crop, craw",0
+84,геб,/ˈɡeb/,midge,0
+85,гез,/ˈɡez/,rope,0
+86,гоб,/ˈɡob/,edible mushroom,0
+87,гож,/ˈɡoʒ/,"sunshine, summer heat, suntan",0
+88,горс,/ˈˈɡors/,tree hollow,0
+89,горт,/ˈɡort/,home,0
+90,горт,/ˈɡort/,coffin,0
+91,горт,/ˈɡort/,coffin,0
+92,грезд,/ɡrezd/,village,0
+93,гыж,/ˈɡɨʒ/,"nail, claw, hoof",0
+94,гыр,/ˈɡɨr/,mortar,0
+95,гырк,/ˈɡɨrk/,torso,0
+96,гырся,/ˈɡɨrsʲɑ/,hugeness,0
+97,гырся,/ˈɡɨrsʲɑ/,as huge as; ... huge,0
+98,гырысь,/ˈɡɨrɨsʲ/,"huge, large, adult, older, heavy, main",0
+99,гыч,/ˈɡɨt͡sʲ/,crucian carp (Carassius carassius),0
+100,гӧг,/ˈɡəɡ/,navel,0
+101,гӧнец,/ˈɡənʲet͡s/,"courier, messenger",0
+102,гӧп,/ˈɡəp/,"puddle, pool",0
+103,гӧр,/ˈɡər/,sokha (a type of wooden plough),0
+104,гӧсть,/ˈɡəstʲ/,"guest, visitor, (specifically) male guest",0
+105,гӧстя,/ˈɡəstʲɑ/,female guest,0
+106,ді,/ˈdi/,island,0
+107,дав,/ˈdɑv/,grove,0
+108,дас,/ˈdɑs/,ten,0
+109,дворец,/dvoˈret͡s/,palace,0
+110,джадж,/ˈd͡ʒɑd͡ʒ/,shelf,0
+111,джек,/ˈd͡ʒek/,"log, block of wood",0
+112,джодж,/ˈd͡ʒod͡ʒ/,floor,0
+113,джуджда,/ˈd͡ʒud͡ʒdɑ/,"height, depth, stratum",0
+114,джуджда,/ˈd͡ʒud͡ʒdɑ/,"as high as; ... high, as deep as; ... deep",0
+115,джуджыд,/ˈd͡ʒud͡ʒɨd/,"high, deep",0
+116,джын,/ˈd͡ʒɨn/,half,0
+117,дзоридз,/ˈd͡zʲorid͡zʲ/,flower,0
+118,додь,/ˈdodʲ/,sled,0
+119,доз,/ˈdoz/,dish,0
+120,дон,/ˈdon/,price,0
+121,дон,/ˈdon/,"red-hot, tempered",0
+122,дон,/ˈdon/,"clear, pure",0
+123,дон,/ˈdon/,"red-hot, tempered",0
+124,дон,/ˈdon/,"clear, pure",0
+125,дон,/ˈdon/,"clear, pure",0
+126,дор,/ˈdor/,"border, edge, cutting edge, band (part of a hat), outskirts",0
+127,дор,/ˈdor/,"(of location) beside, by, instead of, on behalf of",0
+128,дорӧс,/ˈdorəs/,"fur fringe, edge, border (of a landscape, especially",0
+129,дуль,/ˈdulʲ/,saliva,0
+130,ен,/ˈjen/,"god, deity, (archaic) heaven, (dialectal) icon (religious",0
+131,енманӧй,/ˈjenmɑnəj/,"endearing form of ен (jen, “god”)",0
+132,енэж,/ˈjeneʒ/,sky,0
+133,жель,/ˈʒelʲ/,"chip, sliver",0
+134,жыр,/ˈʒɨr/,"room, chamber",0
+135,жӧник,/ˈʒənik/,"groom, fiancé",0
+136,зі,/ˈzi/,wasp,0
+137,зіб,/ˈzib/,pole,0
+138,зеп,/ˈzep/,pocket,0
+139,зоб,/ˈzob/,"(anatomy) crop, craw",0
+140,зон,/ˈzon/,"guy, lad",0
+141,зонка,/ˈzonkɑ/,little boy,0
+142,зыр,/ˈzɨr/,shovel,0
+143,зэр,/ˈzer/,rain,0
+144,зӧр,/ˈzər/,oats,0
+145,и,/i/,"and, but, even",0
+146,ид,/ˈid/,barley,0
+147,идз,/ˈid͡zʲ/,"stem, stalk",0
+148,из,/ˈiz/,"stone, rock, seed (inside a fruit)",0
+149,Изьва,/ˈizʲvɑ/,"Izhma (a river in the Komi Republic, Russia)",0
+150,-иль,/ilʲ/,"Forms endearing nouns
+кӧч (köč, “hare”) → кӧчиль (köčilʹ, “bunny”)",0
+151,история,/iˈstorijɑ/,history,0
+152,йыв,/ˈjɨv/,narrow end,0
+153,йӧв,/ˈjəv/,milk,0
+154,йӧз,/ˈjəz/,"people, nation, folk, (dialectal) time",0
+155,йӧз,/ˈjəz/,"people's, popular, foreign, strange",0
+156,йӧз,/ˈjəz/,"(indefinite) people, they",0
+157,йӧй,/ˈjəj/,"silly, stupid",0
+158,йӧюк,/ˈjəjuk/,"endearing form of йӧй (jöj); dummy, silly",0
+159,-ка,/kɑ/,"(archaic) Forms diminutives., зон (zon, “lad”) → зонка",0
+160,кага,/ˈkaɡa/,child,0
+161,кад,/ˈkɑd/,"time (in general), time, occasion",0
+162,кад,/ˈkɑd/,quagmire,0
+163,кад,/ˈkɑd/,quagmire,0
+164,канава,/kɑˈnɑvɑ/,"ditch, gutter",0
+165,кань,/ˈkɑnʲ/,cat (Felis catus),0
+166,кар,/ˈkɑr/,"town, city, (dialectal) anthill",0
+167,кар,/ˈkɑr/,gorodki,0
+168,катша,/ˈkɑt͡ʃɑ/,magpie (Pica pica),0
+169,катшаанӧй,/ˈkɑt͡ʃɑɑnəj/,"endearing form of катша (katša, “magpie”).",0
+170,квайт,/ˈkvɑjt/,six,0
+171,квайтымын,/ˈkvɑjtɨmɨn/,sixty,0
+172,кев,/ˈkev/,sister-in-law (wife of the brother of one's husband),0
+173,кер,/ˈker/,"log, beam",0
+174,керка,/ˈkerkɑ/,"residential building, home, house, family, home, native",0
+175,ки,/ˈki/,"arm, hand",0
+176,ключ,/ˈklʲut͡sʲ/,key,0
+177,ключ,/ˈklʲut͡sʲ/,"spring, source",0
+178,ключ,/ˈklʲut͡sʲ/,"spring, source",0
+179,книга,/ˈknʲiɡɑ/,book,0
+180,ков,/ˈkov/,helminth,0
+181,ков,/ˈkov/,"inflection of ковны (kovny):, imperative singular,",0
+182,ков,/ˈkov/,"inflection of ковны (kovny):, imperative singular,",0
+183,код,/ˈkod/,"who?, which one? (of two), (relative) who, what, which,",0
+184,код,/ˈkod/,drunk,0
+185,код,/ˈkod/,drunk,0
+186,коз,/ˈkoz/,fir,0
+187,козин,/ˈkozʲin/,"gift, present, dowry",0
+188,кок,/ˈkok/,"leg, foot",0
+189,коль,/ˈkolʲ/,cone,0
+190,кольк,/ˈkolʲk/,egg,0
+191,кор,/ˈkor/,"peel, skin, rind, foliage, wrapping",0
+192,кор,/ˈkor/,leaf,0
+193,кор,/ˈkor/,when?,0
+194,кор,/ˈkor/,measles,0
+195,кор,/ˈkor/,leaf,0
+196,кор,/ˈkor/,when?,0
+197,кор,/ˈkor/,measles,0
+198,кор,/ˈkor/,when?,0
+199,кор,/ˈkor/,measles,0
+200,кор,/ˈkor/,measles,0
+201,кос,/ˈkos/,dry,0
+202,кос,/ˈkos/,waist,0
+203,кос,/ˈkos/,"completely, totally",0
+204,кос,/ˈkos/,waist,0
+205,кос,/ˈkos/,"completely, totally",0
+206,кос,/ˈkos/,"completely, totally",0
+207,кось,/ˈkosʲ/,"fight, brawl",0
+208,куз,/ˈkuz/,horsetail (Equisetales),0
+209,кузь,/ˈkuzʲ/,"long, deep, whole, entire, (colloquial) high",0
+210,кузя,/ˈkuzʲɑ/,"length, strand, A unit of length, equal to the distance",0
+211,кузя,/ˈkuzʲɑ/,for a long time,0
+212,кузя,/ˈkuzʲɑ/,"of; with a length of, over, due to; on the occasion",0
+213,куим,/ˈkuim/,"three, 1957,  A. S. Pushkin, P. G. Doronina, transl.,",0
+214,кыв,/ˈkɨv/,"tongue, language, word, spoken word, ability to speak,",0
+215,кыдз,/ˈkɨd͡zʲ/,birch,0
+216,кыдз,/ˈkɨd͡zʲ/,how?,0
+217,кыдз,/ˈkɨd͡zʲ/,how?,0
+218,кыз,/ˈkɨz/,"thick, stout, bulky, coarse, rough, deep (low in frequency),",0
+219,кыза,/ˈkɨzɑ/,thickness,0
+220,кыза,/ˈkɨzɑ/,as wide as; ... wide,0
+221,кызта,/ˈkɨztɑ/,Alternative form of кыза (kyza),0
+222,кызта,/ˈkɨztɑ/,Alternative form of кыза (kyza),0
+223,кык,/ˈkɨk/,two,0
+224,кык,/ˈkɨk/,double,0
+225,кыр,/ˈkɨr/,cliff,0
+226,кыр,/ˈkɨr/,black woodpecker (Dryocopus martius),0
+227,кыр,/ˈkɨr/,male animal,0
+228,кыр,/ˈkɨr/,black woodpecker (Dryocopus martius),0
+229,кыр,/ˈkɨr/,male animal,0
+230,кыр,/ˈkɨr/,male animal,0
+231,кырныш,/ˈkɨrnɨʃ/,raven,0
+232,кытш,/ˈkɨt͡ʃ/,"circle, ring",0
+233,кӧв,/ˈkəv/,"cord, rope",0
+234,кӧин,/ˈkəin/,wolf (Canis lupus),0
+235,кӧкъямыс,/ˈkəkjɑmɨs/,eight,0
+236,кӧр,/ˈkər/,deer,0
+237,кӧр,/ˈkər/,flavour,0
+238,кӧр,/ˈkər/,(dialectal) breastbone of a bird,0
+239,кӧр,/ˈkər/,flavour,0
+240,кӧр,/ˈkər/,(dialectal) breastbone of a bird,0
+241,кӧр,/ˈkər/,(dialectal) breastbone of a bird,0
+242,кӧрт,/ˈkərt/,iron,0
+243,кӧч,/ˈkət͡sʲ/,hare,0
+244,кӧч,/ˈkət͡sʲ/,"glint, glimmer, glare (spot of light as a reflection",0
+245,кӧчиль,/ˈkət͡sʲilʲ/,endearing form of кӧч (köč); bunny,0
+246,леденец,/lʲedʲeˈnʲet͡s/,"lollypop, sugar candy",0
+247,лек,/ˈlʲek/,(anatomy) ankle,0
+248,лек,/ˈlʲek/,strength,0
+249,лек,/ˈlʲek/,strength,0
+250,лов,/ˈlov/,"soul, spirit",0
+251,лоп,/ˈlop/,spleen,0
+252,лоп,/ˈlop/,blade,0
+253,лоп,/ˈlop/,blade,0
+254,лудік,/ˈludik/,bedbug,0
+255,лук,/ˈluk/,onion,0
+256,лун,/ˈlun/,"day, midday, south",0
+257,лыд,/ˈlɨd/,"amount, count, number",0
+258,лым,/ˈlɨm/,snow,0
+259,лыс,/ˈlɨs/,needle of a conifer tree,0
+260,льӧб,/ˈlʲəb/,lip,0
+261,льӧм,/ˈlʲəm/,bird cherry,0
+262,лэбач,/ˈlebɑt͡sʲ/,bird,0
+263,лӧдз,/ˈləd͡zʲ/,"horsefly, gadfly",0
+264,мамук,/ˈmɑmuk/,"endearing form of мам (mam); mum, mummy",0
+265,манак,/ˈmɑnɑk/,monk,0
+266,марксизм,/mɑrkˈsʲizm/,Marxism,0
+267,ме,/ˈme/,"I, (attributive) my",0
+268,мед,/ˈmed/,"so that, in order to",0
+269,мед,/ˈmed/,"Used to form the optative mood of a verb; let, may",0
+270,мед,/ˈmed/,"payment, hire, rent",0
+271,мед,/ˈmed/,"payment, hire, rent",0
+272,мек,/ˈmek/,fur,0
+273,мел,/ˈmel/,chalk,0
+274,ми,/ˈmi/,"we, (attributive) our",0
+275,мог,/ˈmoɡ/,task,0
+276,мойд,/ˈmojd/,"tale, story",0
+277,море,/ˈmore/,sea,0
+278,морт,/ˈmort/,"human, person, (+ negative) no-one, nobody",0
+279,мортанӧй,/ˈmortɑnəj/,"endearing form of морт (mort, “human”)",0
+280,мортвиысь,/ˈmortˌviɨsʲ/,murderer,0
+281,мортсёйысь,/ˈmortˌsʲojɨsʲ/,"man-eater, cannibal",0
+282,му,/ˈmu/,"earth, land, ground, soil, country",0
+283,мунны,/ˈmunːɨ/,(intransitive) to go,0
+284,мус,/ˈmus/,liver,0
+285,муса,/ˈmusɑ/,"sweet, cute",0
+286,мусук,/ˈmusuk/,"(colloquial) endearing form of муса (musa, “sweet”);",0
+287,мый,/ˈmɨj/,"what?, which?",0
+288,мый,/ˈmɨj/,that,0
+289,мыльк,/ˈmɨlʲk/,hill,0
+290,мыр,/ˈmɨr/,"stump, stub",0
+291,мыш,/ˈmɨʃ/,"back, spine",0
+292,мӧвп,/ˈməvp/,thought,0
+293,мӧс,/ˈməs/,cow,0
+294,мӧс,/ˈməs/,"spring, source",0
+295,мӧс,/ˈməs/,"spring, source",0
+296,мӧсвидзысь,/ˈməsˌvʲid͡zʲɨsʲ/,cow shepherd,0
+297,нёль,/ˈnʲolʲ/,four,0
+298,нальк,/ˈnɑlʲk/,trap for small animals,0
+299,народ,/nɑˈrod/,"people, nation",0
+300,невеста,/ˈnʲevestɑ/,"bride, fiancée",0
+301,нек,/ˈnʲek/,milt (semen of a fish),0
+302,нелямын,/ˈnʲelʲɑmɨn/,forty,0
+303,ним,/ˈnʲim/,"name, (military) rank, (grammar) nominal",0
+304,нин,/ˈnʲin/,bast,0
+305,нин,/ˈnʲin/,"(of time) already, (of time, + negative) no longer",0
+306,нин,/ˈnʲin/,"(of time) already, (of time, + negative) no longer",0
+307,нитш,/ˈnʲit͡ʃ/,moss,0
+308,ном,/ˈnom/,mosquito,0
+309,ныв,/ˈnɨv/,"girl, lass, daughter",0
+310,нывка,/ˈnɨvkɑ/,"little girl, lassie, 1957,  A. S. Pushkin, P. G. Doronina,",0
+311,ныланӧй,/ˈnɨlɑnəj/,"endearing form of ныв (nyv); girly, girlie",0
+312,ныр,/ˈnɨr/,"nose, beak, bill, snout, spout",0
+313,ньыв,/ˈnʲɨv/,fir,0
+314,ньывк,/ˈnʲɨvk/,slope,0
+315,ньӧв,/ˈnʲəv/,arrow,0
+316,нэм,/ˈnem/,century,0
+317,нянь,/ˈnʲɑnʲ/,bread,0
+318,нӧб,/ˈnəb/,"faggot, bundle",0
+319,нӧк,/ˈnək/,"crème fraîche, smetana",0
+320,овмӧс,/ˈovməs/,household,0
+321,овны,/ˈovnɨ/,"(intransitive) to live, (intransitive) to remain (in",0
+322,оз,/ˈoz/,wild strawberry,0
+323,олӧм,/ˈoləm/,"life, state, residence, (dialectal) fermentation, (dialectal)",0
+324,ош,/ˈoʃ/,bear (mammal of the genus Ursus),0
+325,пар,/ˈpɑr/,lip,0
+326,пар,/ˈpɑr/,"vapor, steam",0
+327,пар,/ˈpɑr/,"vapor, steam",0
+328,партия,/ˈpɑrtʲijɑ/,(politics) party,0
+329,паськыд,/ˈpɑsʲkɨd/,wide,0
+330,пасьта,/ˈpɑsʲtɑ/,width,0
+331,пасьта,/ˈpɑsʲtɑ/,"of; with a width of, through the entire",0
+332,пашкан,/ˈpɑʃkɑn/,rosehip,0
+333,пев,/ˈpev/,thumb,0
+334,пель,/ˈpelʲ/,"ear, hearing, (in the plural) earmuffs",0
+335,петас,/ˈpetɑs/,sprout,0
+336,Печора,/ˈpet͡sʲorɑ/,"Pechora (a river in the Komi Republic, Russia)",0
+337,пи,/ˈpi/,"son, boy, young (baby animal)",0
+338,пианӧй,/ˈpiɑnəj/,"endearing form of пи (pi, “son”); sonny",0
+339,пивиысь,/ˈpiˌviɨsʲ/,son killer,0
+340,пилот,/pʲiˈlot/,pilot,0
+341,письмӧ,/ˈpisʲmə/,letter,0
+342,пиук,/ˈpiuk/,endearing form of пи (pi); sonny,0
+343,плӧтник,/ˈplətnik/,carpenter,0
+344,пож,/ˈpoʒ/,sieve,0
+345,поз,/ˈpoz/,"nest, cage (for animals)",0
+346,пом,/ˈpom/,"end, limit, beginning, start, Помсянь помӧдз. ― Pomsjanʹ",0
+347,помка,/ˈpomkɑ/,"reason, cause, excuse",0
+348,пон,/ˈpon/,"dog, hound (Canis familiaris)",0
+349,поп,/ˈpop/,priest,0
+350,пос,/ˈpos/,"staircase, stairs",0
+351,преник,/ˈprʲenʲik/,gingerbread,0
+352,пруд,/ˈprud/,pond,0
+353,пу,/ˈpu/,"tree, wood, handle",0
+354,пув,/ˈpuv/,cowberry (Vaccinium vitis-idaea),0
+355,пуд,/ˈpud/,pood (unit of mass equal to ca. 16.4 kg or 36.1 lbs),0
+356,пуд,/ˈpud/,lot,0
+357,пуд,/ˈpud/,"for, instead of",0
+358,пуд,/ˈpud/,lot,0
+359,пуд,/ˈpud/,"for, instead of",0
+360,пуд,/ˈpud/,"for, instead of",0
+361,пуж,/ˈpuʒ/,hoarfrost,0
+362,пур,/ˈpur/,raft,0
+363,пурт,/ˈpurt/,knife,0
+364,пуртӧс,/ˈpurtəs/,"sheath, case, seedpod, husk",0
+365,пыд,/ˈpɨd/,(rare) deep,0
+366,пыдӧс,/ˈpɨdəs/,"floor, bed, bottom surface, residue, remnant, sole",0
+367,пызан,/ˈpɨzɑn/,table,0
+368,пызь,/ˈpɨzʲ/,flour,0
+369,пыш,/ˈpɨʃ/,"marijuana, hemp (Cannabis sativa)",0
+370,пӧв,/ˈpəv/,"board, plank",0
+371,пӧв,/ˈpəv/,half,0
+372,пӧв,/ˈpəv/,half,0
+373,пӧк,/ˈpək/,"roe, spawn",0
+374,пӧлтинник,/ˈpəltinʲːik/,fifty-kopek piece,0
+375,пӧрт,/ˈpərt/,cauldron,0
+376,равнина,/rɑvˈninɑ/,plain,0
+377,рас,/ˈrɑs/,grove,0
+378,регыд,/ˈreɡɨd/,"soon, shortly",0
+379,рос,/ˈros/,broom,0
+380,Россия,/rosˈsʲijɑ/,Russia (a country in Eastern Europe and Asia),0
+381,роч,/ˈrot͡sʲ/,"Russian person, Russian language",0
+382,роч,/ˈrot͡sʲ/,"Russian, (dated) imported",0
+383,руч,/ˈrut͡sʲ/,fox (Vulpes vulpes),0
+384,ручиль,/ˈrut͡sʲilʲ/,endearing form of руч (ruč); foxie,0
+385,рысь,/ˈrɨsʲ/,"curd cheese, tvorog",0
+386,рысь,/ˈrɨsʲ/,lynx (Lynx lynx),0
+387,рысь,/ˈrɨsʲ/,lynx (Lynx lynx),0
+388,рыт,/ˈrɨt/,"evening, 1957,  A. S. Pushkin, P. G. Doronina, transl.,",0
+389,рытыв,/ˈrɨtɨv/,west,0
+390,сё,/ˈsʲo/,hundred,0
+391,сё,/ˈsʲo/,(dialectal) very,0
+392,сёйны,/ˈsʲojnɨ/,"(transitive) to eat, (intransitive) to fix one's eyes",0
+393,сёйысь,/ˈsʲojɨsʲ/,present participle of сёйны (sjojny),0
+394,сёйысь,/ˈsʲojɨsʲ/,eater,0
+395,сім,/sim/,rust,0
+396,сад,/ˈsɑd/,garden,0
+397,свод,/ˈsvod/,"vault, arch",0
+398,сизим,/ˈsʲizʲim/,seven,0
+399,сикт,/ˈsʲikt/,village,0
+400,син,/ˈsʲin/,"eye, eyesight, vision, glance, look",0
+401,сир,/ˈsʲir/,"resin, pitch, turpentine",0
+402,сир,/ˈsʲir/,pike,0
+403,сир,/ˈsʲir/,pike,0
+404,сись,/ˈsʲisʲ/,candle,0
+405,сов,/ˈsov/,salt,0
+406,сод,/ˈsod/,"stair, staircase",0
+407,сок,/ˈsok/,juice,0
+408,сос,/ˈsos/,sleeve,0
+409,судно,/ˈsudno/,"ship, vessel",0
+410,сунис,/ˈsunʲis/,thread,0
+411,Сыктыв,/ˈsɨktɨv/,"Sysola (a river in the Komi Republic, Russia)",0
+412,сьӧкта,/ˈsʲəktɑ/,weight,0
+413,сьӧкта,/ˈsʲəktɑ/,weighing,0
+414,сьӧкыд,/ˈsʲəkɨd/,"heavy, difficult, severe, pregnant",0
+415,сьӧла,/ˈsʲəlɑ/,hazel grouse (Tetrastes bonasia),0
+416,сьӧлӧм,/ˈsʲələm/,"heart, spirits, Сьӧлӧм кыпӧдны. ― Sʹölöm kypödny. ―",0
+417,сьӧм,/ˈsʲəm/,scales (of a fish),0
+418,сьӧмӧс,/ˈsʲəməs/,"core (soft inner part of a stalk), pulp (soft inner",0
+419,сюв,/ˈsʲuv/,"gut, intestine",0
+420,сюр,/ˈsʲur/,"horn, antler, feeding bottle, bump (on one's head)",0
+421,сюрс,/ˈsʲurs/,thousand,0
+422,сӧп,/ˈsəp/,gall,0
+423,ті,/ˈti/,"ye, you (plural), (attributive) your",0
+424,таб,/ˈtɑb/,(fishing) float,0
+425,таз,/ˈtɑz/,"basin, tub",0
+426,талун,/ˈtɑlun/,today,0
+427,тор,/ˈtor/,"piece, part",0
+428,тош,/ˈtoʃ/,beard,0
+429,тув,/ˈtuv/,"nail, tack",0
+430,тулыс,/ˈtulɨs/,spring,0
+431,тупыль,/ˈtupɨlʲ/,"ball, clew (of thread)",0
+432,тури,/ˈturi/,crane,0
+433,тшак,/ˈt͡ʃɑk/,fungus,0
+434,тшыг,/ˈt͡ʃɨɡ/,hunger,0
+435,тшӧг,/ˈt͡ʃəɡ/,lard,0
+436,ты,/ˈtɨ/,lake,0
+437,тыв,/ˈtɨv/,(fishing) seine,0
+438,тэ,/ˈte/,"thou, you (singular), (attributive) thy, your",0
+439,тӧб,/ˈtəb/,"skein, hank",0
+440,тӧв,/ˈtəv/,wind,0
+441,тӧв,/ˈtəv/,winter,0
+442,тӧв,/ˈtəv/,winter,0
+443,тӧвар,/ˈtəvɑr/,"product, good",0
+444,тӧлысь,/ˈtəlɨsʲ/,"moon, month",0
+445,тӧлысь,/ˈtəlɨsʲ/,"elative singular of тӧв (töv, “wind”)",0
+446,тӧлысь,/ˈtəlɨsʲ/,"elative singular of тӧв (töv, “winter”)",0
+447,тӧлысь,/ˈtəlɨsʲ/,"elative singular of тӧв (töv, “wind”)",0
+448,тӧлысь,/ˈtəlɨsʲ/,"elative singular of тӧв (töv, “winter”)",0
+449,тӧлысь,/ˈtəlɨsʲ/,"elative singular of тӧв (töv, “winter”)",0
+450,ув,/ˈuv/,branch,0
+451,ув,/ˈuv/,bottom,0
+452,ув,/ˈuv/,woof (the sound of a dog),0
+453,ув,/ˈuv/,bottom,0
+454,ув,/ˈuv/,woof (the sound of a dog),0
+455,ув,/ˈuv/,woof (the sound of a dog),0
+456,увт,/ˈuvt/,"sole (of a shoe), (dialectal) bottom",0
+457,увтыс,/ˈuvtɨs/,backing,0
+458,увтыс,/ˈuvtɨs/,third-person singular nominative/accusative singular,0
+459,увтыс,/ˈuvtɨs/,third-person singular nominative/accusative singular,0
+460,удж,/ˈud͡ʒ/,work,0
+461,-ук,/uk/,"Forms endearing nouns
+пи (pi, “son”) → пиук (piuk, “sonny”)",0
+462,ун,/ˈun/,"sleep, dream",0
+463,ун,/ˈun/,"(dialectal) maternal aunt (older sister of one's mother),",0
+464,ун,/ˈun/,"(dialectal) maternal aunt (older sister of one's mother),",0
+465,ус,/ˈus/,moustache,0
+466,учение,/uˈt͡sʲenije/,doctrine,0
+467,учитель,/uˈt͡sʲitʲelʲ/,teacher,0
+468,чаг,/ˈt͡sʲɑɡ/,"chip, sliver, splinter",0
+469,чаль,/t͡sʲɑlʲ/,"little finger, little toe",0
+470,чань,/ˈt͡sʲɑnʲ/,foal,0
+471,челядь,/ˈt͡sʲelʲɑdʲ/,"(collective) children, offspring",0
+472,черань,/ˈt͡sʲerɑnʲ/,spider,0
+473,чери,/t͡sʲeri/,fish,0
+474,чипам,/ˈt͡sʲipɑm/,chicken,0
+475,чирк,/ˈt͡sʲirk/,grasshopper,0
+476,чож,/ˈt͡sʲoʒ/,maternal uncle,0
+477,чож,/ˈt͡sʲoʒ/,"quick, fast",0
+478,чож,/ˈt͡sʲoʒ/,quickly,0
+479,чож,/ˈt͡sʲoʒ/,"quick, fast",0
+480,чож,/ˈt͡sʲoʒ/,quickly,0
+481,чом,/ˈt͡sʲom/,wooden hut,0
+482,чуж,/ˈt͡sʲuʒ/,malt,0
+483,чужӧм,/ˈt͡sʲuʒəm/,"face, birth, sprouting, appearance, looks",0
+484,чунь,/ˈt͡sʲunʲ/,finger,0
+485,чышъян,/ˈt͡sʲɨʃjɑn/,handkerchief,0
+486,чӧд,/ˈt͡sʲəd/,blueberry,0
+487,чӧр,/ˈt͡sʲər/,bootleg,0
+488,чӧрӧс,/ˈt͡sʲərəs/,stocking,0
+489,шайт,/ˈʃɑjt/,ruble,0
+490,шег,/ˈʃeɡ/,ankle,0
+491,школа,/ˈʃkolɑ/,school,0
+492,шляпа,/ˈʃlʲɑpɑ/,hat,0
+493,шом,/ˈʃom/,coal,0
+494,шом,/ˈʃom/,"leaven, ferment",0
+495,шом,/ˈʃom/,"leaven, ferment",0
+496,шомӧс,/ˈʃoməs/,tub or bucket used for cooking,0
+497,шонді,/ˈʃondi/,sun,0
+498,шуд,/ˈʃud/,"happiness, good luck",0
+499,шыд,/ˈʃɨd/,"shchi (a type of traditional cabbage soup), (by extention)",0
+500,шыдӧс,/ˈʃɨdəs/,"cereals, grits",0
+501,щель,/ˈʃelʲ/,"crack, gap",0
+502,ыб,/ˈɨb/,field,0
+503,ывла,/ˈɨvla/,outdoors,0
+504,ывла,/ˈɨvla/,"(indefinite) it, there",0
+505,ыджда,/ˈɨd͡ʒdɑ/,size,0
+506,ыджда,/ˈɨd͡ʒdɑ/,as big as; ... big,0
+507,ыджыд,/ˈɨd͡ʒɨd/,"big, adult, older, loud, too big",0
+508,ыж,/ˈɨʒ/,sheep,0
+509,-ыс,/ɨs/,Alternative form of -ӧс (-ös),0
+510,-ысь,/-ɨsʲ/,Used to form present participles of verbs,0
+511,эж,/ˈeʒ/,surface,0
+512,Эжва,/ˈeʒvɑ/,"Vychegda (a river in the Komi Republic, Russia)",0
+513,энь,/ˈenʲ/,"female animal, (archaic) mother, (archaic) wife",0
+514,энька,/ˈenʲkɑ/,mother-in-law (husband's mother),0
+515,юр,/ˈjur/,head,0
+516,яг,/ˈjɑɡ/,pinewood,0
+517,-яс,/jɑs/,Forms the regular plurals of nouns.,0
+518,-ӧм,/əm/,"Used to form nouns, denoting the action of verbs; -tion, -ing
+‎ол- (ol-, “to live”) + ‎-ӧм (-öm) → ‎олӧм (olöm, “life”)",0
+519,ӧні,/ˈəni/,now,0
+520,-ӧс,/əs/,"Forms nouns that are intended for the suffixed word.
+пурт (purt, “knife”) → пуртӧс (purtös, “sheath”)",0
+521,ӧти,/ˈətʲi/,one,0
+522,ӧтик,/ˈətʲik/,Alternative form of ӧти (öti),0
+523,ӧш,/ˈəʃ/,bull,0
+524,ӧшинь,/ˈəʃinʲ/,"window, 1957,  A. S. Pushkin, P. G. Doronina, transl.,",0

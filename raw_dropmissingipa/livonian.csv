@@ -1,26 +1,473 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-alumīnij,ɐlˈuːmɪnˌɪd͡ʒz,"(chemistry) aluminium, aluminum, Tiit-Rein Viitso,",alumīnijs
-analīz,ɐnˈæləsˌɪs,(sciences) analysis,analysis
-analōg,ˈænəlˌɑːɡ,"analog, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",analog
-analōgij,ɐnˈæləd͡ʒi,"analogy, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",analogy
-april,ˈeɪpɹəl,"April, https://web.archive.org/web/20130106154311/http://livones.net/,",April
-dattõd,dˈeɪɾə,(computing) data,data
-detsembõr,dᵻsˈɛmbɚ,"December, https://web.archive.org/web/20130106154311/http://livones.net/,",December
-Englišmō,ˈɪŋɡli mˈæn,"England, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",englišmaņ
-Engõlmō,ˈɛŋ ˈɛlmˈæn,"England, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",engõlmaņ
-februar,fˈɛbɹuːˌɛɹi,February,February
-februār,fˈɛbɹuːˌɛɹi,February,February
-informātsij,ɪnfˈɔː͡ɹmɐsˌɪd͡ʒə,"information, Ernštreit, V. (1994). Līvlist : līvi,",informācija
-janvār,d͡ʒˈænjuːˌɛɹi,January,January
-jūlij,d͡ʒuːlˈaɪ,July,July
-jūnij,d͡ʒˈuːn,June,June
-kimdõ,kˈɪm,"ten, tens, -ty, -ties referring to some number of tens",kim
-maij,mˈeɪ,May,May
-märts,mˈɑː͡ɹt͡ʃ,March,March
-novembõr,noʊvˈɛmbɚ,November,November
-oktōbõr,ɑːktˈoʊbɚ,October,October
-ougust,ˈɔːɡəst,August,August
-prepozītsij,pɹˌɛpəzˈɪʃən,"(grammar) preposition, Valda Šuvcāne, Ieva Ernštreite",preposition
-pärsōn,pɜːsˈoʊnə,"person, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",persona
-septembõr,sɛptˈɛmbɚ,September,September
-statsij,stˈeɪʃən,"station, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",station
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+a,/ɑ/,"The first letter of the Livonian alphabet, written in the Latin script.",,
+ab,/ɑb/,"(anatomy) shoulder
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+pǟ um abūd vaisõ sizzõl viedtõd
+recoiled, flinched (lit. ""head is drawn in shoulders"")",,
+abb,/ɑb/,help,,
+algid,/ɑlɡid/,"second person plural imperative form of the negation verb
+Renāte Blumberga, Tapio Mäkeläinen, Karl Pajusalu (2013), Lībieši: vēsture, valoda un kultūra, Rīga: Līvõ Kultūr sidām, →ISBN
+algid āndagid!
+don't give!
+algid likkõgid!
+don't move!",,
+algõ,/ɑlɡə/,first person singular jussive form of the negation verb,,
+algõd,/ɑlɡəd/,first person plural jussive form of the negation verb,,
+algõm,/ɑlɡəm/,"first person plural imperative form of the negation verb
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+algõm imlõm!
+let's not be surprised!",,
+alli,/ɑlːi/,"underside, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+alli,/ɑlːi/,"under, under-, lower, Tiit-Rein Viitso, Valts Ernštreits",,
+allitas,/ɑlːitɑs/,saucer,,
+alumīnij,/ɑlumiːnij/,"(chemistry) aluminium, aluminum, Tiit-Rein Viitso,",alumīnijs,ɐlˈuːmɪnˌɪd͡ʒz
+alā,/ɑlɑː/,"second person singular imperative form of the negation verb
+Renāte Blumberga, Tapio Mäkeläinen, Karl Pajusalu (2013), Lībieši: vēsture, valoda un kultūra, Rīga: Līvõ Kultūr sidām, →ISBN
+alā andõ!
+don't give!
+alā lik!
+don't move!",,
+alā,/ɑlɑː/,"downwards
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+alā andõ
+to give up
+alā eitõ
+to submit
+li alā!
+go downstairs!",,
+alā,/ɑlɑː/,"down, downwards
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+rōntõz sadīz lōdanalā
+the book fell under the table",,
+alīz,/ɑliːz/,genitive singular of alli,,
+alīz,/ɑliːz/,foundation,,
+alīz,/ɑliːz/,genitive singular of alli,,
+Amērik,/ɑmeːrik/,"America (a continent in the western hemisphere)
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Amērik – Ameerika – Amerika
+America – America – America
+Valda Šuvcāne, Ieva Ernštreite (1999, 2005), Latvian-Livonian-English Phrase Book, Eraksti, →ISBN
+Amerika – Amērik – America
+America – America – America",,
+analīz,/ɑnɑliːz/,(sciences) analysis,analysis,ɐnˈæləsˌɪs
+analōg,/ɑnɑloːɡ/,"analog, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",analog,ˈænəlˌɑːɡ
+analōgij,/ɑnɑloːɡij/,"analogy, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",analogy,ɐnˈæləd͡ʒi
+and,/ɑnd/,(Salaca) to give,,
+april,/ɑpril/,"April, https://web.archive.org/web/20130106154311/http://livones.net/,",April,ˈeɪpɹəl
+atrāita,/ɑtrɑːitɑ/,"widower, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+atrāitanai,/ɑtrɑːitɑnɑi/,widow,,
+Austrij,/ɑustrij/,"Austria (a country in Europe), Tiit-Rein Viitso, Valts",,
+azūmsõnā,/ɑzuːmsɯnɑː/,(grammar) pronoun,,
+aššõ,/ɑʃːə/,"quick, swift, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ažāsõnā,/ɑʒɑːsɯnɑː/,(grammar) noun,,
+b,/b/,"The fifth letter of the Livonian alphabet, written in the Latin script.",,
+bakbord,/bɑk.bord/,"(nautical, aviation) port (left hand side)",,
+Belgij,/belɡij/,"Belgium (a country in Europe), Tiit-Rein Viitso, Valts",,
+Beļgij,/beʎɡij/,"Belgium, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+blēḑ,/bleːɟ/,"a cheat, swindler, conman",,
+blēḑ,/bleːɟ/,"cunning, wily, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Bosnij,/bosnij/,"Bosnia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+boŗ,/borʲ/,"worm, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Brissõl,/brisːəl/,"Brussels (the capital city of Belgium), Tiit-Rein Viitso,",,
+brēḑig,/breːɟiɡ/,Friday,,
+brīõz,/briːəz/,freedom,,
+brūokst,/bruːokst̪/,breakfast,,
+Bulgārij,/bulɡɑːrij/,"Bulgaria (a country in Europe), Tiit-Rein Viitso, Valts",,
+bäzmõr,/bæzmər/,steelyard balance,,
+bōr,/boːr/,an orphan,,
+d,/d̪/,"The sixth letter of the Livonian alphabet, written in the Latin script.",,
+dattõd,/dɑtːəd/,(computing) data,data,dˈeɪɾə
+detsembõr,/detsembər/,"December, https://web.archive.org/web/20130106154311/http://livones.net/,",December,dᵻsˈɛmbɚ
+drūošõ,/druːoʃə/,"safe, confident, durable",,
+Dēņmō,/deːɲmɒː/,Denmark,,
+Dūoņig,/duːoɲiɡ/,"Dundaga (a village in Courland, Latvia), Tiit-Rein",,
+e,/e/,"The eighth letter of the Livonian alphabet, written in the Latin script.",,
+Eirōp,/eiroːp/,"Europe, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+Englišmō,/eŋɡliʃmɒː/,"England, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",englišmaņ,ˈɪŋɡli mˈæn
+Engõlmō,/eŋɡəlmɒː/,"England, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",engõlmaņ,ˈɛŋ ˈɛlmˈæn
+eļ,/eʎ/,"hell, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+eļ,/eʎ/,"1st person singular negative form of eļļõ, 2nd person",,
+eļ,/eʎ/,"1st person singular negative form of eļļõ, 2nd person",,
+eļļõ,/eʎːə/,"partitive singular of eļ, illative singular of eļ",,
+eļļõ,/eʎːə/,"oil, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+eļļõ,/eʎːə/,"to oil, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ežmi,/eʒmi/,first,,
+ežžõmpǟva,/eʒːəmpæːvɑ/,Monday,,
+f,/f/,"The tenth letter of the Livonian alphabet, written in the Latin script.",,
+februar,/februɑr/,February,February,fˈɛbɹuːˌɛɹi
+februār,/februɑːr/,February,February,fˈɛbɹuːˌɛɹi
+Frantsij,/frɑntsij/,"France, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+g,/ɡ/,"The eleventh letter of the Livonian alphabet, written in the Latin script.",,
+Gipk,/ɡipk/,"Ģipka (a village in Courland, Latvia), Tiit-Rein Viitso,",,
+Grēkõmō,/ɡreːkəmɒː/,"Greece, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Grīekmō,/ɡriːekmɒː/,"Greece, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+h,/x/,"The twelfth letter of the Livonian alphabet, written in the Latin script.",,
+Holand,/holɑnd/,The Netherlands,,
+Horvātij,/horvɑːtij/,"Croatia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ibbi,/ibːi/,horse,,
+-ij,/ij/,"a suffix corresponding to English -ia, -y, -ion, -ius,",,
+ikš,/ikʃ/,one,,
+ikšlug,/ikʃluˀɡ/,(grammar) singular,,
+ikštuoistõn,/ikʃtuoistən/,eleven,,
+informātsij,/informɑːtsij/,"information, Ernštreit, V. (1994). Līvlist : līvi,",informācija,ɪnfˈɔː͡ɹmɐsˌɪd͡ʒə
+Irē,/ireː/,"Mazirbe (a village in Courland, Latvia), Tiit-Rein",,
+Island,/islɑnd/,"Iceland (a country in Europe)
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Island – Island – Islande
+Iceland – Iceland – Iceland",,
+Itālij,/itɑːlij/,"Italy, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Itāļmō,/itɑːʎmɒː/,"Italy, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+iz,/iz/,"first person singular past form of the negation verb
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+ma iz lǟ iz sīņõ, iz tǟnõ
+I didn't go any direction",,
+Izrael,/ˈizrɑ.el/,"Israel (a country in Western Asia)
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Izrael – Iisrael – Izraēla
+Israel – Israel – Israel",,
+Izraēl,/ˈizrɑ.eːl/,"Israel, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+izt,/izt/,second person singular past form of the negation verb,,
+izā,/izɑː/,"father, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+izāmō,/ˈizɑːˌmoː/,"fatherland, 1947,  Kōrli Stalte (lyrics), Frederik",,
+j,/j/,"The fifteenth letter of the Livonian alphabet, written in the Latin script.",,
+janvār,/jɑnvɑːr/,January,January,d͡ʒˈænjuːˌɛɹi
+Jeimer,/jeimer/,"Arctic Ocean, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+jellõ,/jelːə/,"to work, be occupied with, Tiit-Rein Viitso, Valts",,
+jelāmi,/jelɑːmi/,living,,
+jemā,/jemɑː/,"mother, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+joutõmläpš,/joutəmlæpʃ/,orphan,,
+juo,/juo/,"more used with adjectives to form comparatives, Līvõkīel-lețkīel-līvõkīel",,
+jālga,/ˈjɑːlɡɑ/,"leg, foot",,
+Jālgab,/jɑːlɡɑb/,"Jelgava (a town in Latvia), Tiit-Rein Viitso, Valts",,
+Jūdõmō,/juːdəmɒː/,"Israel, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+jūlij,/juːlij/,July,July,d͡ʒuːlˈaɪ
+jūnij,/juːnij/,June,June,d͡ʒˈuːn
+jūoji,/juːoji/,"drinker agentive noun from the verb ""to drink"", drunkard,",,
+k,/k/,"The sixteenth letter of the Livonian alphabet, written in the Latin script.",,
+kakš,/kɑkʃ/,two,,
+kakštuoistõn,/kɑkʃtuoistən/,twelve,,
+kalā,/ˈkɑlɑː/,fish,,
+kalāmīez,/kɑlɑːmiːez/,"fisherman, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+kanā,/kɑnɑː/,"chicken; hen (Gallus gallus domesticus), Tiit-Rein",,
+Kanād,/kɑnɑːd/,"Canada
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Kanād – Kanada – Kanāda
+Canada – Canada – Canada",,
+kaš,/kɑʃ/,"cat, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+kež,/keʒ/,"hand, arm, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+kievādkū,/kievɑːdkuː/,"(poetic) March, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+kimdõ,/kimdə/,"ten, tens, -ty, -ties referring to some number of tens",kim,kˈɪm
+kimdõz,/kimdəz/,"-tieth, -tieths used to form ordinal numbers from names",,
+kinō,/kinoː/,"cinema (the art and industry of making films), a cinema,",,
+knaš,/knɑʃː/,"beautiful, handsome, attractive, Tiit-Rein Viitso,",,
+Krīevmō,/kriːevmɒː/,"Russia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Krīevõmō,/kriːevəmɒː/,"Russia, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+kuddõ,/kud̪ːə/,"to weave, to knit",,
+Kuldīg,/kuldiːɡ/,"Kuldīga (a town in Courland, Latvia), Tiit-Rein Viitso,",,
+kuod,/kuod/,"home, house, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+kuolm,/kuolm/,"three, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+kuolmtuoistõn,/kuolmtuoistən/,thirteen,,
+kuolmõndpǟva,/kuolməndpæːvɑ/,"Wednesday, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Kuoštrõg,/kuoʃtrəɡ/,"Košrags (a village in Courland, Latvia), Tiit-Rein",,
+kuoț,/kuoc/,"sack, bag, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Kurmō,/kurmɒː/,"Courland (a historical region in western Latvia), Tiit-Rein",,
+Kurāmō,/kurɑːmɒː/,"Courland (a historical region in western Latvia), Tiit-Rein",,
+kõzzi,/kɯzːi/,angry,,
+Kāndab,/kɑːndɑb/,"Kandava (a town in Courland, Latvia), Tiit-Rein Viitso,",,
+kēratiji,/keːrɑt̪iji/,writer,,
+kēratēḑ,/keːrɑteːɟ/,letter of the alphabet,,
+kēļ,/keːʎ/,language,,
+kīlmakū,/kiːlmɑkuː/,"(poetic) November, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+Kīnõmō,/kiːnəmɒː/,"China (a country in East Asia), Tiit-Rein Viitso, Valts",,
+kīņtš,/kiːɲt͡ʃ/,"fingernail, hoof, claw, Tiit-Rein Viitso, Valts Ernštreits",,
+kīņḑõļkū,/kiːɲɟəʎkuː/,"(poetic) February, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+kōdõkskimdõz,/koːdəkskimdəz/,eightieth,,
+kōdõkstuoistõn,/koːdəkstuoistən/,eighteen,,
+kōrand,/kɒːrɑnd̪/,yard,,
+kōŗa,/kɒːrʲɑ/,"herd, flock",,
+kū,/kuː/,"month, (astronomy) a moon",,
+Kū,/kuː/,Moon (the sole natural satellite of the Earth),,
+kūlõ,/kuːlə/,"(transitive) to hear, Tiit-Rein Viitso, Valts Ernštreits",,
+Kūolka,/kuːolkɑ/,"Kolka (a village in Courland, Latvia), Tiit-Rein Viitso,",,
+kūora,/kuːorɑ/,"ear (hearing organ), Tiit-Rein Viitso, Valts Ernštreits",,
+kūž,/kuːʒ/,six,,
+kūžtuoistõn,/kuːʒtuoistən/,sixteen,,
+kȭļimkū,/kɯːʎimkuː/,"(poetic) April, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+l,/l/,"The seventeenth letter of the Livonian alphabet, written in the Latin script.",,
+lapsvȱidaji,/lɑpsvɤːidɑji/,"nanny, babysitter",,
+Leišmō,/leiʃmɒː/,"Lithuania, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Leišõmō,/leiʃəmɒː/,"Lithuania, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+lešk,/leʃk/,"widower, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+lešknai,/leʃknɑi/,widow,,
+Lețmō,/lecmɒː/,Latvia,,
+likkõ,/likːə/,"(intransitive) to move, Tiit-Rein Viitso, Valts Ernštreits",,
+lugsõnā,/luɡsɯnɑː/,(grammar) numeral,,
+läpš,/læpʃ/,"child, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+lēḑkū,/leːɟkuː/,"(poetic) May, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+līdõ,/liːdə/,"(transitive) to be going to, Tiit-Rein Viitso, Valts",,
+Līvõmō,/liːvəmɒː/,"Livonia (an alternative term for Terra Mariana, a medieval",,
+lōja,/lɒːjɑ/,boat,,
+lōlami,/loːlɑmi/,singing,,
+Lūž,/luːʒ/,"Lūžņa (a village in Latvia), Tiit-Rein Viitso, Valts",,
+lǟdõ,/læːdə/,"(intransitive) to go, head somewhere, Tiit-Rein Viitso,",,
+m,/m/,"The nineteenth letter of the Livonian alphabet, written in the Latin script.",,
+maij,/mɑij/,May,May,mˈeɪ
+mer,/mer/,sea,,
+minā,/minɑː/,"I; first person pronoun, referring to the speaker",,
+mitskimdõ,/mitskimdə/,"several dozen (lit. ""several tens"")",,
+Moskov,/moskow/,"Moscow (a federal city, the capital of Russia)
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Moskov – Moskva – Maskava
+Moscow – Moscow – Moscow",,
+munādkuoț,/munɑːd.kuoc/,(anatomy) scrotum,,
+Mustānum,/mustɑːnum/,"Melnsils (a village in Courland, Latvia), Tiit-Rein",,
+märts,/mærts/,March,March,mˈɑː͡ɹt͡ʃ
+mõtlõ,/mɯt̪lə/,to think,,
+mīez,/miːez/,"man (adult male human being), Tiit-Rein Viitso, Valts",,
+mō,/mɒː/,"ground, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+mōmīez,/mɒːmiːez/,"farmer, country dweller, yokel, a Latvian",,
+mǟdlõ,/mæːdlə/,"(transitive) to remember
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+jemāizzõ ma mǟdlõb nei nemē leb un
+my memories of maternal grandfather are hazy (lit. ""I remember mother's father like through sleep"")",,
+mȭka,/mɯːkɑ/,"sausage, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+n,/n/,"The twentieth letter of the Livonian alphabet, written in the Latin script.",,
+nai,/nɑi/,wife,,
+neitški,/neit͡ʃki/,"girl, lass, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+neļļõndpǟva,/neʎːəndpæːvɑ/,Thursday,,
+nimsõnā,/nimsɯnɑː/,(grammar) noun,,
+Norvēgij,/norveːɡij/,"Norway, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Norvēgmō,/norveːɡmɒː/,"Norway, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+novembõr,/novembər/,November,November,noʊvˈɛmbɚ
+nädīļ,/nædiːʎ/,"week, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+nēļatuoistõn,/neːʎɑtuoistən/,fourteen,,
+nūoŗ,/nuːorʲ/,"young, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+nūoŗkazām,/nuːorʲkɑzɑːm/,"youth (time in one's life), youth (young people collectively)",,
+nūoŗkū,/nuːorʲkuː/,new moon,,
+nūoŗmīez,/nuːorʲmiːez/,"a youth, young man",,
+nūoŗpōr,/nuːorʲpɒːr/,newlyweds,,
+nūoŗpōŗ,/nuːorʲpɒːrʲ/,newlyweds,,
+nǟdõ,/næːdə/,"(transitive) to see, Tiit-Rein Viitso, Valts Ernštreits",,
+o,/o/,"The twenty-second letter of the Livonian alphabet, written in the Latin script.",,
+oktōbõr,/oktoːbər/,October,October,ɑːktˈoʊbɚ
+opātiji,/opɑːt̪iji/,teacher,,
+ougust,/ouɡust/,August,August,ˈɔːɡəst
+p,/p/,"The twenty-eighth letter of the Livonian alphabet, written in the Latin script.",,
+partikõl,/pɑrt̪ikəl/,particle,,
+pat,/ˈpɑt/,sin,,
+Pațīkmō,/pɑciːkmɒː/,Oviši (a village in Ventspils Municipality on the coast,,
+Pitrõg,/pitrəɡ/,"Pitrags (a village in Courland, Latvia), Tiit-Rein",,
+pivāpǟva,/pivɑːpæːvɑ/,Sunday,,
+Pizā,/pizɑː/,"Miķeļtornis (a village in Courland, Latvia), Tiit-Rein",,
+piņ,/piɲ/,"dog, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+polākõz,/polɑːkəz/,"boy, kid, (card games) jack, (a stake to tie a rope",,
+Portugal,/portuɡɑl/,"Portugal (a country in Europe)
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Portugal – Portugal – Portugāle
+Portugal – Portugal – Portugal",,
+Portugāl,/portuɡɑːl/,"Portugal
+Valda Šuvcāne, Ieva Ernštreite (1999, 2005), Latvian-Livonian-English Phrase Book, Eraksti, →ISBN
+Portugāle – Portugāl – Portugal
+Portugal – Portugal – Portugal",,
+Prantsūzmō,/prɑntsuːzmɒː/,"France, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+Prantšmō,/prɑntʃmɒː/,"France, Līvõkīel-lețkīel-līvõkīel sõnārōntõz, page",,
+prepozītsij,/prepoziːtsij/,"(grammar) preposition, Valda Šuvcāne, Ieva Ernštreite",preposition,pɹˌɛpəzˈɪʃən
+punni,/punːi/,red,,
+pärsōn,/pærsoːn/,"person, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",persona,pɜːsˈoʊnə
+pānda,/pɑːndə/,"(transitive) to put, place, Tiit-Rein Viitso, Valts",,
+pēgõz,/peːɡəz/,"nut, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+pōr,/pɒːr/,"couple, pair",,
+pōrkimdõ,/pɒːrkimdə/,"couple dozen (lit. ""couple of tens"")",,
+pōŗ,/pɒːrʲ/,"couple, pair",,
+pōŗkimdõ,/pɒːrʲkimdə/,"couple dozen (lit. ""couple of tens"")",,
+pū,/puː/,tree,,
+pūoga,/puːoɡɑ/,"son, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Pūojmer,/puːojmer/,"North Sea, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+pūolpǟva,/puːolpæːvɑ/,Saturday,,
+Pūoļmō,/puːoʎmɒː/,"Poland, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+pūošt,/puːoʃt̪/,distress,,
+pǟ,/pæː/,"head, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+pǟgiņlug,/pæːɡiɲluɡ/,(grammar) plural,,
+Pǟrnov,/pæːrnow/,"Pärnu (a city in Estonia), Tiit-Rein Viitso, Valts",,
+pǟva,/pæːvɑ/,day (period of the day between sunrise and sunset when,,
+Pǟva,/pæːvɑ/,Sun (the star at the center of the Solar System),,
+pǟvaīe,/pæːvɑ.iːe/,"day (a period of 24 hours), Valda Šuvcāne, Ieva Ernštreite",,
+pȯis,/pɤis/,"a young man; a guy, boy, help, servant",,
+pȯiški,/pɤiʃki/,"boy, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+r,/r/,"The twenty-ninth letter of the Livonian alphabet, written in the Latin script.",,
+rištīng,/riʃtiːŋɡ/,person,,
+Rumāņmō,/rumɑːɲmɒː/,"Romania, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+Rumēnij,/rumeːnij/,"Romania, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+rõkāndiji,/rɯkɑːnd̪iji/,"speaker, spokesman",,
+rõkāndõ,/rɯkɑːnd̪ə/,"to speak, to talk",,
+rānda,/rɑːnd̪ɑ/,"seaside, seashore",,
+Rīgõ,/riːɡə/,"Riga (the capital city of Latvia), Tiit-Rein Viitso,",,
+rō,/rɒːˀ/,money,,
+rōntõz,/roːntəz/,"book
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+ta istāb rōntõ tagān
+he is sitting by a book",,
+Rūnõ,/ruːnə/,"Ruhnu (an Estonian island in the Gulf of Riga), Tiit-Rein",,
+Rūnõmō,/ruːnəmɒː/,"Ruhnu (an island in the middle of the Gulf of Riga),",,
+Rūoj,/ruːoj/,Roja (a populated place in Latvia on the coast of Gulf,,
+Rūotšmō,/ruːotʃmɒː/,"Sweden, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+s,/s/,"The thirty-first letter of the Livonian alphabet, written in the Latin script.",,
+Saksāmō,/sɑksɑːmɒː/,"Germany, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Salāts,/sɑlɑːts/,"Salaca (a river in Vidzeme, Latvia), Tiit-Rein Viitso,",,
+seistuoistõn,/seistuoistən/,seventeen,,
+septembõr,/septembər/,September,September,sɛptˈɛmbɚ
+Serbij,/serbij/,"Serbia, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+setkimdõ,/setkimdə/,"several dozen (lit. ""several tens""), Tiit-Rein Viitso,",,
+Sibīrij,/sibiːrij/,"Siberia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+sigā,/siɡɑː/,pig,,
+sigžkū,/siɡʒkuː/,"(poetic) September, Valda Šuvcāne, Ieva Ernštreite",,
+sinā,/sinɑː/,"you; second person pronoun, referring to the addressee",,
+siḑīmsõnā,/siɟiːmsɯnɑː/,(grammar) conjunction,,
+Slovēnij,/sloveːnij/,"Slovenia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Spāņ,/spɑːɲ/,"Spain
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Spāņ – Hispaania – Spānija
+Spain – Spain – Spain",,
+Spāņmō,/spɑːɲmɒː/,"Spain (a country in Europe), Valda Šuvcāne, Ieva Ernštreite",,
+statsij,/stɑtsij/,"station, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",station,stˈeɪʃən
+sukā,/sukɑː/,"sock, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+sõnā,/sɯnɑː/,word,,
+sõnārōntõz,/sɯnɑːroːnt̪əz/,"dictionary, vocabulary",,
+sīemi,/siːemi/,eating,,
+Sīkrõg,/siːkrəɡ/,"Sīkrags (a village in Courland, Latvia), Tiit-Rein",,
+sīlma,/siːlmɑ/,"(anatomy) eye, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Sōrmō,/soːrmɒː/,"Saaremaa (largest of island of Estonia), Tiit-Rein",,
+sū,/ˈsuː/,mouth,,
+sūo,/suːo/,"bog, marsh, swamp",,
+sūomli,/suːomli/,Finn,,
+Sūomõmō,/suːoməmɒː/,"Finland, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Sǟnag,/sæːnɑɡ/,"Saunags (a village in Courland, Latvia), Tiit-Rein",,
+t,/t̪/,"The thirty-third letter of the Livonian alphabet, written in the Latin script.",,
+tas,/tɑs/,"cup, teacup, a serving of tea or coffee",,
+tidār,/tidɑːr/,"daughter, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+tint,/tint/,"ink, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Tirkmō,/tirkmɒː/,Turkey (country at the intersection of Europe and Asia,,
+tsukkõr,/t̪sukːər/,sugar,,
+Tsībõrmō,/tsiːbərmɒː/,"Siberia, Līvõkīel-lețkīel-līvõkīel sõnārōntõz, page",,
+Tukāmō,/tukɑːmɒː/,"Tukums (a town in Latvia), Tiit-Rein Viitso, Valts",,
+tuoistõn,/tuoistən/,teen (a set of objects of unspecified quantity ranging,,
+tuoistõnz,/tuoistənz/,"teenth, umpteenth",,
+tämā,/tæmɑː/,"he, she; third person pronoun, referring to someone",,
+tēriņtš,/t̪eːriɲt̪ʃ/,hello (a general greeting one can say when meeting somebody),,
+tēḑ,/t̪eːʔɟ/,star,,
+tīemizsõnā,/tiːemizsɯnɑː/,(grammar) verb,,
+tīepǟva,/tiːepæːvɑ/,"weekday, working day",,
+tōvaz,/toːvɑz/,"sky, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+tūlda,/tuːldə/,"(intransitive) to come, arrive, show up, Tiit-Rein",,
+tūoiznapǟva,/tuoiznɑpæːvɑ/,Tuesday,,
+tūļ,/tuːʎ/,"wind, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+u,/u/,"The thirty-fifth letter of the Livonian alphabet, written in the Latin script.",,
+ummitsõnā,/umːitsɯnɑː/,(grammar) adjective,,
+Ungārmō,/uŋɡɑːrmɒː/,"Hungary, Valda Šuvcāne, Ieva Ernštreite (1999, 2005),",,
+v,/v/,"The thirty-seventh letter of the Livonian alphabet, written in the Latin script.",,
+Vaid,/vɑid/,"Vaide (a village in Courland, Latvia), Tiit-Rein Viitso,",,
+vanā,/vɑnɑː/,old,,
+vel,/vel/,"more, else, yet, Tiit-Rein Viitso, Valts Ernštreits",,
+veļ,/veʎ/,"brother, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+vež,/veʒ/,water,,
+Vidumō,/vidumɒː/,Vidzeme (a historical region in northeastern Latvia,,
+Vidūmō,/viduːmɒː/,Vidzeme (a historical region in northeastern Latvia,,
+vigā,/viɡɑː/,"fault, blame, guilt",,
+värb,/værb/,(grammar) verb,,
+võțīm,/vɯciːm/,"key, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Vāldakrīevmō,/vɑːldɑkriːevmɒː/,"Belarus, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Vāldamer,/vɑːldɑmer/,"Baltic Sea, Tiit-Rein Viitso, Līvõkēļ munt vāldamiersūomõ",,
+Vēna,/veːnɑ/,"River Daugava (the largest river in Latvia), Tiit-Rein",,
+vīdõz,/viːdəz/,fifth,,
+vīmkū,/viːmkuː/,"(poetic) October, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+vīļakū,/viːʎɑkuː/,"(poetic) August, Valda Šuvcāne, Ieva Ernštreite (1999,",,
+vīžtuoistõn,/viːʒtuoistən/,fifteen,,
+vīțsõnā,/viːcsɯnɑː/,(grammar) adverb,,
+Vǟnta,/væːntɑ/,"Ventspils (a city in Courland, Latvia), Tiit-Rein Viitso,",,
+vȯl,/vɤl/,"beer, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+vȯl,/vɤl/,2nd person singular imperative form of vȱlda,,
+vȯlmsõnā,/vɤlmsɯnɑː/,(grammar) adverb,,
+vȯņ,/vɤɲ/,happiness,,
+vȱlda,/vɤːldɑ/,"(intransitive) to be, Tiit-Rein Viitso, Valts Ernštreits",,
+vȱntsa,/vɤːntsɑ/,"(anatomy) forehead, Tiit-Rein Viitso, Valts Ernštreits",,
+ykš,/ykʃ/,"Archaic form of ikš.
+livones.net
+ykš vana mīez nimtõt Jaņi Pālkali, voļ sūr statistik kuoŗŗiji
+one old man named Jaņi Pālkali (~ Jānis Pālkalis) was a big collector of statistics",,
+z,/z/,"The thirty-eighth letter of the Livonian alphabet, written in the Latin script.",,
+ä,/æ/,"The third letter of the Livonian alphabet, written in the Latin script.",,
+äb,/æb/,"first person singular present form of the negation verb
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+ma äb lǟ
+I'm not going",,
+äb-,/æb/,negating prefix,,
+äbknaš,/æbknɑʃ/,"ugly, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+äd,/æd/,"second person singular present form of the negation verb
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+sa äd ūo tīera
+you're not OK (lit. ""not healthy"")
+kas sa midāgid äd vastāt?
+are you not going to say anything? (lit. ""reply"")",,
+äl,/ælː/,"cradle, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+äm,/æm/,"wet nurse, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ämār,/æmɑːr/,"twilight, dusk",,
+ät,/æt/,"second person plural present form of the negation verb
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+tēg ät kūldõt
+you're not listening
+tēg ät sȭitat mittõ stuņdõ minkõks īņi virgs vȱlda
+you are not able to be awake with me not even for an hour",,
+õ,/ɯ/,"The twenty-sixth letter of the Livonian alphabet, written in the Latin script.",,
+ükš,/ykʃ/,Archaic form of ikš.,,
+ā,/ɑː/,"The second letter of the Livonian alphabet, written in the Latin script.",,
+āigast,/ɑːiɡɑst̪/,year,,
+āinakū,/ɑːinɑkuː/,"(poetic) July, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+āmbaz,/ɑːmbɑz/,tooth,,
+ānkaŗ,/ɑːŋkɑrʲ/,anchor,,
+ārmaz,/ˈɑːrmɑz/,"beloved, 1947,  Kōrli Stalte (lyrics), Frederik Pacius",,
+ē,/eː/,"The ninth letter of the Livonian alphabet, written in the Latin script.",,
+Ēstimō,/eːstimɒː/,"Estonia, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ī,/iː/,"The fourteenth letter of the Livonian alphabet, written in the Latin script.",,
+īdtuoistõnz,/iːdtuoistənz/,eleventh,,
+īdõksmõz,/iːdəksməz/,ninth,,
+īdõkssadā,/iːdəkssɑdɑː/,nine hundred,,
+īdõkstuoistõn,/iːdəkstuoistən/,nineteen,,
+īdõkstuoistõnz,/iːdəkstuoistənz/,nineteenth,,
+īevad,/iːevɑd̪/,"introduction
+Valda Šuvcāne, Ieva Ernštreite (1999, 2005), Latvian-Livonian-English Phrase Book, Eraksti, →ISBN
+Ievads – Īevad – Introduction
+Introduction – Introduction – Introduction",,
+Īra,/iːrɑ/,"Lielirbe (a village in Courland, Latvia), Tiit-Rein",,
+Īrõmō,/iːrəmɒː/,"Ireland, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Īsland,/iːslɑnd/,"Iceland
+Valda Šuvcāne, Ieva Ernštreite (1999, 2005), Latvian-Livonian-English Phrase Book, Eraksti, →ISBN
+Islande – Īsland – Iceland
+Iceland – Iceland – Iceland",,
+ļ,/ʎ/,"The eighteenth letter of the Livonian alphabet, written in the Latin script.",,
+ņ,/ɲ/,"The twenty-first letter of the Livonian alphabet, written in the Latin script.",,
+ō,/oː/,"The twenty-third letter of the Livonian alphabet, written in the Latin script.",,
+ōj,/ɒːj/,stove,,
+ŗ,/rʲ/,"The thirtieth letter of the Livonian alphabet, written in the Latin script.",,
+š,/ʃ/,"The thirty-second letter of the Livonian alphabet, written in the Latin script.",,
+Šveits,/ʃveits/,"Switzerland
+Tiit-Rein Viitso, Valts Ernštreits (2012–2013), Līvõkīel-ēstikīel-lețkīel sõnārōntõz, Tartu, Rīga: TÜ, LVA
+Šveits – Šveits – Šveice
+Switzerland – Switzerland – Switzerland
+Valda Šuvcāne, Ieva Ernštreite (1999, 2005), Latvian-Livonian-English Phrase Book, Eraksti, →ISBN
+Šveice – Šveits – Switzerland
+Switzerland – Switzerland – Switzerland",,
+ū,/uː/,"The thirty-sixth letter of the Livonian alphabet, written in the Latin script.",,
+ūomõg,/uːoməɡ/,"morning, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+Ūžkilā,/uːʃkilɑː/,"Jaunciems (a village in Courland, Latvia), Tiit-Rein",,
+ž,/ʒ/,"The thirty-ninth letter of the Livonian alphabet, written in the Latin script.",,
+ǟ,/æː/,"The fourth letter of the Livonian alphabet, written in the Latin script.",,
+ǟma,/æːmɑ/,"mother, Tiit-Rein Viitso, Valts Ernštreits (2012–2013),",,
+ț,/c/,"The thirty-fourth letter of the Livonian alphabet, written in the Latin script.",,
+Ț,/c/,"The thirty-fourth letter of the Livonian alphabet, written in the Latin script.",,
+ȭ,/ɯː/,"The twenty-seventh letter of the Livonian alphabet, written in the Latin script.",,
+Ȭ,/ɯː/,"The twenty-seventh letter of the Livonian alphabet, written in the Latin script.",,
+ȭdõg,/ɯːdəɡ/,evening,,
+ȯ,/ɤ/,"The twenty-fourth letter of the Livonian alphabet, written in the Latin script.",,
+ȱ,/ɤː/,"The twenty-fifth letter of the Livonian alphabet, written in the Latin script.",,
+Ȱ,/ɤː/,"The twenty-fifth letter of the Livonian alphabet, written in the Latin script.",,
+ḑ,/ɟ/,"The seventh letter of the Livonian alphabet, written in the Latin script.",,

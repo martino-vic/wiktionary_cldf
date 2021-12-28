@@ -1,20 +1,135 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-ނޮވެމްބަރު,noʊvˈɛmbɚ,November,November
-ކަރްނާޓަކާ,kɚnˈɑːɾəkə,Karnataka (a state of India),Karnataka
-ކެނެޑާ,kˈænədə,Canada (a country in North America),Canada
-އިންޑިއާ,ˈɪndiə,"India, Synonym: ހިންދުސްތާނު‎ (hin̊dustānu)",India
-އެމެރިކާ,ɐmˈɛɹɪkə,America (the continents of North America and South,America
-އެޕްރީލް,ˈeɪpɹəl,April,April
-އޮކްޓޫބަރު,ɑːktˈoʊbɚ,October,October
-އޮގަސްޓު,ˈɔːɡəst,August,August
-މާރޗް,mˈɑː͡ɹt͡ʃ,March,March
-މެކްސިކޯ,mˈɛksɪkˌoʊ,Mexico (a country in North America),Mexico
-މެއި,mˈeɪ,May,May
-ފެބްރުއަރީ,fˈɛbɹuːˌɛɹi,February,February
-ގުރީންލޭންޑު,ɡɹˈiːnlənd,Greenland,Greenland
-ސިޓީ,sˈɪɾi,"city, Synonym: ޝަހަރު‎ (šaharu)",city
-ސެޕްޓެމްބަރު,sɛptˈɛmbɚ,September,September
-ޑިސެމްބަރު,dᵻsˈɛmbɚ,December,December
-ޖުލައި,d͡ʒuːlˈaɪ,July,July
-ޖޫން,d͡ʒˈuːn,June,June
-ޖެނުއަރީ,d͡ʒˈænjuːˌɛɹi,January,January
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+ހ,[h],"The first letter of the Thaana alphabet, named haa.",,
+ހަ,/hə/,six,,
+ހަރިޔާނާ,/hərijəːnəː/,Haryana (a state of India),,
+ހަތަރު,/hətəru/,four,,
+ހަތާވީސް,/hət̪əːʋiːs̺/,twenty-seven,,
+ހަތް,/hət/,seven,,
+ހާސް,/həːs̺/,thousand,,
+ހިންދޫދީން,/hind̪uːd̪iːn/,Hinduism,,
+ށ,/ʂ/,Letter shaviyani; second character of the Thaana alphabet,,
+ނ,/n/,Letter noonu; third character of the Thaana alphabet,,
+ނަވާރަ,/n̪əʋəːrə/,nineteen,,
+ނަވާވީސް,/nəʋəːʋiːs̺/,twenty-nine,,
+ނުވަ,/nuʋə/,nine,,
+ނޮވެމްބަރު,/noʋembəru/,November,November,noʊvˈɛmbɚ
+ރ,/r/,letter raa,,
+ރާއްޖެ,/rəːdʒːe/,"country, realm",,
+ރުފިޔާ,/rufijəː/,rufiyaa,,
+ބ,/b/,"The fifth letter of the Thaana alphabet, named baa",,
+ބާރަ,/bəːrə/,twelve,,
+ބާވީސް,/bəːʋiːs̺/,twenty-two,,
+ބިހާރު,/bihəːru/,Bihar (a state of India),,
+ބިބީ,/bibiː/,"(card games) queen, butterfly fish",,
+ޅ,/ɭ/,"The sixth letter of the Thaana alphabet, named lhaviyani",,
+ކ,/k/,"The seventh letter in Dhivehi, named kaafu",,
+ކަރްނާޓަކާ,/kərn̪əːʈəkəː/,Karnataka (a state of India),Karnataka,kɚnˈɑːɾəkə
+ކެނެޑާ,/ken̪eɖəː/,Canada (a country in North America),Canada,kˈænədə
+އައްލާހު,/əlːəːhu/,Allah,,
+އައްޑޫ,/əɖːuː/,Addu (a city in the Maldives),,
+އަތޮޅު,[ət̪oɭu],atoll,,
+އާސާމު,/əːs̺əːmu/,Assam (a state of India),,
+އިންޑިއާ,/in̪ɖiəː/,"India, Synonym: ހިންދުސްތާނު‎ (hin̊dustānu)",India,ˈɪndiə
+އިސްލާމް,/isləm/,Islam,,
+އެކާވީސް,/ekəːʋiːs̺/,twenty-one,,
+އެކެއް,[ekeh],one,,
+އެމެރިކާ,/emerikəː/,America (the continents of North America and South,America,ɐmˈɛɹɪkə
+އެގަރަ,/eɡərə/,eleven,,
+އެޕްރީލް,/epril/,April,April,ˈeɪpɹəl
+އޮނަތިރީސް,/onət̪iriːs̺/,twenty-nine,,
+އޮކްޓޫބަރު,/okʈuːbəru/,October,October,ɑːktˈoʊbɚ
+އޮގަސްޓު,/oɡəsʈu/,August,August,ˈɔːɡəst
+ވ,/ʋ/,"The ninth letter in Dhivehi, named waawoo",,
+ވިހި,/ʋihi/,twenty,,
+މ,/m/,"The tenth letter in Dhivehi, named meemu",,
+މަހާރާޝްތުރާ,/məhəːrəːʃt̪urəː/,Maharashtra (a state of India),,
+މާރޗް,/məːrtʃ/,March,March,mˈɑː͡ɹt͡ʃ
+މާލެ,/məːle/,Malé (the capital city of the Maldives),,
+މިސްކިތް,/mis̺kit̪/,mosque,,
+މުޙައްމަދުގެފާނު,/muħəmməd̪uɡefəːnu/,the Islamic prophet Muhammad,,
+މެކްސިކޯ,/meks̺ikoː/,Mexico (a country in North America),Mexico,mˈɛksɪkˌoʊ
+މެއި,/mei/,May,May,mˈeɪ
+ފ,/f/,"The eleventh letter in Dhivehi, named faafu",,
+ފަހެހް,/fəheh/,five,,
+ފަނަރަ,/fənərə/,fifteen,,
+ފަންސަވީސް,/fəns̺əʋis̺/,twenty-five,,
+ފެބްރުއަރީ,/februəriː/,February,February,fˈɛbɹuːˌɛɹi
+ފޮތް,/fot̪/,book,,
+ދ,/d/,"The twelfth letter in Dhivehi, named dhaal",,
+ދިހަ,/d̪ihə/,ten,,
+ދިއްލީ,/d̪ilːiː/,"Delhi (a megacity and union territory of India, containing",,
+ދިވެހި,/d̪iʋehi/,Dhivehi,,
+ދިވެހިރާއްޖެ,/d̪iʋehirəːdʒːe/,Maldives,,
+ދިވެހިބަސް,/d̪iʋehibəs̺/,Dhivehi (a language),,
+ދުވަސް,[d̪uʋəs̺],day,,
+ދެ,/d̪e/,two,,
+ތ,/t/,"The thirteenth letter in Dhivehi, named thaa",,
+ތާނަ,/t̪əːn̪ə/,"Thaana, the script used for writing the Dhivehi language",,
+ތިން,/t̪in/,three,,
+ތިރީސް,/t̪iriːs̺/,thirty,,
+ތޭރަ,/teːrə/,thirteen,,
+ތޭވީސް,/t̪eːʋiːs̺/,twenty-three,,
+ލ,/l/,"The fourteenth letter in Dhivehi, named laamu",,
+ލަކްޝަދީބު,/ləkʃəd̪iːbu/,Lakshadweep,,
+ލައްކަ,/ləkkə/,one hundred thousand,,
+ގ,/ɡ/,"The fifteenth letter in Dhivehi, named gaafu",,
+ގުރީންލޭންޑު,/ɡuriːn̪len̪ɖu/,Greenland,Greenland,ɡɹˈiːnlənd
+ގުޖުރާތު,/ɡudʒrəːt̪/,Gujarat (a state of India),,
+ގޯވާ,/ɡoːʋəː/,Goa (a state of India),,
+ޏ,/ɲ/,"The sixteenth letter in Dhivehi, named gnaviyany",,
+ސ,/s/,"The seventeenth letter in Dhivehi, named seenu",,
+ސައުވީސް,/s̺əuʋiːs̺/,twenty-four,,
+ސައްބީސް,/s̺əbːiːs̺/,twenty-six,,
+ސަތާރަ,/sətəːrə/,seventeen,,
+ސަތޭކަ,/s̺əteːkə/,hundred,,
+ސާދަ,/səːd̪ə/,fourteen,,
+ސިޓީ,/siʈiː/,"city, Synonym: ޝަހަރު‎ (šaharu)",city,sˈɪɾi
+ސުން,/s̺un/,zero,,
+ސެޕްޓެމްބަރު,/sepʈembəru/,September,September,sɛptˈɛmbɚ
+ސޯޅަ,/soːɭə/,sixteen,,
+ޑ,/ɖ/,"The eighteenth letter in Dhivehi, named daviyani",,
+ޑިސެމްބަރު,/ɖisembəru/,December,December,dᵻsˈɛmbɚ
+ޒ,/z/,"The nineteenth letter in Dhivehi, named zaviyani",,
+ޓ,/ʈ/,"The twentieth letter in Dhivehi, named taviyani",,
+ޔ,/j/,"The twenty-first letter in Dhivehi, named yaa",,
+ޕ,/p/,"The twenty-second letter in Dhivehi, named paviyani",,
+ޖ,/d͡ʒ/,"The twenty-third letter in Dhivehi, named javiyani",,
+ޖަރްކަންދު,/d͡ʒərkən̪d̪u/,Jharkhand (a state of India),,
+ޖުލައި,/dʒulai/,July,July,d͡ʒuːlˈaɪ
+ޖޫން,/dʒuːn/,June,June,d͡ʒˈuːn
+ޖެނުއަރީ,/dʒenuəriː/,January,January,d͡ʒˈænjuːˌɛɹi
+ޗ,/tʃ/,"The twenty-fourth letter in Dhivehi, named chaviyani",,
+ޗައްތީސްގަޅު,/tʃət̪ːiːs̺ɡəɭu/,Chhattisgarh (a state of India),,
+ޘ,/θ/,"The twenty-fifth character in Dhivehi, named ttaa",,
+ޙ,/ħ/,"The twenty-sixth letter in Dhivehi, named hhaa",,
+ޙައްޖު,/hədʒːu/,hajj,,
+ޚ,/x/,"The twenty-seventh letter in Dhivehi, named khaa",,
+ޛ,/ð/,"The twenty-seventh letter in Dhivehi, named thaalu",,
+ޜ,/ʒ/,"The twenty-eighth letter in Dhivehi, named zhaa",,
+ޝ,/ʃ/,"The twenty-ninth letter in Dhivehi, named sheenu",,
+ޝަހަރު,[ʃəhəɾu],"city, Synonym: ސިޓީ‎ (siṭī)",,
+ޝަރީޢަތް,/ʃəriːʕət̪/,shari'a,,
+ޝުކުރިއްޔާ,/ʃukuɾijːaː/,thank you,,
+ޞ,/sˤ/,"The thirtieth letter in Dhivehi, named saadhu",,
+ޟ,/dˤ/,"The thirty-first letter in Dhivehi, named daadhu",,
+ޠ,/tˤ/,"The thirty-second letter in Dhivehi, named to",,
+ޡ,/ðˤ/,"The thirty-third letter in Dhivehi, named zo",,
+ޢ,/ʕ/,"The thirty-fourth letter in Dhivehi, named ainu",,
+ޣ,/ɣ/,"The thirty-fifth letter in Dhivehi, named ghainu",,
+ޤ,/q/,"The thirty-sixth letter in Dhivehi, named qaafu",,
+ޥ,/w/,"The thirty-seventh letter in Dhivehi, named waavu",,
+ަ,/ə/,"The vowel diacritic, named abafili",,
+ާ,/aː/,"The vowel diacritic, named aabaafili",,
+ި,/i/,"The vowel diacritic, named ibifili",,
+ީ,/iː/,"The vowel diacritic, named eebeefili",,
+ު,/u/,"The vowel diacritic, named uboofili",,
+ޫ,/uː/,"The vowel diacritic, named ooboofili",,
+ެ,/e/,"The vowel diacritic, named ebefili",,
+ޭ,/eː/,"The vowel diacritic, named eybeyfili",,
+ޮ,/o/,"The vowel diacritic, named obofili",,
+ޯ,/oː/,"The vowel diacritic, named oaboafili",,
+ޱ,/ɳ/,"The thirty-eighth letter in Dhivehi, named ṇaviyani or naa.",,
+च़,[θ],Used to represent the [θ] sound in Dhivehi. [1],,
+त़,[tˤ],Used to represent the [tˤ] sound in Dhivehi. [1],,
+ल़,[ɫ],Used to represent the [ɫ] sound in Dhivehi. [1],,
+स़,[sˤ],Used to represent the [sˤ] sound in Dhivehi. [1],,

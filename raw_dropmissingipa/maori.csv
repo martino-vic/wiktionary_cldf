@@ -1,21 +1,73 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-aihikirīmi,ˈaɪs kɹˈiːm,ice cream,ice cream
-Ihowā,d͡ʒəhˈoʊvə,"Jehovah, the Lord",Jehovah
-kī,kˈiː,key,key
-kī,kˈiː,"to lock, (stative) to be locked",key
-kī,kˈiː,(stative) to be full,key
-kī,kˈiː,key,key
-kī,kˈiː,"to lock, (stative) to be locked",key
-kī,kˈiː,key,key
-kī,kˈiː,"to lock, (stative) to be locked",key
-mōrena,ɡˈʊd mˈɔː͡ɹnɪŋ,"good morning, Synonym: ata mārie",(good) morning
-terepōno,tˈɛlᵻfˌoʊn,"(obsolete) telephone, Synonyms: kawereo, waea",telephone
-terewhōno,tˈɛlᵻfˌoʊn,"(obsolete) telephone, Synonyms: kawereo, waea",telephone
-tikinare,dˈɪkʃənˌɛɹi,"dictionary, Synonym: papakupu",dictionary
-tāone,tˈaʊn,"town, city, urban area",town
-tāone,tˈaʊn,"to establish towns, lay out as a town",town
-waea,wˈaɪɚ,"to telephone, ring, to send a telegram, wire",wire
-waea,wˈaɪɚ,"telephone, phone, Synonyms: kawereo, terewhōno, terepōno,",wire
-waea,wˈaɪɚ,"to telephone, ring, to send a telegram, wire",wire
-waea,wˈaɪɚ,"telephone, phone, Synonyms: kawereo, terewhōno, terepōno,",wire
-whāmere,fˈæmɪli,"family, household, Synonym: whānau",family
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+aihikirīmi,/ai̯.hi.kriː.mi/,ice cream,ice cream,ˈaɪs kɹˈiːm
+Aoraki,[ˈaɔɾaki],(southern dialect) Mount Cook (tallest mountain in,,
+Aotearoa,/aɔˈtearɔa/,"(obsolete) North Island (of New Zealand), New Zealand",,
+ato,/a.to/,"to thatch, I taua moutere ka atohia ngā whare ki ngā",,
+eke,/ˈeke/,to embark,,
+haka,/ˈhaka/,A war dance; a haka.,,
+Ihowā,/ihowaː/,"Jehovah, the Lord",Jehovah,d͡ʒəhˈoʊvə
+kaha,/ˈka.ha/,"strength, power, energy",,
+kaha,/ˈka.ha/,"to be strong, be courageous",,
+kaha,/ˈka.ha/,"rope, noose, lineage",,
+kaha,/ˈka.ha/,"rope, noose, lineage",,
+kaho,/ˈka.ho/,"crossbar; crossbeam, roof batten, fence rail, horizontal",,
+Kaikōura,/kaiˈkɔːura/,A town on the east coast of the South Island of New,,
+kawereo,/kawereo/,"telephone
+Synonyms: waea, terewhōno, terepōno",,
+kupu,/ˈku.pu/,"word, vocabulary, saying, talk, message, statement,",,
+kupu,/ˈku.pu/,(intransitive) to speak,,
+kī,/kiː/,"to say, speak, express, utter, call, mention, tell,",,
+kī,/kiː/,"saying, word",,
+kī,/kiː/,(stative) to be full,,
+kī,/kiː/,key,key,kˈiː
+kī,/kiː/,"to lock, (stative) to be locked",key,kˈiː
+kī,/kiː/,(stative) to be full,key,kˈiː
+kī,/kiː/,key,key,kˈiː
+kī,/kiː/,"to lock, (stative) to be locked",key,kˈiː
+kī,/kiː/,key,key,kˈiː
+kī,/kiː/,"to lock, (stative) to be locked",key,kˈiː
+mataku,/maˈta.ku/,afraid,,
+mataku,/maˈta.ku/,to fear (feel fear about (something)),,
+matangi,/maˈta.ŋi/,"wind, breeze, Kāore he matangi, koirā i tino kino ai",,
+mauī,/mawˈiː/,left (the west side of the body when one is facing,,
+mauī,/mawˈiː/,on the left side,,
+mina,/ˈmi.na/,"desire; wish, aspiration, longing, appetite",,
+mina,/ˈmi.na/,"to desire, to feel an inclination, to wish, to have",,
+Māori,[ˈmaːɔɾi],"Maori, Māori, the Māori culture or ethnicity, 2006,",,
+mātau,/ˈmaː.taw/,"knowledge, understanding, Ma te mātau ka ora., Through",,
+mātau,/ˈmaː.taw/,"to know, to understand, Kāore i pērā rawa te tokomaha",,
+mōrena,/moː.re.na/,"good morning, Synonym: ata mārie",(good) morning,ɡˈʊd mˈɔː͡ɹnɪŋ
+ngeru,[ˈŋɛɾu],"cat (Felis silvestris catus), Synonyms: poti, tori",,
+Ngāti,/ˈŋaːti/,"Prefix for an iwi or hapū; tribal group.
+Ko Ngāti Te Kanawa he hapū nō Ngāti Maniapoto; arā ko ngā uri o Te KanawaTe Kanawa is a sub-tribe of Ngāti Maniapoto; and they are the descendants of Te Kanawa[1]",,
+ora,/ˈɔ.ɾa/,"to exist, to be alive, well, safe, cured, recovered,",,
+ora,/ˈɔ.ɾa/,"life, existence",,
+papakupu,/papakʉpʉ/,"dictionary, Synonym: tikinare, lexicon, vocabulary",,
+puku,/ˈpʉkʉ/,"(anatomy) stomach, belly",,
+pītau,/ˈpiː.tau/,"frond, shoot",,
+rango,/ˈra.ŋo/,"fly (insect), blowfly",,
+taru,/ˈta.ru/,"weed, grass; small vegetation",,
+terepōno,/terepoːno/,"(obsolete) telephone, Synonyms: kawereo, waea",telephone,tˈɛlᵻfˌoʊn
+terewhōno,/terefoːno/,"(obsolete) telephone, Synonyms: kawereo, waea",telephone,tˈɛlᵻfˌoʊn
+tikinare,/tikinare/,"dictionary, Synonym: papakupu",dictionary,dˈɪkʃənˌɛɹi
+tuna,[ˈtʉ.nɐ],"eel of various species, including the longfin eel (Anguilla",,
+Tuna,[ˈtʉ.nɐ],"(Maori mythology) An eel-god, the son of Manga-wai-roa,",,
+tāone,/taːo̯ne/,"town, city, urban area",town,tˈaʊn
+tāone,/taːo̯ne/,"to establish towns, lay out as a town",town,tˈaʊn
+tētē,/ˈtɛː.tɛː/,"frond, shoot",,
+uwhi,/u.ˈɸi/,yam; Dioscorea alata,,
+waea,/waea/,to be weary,,
+waea,/waea/,"to telephone, ring, to send a telegram, wire",wire,wˈaɪɚ
+waea,/waea/,"telephone, phone, Synonyms: kawereo, terewhōno, terepōno,",wire,wˈaɪɚ
+waea,/waea/,"to telephone, ring, to send a telegram, wire",wire,wˈaɪɚ
+waea,/waea/,"telephone, phone, Synonyms: kawereo, terewhōno, terepōno,",wire,wˈaɪɚ
+Waitangi,[ˈwaitaŋi],A locality in the Bay of Islands on the North Island,,
+whai,/fai/,"stingray, skate (fish of family Rajidae)",,
+whakamauī,/ɸa.ka.mawˈiː/,towards the left,,
+whara,/ˈɸa.ra/,Any of the several plants in the families Asteliaceae,,
+whāmere,/ˈɸaː.me.re/,"family, household, Synonym: whānau",family,fˈæmɪli
+Wīwī,/ˈwiː.wiː/,"France (a country in Europe), TW 22/6/1878:310/2, as",,
+Wīwī,/ˈwiː.wiː/,Frenchman; the French,,
+Wīwī,/ˈwiː.wiː/,French,,
+āe,/aːe̯/,"yes, 2013, New Zealand Government, Information for",,
+ōritetanga,/ɔː.ɾi.tɛˈta.ŋa/,equality (equal treatment of people),,

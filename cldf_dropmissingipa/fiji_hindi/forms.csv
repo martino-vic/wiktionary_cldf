@@ -1,0 +1,147 @@
+ID,Form,IPA,Gloss,Language_ID
+0,aapul,/ɑːpʊl/,apple; a round fruit which grows in temperate climates.,0
+1,aspataal,/əspətɑl/,hospital,0
+2,baakas,/bɑːkəs/,"box; a rectangular container, used for storing things,",0
+3,baggii,/bəɡɡiː/,A horse drawn cart.,0
+4,bareed,/bərɛːd/,bread,0
+5,belfut,/beːlfʊt/,breadfruit,0
+6,belo,/beːloː/,work break,0
+7,biin,/biːn/,"Vigna unguiculata subsp. sesquipedalis (snake bean,",0
+8,biskut,/bɪskʊt/,biscuit,0
+9,bulu,/bʊlʊ/,blue,0
+10,bulut,/bʊlʊt/,bolt,0
+11,burus,/bʊrʊs/,toothbrush,0
+12,chaak,/cɕəɑːk/,"chock, hinderance",0
+13,diipuu,/diːpuː/,Where Indian indentured labourers were kept before,0
+14,faalaa,/fɑːlɑː/,fellow,0
+15,faank,/fɑːnk/,garden fork,0
+16,falaawaa,/fəlɑːvɑː/,plough,0
+17,faraak,/fərɑːk/,dress,0
+18,filam,/fɪləm/,film,0
+19,firii,/fɪriː/,"Not of bondage; free, Obtainable without payment; free",0
+20,firiimaan,/fɪriːmɑːn/,A person who has completed his indenture.,0
+21,garaund,/ɡərɔːnd/,A playing field.,0
+22,geet,/ɡɛːʈ/,paddock,0
+23,geng,/ɡeːnɡ/,Work gang,0
+24,gilaas,/ɡɪlɑːs/,"glass, tumbler, mirror",0
+25,giraas,/ɡɪrɑːs/,grass,0
+26,girmit,/ɡɪrmɪʈ/,indenture system,0
+27,gorment,/ɡoːrmeːnt/,government,0
+28,gwaan,/ɡəwɑːn/,go on - used to shoo away animals.,0
+29,haafaa,/hɑːfɑː/,Half of the task allotted to a cane-cutting pair.,0
+30,haamaa,/hɑːmɑː/,hammer,0
+31,hedmaan,/heɪdmɑɪn/,foreman,0
+32,hutel,/hʊʈeːl/,hotel,0
+33,ingin,/ɪnɡɪn/,"engine, locomotive",0
+34,kaabij,/kɑːbɪj/,"Chinese cabbage, bok choy.",0
+35,kampanii,/kəmpəniː/,The Colonial Sugar Refining Company based in Fiji,0
+36,kantaap,/kəɲtɑːp/,cane top,0
+37,kek,/keːk/,cake,0
+38,kichin,/kɪchɪn/,kitchen,0
+39,kulambar,/kʊləmbər/,overseer,0
+40,kurbaal,/kʊrbɑːl/,crowbar,0
+41,laaesan,/ləeːsən/,licence,0
+42,laiin,/ləɪɳ/,Workers barracks.,0
+43,lainamaan,/ləɪnəmɑɪn/,linesman,0
+44,lef,/leːf/,left (left hand side),0
+45,maachis,/mɑːcɕəɪs/,matches,0
+46,maarit,/mɑːrɪt/,(Civil) marriage.,0
+47,maarkit,/mɑːrkɪt/,market,0
+48,maastaa,/mɑːstɑː/,Male teacher.,0
+49,mail,/maɪl/,mile,0
+50,masiin,/məsiːn/,machine,0
+51,memiyaa,/meːmɪyɑː/,European woman,0
+52,minit,/mɪnɪt/,minute (unit of time),0
+53,motar,/moːʈər/,car,0
+54,niilaa,/niːlɑː/,nail,0
+55,painap,/pɛːnəp/,pineapple,0
+56,palet,/pəleːʈ/,plate,0
+57,paraakaa,/pəɽɑːkɑː/,firecracker,0
+58,ponii,/poːniː/,short,0
+59,puusi,/puːsɪ/,cat,0
+60,puusii,/puːsiː/,cat,0
+61,rasiid,/rəsiːd/,receipt,0
+62,rum,/ruːm/,room,0
+63,saakis,/sɑːkɪs/,"movies, film",0
+64,sabbal,/səbbəl/,shovel,0
+65,sat,/səʈ/,shirt,0
+66,simit,/sɪmɪt/,cement,0
+67,sipi,/sɪpɪ/,spade,0
+68,sukhlaai,/sʊkʰəlɑːiː/,To replace dead plants,0
+69,taas,/tɑːs/,task,0
+70,tamaakuu,/t̪əmɑːkuː/,tobacco,0
+71,tamaatar,/ʈəmɑːʈər/,tomato,0
+72,tanki,/ʈənkiː/,water tank,0
+73,taul,/tɔːl/,towel,0
+74,tichaa,/tɪcɕəɑː/,Female teacher.,0
+75,uutoo,/uːtoː/,"The large round fruit of the evergreen tree, Artocarpus",0
+76,apple,ˈæpəl,,1
+77,box,bˈɑːks,,1
+78,buggy,bˈʌɡi,,1
+79,bread,bɹˈɛd,,1
+80,breadfruit,bɹˈɛdfɹuːt,,1
+81,bell,bˈɛl,,1
+82,bean,bˈiːn,,1
+83,biscuit,bˈɪskɪt,,1
+84,blue,blˈuː,,1
+85,bolt,bˈoʊlt,,1
+86,brush,bɹˈʌʃ,,1
+87,chock,t͡ʃˈɑːk,,1
+88,depot,dˈiːpoʊ,,1
+89,fellow,fˈɛloʊ,,1
+90,fork,fˈɔː͡ɹk,,1
+91,plough,plˈaʊ,,1
+92,frock,fɹˈɑːk,,1
+93,film,fˈɪlm,,1
+94,free,fɹˈiː,,1
+95,freeman,fɹˈiːmən,,1
+96,ground,ɡɹˈaʊnd,,1
+97,gate,ɡˈeɪt,,1
+98,gang,ɡˈæŋ,,1
+99,glass,ɡlˈæs,,1
+100,grass,ɡɹˈæs,,1
+101,agreement,ɐɡɹˈiːmənt,,1
+102,government,ɡˈʌvɚnmənt,,1
+103,go on,ɡˌoʊ ˈɔn,,1
+104,half,hˈæf,,1
+105,hammer,hˈæmɚ,,1
+106,headman,hˈɛdmən,,1
+107,hotel,hoʊtˈɛl,,1
+108,engine,ˈɛnd͡ʒɪn,,1
+109,cabbage,kˈæbɪd͡ʒ,,1
+110,company,kˈʌmpəni,,1
+111,cane top,kˈeɪn tˈɑːp,,1
+112,cake,kˈeɪk,,1
+113,kitchen,kˈɪt͡ʃən,,1
+114,count the number,kˈaʊnt ðə nˈʌmbɚ,,1
+115,crowbar,kɹˈoʊbɑː͡ɹ,,1
+116,licence,lˈaɪsəns,,1
+117,line,lˈaɪn,,1
+118,linesman,lˈaɪnzmən,,1
+119,left,lˈɛft,,1
+120,matches,mˈæt͡ʃᵻz,,1
+121,marriage,mˈæɹɪd͡ʒ,,1
+122,market,mˈɑː͡ɹkɪt,,1
+123,master,mˈæstɚ,,1
+124,mile,mˈaɪl,,1
+125,machine,məʃˈiːn,,1
+126,ma'am,mˈæm,,1
+127,minute,mˈɪnɪt,,1
+128,motor,mˈoʊɾɚ,,1
+129,nail,nˈeɪl,,1
+130,pineapple,pˈaɪnæpəl,,1
+131,plate,plˈeɪt,,1
+132,pony,pˈoʊni,,1
+133,pussy,pˈʊsi,,1
+134,pussy,pˈʊsi,,1
+135,room,ɹˈuːm,,1
+136,circus,sˈɜːkəs,,1
+137,shovel,ʃˈʌvəl,,1
+138,shirt,ʃˈɜːt,,1
+139,cement,sᵻmˈɛnt,,1
+140,spade,spˈeɪd,,1
+141,supply,səplˈaɪ,,1
+142,task,tˈæsk,,1
+143,tomato,təmˈeɪɾoʊ,,1
+144,towel,tˈaʊəl,,1
+145,teacher,tˈiːt͡ʃɚ,,1

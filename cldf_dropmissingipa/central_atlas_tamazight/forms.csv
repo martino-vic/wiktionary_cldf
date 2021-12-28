@@ -1,0 +1,649 @@
+ID,Form,IPA,Gloss,Language_ID
+0,ⴰ,/a/,"ya, a Tifinagh letter, the first of the basic Neo-Tifinagh alphabet.",0
+1,ⴰ-,/a-/,noun-forming prefix,0
+2,ⴰⴱⴰⴱⴱⵓⵥ,/ababbuzˤ/,bear,0
+3,ⴰⴱⴰⵏⴷⵓ,/abandu/,"flag
+Synonym: ⴰⵛⵏⵢⴰⵍ (ašnyal)",0
+4,ⴰⴱⵅⵅⵓⵛ,/abxxuʃ/,"black (color)
+Synonym: ⴰⴱⵔⴽⴰⵏ (abrkan)
+Antonyms: ⵓⵎⵍⵉⵍ (umlil), ⴰⵎⵍⵍⴰⵍ (amllal)",0
+5,ⴰⴱⵓⴱⴱⵓ,/abubbu/,"(childish) breast
+Synonym: ⵉⴼⴼ (iff)",0
+6,ⴰⴱⵔⴹⵓⴹ,/abrdˤudˤ/,tail,0
+7,ⴰⴱⵔⴽⴰⵏ,/abrkan/,"black (color), Synonym: ⴰⴱⵅⵅⵓⵛ (abxxuš), Antonyms:",0
+8,ⴰⴱⵔⵉⴷ,/abrid/,road (as opposed to street),0
+9,ⴰⴱⵔⵛⴰⵏ,/abrʃan/,Alternative form of ⴰⴱⵔⴽⴰⵏ (abrkan),0
+10,ⴰⴱⵕⴹⵓⴹ,/abrˤdˤudˤ/,Alternative form of ⴰⴱⵔⴹⵓⴹ (abrḍuḍ),0
+11,ⴰⴳⴰⴷⵉⵔ,/aɡadir/,Agadir (a city in Morocco),0
+12,ⴰⴳⴰⵎⴰ,/aɡama/,nature,0
+13,ⴰⴳⴰⵎⴰⵏ,/aɡaman/,natural,0
+14,ⴰⴳⴰⵜⵓ,/aɡatu/,"rope, Synonyms: ⴰⵙⵇⵇⵏ (asqqn), ⵉⵣⵉⴽⵔ (izikr)",0
+15,ⴰⴳⴳⵓ,/aɡɡu/,(uncountable) smoke,0
+16,ⴰⴳⴳⵓⵔ,/aɡɡur/,portal,0
+17,ⴰⴳⴷⵉ,/aɡdi/,Alternative form of ⵉⴳⴷⵉ (igdi),0
+18,ⴰⴳⴷⵓⴷ,/aɡdud/,(in the singular) people,0
+19,ⴰⴳⴹⵉⴹ,/aɡdˤidˤ/,bird,0
+20,ⴰⴳⵊⴷⵉ,/aɡʒdi/,pole,0
+21,ⴰⴳⵍⵍⵉⴷ,/aɡllid/,"lord, king, master",0
+22,ⴰⴳⵏⴰⵔ,/aɡnar/,twenty,0
+23,ⴰⴳⵔⵉⵙ,/aɡris/,"(rare) ice, Synonym: ⵉⵡⵔⵉ (iwri)",0
+24,ⴰⴳⵯⵍⵉⵎ,/aɡʷlim/,"skin (of a person, as opposed to hide)
+Synonyms: ⴰⵀⵉⵜⵓⵔ (ahitur), ⴰⴽⵙⵓⵎ (aksum)",0
+25,ⴰⴳⵯⵍⵎⴰⵎ,/aɡʷlmam/,lake,0
+26,ⴰⴳⵯⵍⵎⵉⵎ,/aɡʷlmim/,Alternative form of ⴰⴳⵯⵍⵎⴰⵎ (agʷlmam),0
+27,ⴰⴳⵯⵏⵉ,/aɡʷni/,"(geography) depression, val",0
+28,ⴰⴳⵯⵔⵉⵙ,/aɡʷris/,Alternative form of ⴰⴳⵔⵉⵙ (agris),0
+29,ⴰⴷ,/ad/,"this, these, Antonym: ⵉⵏ (in)",0
+30,ⴰⴷⴰⵙⵉⵍ,/adasil/,sole of the foot,0
+31,ⴰⴷⴼⵍ,/adfl/,(uncountable) snow,0
+32,ⴰⴷⵉⵙ,/adis/,"stomach, belly, Synonym: ⴰⵄⴷⴷⵉⵙ (aɛddis)",0
+33,ⴰⴷⵔⴰⵔ,/adrar/,mountain,0
+34,ⴰⴷⵡⴰⵙ,/adwas/,health,0
+35,ⴰⴹⴰⴹ,/adˤadˤ/,finger,0
+36,ⴰⴹⴰⵔ,/adˤar/,"foot, gigot",0
+37,ⴰⴹⴰⵕ,/adˤarˤ/,Alternative form of ⴰⴹⴰⵔ (aḍar),0
+38,ⴰⴹⵏ,/adˤn/,"to be sick, Synonym: ⴰⵖ … ⵛⴰ (aɣ … ša)",0
+39,ⴰⴹⵓ,/adˤu/,wind,0
+40,ⴰⴼⴰ,/afa/,"fire, Synonym: ⵍⵄⴰⴼⵉⵜ (lɛafit)",0
+41,ⴰⴼⴰⵍⴽⵓ,/afalku/,falcon,0
+42,ⴰⴼⴰⵙⵉ,/afasi/,"right (side)
+Antonym: ⴰⵥⵍⵎⴰⴹ (aẓlmaḍ)",0
+43,ⴰⴼⴰⵙⵉ,/afasi/,"right (side)
+Antonym: ⴰⵥⵍⵎⴰⴹ (aẓlmaḍ)",0
+44,ⴰⴼⴼ,/aff/,to swell,0
+45,ⴰⴼⵓⴷ,/afud/,knee,0
+46,ⴰⴼⵓⵙ,/afus/,hand,0
+47,ⴰⴼⵔ,/afr/,wing,0
+48,ⴰⴼⵔⴰ,/afra/,"solution, explanation",0
+49,ⴰⴼⵔⴷⵉⵙ,/afrdis/,"unit, element",0
+50,ⴰⴼⵔⵡ,/afrw/,to fly,0
+51,ⴰⴽⴰⵍ,/akal/,"earth, land, soil, ground",0
+52,ⴰⵀⴰⴷ,/ahad/,Wednesday,0
+53,ⴰⵄⴱⴰⵏ,/aʕban/,wool-made garment,0
+54,ⴰⵅⴰⵜⴰⵔ,/axatar/,"big
+Synonym: ⴰⵎⵇⵇⵔⴰⵏ (amqqran)",0
+55,ⴰⵅⴱⴰⵛ,/axbaʃ/,"claw, Synonym: ⴰⵛⵛⵔ (aššr)",0
+56,ⴰⵅⵍⵉⵊⵊ,/axliʒʒ/,"tree (as opposed to log)
+Synonym: ⴰⵙⴽⵍⵓ (asklu)",0
+57,ⴰⵇⵛⴰⵛ,/aqʃaʃ/,"head
+Synonyms: ⵉⵖⴼ (iɣf), ⴰⵇⵕⵕⵓ (aqṛṛu)",0
+58,ⴰⵊⵢ,/aʒj/,"to be alert, awake",0
+59,ⴰⵎⴰⴹⴰⵍ,/amadˤal/,world,0
+60,ⴰⵎⴰⵣⵉⵖ,/amaziɣ/,"Berber, Amazigh",0
+61,ⴰⵎⴷⴰ,/amda/,oasis,0
+62,ⴰⵎⴷⴷⴰⴽⴽⵯⵍ,/amddakkʷl/,friend,0
+63,ⴰⵎⴹⴰⵏ,/amdˤan/,"(mathematics) number
+Synonym: ⵓⵟⵟⵓⵏ (uṭṭun)",0
+64,ⴰⵎⴽⴽⵓⵥ,/amkkuzˤ/,square,0
+65,ⴰⵎⵓⴷ,/amud/,"seed, Synonym: ⵣⵣⵔⵔⵉⵄⵜ (zzrriɛt)",0
+66,ⴰⵎⵓⴹⵉⵏ,/amudˤin/,sick person,0
+67,ⴰⵎⵓⵏⵙⴽⴰⵍ,/amunskal/,complex,0
+68,ⴰⵎⵖⵔⵓⵏ,/amɣrun/,rhombus,0
+69,ⴰⵎⵖⵖⵔⴰⵏ,/amɣɣran/,Alternative form of ⴰⵎⵇⵇⵔⴰⵏ (amqqran),0
+70,ⴰⵎⵛⵉⵛ,/amʃiʃ/,cat,0
+71,ⴰⵎⵟⵟⴰ,/amtˤtˤa/,tear,0
+72,ⴰⵎⵟⵟⴰⵡ,/amtˤtˤaw/,Alternative form of ⴰⵎⵟⵟⴰ (amṭṭa),0
+73,ⴰⵎⵢⴰ,/amja/,zero,0
+74,ⴰⵎⵥ,/amzˤ/,"to take, to seize, Synonyms: ⴰⵙⵉ (asi), ⴰⵖ (aɣ), to",0
+75,ⴰⵎⵥⵥⵓⵖ,/amzˤzˤuɣ/,ear,0
+76,-ⴰⵏ,/-an/,adjectival suffix,0
+77,-ⴰⵏ,/-an/,nominal suffix,0
+78,ⴰⵏⴰⵎⵓⵔ,/anamur/,national,0
+79,ⴰⵏⴰⵏⴰⵚ,/ananasˤ/,pineapple,0
+80,ⴰⵏⴼⴰⵍ,/anfal/,folly,0
+81,ⴰⵏⵓ,/anu/,well (water),0
+82,ⴰⵏⵛⵓⵛ,/anʃuʃ/,"lip, Synonym: ⴰⵅⵎⵉⵎ (axmim)",0
+83,ⴰⵔⴰⵎ,/aram/,Tuesday,0
+84,ⴰⵔⴱⴰ,/arba/,"child, Synonym: ⵉⵛⵉⵔⵔⵉ (iširri)",0
+85,ⴰⵔⴳⴰⵏ,/arɡan/,"Argania spinosa, argan tree",0
+86,ⴰⵔⵢⴰⵣ,/arjaz/,Alternative form of ⴰⵔⴳⴰⵣ (argaz),0
+87,ⴰⵖⵉⵍⴰⵙ,/aɣilas/,tiger,0
+88,ⴰⵙ,/as/,"to come, Synonym: ⴷⴷⵓ ⴷ (ddu d)",0
+89,ⴰⵙⴳⴳⵯⴰⵙ,/asɡɡʷas/,year,0
+90,ⴰⵙⴳⴷ,/asɡd/,religion,0
+91,ⴰⵙⴽⵍⵓ,/asklu/,"tree (as opposed to log), Synonym: ⴰⵅⵍⵉⵊⵊ (axlijj)",0
+92,ⴰⵙⵇⵇⵏ,/asqqn/,"rope, Synonyms: ⵉⵣⵉⴽⵔ (izikr), ⴰⴳⴰⵜⵓ (agatu)",0
+93,ⴰⵙⵉ,/asi/,"to pick up, to take, Synonyms: ⴰⵎⵥ (amẓ), ⴰⵖ (aɣ)",0
+94,ⴰⵙⵉⴹⵏ,/asidˤn/,counting,0
+95,ⴰⵙⵉⴼ,/asif/,river,0
+96,ⴰⵙⵍⵎ,/aslm/,fish,0
+97,ⴰⵙⵏⴳⴰⵔ,/asnɡar/,"(uncountable) corn, maize",0
+98,ⴰⵙⵓⴷⴷⵔ,/asuddr/,nightingale,0
+99,ⴰⵙⵓⵎⵔ,/asumr/,(mathematics) proposition,0
+100,ⴰⵙⵓⵖⵏ,/asuɣn/,demand,0
+101,ⴰⵙⵙ,/ass/,day,0
+102,ⴰⵙⵙ,/ass/,"to tie, Synonyms: ⵇⵇⵏ (qqn), ⴽⵔⵙ (krs), ⴽⵔⴼ (krf)",0
+103,ⴰⵙⵙ,/ass/,"to tie, Synonyms: ⵇⵇⵏ (qqn), ⴽⵔⵙ (krs), ⴽⵔⴼ (krf)",0
+104,ⴰⵙⵢ,/asj/,to pick up,0
+105,ⴰⵛⴰⵍ,/aʃal/,Alternative form of ⴰⴽⴰⵍ (akal),0
+106,ⴰⵛⴹⴹⵡⴰⵏ,/aʃdˤdˤwan/,Alternative form of ⴰⵛⵟⵟⵡⴰⵏ (ašṭṭwan),0
+107,ⴰⵛⵏⵢⴰⵍ,/aʃnjal/,"flag
+Synonym: ⴰⴱⴰⵏⴷⵓ (abandu)",0
+108,ⴰⵛⵔ,/aʃr/,Sunday,0
+109,ⴰⵛⵛⵔ,/aʃʃr/,"(originally) fingernail, (by extension) (finger)nail,",0
+110,ⴰⵛⵟⵟⵡⴰⵏ,/aʃtˤtˤwan/,"short, Synonym: ⴳⵣⵉⵍ (gzil)",0
+111,ⴰⵜⴰⵢ,/ataj/,"tea (drink), Camellia sinensis, tea tree",0
+112,ⴰⵡⴰⵍ,/awal/,word,0
+113,ⴰⵡⴽⴽⵉⵡ,/awkkiw/,worm,0
+114,ⴰⵡⵔⴰⵖ,/awraɣ/,yellow (color),0
+115,ⴰⵡⵔⴰⵙ,/awras/,golden-coated horse,0
+116,ⴰⵢⴰⴷ,/ajad/,this (demonstrative proximal pronoun),0
+117,ⴰⵢⴷⵉ,/ajdi/,Alternative form of ⵉⴳⴷⵉ (igdi),0
+118,ⴰⵢⵉⵙ,/ajis/,horse,0
+119,ⴰⵢⵊⵊⵉⴳ,/ajʒʒiɡ/,flower,0
+120,ⴰⵢⵓⵔ,/ajur/,moon,0
+121,ⴰⵣⴰⴳⴳⵯⵣ,/azaɡɡʷz/,airport,0
+122,ⴰⵣⴰⵍ,/azal/,"value, worth",0
+123,ⴰⵣⴰⵔⵓ,/azaru/,"distance
+Synonym: ⴰⵎⵛⵛⴰⵇ (amššaq)",0
+124,ⴰⵣⴳⴳⵯⴰⵖ,/azɡɡʷaɣ/,red (color),0
+125,ⴰⵣⴳⵣⴰ,/azɡza/,green (color),0
+126,ⴰⵣⴳⵣⴰⵡ,/azɡzaw/,Alternative form of ⴰⵣⴳⵣⴰ (azgza),0
+127,ⴰⵣⵓⵍ,/azul/,hello,0
+128,ⴰⵣⵔⵉⵔⵉⴳ,/azririɡ/,line,0
+129,ⴰⵣⵡⵓ,/azwu/,nice breeze,0
+130,ⴰⵣⵡⵡⴰⵖ,/azɡɡʷaɣ/,Alternative form of ⴰⵣⴳⴳⵯⴰⵖ (azggʷaɣ),0
+131,ⴰⵣⵢⴰⵎ,/azjam/,dolphin,0
+132,ⴰⵣⵣⴰⵔ,/azzar/,hair (on a human head),0
+133,ⴰⵣⵣⵍ,/azzl/,"to flow, Synonyms: ⵔⵡⵍ (rwl), ⵙⵓⴷⴷⵎ (suddm), ⵏⴳⵉ (ngi)",0
+134,ⴰⵥⵍⵎⴰⴹ,/azˤlmadˤ/,"left (side)
+Antonym: ⴰⴼⴰⵙⵉ (afasi)",0
+135,ⴰⵥⵍⵎⴰⴹ,/azˤlmadˤ/,"left (side)
+Antonym: ⴰⴼⴰⵙⵉ (afasi)",0
+136,ⴰⵥⵓⵎ,/azˤum/,to fast,0
+137,ⴰⵥⵓⵔ,/azˤur/,root,0
+138,ⴰⵥⵓⵕ,/azˤurˤ/,Alternative form of ⴰⵥⵓⵔ (aẓur),0
+139,ⴰⵥⵔⴼ,/azˤrf/,silver,0
+140,ⴰⵥⵔⵓ,/azˤru/,"stone, Synonym: ⵉⵙⵍⵍⵉ (islli)",0
+141,ⴰⵥⵔⵓ,/azˤru/,"Azrou (a city in the region of Fez-Meknes, Morocco)",0
+142,ⴰⵥⵕⴼ,/azˤrˤf/,Alternative form of ⴰⵥⵔⴼ (aẓrf),0
+143,ⴰⵥⵕⵓ,/azˤrˤu/,Alternative form of ⴰⵥⵔⵓ (aẓru),0
+144,ⴱ,/b/,"yab, a Tifinagh letter, the second of the basic Neo-Tifinagh alphabet.",0
+145,ⴱⴰⵍⵎⴰ,/balma/,"swamp
+Synonym: ⴼⵜⵉⵙ (ftis)",0
+146,ⴱⴱⴰ,/bba/,father,0
+147,ⴱⴱⵢ,/bbj/,to cut,0
+148,ⴱⴷⴷ,/bdd/,"to stand, to stop",0
+149,ⴱⴷⴷⵍ,/bddl/,to change,0
+150,ⴱⴻⵏⴰⴷⵎ,/bənadm/,Alternative form of ⴱⵏⴰⴷⵎ (bnadm),0
+151,ⴱⵄⴷ,/bʕd/,to be far,0
+152,ⴱⵏⴰⴷⵎ,/bnadm/,person,0
+153,ⴱⵔⵔⵃ,/brrħ/,to announce,0
+154,ⴱⵔⵔⵎ,/brrm/,to turn,0
+155,ⴱⵔⵛⵎ,/brʃm/,to braid,0
+156,ⴱⵣⵢ,/bzj/,wet,0
+157,ⴱⵣⵣⴰⴼ,/bzzaf/,"many, much, Synonym: ⴳⴳⵉⴷⵉ (ggidi)",0
+158,ⴳ,/ɡ/,"yag, a Tifinagh letter, the third of the basic Neo-Tifinagh",0
+159,ⴳ,/ɡ/,son,0
+160,ⴳⴰⵔ,/ɡar/,bad,0
+161,ⴳⴳⴰⵍⵍ,/ɡɡall/,to swear,0
+162,ⴳⴳⵉⴷⵉ,/ɡɡidi/,"many, much, Synonym: ⴱⵣⵣⴰⴼ (bzzaf)",0
+163,ⴳⴳⵯⴷ,/ɡɡʷd/,to fear,0
+164,ⴳⵎⴰ,/ɡma/,brother,0
+165,ⴳⵎⵔ,/ɡmr/,(transitive) to hunt,0
+166,ⴳⵏ,/ɡn/,to sleep,0
+167,ⴳⵏⵓ,/ɡnu/,to sew,0
+168,ⴳⵔⵙ,/ɡrs/,"to freeze, Synonym: ⵊⵎⵎⴷ (jmmd)",0
+169,ⴳⵣⵉⵍ,/ɡzil/,"short, Synonym: ⴰⵛⵟⵟⵡⴰⵏ (ašṭṭwan)",0
+170,ⴳⵯⵜ,/ɡʷt/,to hit,0
+171,ⴷ,/d/,"(copula) to be, attributive particle",0
+172,ⴷ,/d/,(only with nouns) and,0
+173,ⴷ,/d/,"with (indicating company), near (indicating proximity),",0
+174,ⴷⴰⴷ,/dad/,here,0
+175,ⴷⴷⴰⵡ,/ddaw/,under,0
+176,ⴷⴷⵓ,/ddu/,to go,0
+177,ⴷⴷⵔ,/ddr/,"to live, to be alive",0
+178,ⴷⴼⴼⵉⵔ,/dffir/,behind,0
+179,ⴷⴼⵄ,/dfʕ/,"to push, Synonym: ⵜⵃⵉ (tḥi), Antonyms: ⵏⵣⵖ (nzɣ), ⵍⴷⵉ",0
+180,ⴷⵉⵏ,/din/,there,0
+181,ⴷⵔⵓⵛ,/druʃ/,"to be few, rare",0
+182,ⴷⵢ,/dj/,Alternative form of ⵢ (y),0
+183,ⴹ,/dˤ/,"yadd, a Tifinagh letter, the fifth of the basic Neo-Tifinagh alphabet.",0
+184,ⴹⴰⵔ,/dˤar/,"after, Synonym: ⴷⴼⴼⵉⵔ (dffir)",0
+185,ⴹⴰⵕ,/dˤarˤ/,Alternative form of ⴹⴰⵔ (ḍar),0
+186,ⴹⴹⴹ,/dˤdˤdˤ/,Alternative form of ⵟⵟⴹ (ṭṭḍ),0
+187,ⴹⵓⵡⵔ,/dˤuwr/,to turn,0
+188,ⴹⵔ,/dˤr/,"to fall, Synonym: ⵜⵜⵓⵜⵜⵢ (ttutty), (Ayt Ndhir) to go",0
+189,ⴹⵕ,/dˤrˤ/,Alternative form of ⴹⵔ (ḍr),0
+190,ⴻ,/ə/,"yey, a Tifinagh letter, the sixth of the basic Neo-Tifinagh alphabet.",0
+191,ⴼ,/f/,"yaf, a Tifinagh letter, the seventh of the basic Neo-Tifinagh alphabet.",0
+192,ⴼⴰⴷ,/fad/,thirst,0
+193,ⴼⴰⴼⴰ,/fafa/,to wake up,0
+194,ⴼⴼⵖ,/ffɣ/,to exit,0
+195,ⴼⴽ,/fk/,Alternative form of ⴽⴼ (kf),0
+196,ⴼⵍⵉⵢ,/flij/,"wide, Synonym: ⵡⵙⵄ (wsɛ)",0
+197,ⴼⵔⴼⵔ,/frfr/,to beat one's wings,0
+198,ⴼⵙⴷ,/fsd/,to damage,0
+199,ⴼⵙⵓⵙ,/fsus/,to become or be light,0
+200,ⴼⵙⵢ,/fsj/,to become melted,0
+201,ⴼⵛ,/fʃ/,Alternative form of ⴽⴼ (kf),0
+202,ⴼⵜⵉⵙ,/ftis/,"swamp
+Synonym: ⴱⴰⵍⵎⴰ (balma)",0
+203,ⴽ,/k/,"yak, a Tifinagh letter, the eighth of the basic Neo-Tifinagh alphabet.",0
+204,ⴽⴰⵀⵉⵏⴰ,/kahina/,"priestess, prophetess",0
+205,ⴽⴳⴳ,/kɡɡ/,thou (second person masculine singular independent,0
+206,ⴽⴹⵓ,/kdˤu/,to smell,0
+207,ⴽⴼ,/kf/,to give,0
+208,ⴽⴽⵓⵥ,/kkuzˤ/,four,0
+209,ⴽⴽⵔ,/kkr/,Alternative form of ⵏⴽⵔ (nkr),0
+210,ⴽⵊⵎ,/kʒm/,to enter,0
+211,ⴽⵎⴹ,/kmdˤ/,to burn,0
+212,ⴽⵎⵎ,/kmm/,thou (second person feminine singular independent pronoun),0
+213,ⴽⵎⵣ,/kmz/,"to scratch, to relieve an itch",0
+214,ⴽⵏⵉⵏⵜⵉ,/kninti/,ye (second person feminine plural independent pronoun),0
+215,ⴽⵓⵍ,/kul/,"all, Synonym: ⵇⴰⵃ (qaḥ)",0
+216,ⴽⵓⵍ,/kul/,"all, Synonym: ⵇⴰⵃ (qaḥ)",0
+217,ⴽⵓⵏⵏⵉ,/kunni/,ye (second person masculine plural independent pronoun),0
+218,ⴽⵔⴰⴹ,/kradˤ/,three,0
+219,ⴽⵔⴼ,/krf/,"to tie, especially feet
+Synonyms: ⴰⵙⵙ (ass), ⵇⵇⵏ (qqn), ⴽⵔⵙ (krs)",0
+220,ⴽⵔⵙ,/krs/,"to tie knot
+Synonyms: ⴰⵙⵙ (ass), ⵇⵇⵏ (qqn), ⴽⵔⴼ (krf)",0
+221,ⴽⵔⵣ,/krz/,to plough,0
+222,ⴽⵕⴰⴹ,/krˤadˤ/,Alternative form of ⴽⵔⴰⴹ (kraḍ),0
+223,ⴽⵯⵏⵏⵉ,/kʷnni/,Alternative form of ⴽⵓⵏⵏⵉ (kunni),0
+224,ⴽⵯⵏⵏⵉⵎⵜⵉ,/kʷnnimti/,Alternative form of ⴽⵏⵉⵏⵜⵉ (kninti),0
+225,ⵀ,/h/,"yah, a Tifinagh letter, the ninth of the basic Neo-Tifinagh alphabet.",0
+226,ⵀⴷⵔ,/hdr/,"to play, Synonyms: ⵍⵄⴱ (lɛb), ⵓⵔⴰⵔ (urar)",0
+227,ⵀⵣⵣⴰ,/hzza/,"to hold up, (of a liquid) to cause to float, ⵢⵀⵣⵣⴰ",0
+228,ⵃ,/ħ/,"yahh, a Tifinagh letter, the tenth of the basic Neo-Tifinagh alphabet.",0
+229,ⵃⴰⵙⴱ,/ħasb/,to count,0
+230,ⵃⴼⵓ,/ħfu/,to dull (as opposed to to sharp),0
+231,ⵃⵎⵓ,/ħmu/,"to be hot, warm",0
+232,ⵃⵏⵃⵏ,/ħnħn/,to neigh,0
+233,ⵃⵏⵢⵉ,/ħnji/,"neck (as opposed to nape), Synonym: ⴰⵎⴳⵔⴹ (amgrḍ)",0
+234,ⵃⵓⴹⵔ,/ħudˤr/,to bend down,0
+235,ⵄ,/ʕ/,"yaa, a Tifinagh letter, the eleventh of the basic Neo-Tifinagh alphabet.",0
+236,ⵄⴰⵔⵉ,/ʕari/,"mountains (as opposed to hills), Synonym: ⵊⵊⴱⵍ (jjbl),",0
+237,ⵄⴰⵡⵏ,/ʕawn/,to help,0
+238,ⵄⴷⴷⵓ,/ʕddu/,to abound,0
+239,ⵄⵍⴰⵃⵇⵇ,/ʕlaħqq/,because,0
+240,ⵄⵎⵎⵔ,/ʕmmr/,to be full,0
+241,ⵄⵓⵎ,/ʕum/,to swim,0
+242,ⵄⵛⵔⴰ,/ʕʃra/,ten,0
+243,ⵄⵛⵔⵉⵏ,/ʕʃrin/,twenty,0
+244,-ⵅ,/-x/,"I (first person singular verb subject affix), ⵓⵔ ⵙⵙⵏⵅur",0
+245,ⵅ,/x/,"yakh, a Tifinagh letter, the twelfth of the basic Neo-Tifinagh alphabet.",0
+246,ⵅⴰⴹⵔ,/xadˤr/,to bet,0
+247,ⵅⴷⵎ,/xdm/,to work,0
+248,ⵅⴼ,/xf/,Alternative form of ⵖⴼ (ɣf),0
+249,ⵅⵅⵓ,/xxu/,"to be nasty, mean, bad",0
+250,ⵅⵎⵎⵎ,/xmmm/,"to think, to reflect, to cogitate",0
+251,ⵅⵎⵙⴰ,/xmsa/,five,0
+252,ⵅⵡⵓ,/xwu/,to become or be empty,0
+253,ⵇ,/q/,"yaq, a Tifinagh letter, the thirteenth of the basic Neo-Tifinagh alphabet.",0
+254,ⵇⴰⴱⵍ,/qabl/,to face,0
+255,ⵇⴰⵃ,/qaħ/,"all, Synonym: ⴽⵓⵍ (kul)",0
+256,ⵇⵇⴰⵔ,/qqar/,to be hard and dry,0
+257,ⵇⵇⵉⵎ,/qqim/,"to sit, to stay, to remain",0
+258,ⵇⵇⵏ,/qqn/,"to tie
+Synonyms: ⴰⵙⵙ (ass), ⴽⵔⵙ (krs), ⴽⵔⴼ (krf)",0
+259,ⵇⵇⵙ,/qqs/,"to bite (insect)
+Synonym: ⵛⵛ (šš)",0
+260,ⵇⵎⵔ,/qmr/,narrow,0
+261,ⵇⵔⵔⴱ,/qrrb/,near,0
+262,ⵉ,/i/,"yi, a Tifinagh letter, the fourteenth of the basic Neo-Tifinagh alphabet.",0
+263,ⵉ,/i/,"for, to, in order to, so as to, preposition of purpose, aim, goal",0
+264,ⵉⴱⵉⴱⴸ,/ibibd/,hoopoe,0
+265,ⵉⴱⵍⵉⵍⵍⵉ,/iblilli/,butterfly,0
+266,ⵉⴳⴷⵉ,/iɡdi/,dog,0
+267,ⵉⴳⵉⴷⵔ,/iɡidr/,eagle,0
+268,ⵉⴳⵍⴳⵉⵣ,/iɡlɡiz/,scarab beetle,0
+269,ⵉⴳⵏⵏⴰ,/iɡnna/,sky,0
+270,ⵉⴳⵔ,/iɡr/,field,0
+271,ⵉⴷⴰⵎⵎⵏ,/idammn/,(plural only) blood,0
+272,ⵉⴷⵔⵉⵙ,/idris/,"A male given name from Arabic, equivalent to English",0
+273,ⵉⴹ,/idˤ/,night,0
+274,ⵉⴼⴼ,/iff/,"breast, Synonym: ⴰⴱⵓⴱⴱⵓ (abubbu)",0
+275,ⵉⴼⵉⵖⵔ,/ifiɣr/,snake,0
+276,ⵉⴼⵔ,/ifr/,"leaf (vegetal), Synonym: ⵜⴰⵡⵔⵉⵇⵜ (tawriqt)",0
+277,ⵉⴼⵙⴰⵏ,/ifsan/,sowing seeds,0
+278,ⵉⵄⴱⴰⵏⵏ,/iʕbann/,plural of ⴰⵄⴱⴰⵏ (aɛban),0
+279,ⵉⵅⴼ,/ixf/,Alternative form of ⵉⵖⴼ (iɣf),0
+280,ⵉⵅⵙ,/ixs/,Alternative form of ⵉⵖⵙ (iɣs),0
+281,ⵉⵅⵚ,/ixsˤ/,Alternative form of ⵉⵖⵙ (iɣs),0
+282,ⵉⵍⵎ,/ilm/,skin,0
+283,ⵉⵍⵙ,/ils/,tongue (organ),0
+284,ⵉⵎⵉ,/imi/,"mouth, Synonym: ⴰⵇⵎⵓ (aqmu), opening, doorway",0
+285,ⵉⵎⵙ,/ims/,"fat, Synonym: ⵜⴰⴷⵓⵏⵜ (tadunt)",0
+286,ⵉⵏ,/in/,"that, those
+Antonym: ⴰⴷ (ad)",0
+287,ⵉⵏⴰⵡ,/inaw/,"speech, oration",0
+288,ⵉⵏⵉ,/ini/,to say,0
+289,ⵉⵔⴷ,/ird/,to be washed,0
+290,ⵉⵔⵉⵔ,/irir/,"to sing, Synonym: ⵉⵏⵉ ⵉⵣⵍⴰⵏ (ini izlan)",0
+291,ⵉⵔⵙ,/irs/,Alternative form of ⵉⵍⵙ (ils),0
+292,ⵉⵔⵥⵥⵉ,/irzˤzˤi/,wasp,0
+293,ⵉⵖⴷ,/iɣd/,ashes,0
+294,ⵉⵖⴼ,/iɣf/,"head, Synonyms: ⴰⵇⵕⵕⵓ (aqṛṛu), ⴰⵇⵛⴰⵛ (aqšaš)",0
+295,ⵉⵖⵕⵢⴰⵏ,/iɣrˤjan/,stick,0
+296,ⵉⵖⵙ,/iɣs/,bone,0
+297,ⵉⵖⵚ,/iɣsˤ/,Alternative form of ⵉⵖⵙ (iɣs),0
+298,ⵉⵙⴳⵏⵡ,/isɡnw/,storm clouds,0
+299,ⵉⵙⴽ,/isk/,horn (of animal),0
+300,ⵉⵙⴽⵔ,/iskr/,nail,0
+301,ⵉⵙⵉⵏ,/isin/,to know (facts),0
+302,ⵉⵙⵍⴰⵎ,/islam/,Islam,0
+303,ⵉⵙⵍⵍⵉ,/islli/,"stone, Synonym: ⴰⵥⵔⵓ (aẓru)",0
+304,ⵉⵙⵕⵎⴰⵏ,/isrˤman/,intestines,0
+305,ⵉⵛⵉⵔⵔⵉ,/iʃirri/,"child, Synonym: ⴰⵔⴱⴰ (arba)",0
+306,ⵉⵛⵛ,/iʃʃ/,Alternative form of ⵉⵙⴽ (isk),0
+307,ⵉⵛⵛⵔ,/iʃʃr/,Alternative form of ⵉⵙⴽⵔ (iskr),0
+308,ⵉⵜⵔⵉ,/itri/,a star,0
+309,ⵉⵡⵔⵉ,/iwri/,"ice, Synonym: ⴰⴳⵔⵉⵙ (agris)",0
+310,ⵉⵢⴷⵉ,/ijdi/,Alternative form of ⵉⴳⴷⵉ (igdi),0
+311,ⵉⵣⵍⴰⵏ,/izlan/,songs,0
+312,ⵉⵣⵍⵉ,/izli/,anthem,0
+313,ⵉⵣⵎ,/izm/,lion,0
+314,ⵉⵥⵉⵍ,/izˤil/,"to be good, nice, pretty, Synonym: ⵖⵓⴷⵓ (ɣudu)",0
+315,ⵊ,/ʒ/,"yazh, a Tifinagh letter, the fifteenth of the basic Neo-Tifinagh alphabet.",0
+316,ⵊⵊⴱⵍ,/ʒʒbl/,"mountain (as opposed to hill), Synonym: ⵄⴰⵔⵉ (ɛari)",0
+317,ⵊⵊⵢ,/ʒʒj/,to get well,0
+318,ⵊⵎⵄ,/ʒmʕ/,to assemble,0
+319,ⵊⵎⵎⴷ,/ʒmmd/,"to freeze, Synonym: ⴳⵔⵙ (grs)",0
+320,ⵍ,/l/,"yal, a Tifinagh letter, the sixteenth of the basic Neo-Tifinagh alphabet.",0
+321,ⵍⴰⵥ,/lazˤ/,hunger,0
+322,ⵍⴱⵃⵔ,/lbħr/,sea,0
+323,ⵍⴷⵉ,/ldi/,"to pull, Synonym: ⵏⵣⵖ (nzɣ), Antonyms: ⴷⴼⵄ (dfɛ), ⵜⵃⵉ",0
+324,ⵍⵃⵇⵇ,/lħqq/,"right, reason",0
+325,ⵍⵄⴰⴼⵉⵜ,/lʕafit/,"fire, Synonym: ⴰⴼⴰ (afa)",0
+326,ⵍⵄⴱ,/lʕb/,"to play, Synonyms: ⵓⵔⴰⵔ (urar), ⵀⴷⵔ (hdr)",0
+327,ⵍⵄⵉⵍ,/lʕil/,"boy, child",0
+328,ⵍⵉⴱⵢⴰ,/libja/,Libya (a country in Africa),0
+329,ⵍⵎⴷ,/lmd/,to learn,0
+330,ⵍⵎⵖⵔⵉⴱ,/lmɣrib/,Maghreb,0
+331,ⵍⵙ,/ls/,to put on,0
+332,ⵍⵡⵉⵖ,/lwiɣ/,to be smooth,0
+333,ⵎ,/m/,"yam, a Tifinagh letter, the seventeenth of the basic Neo-Tifinagh alphabet.",0
+334,ⵎ-,/m-/,"interrogative prefix, (no longer productive) noun-forming",0
+335,ⵎⴰ,/ma/,Alternative form of ⵎⵎⴰ (mma),0
+336,ⵎⴰⵏⵉ,/mani/,where?,0
+337,ⵎⴰⵏⵜⵓⵔ,/mantur/,"when?, Synonym: ⵎⵉⵍⵎⵉ (milmi)",0
+338,ⵎⴰⵢ,/maj/,"what?, who?",0
+339,ⵎⴹⵍ,/mdˤl/,to bury,0
+340,ⵎⴽ,/mk/,if,0
+341,ⵎⵉⵍⵎⵉ,/milmi/,"when?, Synonym: ⵎⴰⵏⵜⵓⵔ (mantur)",0
+342,ⵎⵉⵎⴽ,/mimk/,how?,0
+343,ⵎⵉⵎⵛ,/mimʃ/,Alternative form of ⵎⵉⵎⴽ (mimk),0
+344,ⵎⵍⵓⵍ,/mlul/,to be white (color),0
+345,ⵎⵍⵙⵉⵡⵜ,/mlsiwt/,"clothing, Synonym: ⵉⵄⴱⴰⵏⵏ (iɛbann)",0
+346,ⵎⵎⴰ,/mma/,mother,0
+347,ⵎⵎⵖ,/mmɣ/,"moist, damp",0
+348,ⵎⵎⵜ,/mmt/,to die,0
+349,ⵎⵔⴰⵡ,/mraw/,ten,0
+350,ⵎⵔⵢ,/mrj/,to rub,0
+351,ⵎⵔⵥⵎ,/mrzˤm/,open,0
+352,ⵎⵕⵥⵎ,/mrˤzˤm/,Alternative form of ⵎⵔⵥⵎ (mrẓm),0
+353,ⵎⵖⵓⵔ,/mɣur/,"to be big, old",0
+354,ⵎⵛ,/mʃ/,Alternative form of ⵎⴽ (mk),0
+355,ⵎⵢⴰ,/mja/,hundred,0
+356,ⵎⵥⵉⵢ,/mzˤij/,to be small,0
+357,-ⵏ,/-n/,"they (third person masculine plural verb subject affix),",0
+358,ⵏ,/n/,"yan, a Tifinagh letter, the eighteenth of the basic",0
+359,ⵏ,/n/,"of, genitive preposition",0
+360,ⵏ-,/n-/,"we (first person plural inclusive verb subject affix),",0
+361,ⵏⴳⵉ,/nɡi/,"to flow, Synonyms: ⵔⵡⵍ (rwl), ⴰⵣⵣⵍ (azzl), ⵙⵓⴷⴷⵎ (suddm)",0
+362,ⵏⴹⵍ,/ndˤl/,Alternative form of ⵎⴹⵍ (mḍl),0
+363,ⵏⴻⵖⴷ,/nəɣd/,"or, Synonym: ⵏⵖ (nɣ)",0
+364,ⵏⴻⵖⴷⴷ,/nəɣdd/,Alternative form of ⵏⴻⵖⴷ (neɣd),0
+365,ⵏⴽⴽ,/nkk/,I (first person singular independent pronoun),0
+366,ⵏⴽⵔ,/nkr/,to get up,0
+367,ⵏⵇⵇⴱ,/nqqb/,"to pierce, to stab",0
+368,-ⵏⵉ,/-ni/,suffix forming plural pronouns,0
+369,ⵏⵉⵀⵏⵉ,/nihni/,they (third person masculine plural independent pronoun),0
+370,ⵏⵉⵀⵏⵜⵉ,/nihnti/,they (third person feminine plural independent pronoun),0
+371,ⵏⵎ,/nm/,"straight, Synonym: ⵙⴳⴳⵎ (sggm)",0
+372,ⵏⵏⴰⵖ,/nnaɣ/,to fight,0
+373,ⵏⵏⵉⴳ,/nniɡ/,"on
+Synonym: ⵖⴼ (ɣf)",0
+374,ⵏⵏⵉⵍ,/nnil/,"the Nile
+ⴰⵙⵉⴼ ⵏ ⵏⵏⵉⵍasif n nnilthe Nile river",0
+375,ⵏⵓⴽⴽⵏⵉ,/nukkni/,we (first person plural inclusive independent pronoun),0
+376,ⵏⵓⵎⵉⴷⵢⴰ,/numidja/,Numidia,0
+377,ⵏⵖ,/nɣ/,or,0
+378,ⵏⵖ,/nɣ/,to kill,0
+379,ⵏⵖ,/nɣ/,to kill,0
+380,ⵏⵖⴷ,/nəɣd/,Alternative form of ⵏⴻⵖⴷ (neɣd),0
+381,ⵏⵖⴷⴷ,/nəɣdd/,Alternative form of ⵏⴻⵖⴷ (neɣd),0
+382,ⵏⵖⵖⴱ,/nɣɣb/,Alternative form of ⵏⵇⵇⴱ (nqqb),0
+383,ⵏⵙ,/ns/,Alternative form of ⵍⵙ (ls),0
+384,ⵏⵜⵜⴰⵜ,/nttat/,she (third person feminine singular independent pronoun),0
+385,ⵏⵡ,/nw/,(passive) to be cooked,0
+386,ⵏⵣⵖ,/nzɣ/,"to pull
+Synonym: ⵍⴷⵉ (ldi)
+Antonyms: ⴷⴼⵄ (dfɛ), ⵜⵃⵉ (tḥi)",0
+387,ⵓⴷⵎ,/udm/,"face, figure, appearance, honor, respect",0
+388,ⵓⴹ,/udˤ/,wind,0
+389,ⵓⵊⴷⵉⴷ,/uʒdid/,new,0
+390,ⵓⵍ,/ul/,heart,0
+391,ⵓⵍⴳⵉⵏ,/ulɡin/,regular,0
+392,ⵓⵍⵜⵎⴰ,/ultəma/,sister,0
+393,ⵓⵎⵓⵎ,/umum/,"very dirty, Synonym: ⵔⴽⵓ (rku)",0
+394,ⵓⵏⴼⵙ,/unfs/,breath,0
+395,ⵓⵔ,/ur/,"(used when immediately preceding a verb) not, ⵓⵔ ⵙⵙⵏⵅur",0
+396,ⵓⵔⴰⵔ,/urar/,"to play, Synonyms: ⵍⵄⴱ (lɛb), ⵀⴷⵔ (hdr)",0
+397,ⵓⵔⴷ,/urd/,(used immediately preceding a noun or a pronoun) not,0
+398,ⵓⵔⵉⵃⵍⵉⵏ,/uriħlin/,"bad, who or which is not good",0
+399,ⵓⵔⵖ,/urɣ/,gold,0
+400,ⵓⵙⵉⴹⵏ,/usidˤn/,counting,0
+401,ⵓⵙⵎ,/usm/,lightning,0
+402,ⵓⵟⵟⵓⵏ,/utˤtˤun/,"number
+Synonym: ⴰⵎⴹⴰⵏ (amḍan)",0
+403,ⵓⵣⵎⵎⵓⵔ,/uzmmur/,olive tree,0
+404,ⵓⵣⵣⴰⵍ,/uzzal/,(uncountable) iron (Fe),0
+405,ⵔ,/r/,"yar, a Tifinagh letter, the twentieth of the basic Neo-Tifinagh alphabet.",0
+406,ⵔⴰⵄⴰ,/raʕa/,to look at,0
+407,ⵔⴰⵔ,/rar/,"to throw up
+(figuratively) to vomit",0
+408,ⵔⴱⴱⴰ,/rbba/,"to grow up, to raise",0
+409,ⵔⴱⵄⴰ,/rbʕa/,four,0
+410,ⵔⴽⵓ,/rku/,"dirty, Synonym: ⵓⵎⵓⵎ (umum)",0
+411,ⵔⵔⵉⵛ,/rriʃ/,feather (of bird),0
+412,ⵔⵔⵎⵍⴰ,/rrmla/,"sand, Synonym: ⴰⵍⵅⵉⵅ (alxix)",0
+413,ⵔⵖ,/rɣ/,to be warm,0
+414,ⵔⵛⵓ,/rʃu/,to be rotten (especially wood),0
+415,ⵔⵡⵍ,/rwl/,to run,0
+416,ⵔⵥⵉⴳ,/rzˤiɡ/,"bitter, Synonym: ⵙⵎⵓⵎ (smum)",0
+417,ⵕ,/rˤ/,"yarr, a Tifinagh letter, the twenty-first of the basic Neo-Tifinagh alphabet.",0
+418,ⵕⵥⵉⴳ,/rˤzˤiɡ/,Alternative form of ⵔⵥⵉⴳ (rẓig),0
+419,ⵖ,/ɣ/,"yagh, a Tifinagh letter, the twenty-second of the basic",0
+420,ⵖ,/ɣ/,"to, towards (destination)",0
+421,ⵖⴰⵔ,/ɣar/,to be dry,0
+422,ⵖⴼ,/ɣf/,"on, Synonym: ⵏⵏⵉⴳ (nnig)",0
+423,ⵖⵉⵎ,/ɣim/,to sit,0
+424,ⵖⵓⴷⵓ,/ɣudu/,"to be good, nice, pretty, Synonym: ⵉⵥⵉⵍ (iẓil)",0
+425,ⵖⵓⵙ,/ɣus/,"(intransitive) to burn, Synonym: ⴽⵎⴹ (kmḍ)",0
+426,ⵖⵔ,/ɣr/,"at, to, towards, Synonym: ⵙ (s), until, Synonym: ⴰⵍ",0
+427,ⵖⵖⵉⵎ,/ɣɣim/,Alternative form of ⵇⵇⵉⵎ (qqim),0
+428,ⵖⵣ,/ɣz/,to dig,0
+429,ⵖⵣⵉⴼ,/ɣzif/,to be long (as opposed to wide),0
+430,ⵙ,/s/,"yas, a Tifinagh letter, the twenty-third of the basic Neo-Tifinagh alphabet.",0
+431,ⵙ,/s/,"to, toward
+Synonym: ⵖⵔ (ɣr)",0
+432,ⵙⴰ,/sa/,seven,0
+433,ⵙⴰⴷ,/sad/,Saturday,0
+434,ⵙⴰⵍ,/sal/,"to question, to ask",0
+435,ⵙⴰⵎ,/sam/,Friday,0
+436,ⵙⴱⵄⴰ,/sbʕa/,seven,0
+437,ⵙⴳⴳⵎ,/sɡɡm/,"straight, Synonym: ⵏⵎ (nm)",0
+438,ⵙⴷⵉⴷ,/sdid/,to be thin,0
+439,ⵙⴹⵉⵙ,/sdˤis/,six,0
+440,ⵙⴹⵉⵚ,/sdˤisˤ/,Alternative form of ⵙⴹⵉⵙ (sḍis),0
+441,ⵙⴼⴹ,/sfdˤ/,to wipe,0
+442,ⵙⴽⴽⵔ,/skkr/,drunk,0
+443,ⵙⴽⵏ,/skn/,to inhabit,0
+444,ⵙⵃⵓ,/sħu/,"to be right, to be strong",0
+445,ⵙⵉⵏ,/sin/,two,0
+446,ⵙⵍ,/sl/,to hear,0
+447,ⵙⵍⵍ,/sll/,to hear,0
+448,ⵙⵎⵉⴹ,/smidˤ/,to be cold,0
+449,ⵙⵎⵎⵓⵙ,/smmus/,five,0
+450,ⵙⵎⵓⵎ,/smum/,bitter,0
+451,ⵙⵏⴰⵜ,/snat/,"feminine of ⵙⵉⵏ (sin, “two”)",0
+452,ⵙⵓⴷⴷⵎ,/suddm/,"to flow, Synonyms: ⵔⵡⵍ (rwl), ⴰⵣⵣⵍ (azzl), ⵏⴳⵉ (ngi)",0
+453,ⵙⵙ-,/ss-/,"causative prefix, creating active transitive verbs",0
+454,ⵙⵙⵇⵇⵏ,/ssqqn/,to attach,0
+455,ⵙⵙⵉⵔⴷ,/ssird/,to wash,0
+456,ⵙⵙⵉⵡⵍ,/ssiwl/,"to speak, Synonym: ⵡⵍ (wl)",0
+457,ⵙⵙⵏⵡ,/ssnw/,"to cook, to ripe",0
+458,ⵙⵙⵓⴹ,/ssudˤ/,to blow,0
+459,ⵙⵙⵓⴼⵙ,/ssufs/,to spit,0
+460,ⵙⵙⵓⵎⵎ,/ssumm/,to suck,0
+461,ⵙⵙⵓⵏⴼⵙ,/ssunfs/,to breathe,0
+462,ⵙⵙⵖⵓⵙ,/ssɣus/,"(transitive) to burn, Synonym: ⴽⵎⴹ (kmḍ)",0
+463,ⵙⵜⵉⵍ,/stil/,"heavy
+Synonym: ⵥⵥⴰⴳ (ẓẓag)",0
+464,ⵙⵜⵉⵜⵜ,/stitt/,"right, correct",0
+465,ⵙⵜⵖ,/stɣ/,"to split, Synonym: ⵟⵟⵉⵇⵙ (ṭṭiqs)",0
+466,ⵙⵜⵜⴰ,/stta/,six,0
+467,ⵙⵡ,/sw/,to drink,0
+468,ⵚ,/sˤ/,"yass, a Tifinagh letter, the twenty-fourth of the basic Neo-Tifinagh alphabet.",0
+469,ⵛ,/ʃ/,"yash, a Tifinagh letter, the twenty-fifth of the basic Neo-Tifinagh alphabet.",0
+470,ⵛ,/ʃ/,Alternative form of ⴽⴼ (kf),0
+471,ⵛⴰ,/ʃa/,some,0
+472,ⵛⴰ,/ʃa/,something,0
+473,ⵛⴰⵡⵔ,/ʃawr/,to consult,0
+474,ⵛⴳⴳ,/ʃɡɡ/,Alternative form of ⴽⴳⴳ (kgg),0
+475,ⵛⴹⵉⵏ,/ʃdˤin/,to be short,0
+476,ⵛⴹⵓ,/ʃdˤu/,Alternative form of ⴽⴹⵓ (kḍu),0
+477,ⵛⴼ,/ʃf/,Alternative form of ⴽⴼ (kf),0
+478,ⵛⵎⵎ,/ʃmm/,Alternative form of ⴽⵎⵎ (kmm),0
+479,ⵛⵎⵎⵍ,/ʃmml/,to finish,0
+480,ⵛⵔⴰⴹ,/ʃradˤ/,Alternative form of ⴽⵔⴰⴹ (kraḍ),0
+481,ⵛⵔⴼ,/ʃrf/,Alternative form of ⴽⵔⴼ (krf),0
+482,ⵛⵕⴰⴹ,/ʃrˤadˤ/,Alternative form of ⴽⵔⴰⴹ (kraḍ),0
+483,ⵛⵛ,/ʃʃ/,"(originally) to bite, Synonym: ⵇⵇⵙ (qqs), (usually)",0
+484,ⵛⵟⵃ,/ʃtˤħ/,to dance,0
+485,ⵛⵡⵉⵢ,/ʃwij/,"few, Synonym: ⵉⵎⵉⴽ (imik)",0
+486,ⵛⵡⵓ,/ʃwu/,to be sharp (as opposed to dull),0
+487,ⵛⵡⵢ,/ʃwj/,Alternative form of ⵛⵡⵉⵢ (šwiy),0
+488,-ⵜ,/-t/,feminine suffix,0
+489,ⵜ,/t/,"yat, a Tifinagh letter, the twenty-sixth of the basic Neo-Tifinagh alphabet.",0
+490,ⵜ-,/t-/,"feminine prefix, second person prefix",0
+491,ⵜ-,/t-/,"she (third person feminine singular verb subject affix),",0
+492,ⵜⴰⴳⴰⵏⵜ,/taɡant/,forest,0
+493,ⵜⴰⴳⴷⴰ,/taɡda/,(mathematics) equation,0
+494,ⵜⴰⴳⴷⴰⵣⴰⵍⵜ,/taɡdazalt/,equivalence,0
+495,ⵜⴰⴳⴷⵓⴷⴰ,/taɡduda/,republic,0
+496,ⵜⴰⴳⴷⵕⵓⵕⵜ,/taɡdrˤurˤt/,Alternative form of ⵜⴰⴳⴹⵔⵓⵔⵜ (tagḍrurt),0
+497,ⵜⴰⴳⴹⵔⵓⵔⵜ,/taɡdˤrurt/,dust,0
+498,ⵜⴰⴳⵍⴰⵢⵜ,/taɡlajt/,egg,0
+499,ⵜⴰⴳⵔⵊⵓⵎⵜ,/taɡrʒumt/,throat,0
+500,ⵜⴰⴳⵔⵙⵜ,/taɡrst/,cold season (equivalent to winter),0
+501,ⵜⴰⴳⵯⵓⵜⵜ,/taɡʷutt/,fog,0
+502,ⵜⴰⴳⵯⵔⵉⵜⵜ,/taɡʷritt/,Alternative form of ⵜⴰⵖⵔⵉⵜⵜ (taɣritt),0
+503,ⵜⴰⴷ,/tad/,this (demonstrative proximal pronoun),0
+504,ⵜⴰⴷⴰⵡⵜ,/tadawt/,back,0
+505,ⵜⴰⴷⴷⴰⵔⵜ,/taddart/,house,0
+506,ⵜⴰⴷⴼⴼⵓⵢⵜ,/tadffujt/,apple,0
+507,ⵜⴰⴷⵓⵏⵜ,/tadunt/,"fat
+Synonym: ⵉⵎⵙ (ims)",0
+508,ⵜⴰⴷⵓⵡⵡⴰⵔⵜ,/taduwwart/,"tripes, guts",0
+509,ⵜⴰⴼⴰⴷⴰ,/tafada/,condition,0
+510,ⵜⴰⴼⴰⵍⴰ,/tafala/,spear,0
+511,ⵜⴰⴼⵍⵙⴰⴼⵜ,/taflsaft/,philosophy,0
+512,ⵜⴰⴼⵓⴽⵜ,/tafukt/,sun,0
+513,ⵜⴰⴼⵓⵏⴰⵙⵜ,/tafunast/,cow,0
+514,ⵜⴰⴼⵓⵛⵜ,/tafuʃt/,Alternative form of ⵜⴰⴼⵓⴽⵜ (tafukt),0
+515,ⵜⴰⵃⴱⵓⴱⵜ,/taħbubt/,"unit of any fruit, grain, pimple, etc, berry",0
+516,ⵜⴰⵅⵅⵓⵢⵜ,/taxxujt/,louse,0
+517,ⵜⴰⵍⵍⴰⵙⵜ,/tallast/,darkness,0
+518,ⵜⴰⵍⵍⵓⵏⵜ,/tallunt/,sieve,0
+519,ⵜⴰⵎ,/tam/,eight,0
+520,ⵜⴰⵎⴰⵔⵜ,/tamart/,beard,0
+521,ⵜⴰⵎⴰⵣⵉⵖⵜ,/tamaziɣt/,Tamazight language,0
+522,ⵜⴰⵎⴰⵣⵉⵖⵜ,/tamaziɣt/,"free woman, female Amazigh, Berber",0
+523,ⵜⴰⵎⴷⴷⵉⵜ,/tamddit/,evening,0
+524,ⵜⴰⵎⵎⵏⵜ,/tammnt/,honey,0
+525,ⵜⴰⵎⵓⵔⵜ,/tamurt/,"country, region, countryside, the ground",0
+526,ⵜⴰⵎⵟⵟⵓⵜⵜ,/tamtˤtˤutt/,"woman, wife",0
+527,ⵜⴰⵎⵥⵍⴰ,/tamzˤla/,"talent, brilliance",0
+528,ⵜⴰⵏ,/tan/,that (demonstrative distal pronoun),0
+529,ⵜⴰⵔⴰⴽⴰⵍⵜ,/tarakalt/,geography,0
+530,ⵜⴰⵔⴱⴰⵜⵜ,/tarbatt/,girl (child),0
+531,ⵜⴰⵖⴹⴼⵜ,/taɣdˤft/,attention,0
+532,ⵜⴰⵖⵔⵉⵜⵜ,/taɣritt/,"stick
+Synonym: ⵜⴰⵖⵔⵓⵛⵜ (taɣrušt)",0
+533,ⵜⴰⵖⵔⵓⵛⵜ,/taɣruʃt/,"stick, Synonym: ⵜⴰⵖⵔⵉⵜⵜ (taɣritt)",0
+534,ⵜⴰⵙⴰ,/tasa/,liver (and as seat of the emotions),0
+535,ⵜⴰⵙⴰⵔⵓⵜ,/tasarut/,key,0
+536,ⵜⴰⵙⵍⴹⵜ,/tasldˤt/,analysis,0
+537,ⵜⴰⵙⵏⵉⵍⵙⵜ,/tasnilst/,linguistics,0
+538,ⵜⴰⵛⵛⵍⵜ,/taʃʃlt/,horned viper,0
+539,ⵜⴰⵡⴰⵍⵉⵜ,/tawalit/,imagination,0
+540,ⵜⴰⵡⴰⵔⴳⵉⵜⵜ,/tawarɡitt/,dream,0
+541,ⵜⴰⵡⵔⵉⵇⵜ,/tawriqt/,"leaf (vegetal), Synonym: ⵉⴼⵔ (ifr)",0
+542,ⵜⴰⵢⵔⵉ,/tajri/,love,0
+543,ⵜⵃⵉ,/tħi/,"to push
+Synonym: ⴷⴼⵄ (dfɛ)
+Antonyms: ⵏⵣⵖ (nzɣ), ⵍⴷⵉ (ldi)",0
+544,ⵜⵉⴳⴷⵉⵜ,/tiɡdit/,bitch (female dog),0
+545,ⵜⵉⴳⵎⵎⵉ,/tiɡmmi/,house,0
+546,ⵜⵉⴳⵏⵣⴰⵔ,/tiɡnzar/,"nose
+Synonym: ⴰⵏⵣⴰⵔ (anzar)",0
+547,ⵜⵉⴳⵔⵉ,/tiɡri/,collection,0
+548,ⵜⵉⴷⴷⵓⴽⴽⵍⴰ,/tiddukkla/,friendship,0
+549,ⵜⵉⵍⴳⴳⵡⵉⵜ,/tilɡɡwit/,Alternative form of ⵜⵉⵍⴳⴳⵯⵉⵜ (tilggʷit),0
+550,ⵜⵉⵍⴳⴳⵯⵉⵜ,/tilɡɡʷit/,bridge,0
+551,ⵜⵉⵎⵉⴹⵉ,/timidˤi/,hundred,0
+552,ⵜⵉⵏⴰⵡⵜ,/tinawt/,conference,0
+553,ⵜⵉⵏⴳⵍⵉⵣⵜ,/tinɡəlizt/,Alternative form of ⵜⵉⵏⴳⴻⵍⵉⵣⵜ (tingelizt),0
+554,ⵜⵉⵔⵎⵜ,/tirmt/,meal,0
+555,ⵜⵉⵙⵍⵉⵜ,/tislit/,bride,0
+556,ⵜⵉⵙⵏⵜ,/tisnt/,salt,0
+557,ⵜⵉⵜⵜ,/titt/,truth,0
+558,ⵜⵉⵟⵟ,/titˤtˤ/,eye,0
+559,ⵜⵉⵡⴷⵉ,/tiwdi/,fear,0
+560,ⵜⵉⵣⵉⵣⵡⵉⵜ,/tizizwit/,bee,0
+561,ⵜⵎⴻⵏⵢⴰ,/tmənja/,eight,0
+562,ⵜⵎⵏⵢⴰ,/tmənja/,Alternative form of ⵜⵎⴻⵏⵢⴰ (tmenya),0
+563,ⵜⵏⵣⵣⵓⵜ,/tnzzut/,"shop, store",0
+564,ⵜⵓⴳⴰ,/tuɡa/,grass,0
+565,ⵜⵓⴳⴷⵓⵜ,/tuɡdut/,equivalent,0
+566,ⵜⵓⵔⴷⴰ,/turda/,doubt,0
+567,ⵜⵓⵔⵜⵉⵜ,/turtit/,garden,0
+568,ⵜⵓⵖⵎⵙⵜ,/tuɣmst/,"incisor, front tooth (as opposed to molar)",0
+569,ⵜⵓⵙⵏⴰⴽⵜ,/tusnakt/,mathematics,0
+570,ⵜⵓⵜⵍⴰⵢⵜ,/tutlajt/,language,0
+571,ⵜⵙⵄⵓⴷ,/tsʕud/,nine,0
+572,ⵜⵜⵓⵜⵜⵢ,/ttuttj/,"to fall
+Synonym: ⴹⵔ (ḍr)",0
+573,ⵜⵜⵔ,/ttr/,to ask for,0
+574,ⵜⵥⴰ,/tzˤa/,nine,0
+575,ⵟ,/tˤ/,"yatt, a Tifinagh letter, the twenty-seventh of the basic Neo-Tifinagh alphabet.",0
+576,ⵟⵙ,/tˤs/,to laugh,0
+577,ⵟⵟⴹ,/tˤtˤdˤ/,to suckle,0
+578,ⵟⵟⴼ,/tˤtˤf/,"to hold, Synonym: ⴰⵎⵥ (amẓ)",0
+579,ⵟⵟⵉⵇⵙ,/tˤtˤiqs/,"to split
+Synonym: ⵙⵜⵖ (stɣ)",0
+580,ⵡ,/w/,"yaw, a Tifinagh letter, the twenty-eighth of the basic Neo-Tifinagh alphabet.",0
+581,ⵡⴰⴷ,/wad/,this (demonstrative proximal pronoun),0
+582,ⵡⴰⵏ,/wan/,that (demonstrative distal pronoun),0
+583,ⵡⴰⵔⴳⴰ,/warɡa/,to dream,0
+584,ⵡⵏⵥⵓⵍ,/wnzˤul/,south,0
+585,ⵡⵔⵉⵖ,/wriɣ/,to be yellow (color),0
+586,ⵡⵙⵄ,/wsʕ/,"wide, Synonym: ⴼⵍⵉⵢ (fliy)",0
+587,ⵡⵙⵅ,/wsx/,to be dirty,0
+588,ⵢ,/j/,"yay, a Tifinagh letter, the twenty-ninth of the basic Neo-Tifinagh alphabet.",0
+589,ⵢ,/j/,in,0
+590,ⵢ-,/j-/,"he (third person masculine singular verb subject affix),",0
+591,ⵢⴰⴹⵏ,/jadˤn/,"other
+Synonym: ⵢⴰⴹⵏⵉⵏ (yaḍnin)",0
+592,ⵢⴰⴹⵏⵉⵏ,/jadˤnin/,"other, Synonym: ⵢⴰⴹⵏ (yaḍn)",0
+593,ⵢⴰⵀ,/jah/,yes,0
+594,ⵢⵓⵏ,/jun/,one,0
+595,ⵢⵓⵏⵙ,/juns/,"A male given name from Hebrew, equivalent to English",0
+596,ⵢⵓⵔ,/jur/,month,0
+597,ⵢⵓⵜ,/jut/,"feminine of ⵢⵓⵏ (yun, “one”)",0
+598,ⵣ,/z/,"yaz, a Tifinagh letter, the thirtieth of the basic Neo-Tifinagh alphabet.",0
+599,ⵣⵓⵔ,/zur/,to be thick,0
+600,ⵣⵓⵖⵔ,/zuɣr/,"to lead, to drag",0
+601,ⵣⵡⵉⵖ,/zwiɣ/,to be red (color),0
+602,ⵣⵡⵓ,/zwu/,(passive) to be dried by air (e.g. laundry),0
+603,ⵣⵣⵔⵔⵉⵄⵜ,/zzrriʕt/,"seed, Synonym: ⴰⵎⵓⴷ (amud)",0
+604,ⵥ,/zˤ/,"yazz, a Tifinagh letter, the thirty-first of the basic Neo-Tifinagh alphabet.",0
+605,ⵥⵉⵢⵔ,/zˤijr/,"to squeeze, Synonym: ⵥⵎ (ẓm)",0
+606,ⵥⵎ,/zˤm/,"to squeeze, Synonym: ⵥⵉⵢⵔ (ẓiyr)",0
+607,ⵥⵓⵎ,/zˤum/,to fast,0
+608,ⵥⵥⴰⴳ,/zˤzˤaɡ/,"heavy
+Synonym: ⵙⵜⵉⵍ (stil)",0

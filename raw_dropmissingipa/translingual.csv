@@ -1,40 +1,468 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-Abelia,ˈaɪə,A taxonomic genus within the family Caprifoliaceae –,-ia
-Alfa,ˈælfə,Code word for the letter A in the NATO/ICAO spelling,alpha
-Bravo,bɹˈɑːvoʊ,Code word for the letter B in the NATO/ICAO spelling,bravo
-Charlie,t͡ʃˈɑː͡ɹli,Code word for the letter C in the NATO/ICAO spelling,Charlie
-decimal,dˈɛsɪməl pˈɔɪnt,Code word for the decimal point in the NATO/ICAO and,decimal point
-Delta,dˈɛltə,Code word for the letter D in the NATO/ICAO spelling,delta
-eight,ˈeɪt,Code word for the digit 8 in the NATO/ICAO spelling,eight
-five,fˈaɪv,Code word for the digit 5 in the NATO/ICAO spelling,five
-four,fˈoː͡ɹ,Code word for the digit 4 in the NATO/ICAO spelling,four
-Foxtrot,fˈɑːkstɹɑːt,Code word for the letter F in the NATO/ICAO spelling,foxtrot
-Golf,ɡˈɑːlf,Code word for the letter G in the NATO/ICAO spelling,golf
-Hotel,hoʊtˈɛl,Code word for the letter H in the NATO/ICAO spelling,hotel
-hundred,hˈʌndɹɪd,Code word for the digits 00 (whole hundreds) in the,hundred
-India,ˈɪndiə,Code word for the letter I in the NATO/ICAO spelling,India
-Kilo,kˈiːloʊ,Code word for the letter K in the NATO/ICAO spelling,kilo
-Laurasiatheria,lɔːɹˈeɪʒə,A taxonomic superorder within the magnorder Epitheria –,Laurasia
-Lima,lˈiːmɐ,Code word for the letter L in the NATO/ICAO spelling,Lima
-Mike,mˈaɪk,Code word for the letter M in the NATO/ICAO spelling,Mike
-nine,nˈaɪn,Code word for the digit 9 in the NATO/ICAO spelling,nine
-November,noʊvˈɛmbɚ,Code word for the letter N in the NATO/ICAO spelling,November
-Oscar,ˈɑːskɚ,Code word for the letter O in the NATO/ICAO spelling,Oscar
-Papa,pˈɑːpə,Code word for the letter P in the NATO/ICAO spelling,papa
-Quebec,kwᵻbˈɛk,Code word for the letter Q in the NATO/ICAO spelling,Quebec
-Romeo,ɹˈoʊmɪˌoʊ,Code word for the letter R in the NATO/ICAO spelling,Romeo
-seven,sˈɛvən,Code word for the digit 7 in the NATO/ICAO spelling,seven
-Sierra,siːˈɛɹə,Code word for the letter S in the NATO/ICAO spelling,sierra
-six,sˈɪks,Code word for the digit 6 in the NATO/ICAO spelling,six
-stop,fˈʊl stˈɑːp,Code word for a full stop in the NATO/ICAO spelling,full stop
-thousand,θˈaʊzənd,"Code word for combinations of thousand (that is, the",thousand
-three,θɹˈiː,Code word for the digit 3 in the NATO/ICAO spelling,three
-two,tˈuː,"Raise the middle finger and the index finger upward, keeping them apart. Rest the thumb against the ring finger.",two
-two,tˈuː,Code word for the digit 2 in the NATO/ICAO spelling,two
-Victor,vˈɪktɚ,Code word for the letter V in the NATO/ICAO spelling,Victor
-Whiskey,wˈɪski,Code word for the letter W in the NATO/ICAO spelling,whiskey
-whois,hˈuː,(Internet) An Internet protocol for finding information,who
-X-ray,ˈɛksɹˈeɪ,Code word for the letter X in the NATO/ICAO spelling,X-ray
-Yankee,jˈæŋkiː,Code word for the letter Y in the NATO/ICAO spelling,Yankee
-zero,zˈiəɹoʊ,Code word for the digit 0 in the NATO/ICAO spelling,zero
-Zulu,zˈuːluː,Code word for the letter Z in the NATO/ICAO spelling,Zulu
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+.cd,/dɑt siˈdi/,The Internet country code top-level domain (ccTLD) for the Democratic Republic of the Congo,,
+.int,/dɒtˈɪnt/,"(Internet) An Internet top-level domain reserved for international treaty organizations and non-governmental organizations with ""observer"" status at the United Nations.",,
+Abelia,/ə.ˈbil.jə/,A taxonomic genus within the family Caprifoliaceae –,-ia,ˈaɪə
+Abelmoschus,/ˌeɪ.bəlˈmɑs.kəs/,A taxonomic genus within the family Malvaceae – tropical,,
+Abies,/ˈeɪ.biˌiz/,A taxonomic genus within the family Pinaceae – certain,,
+Ablepharus,/eɪˈblə.fə.ɹəs/,A taxonomic genus within the family Scincidae – Old,,
+Abranchiata,/eɪˈbɹæŋ.kiˌɑ.tə/,"(archaic) An obsolete order of annelids, so called",,
+Abroma,/əˈbɹoʊ.mə/,A taxonomic genus within the family Sterculiaceae –,,
+Abronia,/əˈbɹoʊ.ni.ə/,A taxonomic genus within the family Nyctaginaceae –,,
+Abrus,/ˈeɪ.bɹəs/,A taxonomic genus within the family Fabaceae – tropical,,
+Absidia,/æbˈsɪd.i.ə/,A taxonomic genus within the family Mucoraceae – certain,,
+Abudefduf,/ˌæ.buˈdɛf.dəf/,A taxonomic genus within the family Pomacentridae –,,
+Abuta,/əˈbu.də/,A taxonomic genus within the family Menispermaceae –,,
+Abutilon,/əˈbjuː.tɪˌlɒn/,A taxonomic genus within the family Malvaceae – broadleaf,,
+Acacia,/əˈkeɪ.ʃə/,(sensu stricto) A taxonomic genus within the family,,
+Acalepha,/ˌæk.əˈlif.ə/,(obsolete) A taxonomic class within the division Radiata –,,
+Acalephae,/ˌæk.əˈli.fi/,(obsolete) A taxonomic group within the phylum Coelenterata –,,
+Acalypha,/ˌæk.əˈlaɪf.ə/,A taxonomic genus within the family Euphorbiaceae –,,
+Acalyptratae,/ˌeɪ.kæ.lɪpˈtɹɑ.ti/,A taxonomic subsection within the order Diptera – acalyptrates.,,
+Acanthaceae,/ˌæˌkænˈθeɪ.si.i/,A taxonomic family within the order Lamiales – the,,
+Acantharia,/ˌæˌkænˈθæ.ɹi.ə/,A taxonomic genus within the family Venturiaceae –,,
+Acanthisittidae,/əˌkæn.θəˈsɪt.əˌdi/,A taxonomic family within the order Passeriformes –,,
+acantho-,/əˈkæn.θəʊ/,With thorns,,
+Acanthocephala,/əˌkæn.θəˈsɛf.ə.lə/,A taxonomic phylum within the superphylum Spiralia –,,
+Acanthocephali,/əˌkæn.θəˈsɛf.ə.laɪ/,"(zoology) Alternative form of Acanthocephala, A taxonomic phylum within the superphylum Platyzoa.",,
+Acanthocereus,/əˌkæn.θəˈsɪɹ.i.əs/,A taxonomic genus within the family Cactaceae – tropical,,
+Acanthocheilonema,/ə.ˌkæn.θəˌkaɪ.ləˈni.mə/,A taxonomic genus within the family Onchocercidae –,,
+Acanthocybium,/əˌkæn.θəˈsɪ.bi.m̩/,A taxonomic genus within the family Scombridae – consists,,
+Acanthodea,/ˌæˌkænˈθoʊ.di.ə/,(zoology) Alternative form of Acanthodii,,
+Acanthodei,/ˌæˌkænˈθoʊ.di.aɪ/,(zoology) Alternative form of Acanthodii,,
+Acanthodes,/ˌæ.kənˈθoʊ.di.ə/,A taxonomic genus within the family Acanthodidae –,,
+Acanthodii,/ˌæˌkænˈθoʊ.diˌaɪ/,A taxonomic class within the infraphylum Gnathostomata –,,
+Acanthodini,/ˌæˌkænˈθɑd.n̩.i/,(zoology) Alternative form of Acanthodii,,
+Acantholimon,/əˌkæn.θoʊˈlaɪˌmɑn/,A taxonomic genus within the family Plumbaginaceae –,,
+Acanthopanax,/əˌkænˈθɑ.pəˌnæks/,(obsolete) A taxonomic genus within the family Araliaceae –,,
+Acanthophis,/əˈkæn.θə.fɪs/,A taxonomic genus within the family Elapidae – venomous,,
+Acanthopteri,/æˌkænˈθɑp.təˌɹi/,(archaic) A taxonomic order within the class Actinopterygii –,,
+Acanthopterygii,/æˌkænˌθɑp.təˈɹɪd͡ʒ.i.aɪ/,A taxonomic superorder within the class Teleostei –,,
+Acanthurus,/æˌkænˈθʊ.ɹəs/,A taxonomic genus within the family Acanthuridae –,,
+Acarus,/ˈæk.ə.ɹəs/,A taxonomic genus within the family Acaridae – many,,
+Alfa,[ˈælfa],Code word for the letter A in the NATO/ICAO spelling,alpha,ˈælfə
+Anemone,/əˈnɛməniː/,A taxonomic genus within the family Ranunculaceae –,,
+Artemia,/ɑ(r)ˈtiːmi.ə/,A taxonomic genus within the family Artemiidae – the,,
+Azalea,/əˈzeɪljə/,"the azaleas, numerous varieties of flowering shrubs",,
+bissotwo,[ˈbiːˈsoˈtuː],(rare) Code word for the digit 2 in the ITU/IMO spelling,,
+Bravo,[ˈbraːvo],Code word for the letter B in the NATO/ICAO spelling,bravo,bɹˈɑːvoʊ
+Caiman,/ˈkeɪmən/,A taxonomic genus within the family Alligatoridae –,,
+Cephalopoda,/ˈsɛfələpəʊdə/,A taxonomic class within the phylum Mollusca – the,,
+Cervidae,/ˈsəɹvədi/,A taxonomic family within the order Artiodactyla –,,
+Cervus,/ˈsəɹvəs/,A taxonomic genus within the family Cervidae – the,,
+Charadriidae,/ˌtʃæɹəˈdɹaɪ.ɪdɪː/,A taxonomic family within the order Charadriiformes –,,
+Charlie,[ˈtʃɑːli],Code word for the letter C in the NATO/ICAO spelling,Charlie,t͡ʃˈɑː͡ɹli
+Chelicerata,/ˌkɛlɪsɛˈɹɑːtæ/,A taxonomic subphylum within the phylum Arthropoda –,,
+Chiroptera,/kaɪˈɹɒptəɹə/,A taxonomic order within the class Mammalia – the bats.,,
+Cnidaria,/naɪˈdeɹ.i.ə/,"The corals, hydra, jellyfish etc, A taxonomic phylum",,
+Convolvulaceae,/kənˈvɑlvjʊˌleɪsieɪ/,A taxonomic family within the order Solanales – many,,
+Copepoda,/ˌkoʊpəˈpoʊdə/,A taxonomic subclass within the class Maxillopoda –,,
+Coronavirus-19,/ko.ˈroː.nä.ˌviː.rʊs ˈnɔʏ̯n.t͡seːn/,(colloquial) SARS-CoV-2,,
+cosh,/kɒʃ/,(trigonometry) The symbol of the hyperbolic function hyperbolic cosine.,,
+decimal,[ˈdeiˈsiːˈmal],Code word for the decimal point in the NATO/ICAO and,decimal point,dˈɛsɪməl pˈɔɪnt
+Deinosuchus,/ˌdaɪnəˈsukəs/,A taxonomic genus within the order Crocodylomorpha –,,
+Delta,[ˈdeltɑ],Code word for the letter D in the NATO/ICAO spelling,delta,dˈɛltə
+Drosophila,/dɹoʊˈsɑfələ/,A taxonomic genus within the family Drosophilidae –,,
+dz,[dza adza],A digraph of the letters d and z.,,
+eight,[ˈeit],Code word for the digit 8 in the NATO/ICAO spelling,eight,ˈeɪt
+Euonymus,/juːˈɒnɪməs/,A taxonomic genus within the family Celastraceae –,,
+FIBA,[ˈfibʌ],"Initialism of Fédération Internationale de Basketball.. Known in English as International Basketball Federation. Originally known as Fédération Internationale de Basketball Amateur (from its French name), hence the initialism.",,
+FIFA,/ˈfiːfə/,(soccer) The International Federation of Association,,
+five,[ˈfɑif],Code word for the digit 5 in the NATO/ICAO spelling,five,fˈaɪv
+four,[ˈfo.ə],Code word for the digit 4 in the NATO/ICAO spelling,four,fˈoː͡ɹ
+Foxtrot,[ˈfɔkstrɔt],Code word for the letter F in the NATO/ICAO spelling,foxtrot,fˈɑːkstɹɑːt
+Golf,[ˈɡɔlf],Code word for the letter G in the NATO/ICAO spelling,golf,ɡˈɑːlf
+Hexapoda,/ˈhɛk.sə.pʊdə/,A taxonomic subphylum within the phylum Arthropoda –,,
+Hotel,[hoːˈtel],Code word for the letter H in the NATO/ICAO spelling,hotel,hoʊtˈɛl
+hundred,[ˈhan.dred],Code word for the digits 00 (whole hundreds) in the,hundred,hˈʌndɹɪd
+Hylaeosaurus,/haɪˌliː.ɵˈsɔɹəs/,A taxonomic genus within the family Polacanthidae –,,
+India,[ˈindi.ɑ],Code word for the letter I in the NATO/ICAO spelling,India,ˈɪndiə
+Juniperites,/ˌdʒuːnɪpəˈɹaɪtiːs/,(obsolete) A taxonomic genus within the class Coniferae –,,
+kartefour,[ˈkɑːˈteiˈfo.ə],(rare) Code word for the digit 4 in the ITU/IMO spelling,,
+Kilo,[ˈkiːlo],Code word for the letter K in the NATO/ICAO spelling,kilo,kˈiːloʊ
+Laurasiatheria,/lɔːɹeɪʃiəˈθɪəɹiə/,A taxonomic superorder within the magnorder Epitheria –,Laurasia,lɔːɹˈeɪʒə
+Lima,[ˈliːmɑ],Code word for the letter L in the NATO/ICAO spelling,Lima,lˈiːmɐ
+Mansonia,/mænˈsəʊ.ni.ə/,A taxonomic genus within the family Culicidae – a widespread,,
+mayday,/ˈmeɪ.deɪ/,"(radio) emergency, need assistance, 2004, Ken Wishaw,",,
+Mike,[ˈmɑik],Code word for the letter M in the NATO/ICAO spelling,Mike,mˈaɪk
+Mollusca,/məˈlʌskə/,"The molluscs:, A taxonomic phylum within the superphylum",,
+nadazero,[ˈnɑːˈdɑːˈzeiˈro],(rare) Code word for the digit 0 in the ITU/IMO spelling,,
+Nestor,/ˈnɛstəɹ/,A taxonomic genus within the family Strigopidae – the,,
+nine,[ˈnɑi.nə],Code word for the digit 9 in the NATO/ICAO spelling,nine,nˈaɪn
+Noctiluca,/nok.tiˈluː.ka/,A taxonomic genus within the family Noctilucaceae –,,
+November,[noˈvembə],Code word for the letter N in the NATO/ICAO spelling,November,noʊvˈɛmbɚ
+novenine,[ˈnoˈveiˈnɑi.nə],(rare) Code word for the digit 9 in the ITU/IMO spelling,,
+o,/o/,The fifteenth letter of the basic modern Latin alphabet.,,
+o,/o/,(IPA) close-mid back rounded vowel,,
+Oscar,[ˈɔskɑ],Code word for the letter O in the NATO/ICAO spelling,Oscar,ˈɑːskɚ
+Pandanus,-eɪnəs,"A taxonomic genus within the family Pandanaceae – palm-like,",,
+pantafive,[ˈpænˈtɑːˈfɑif],(rare) Code word for the digit 5 in the ITU/IMO spelling,,
+Papa,[pəˈpɑ],Code word for the letter P in the NATO/ICAO spelling,papa,pˈɑːpə
+Quebec,[keˈbek],Code word for the letter Q in the NATO/ICAO spelling,Quebec,kwᵻbˈɛk
+Rafflesia,/ɹəˈfliː.ʒə/,A taxonomic genus within the family Rafflesiaceae –,,
+Romeo,[ˈroːmi.o],Code word for the letter R in the NATO/ICAO spelling,Romeo,ɹˈoʊmɪˌoʊ
+Ryania,/ɹaɪˈeɪ.ni.ə/,A taxonomic genus within the family Salicaceae – a,,
+Saccharomyces,/ˌsæk(ə)ɹoʊˈmaɪsiz/,A taxonomic genus within the family Saccharomycetaceae –,,
+setteseven,[ˈseiˈteiˈsev.n],(rare) Code word for the digit 7 in the ITU/IMO spelling,,
+seven,[ˈsev.n],Code word for the digit 7 in the NATO/ICAO spelling,seven,sˈɛvən
+Sierra,[siˈerɑ],Code word for the letter S in the NATO/ICAO spelling,sierra,siːˈɛɹə
+sinh,/sɪntʃ/,(trigonometry) The symbol of the hyperbolic function hyperbolic sine.,,
+six,[ˈsiks],Code word for the digit 6 in the NATO/ICAO spelling,six,sˈɪks
+SOS,[ɛsoːˈʔɛs],"emergency, mayday, distress",,
+SOS,[ɛsoːˈʔɛs],Somali shilling,,
+SOS,[ɛsoːˈʔɛs],Somali shilling,,
+stop,[ˈstɔp],Code word for a full stop in the NATO/ICAO spelling,full stop,fˈʊl stˈɑːp
+Syrphidae,/ˈsəɹfədi/,A taxonomic family within the order Diptera – the hoverflies.,,
+Tango,[ˈtænɡo],The letter T in the ICAO spelling alphabet.,,
+tanh,/tæntʃ/,(trigonometry) The symbol of the hyperbolic function hyperbolic tangent.,,
+terrathree,[ˈteiˈrɑːˈtriː],(rare) Code word for the digit 3 in the ITU/IMO spelling,,
+Theropoda,/θiɹ.əˈpɑː.də/,A taxonomic suborder within the order Saurischia –,,
+thousand,[ˈtauˈzænd],"Code word for combinations of thousand (that is, the",thousand,θˈaʊzənd
+three,[ˈtriː],Code word for the digit 3 in the NATO/ICAO spelling,three,θɹˈiː
+Tiktaalik,/tɪkˈtɑl.ɪk/,A taxonomic genus within the class Sarcopterygii –,,
+two,[ˈtuː],"Raise the middle finger and the index finger upward, keeping them apart. Rest the thumb against the ring finger.",,
+two,[ˈtuː],"Raise the middle finger and the index finger upward, keeping them apart. Rest the thumb against the ring finger.",two,tˈuː
+two,[ˈtuː],Code word for the digit 2 in the NATO/ICAO spelling,,
+two,[ˈtuː],Code word for the digit 2 in the NATO/ICAO spelling,two,tˈuː
+unaone,[ˈuːˈnɑːˈwan],(rare) Code word for the digit 1 in the ITU/IMO spelling,,
+Victor,[ˈviktɑ],Code word for the letter V in the NATO/ICAO spelling,Victor,vˈɪktɚ
+Whiskey,[ˈwiski],Code word for the letter W in the NATO/ICAO spelling,whiskey,wˈɪski
+whois,/ˈhuːˌɪz/,(Internet) An Internet protocol for finding information,who,hˈuː
+X-ray,[ˈeksˈrei],Code word for the letter X in the NATO/ICAO spelling,X-ray,ˈɛksɹˈeɪ
+Yankee,[ˈjænki],Code word for the letter Y in the NATO/ICAO spelling,Yankee,jˈæŋkiː
+zero,[ˈziːˈro],Code word for the digit 0 in the NATO/ICAO spelling,zero,zˈiəɹoʊ
+Zulu,[ˈzuːluː],Code word for the letter Z in the NATO/ICAO spelling,Zulu,zˈuːluː
+¯,/ˈɛn.bɑɹ/,An emoticon representing a smirking face and a pair,,
+¯,/ˈɛn.bɑɹ/,An emoticon representing a smirking face and a pair,,
+¯,/ˈɛn.bɑɹ/,(linguistics) Used to indicate mid tone.,,
+¯,/ˈɛn.bɑɹ/,(linguistics) Used to indicate mid tone.,,
+ð,[ða aða],"The lowercase letter eth, which is related to d and dh.",,
+ð,[ða aða],(IPA) voiced dental fricative.,,
+ȡ,[d̠ʲ],The letter d with a curl.,,
+ȴ,[l̠ʲ],(IPA) Non-standard Chinese IPA symbol for alveopalatal liquid: l̠ʲ,,
+ʣ,[d͡za ad͡za],"(IPA, obsolete) voiced alveolar affricate",,
+ࣇ,/ɭə/,a combination of laam and small toe,,
+अ,/ə/,The first letter and first vowel of the Devanagari,,
+अ़,/ʕə/,An old way of transcribing the /ʕ/ sound in Devanagari. Nowadays mainly ignored. [1],,
+इ,/i/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ि. For example the first consonant क with the matra looks like: कि. The matra should appear before the consonant it modifies, though it is pronounced after.",,
+ई,/iː/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ी. For example the first consonant क with the matra looks like: की.",,
+उ,/ʊ/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ु. For example the first consonant क with the matra looks like: कु.",,
+ऊ,/uː/,A vowel of the Devanagari script.,,
+ऋ,/ɻ̩/,"Traditionally classified as a vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant, is written ृ. For example the first consonant क with the matra looks like: कृ. It is only used in words of Sanskrit derivation. Transliterated as IAST: ṛ or ITRANS: RRi or R^i.",,
+ऌ,[l̩],"Traditionally classified as a vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ॢ. For example the first consonant क with the matra would look like: कॢ.",,
+ऍ,[æ],"Devanagari non-standard vowel ""candra e"".",,
+ऎ,[e],a vowel of the Devanagari script used to transliterate the sound [e] from other languages,,
+ए,/eː/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written े. For example the first consonant क with the matra looks like: के.",,
+ऐ,/əj/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ै. For example the first consonant क with the matra looks like: कै.",,
+ऑ,/ɔ/,Vowel in the Devanagari script.,,
+ऒ,[o],a vowel of the Devanagari script used to transliterate the sound [o] from other languages,,
+ओ,/oː/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is ‌ो. For example, the first consonant क with the matra looks like को.",,
+औ,/ɔː/,"A vowel of the Devanagari script. Its matra, used to modify the inherent vowel in a consonant is written ौ. For example the first consonant क with the matra looks like: कौ.",,
+क,/kə/,"The Devanagari script’s unvoiced, unaspirated guttural consonant; k /k/",,
+क़,/qə/,A letter of the Devanagari alphabet.,,
+ख,/kʰə/,"The Devanagari script's unvoiced, aspirated guttural consonant.",,
+ख़,/xə/,"A consonant of the Devanagari script. It is not included in the traditional alphabet as it represents a sound borrowed from Persian, but is sometimes alphabetized just after ख.",,
+ग,/ɡə/,"The Devanagari script's unvoiced, aspirated guttural consonant; g /g/",,
+ग़,/ɣ/,"Consonant of the Devanagari script. It is not included in the traditional alphabet as it represents a sound borrowed from Persian, but is sometimes alphabetized just after ग.",,
+घ,/ɡʱə/,"The Devanagari script's voiced, aspirated guttural consonant; gh /gʱ/",,
+च,/t͡ɕə/,A letter of the Devanagari alphabet; c: /t͡ʃ/,,
+छ,/t͡ɕʰə/,"A letter of the Devanagari alphabet representing a heavily aspirated consonant, ch /tʃʰ/",,
+ज,/d͡ʑə/,A letter of the Devanagari alphabet.,,
+ज़,/zə/,Letter of the Devanagari abugida representing the sound /z/.,,
+झ,/d͡ʑʱə/,Letter of the Devanagari alphabet.,,
+ञ,/ɲə/,A letter of the Devanagari alphabet.,,
+ट,/ʈə/,A letter of the Devanagari alphabet.,,
+ठ,/ʈʰə/,Letter of the Devanagari alphabet.,,
+ड,/ɖə/,A letter of the Devanagari alphabet.,,
+ड़,/ɽ/,A letter of the Devanagari alphabet.,,
+ढ,/ɖʱə/,A letter of the Devanagari alphabet.,,
+ढ़,/ɽʱ/,A letter of the Devanagari alphabet.,,
+ण,/ɳə/,A letter of the Devanagari alphabet.,,
+त,/t̪ə/,A letter of the Devanagari alphabet.,,
+थ,/t̪ʰə/,A letter of the Devanagari alphabet.,,
+थ़,/θə/,"It is used to transcribe the /θ/ sound in Devanagari. For example, Arabic ث‎ (ṯ).",,
+द,/d̪ə/,A letter of the Devanagari alphabet representing the sound /d/.,,
+ध,/dʱə/,A letter of the Devanagari alphabet.,,
+ध़,/ðə/,It is used to transcribe the /ð/ sound in Devanagari.,,
+न,/n̪a/,A letter of the Devanagari alphabet representing the sound /n/.,,
+प,/pə/,Letter of the Devanagari alphabet representing the sound p.,,
+फ,/pʰə/,Letter of the Devanagari alphabet representing a heavily aspirated /p/ sound.,,
+ब,/bə/,Letter of the Devanagari alphabet representing the sound /b/.,,
+भ,/bʱə/,A letter of the Devanagari alphabet representing a heavily aspirated sound /b/. It is a combination of the sounds /b/ and /h/.,,
+म,/mə/,A letter of the Devanagari alphabet.,,
+य,/jə/,"The first semivowel of the Devanagari script. Linguistically, it is considered the palatal approximant.",,
+र,/rə/,"The second semivowel of the Devanagari script, but traditionally classified (and collated) as a consonant. Linguistically it is considered an alveolar trill, and is classified as an approximant.",,
+ल,/lə/,"The third semivowel of the Devanagari script, but traditionally classified (and collated) as a consonant. Linguistically it is considered a lateral dental/alveolar approximant.",,
+ळ,/ɭə/,"A consonant in Devanagari, used primarily in modern Marathi, Gujarati,  Odia, Rajasthani, Konkani,other South Indian languages and Sinhalese as well as in Sanskrit. It is, however, almost completely absent from Hindi.",,
+ऴ,/ɻə/,"A consonant in Devanagari, used primarily to transcribe ழ of Tamil and ഴ of Malayalam. It is, however, completely absent from Hindi.",,
+व,/ʋə/,"The fourth semivowel of the Devanagari script, but traditionally classified (and collated) as a consonant. Linguistically it is considered a labio-dental approximant.",,
+व़,/wə/,It is used to transcribe the /w/ sound in Devanagari.,,
+श,/ʃə/,The first sibilant of the Devanagari script. Linguistically it is considered a voiceless postalveolar sibilant.,,
+श़,/ʒə/,A letter of the Devanagari alphabet.,,
+ष,/ʂə/,The second sibilant of the Devanagari script. Linguistically it is considered a retroflex voiceless postalveolar sibilant.,,
+स,/sə/,The third sibilant of the Devanagari script. Linguistically it is considered an alveolar sibilant.,,
+स़,/θə/,A Devanagari consonant used to transliterate Perso-Arabic letter ث‎.,,
+ह,/ɦə/,The Devanagari script’s aspirate guttural consonant.,,
+ह़,/ħə/,A Devanagari consonant used to transcribe the /ħ/ sound in Arabic loanwords. [1],,
+ॹ,/ʒə/,a Devanagari consonant used to transliterate Avestan 𐬲‎ (ž). Commonly झ़ is used to transcribe the /ʒə/ sound,,
+ॻ,[ɠə],"A Devanagari letter used in  Sindhi, Saraiki, Marwari and other languages.",,
+ॽ,/ʔ/,A Devanagari glottal stop,,
+ॾ,/ɗə/,A Devanagari consonant common in Sindhi and Saraiki,,
+ॿ,/ɓə/,"A Devanagari consonant, used mainly in Sindhi, Saraiki, Marwari and other languages.",,
+ਕ,/kə/,"Gurmukhi letter ਕੱਕਾ (kakkā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 253:
+ਕਕਾ ਕਾਰਨ ਕਰਤਾ ਸੋਊkakā kāran kartā soūKakka: He is the Creator, the Cause of causes.",,
+ਕ਼,/q/,Gurmukhi letter ਕ਼ (qa),,
+ਖ਼,/xə/,"Gurmukhi letter ਖ਼ (xa)
+Guru Gobind Singh, translation by Dr. Surinder Singh Kohli, Zafarnama (Epistle of Victory):
+ਕਮਾਲ ਏ ਕਰਾਮਾਤ ਕਾਯਮ ਕਰੀਮ ਰਜ਼ਾ ਬਖ਼ਸ਼ ਰਾਜ਼ਕ ਰਹਾਕੁਨ ਰਹੀਮkamāl e karāmāt kāyam karīm razā bakḥsh rāzak rahākun rahīmThe Lord is perfect in all faculties. He is Immortal and generous. He is the Giver of victuals and Emancipator.",,
+ਗ,/ɡə/,"Gurmukhi letter ਗੱਗਾ (gaggā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 254:
+ਗਗਾ ਗੋਬਿਦ ਗੁਣ ਰਵਹੁ ਸਾਸਿ ਸਾਸਿ ਜਪਿ ਨੀਤgagā gobid guṇ ravhu sās sās jap nītGagga: Chant the Glorious Praises of the Lord of the Universe with each and every breath; meditate on Him forever.",,
+ਗ਼,/ɣə/,"Gurmukhi letter ਗ਼ (ġa)
+Bhai Nand Lal, translation by Pritpal Singh Bindra, Diwan-e-Goya, Ghazal 2:
+ਮਾ ਨਮੀ ਆਰੇਮ ਤਾਬਿ ਗ਼ਮਜ਼ਾਇ ਮਿਜ਼ਗ਼ਾਨਿ ਊ ਯੱਕ ਨਿਗਾਹਿ ਜਾਂ-ਫਿਜ਼ਾਇਸ਼ ਬਸ ਬਵਦ ਦਰਕਾਰਿ ਮਾmā namī ārem tābe ġamazāe mizġāne ū yak nigāhe jā̃-phizāesh bas bavad darkāre mā""I don't have the strength to bear the intensity of even one of his skewed looks, just one of his (blessed) looks, that prolongs life instantly, is enough for me.""",,
+ਙ,/ŋə/,"Gurmukhi letter ਙੰਙਾ (ṅãṅā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 251:
+ਙੰਙਾ ਙਿਆਨੁ ਨਹੀ ਮੁਖ ਬਾਤਉṅãṅā ṅiān nahī mukh bātuNganga: Spiritual wisdom is not obtained by mere words of mouth.",,
+ਚ,/t͡ʃə/,"Gurmukhi letter ਚੱਚਾ (chachā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 254:
+ਚਚਾ ਚਰਨ ਕਮਲ ਗੁਰ ਲਾਗਾcacā caran kamal gur lāgāChacha: I became attached to the Lord's Lotus Feet.",,
+ਛ,/t͡ʃʰə/,"Gurmukhi letter ਛੱਛਾ (cḥacḥā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 254:
+ਛਛਾ ਛੋਹਰੇ ਦਾਸ ਤੁਮਾਰੇchachā chohre dās tumāreChhachha: I am Your child-slave.",,
+ਜ,/d͡ʒə/,"Gurmukhi letter ਜੱਜਾ (jajjā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 255:
+ਜਜਾ ਜਾਨੈ ਹਉ ਕਛੁ ਹੂਆjajjā jānae hau kacḥ hūāJajja: When someone, in his ego, believes that he has become something,",,
+ਝ,/t͡ʃə̀/,"Gurmukhi letter ਝੱਝਾ (jhajjā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 255:
+ਝਝਾ ਝੂਰਨੁ ਮਿਟੈ ਤੁਮਾਰੋjhajhā jhūran miṭae tumāroJhajha: Your sorrows shall depart,",,
+ਞ,/ɲə/,"Gurmukhi letter ਞੰਞਾ (ñãñā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 255:
+ਞੰਞਾ ਞਾਣਹੁ ਦ੍ਰਿੜੁ ਸਹੀ ਬਿਨਸਿ ਜਾਤ ਏਹ ਹੇਤñãñā ñāṇhu driṛ sahī binas jāt eh hetNyanya: Know this as absolutely correct, that that this ordinary love shall come to an end.",,
+ਟ,/ʈə/,Gurmukhi letter ਟੈਂਕਾ (ṭaiṅkā),,
+ਠ,/ʈʰə/,"Gurmukhi letter ਠੱਠਾ (ṭhaṭhā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 256:
+ਠਠਾ ਮਨੂਆ ਠਾਹਹਿ ਨਾਹੀṭhaṭhā manūā ṭhāheh nāhīThatha: They do not make trouble for anyone's mind,",,
+ਡ,/ɖə/,"Gurmukhi letter ਡੱਡਾ (ḍaḍā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 256:
+ਡਡਾ ਡੇਰਾ ਇਹੁ ਨਹੀ ਜਹ ਡੇਰਾ ਤਹ ਜਾਨੁḍaḍā ḍerā eh nahī jah ḍerā tah jānDadda: This is not your true place; you must know where that place really is.",,
+ਢ,/ʈə̀/,"Gurmukhi letter ਢੱਢਾ (ḍhaḍā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 256:
+ਢਢਾ ਢੂਢਤ ਕਹ ਫਿਰਹੁ ਢੂਢਨੁ ਇਆ ਮਨ ਮਾਹਿḍhaḍhā ḍhūḍhat kah phirhu ḍhūḍhan eā man māheDhadha: Where are you going, wandering and searching? Search instead within your own mind.",,
+ਣ,/ɳə/,"Gurmukhi letter ਣਾਣਾ (ṇāṇā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 256:
+ਣਾਣਾ ਰਣ ਤੇ ਸੀਝੀਐ ਆਤਮ ਜੀਤੈ ਕੋਇṇāṇā raṇ te sījhīae ātam jītae koeNanna: One who conquers his own soul, wins the battle of life.",,
+ਤ,/t̪ə/,"Gurmukhi letter ਤੱਤਾ (tattā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 256:
+ਤਤਾ ਤਾ ਸਿਉ ਪ੍ਰੀਤਿ ਕਰਿ ਗੁਣ ਨਿਧਿ ਗੋਬਿਦ ਰਾਇtatā tā siu prīt kar guṇ nidh gobid rāeTatta: Embrace love for the Treasure of Excellence, the Sovereign Lord of the Universe.",,
+ਥ,/t̪ʰə/,"Gurmukhi letter ਥੱਥਾ (thathā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 257:
+ਥਥਾ ਥਿਰੁ ਕੋਊ ਨਹੀ ਕਾਇ ਪਸਾਰਹੁ ਪਾਵthathā thir koū nahī kāe pasārhu pāvThatha: Nothing is permanent - why do you stretch out your feet?",,
+ਦ,/d̪ə/,"Gurmukhi letter ਦੱਦਾ (daddā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 257:
+ਦਦਾ ਦਾਤਾ ਏਕੁ ਹੈ ਸਭ ਕਉ ਦੇਵਨਹਾਰdadā dātā ek hae sabh ko devanhārDadda: The One Lord is the Great Giver; He is the Giver to all.",,
+ਧ,/t̪ə̀/,"Gurmukhi letter ਧੱਧਾ (dhaddā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 251:
+ਧਧਾ ਧੂਰਿ ਪੁਨੀਤ ਤੇਰੇ ਜਨੂਆdhadhā dhūri punīt tere janūāDhadha: The dust of the feet of the Saints is sacred.",,
+ਨ,/nə/,"Gurmukhi letter ਨੰਨਾ (nannā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 257:
+ਨੰਨਾ ਨਰਕਿ ਪਰਹਿ ਤੇ ਨਾਹੀ ਜਾ ਕੈ ਮਨਿ ਤਨਿ ਨਾਮੁ ਬਸਾਹੀnannā narak pareh te nāhī jā kae man tan nām basāhīNanna: Those shall not fall into hell, whose minds and bodies are filled with the Naam.",,
+ਪ,/pə/,"Gurmukhi letter ਪੱਪਾ (pappā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 258:
+ਪਪਾ ਪਰਮਿਤਿ ਪਾਰੁ ਨ ਪਾਇਆpapā parmit pār na pāeāPappa: He is beyond estimation; His limits cannot be found.",,
+ਫ,/pʰə/,"Gurmukhi letter ਫੱਫਾ (phaphā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 258:
+ਫਫਾ ਫਿਰਤ ਫਿਰਤ ਤੂ ਆਇਆphaphā phirat phirat tū āeāphapha: After wandering and wandering for so long, you have come;",,
+ਫ਼,/fə/,"Gurmukhi letter ਫ਼ (fa)
+Bhai Nand Lal, translation by Pritpal Singh Bindra, Diwan-e-Goya, Ghazal 17:
+ਅਜ਼ ਮਕਦਮਿ ਸ਼ਰੀਫ਼ ਜਹਾਣ ਰਾ ਦਿਹਦ ਫ਼ਰੋਗ਼az makadme sharīf jahāṇ rā dihad froġWhen the slumbering morning sun takes off his veil from its face,",,
+ਬ,/bə/,"Gurmukhi letter ਬੱਬਾ (babbā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 258:
+ਬਬਾ ਬ੍ਰਹਮੁ ਜਾਨਤ ਤੇ ਬ੍ਰਹਮਾbabā braham jānat te brahamāBabba: One who knows God is a Brahmin.",,
+ਭ,/pə̀/,"Gurmukhi letter ਭੱਭਾ (bhabbā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 258:
+ਭਭਾ ਭਰਮੁ ਮਿਟਾਵਹੁ ਅਪਨਾ ਇਆ ਸੰਸਾਰੁ ਸਗਲ ਹੈ ਸੁਪਨਾbhabhā bharam miṭāvhu apnā eā sansār sagal hae supnāBhabha: Cast out your doubt and delusion - this world is just a dream.",,
+ਮ,/mə/,"Gurmukhi letter ਮੱਮਾ (mammā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 258:
+ਮਮਾ ਮਾਗਨਹਾਰ ਇਆਨਾ ਦੇਨਹਾਰ ਦੇ ਰਹਿਓ ਸੁਜਾਨਾmamā māganhār eānā denhār de rahio sujānāMamma: The beggar is so ignorant - the Great Giver continues to give. He is All-knowing.",,
+ਯ,/jə/,"Gurmukhi letter ਯੱਯਾ (yayyā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 253:
+ਯਯਾ ਜਾਰਉ ਦੁਰਮਤਿ ਦੋਊyayyā jāru durmat doūYayya: Burn away duality and evil-mindedness.",,
+ਰ,/ɾə/,"Gurmukhi letter ਰਾਰਾ (rārā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 250:
+ਰਾਰਾ ਰੰਗਹੁ ਇਆ ਮਨੁ ਅਪਨਾrārā raṅghu eā man apnāRarra: Dye this heart of yours in the color of the Lord's Love.",,
+ਲ,/lə/,"Gurmukhi letter ਲੱਲਾ (lallā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 252:
+ਲਲਾ ਲਪਟਿ ਬਿਖੈ ਰਸ ਰਾਤੇlallā lapṭe bikhae ras rāteLalla: People are entangled in the love of corrupt pleasures;",,
+ਲ਼,/ɭə/,Gurmukhi letter ਲ਼ (ḷa),,
+ਵ,/ʋə/,"Gurmukhi letter ਵੱਵਾ (vavvā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 259:
+ਵਵਾ ਵੈਰੁ ਨ ਕਰੀਐ ਕਾਹੂvavā vaer na karīae kāhūWawwa: Do not harbor hatred against anyone.",,
+ਸ,/sə/,"Gurmukhi letter ਸੱਸਾ (sassā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 250:
+ਸਸਾ ਸਤਿ ਸਤਿ ਸਤਿ ਸੋਊsassā sat sat sat soūSassa: True, True, True is that Lord.",,
+ਸ਼,/ʃə/,"Gurmukhi letter ਸ਼ (śa)
+Guru Gobind Singh, translation by Dr. Surinder Singh Kohli, Zafarnama (Epistle of Victory):
+ਕਮਾਲ ਏ ਕਰਾਮਾਤ ਕਾਯਮ ਕਰੀਮ ਰਜ਼ਾ ਬਖ਼ਸ਼ ਰਾਜ਼ਕ ਰਹਾਕੁਨ ਰਹੀਮkamāl e karāmāt kāyam karīm razā bakḥsh rāzak rahākun rahīmThe Lord is perfect in all faculties. He is Immortal and generous. He is the Giver of victuals and Emancipator.",,
+ਹ,/ɦə/,"Gurmukhi letter ਹਾਹਾ (hāhā)
+Guru Granth Sahib, Guru Nanak, translation by Dr. Sant Singh Khalsa, ang 434:
+ਹਾਹੈ ਹੋਰੁ ਨ ਕੋਈ ਦਾਤਾ ਜੀਅ ਉਪਾਇ ਜਿਨਿ ਰਿਜਕੁ ਦੀਆhāhae hor na koē dātā jīa upāe jin rizak dīāHaha: There is no other Giver than Him; having created the creatures, He gives them nourishment.",,
+ੜ,/ɽə/,"Gurmukhi letter ੜਾੜਾ (ṛāṛā)
+Guru Granth Sahib, Guru Arjan, translation by Dr. Sant Singh Khalsa, ang 260:
+ੜਾੜਾ ੜਾੜਿ ਮਿਟੈ ਸੰਗਿ ਸਾਧੂṛāṛā ṛāṛ miṭae saṅg sādhūRarra: Conflict is eliminated in the Saadh Sangat, the Company of the Holy;",,
+અ,/ə/,The first letter and first vowel of the Gujarati script.,,
+அ,/ə/,The first letter in the Tamil abugida.,,
+ഃ,/ah/,The visarga in the Malayalam abugida,,
+ຍ,/ɲ/,Lao letter nya,,
+ດ,/d/,Lao letter da,,
+ခ,/kʰa̰/,"Kha, the second letter of the Burmese alphabet.",,
+ဂ,/ɡa̰/,"Ga, the third letter of the Burmese alphabet, called ဂငယ် (ga.ngai) in Burmese.",,
+ဃ,/ɡa̰/,"Gha, the 4th letter of the Burmese alphabet, called ဃကြီး (gha.kri:) in Burmese",,
+င,/ŋa̰/,"Nga, the 5th letter of the Burmese alphabet.",,
+ဇ,/za̰/,"Ja, the 8th letter of the Burmese alphabet.",,
+ဉ,/ɲa̰/,"Nya, the 10th letter of the Burmese alphabet.",,
+ဋ,/ta̰/,"Tta, the 12th letter of the Burmese alphabet.",,
+ဌ,/tʰa̰/,"Ttha, the 13th letter of the Burmese alphabet.",,
+ဍ,/da̰/,"Dda, the 14th letter of the Burmese alphabet.",,
+ဎ,/da̰/,"Ddha, the 15th letter of the Burmese alphabet.",,
+ဏ,/na̰/,"Nna, the 16th letter of the Burmese alphabet.",,
+တ,/ta̰/,"Ta, the 17th letter of the Burmese alphabet.",,
+ဒ,/da̰/,"Da, the 19th letter of the Burmese alphabet.",,
+ဓ,/da̰/,"Dha, the 20th letter of the Burmese alphabet.",,
+န,/na̰/,"Na, the 21st letter of the Burmese alphabet.",,
+ပ,/pa̰/,"Pa, the 22nd letter of the Burmese alphabet.",,
+ဖ,/pʰa̰/,"Pha, the 23rd letter of the Burmese alphabet.",,
+ဗ,/ba̰/,"Ba, the 24th letter of the Burmese alphabet.",,
+ဘ,/ba̰/,"Bha, the 25th letter of the Burmese alphabet.",,
+မ,/ma̰/,"Ma, the 26th letter of the Burmese alphabet.",,
+ယ,/ja̰/,"Ya, the 27th letter of the Burmese alphabet.",,
+သ,/θa̰/,"Sa, the 30th letter of the Burmese alphabet.",,
+ဠ,/la̰/,"Lla, the 32nd letter of the Burmese alphabet.",,
+ჹ,[ɢ],"A letter of the Georgian script, used in transcription",,
+ᴞ,[ʏ],(in the Uralic Phonetic Alphabet) denotes a reduced,,
+∂,/d/,"(mathematics) partial differential, (mathematics) boundary",,
+ⴰ,/ja/,A Tifinagh letter: the first letter of the basic Neo-Tifinagh alphabet.,,
+ⴱ,/jab/,A Tifinagh letter: the second letter of the basic Neo-Tifinagh alphabet.,,
+ⴲ,/jaβ/,A Tifinagh letter: a letter of the extended Neo-Tifinagh alphabet.,,
+ⴵ,/jad͡ʒ/,A Tifinagh letter: a letter of the Berber Academy's Neo-Tifinagh alphabet.,,
+ⴶ,/jad͡ʒ/,A Tifinagh letter: an alternative letter of the Neo-Tifinagh alphabet.,,
+ⴷ,/jad/,A Tifinagh letter: the fifth letter of the basic Neo-Tifinagh alphabet.,,
+ⴹ,/jadˤ/,A Tifinagh letter: the sixth letter of the basic Neo-Tifinagh alphabet.,,
+ⴻ,/jəj/,A Tifinagh letter: the seventh letter of the basic Neo-Tifinagh alphabet.,,
+ⴼ,/jaf/,A Tifinagh letter: the eighth letter of the basic Neo-Tifinagh alphabet.,,
+ⴽ,/jak/,A Tifinagh letter: the ninth letter of the basic Neo-Tifinagh alphabet.,,
+ⴾ,/jak/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⴿ,/jax/,A Tifinagh letter: a letter of the extended Neo-Tifinagh alphabet.,,
+ⵁ,/jah/,A Tifinagh letter: a letter of the Berber Academy's Neo-Tifinagh alphabet.,,
+ⵂ,/jah/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵃ,/jaħ/,A Tifinagh letter: the twelfth letter of the basic Neo-Tifinagh alphabet.,,
+ⵄ,/jaʕ/,A Tifinagh letter: the thirteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵅ,/jaχ/,A Tifinagh letter: the fourteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵆ,/jaχ/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵇ,/jaq/,A Tifinagh letter: the fifteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵈ,/jaq/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵉ,/ji/,A Tifinagh letter: the sixteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵊ,/jaʒ/,A Tifinagh letter: the seventeenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵋ,/jaʒ/,A Tifinagh letter: a letter of the Ahaggar alphabet.,,
+ⵌ,/jazˤ/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵍ,/jal/,A Tifinagh letter: the eighteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵎ,/jam/,A Tifinagh letter: the nineteenth letter of the basic Neo-Tifinagh alphabet.,,
+ⵏ,/jan/,A Tifinagh letter: the twentieth letter of the basic Neo-Tifinagh alphabet.,,
+ⵐ,/jaɲ/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵑ,/jaŋ/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵒ,/jap/,A Tifinagh letter: a letter of the extended Neo-Tifinagh alphabet.,,
+ⵓ,/ju/,A Tifinagh letter: the twenty-first letter of the basic Neo-Tifinagh alphabet.,,
+ⵔ,/jar/,A Tifinagh letter: the twenty-second letter of the basic Neo-Tifinagh alphabet.,,
+ⵕ,/jarˤ/,A Tifinagh letter: the twenty-third letter of the basic Neo-Tifinagh alphabet.,,
+ⵖ,/jaɣ/,A Tifinagh letter: the twenty-fourth letter of the basic Neo-Tifinagh alphabet.,,
+ⵗ,/jaɣ/,A Tifinagh letter: a letter of the Tuareg alphabet.,,
+ⵘ,/jaɣ/,A Tifinagh letter: a letter of the Aïr Tamajaq and Adrar Tamasheq Tuareg alphabets.,,
+ⵙ,/jas/,A Tifinagh letter: the twenty-fifth letter of the basic Neo-Tifinagh alphabet.,,
+ⵚ,/jasˤ/,A Tifinagh letter: the twenty-sixth letter of the basic Neo-Tifinagh alphabet.,,
+ⵛ,/jaʃ/,A Tifinagh letter: the twenty-seventh letter of the basic Neo-Tifinagh alphabet.,,
+ⵜ,/jat/,A Tifinagh letter: the twenty-eighth letter of the basic Neo-Tifinagh alphabet.,,
+ⵝ,/jaθ/,A Tifinagh letter: a letter of the extended Neo-Tifinagh alphabet.,,
+ⵞ,/jat͡ʃ/,A Tifinagh letter: an alternative letter of the Neo-Tifinagh alphabet.,,
+ⵟ,/jatˤ/,A Tifinagh letter: the twenty-ninth letter of the basic Neo-Tifinagh alphabet.,,
+ⵠ,/jav/,A Tifinagh letter: a letter of the extended Neo-Tifinagh alphabet.,,
+ⵡ,/jaw/,A Tifinagh letter: the thirtieth letter of the basic Neo-Tifinagh alphabet.,,
+ⵢ,/jaj/,A Tifinagh letter: the thirty-first letter of the basic Neo-Tifinagh alphabet.,,
+ⵣ,/jaz/,A Tifinagh letter: the thirty-second letter of the basic Neo-Tifinagh alphabet.,,
+ⵤ,/jaz/,A Tifinagh letter: a letter of the Tawellemet alphabet.,,
+ⵥ,/jazˤ/,A Tifinagh letter: the thirty-third letter of the basic Neo-Tifinagh alphabet.,,
+ⵦ,/je/,A Tifinagh letter: a letter of the Nigerien Tifinagh alphabet.,,
+ⵧ,/jo/,A Tifinagh letter: a letter of the Nigerien Tifinagh alphabet.,,
+ⵯ,/ʷ/,A Tifinagh diacritic: the labialization mark of the basic Neo-Tifinagh alphabet.,,
+𐐀,/iː/,Deseret letter Long I,,
+𐐨,/iː/,Deseret letter Long I,,
+𐐁,/eɪ/,Deseret letter Long E,,
+𐐩,/eɪ/,Deseret letter Long E,,
+𐐪,/ɑː/,Deseret letter Long A,,
+𐐃,/ɔː/,Deseret letter Long Ah,,
+𐐫,/ɔː/,Deseret letter Long Ah,,
+𐐄,/oʊ/,Deseret letter Long O,,
+𐐅,/uː/,Deseret letter Long Oo,,
+𐐭,/uː/,Deseret letter Long Oo,,
+𐐆,/ɪ/,Deseret letter Short I,,
+𐐮,/ɪ/,Deseret letter Short I,,
+𐐇,/ɛ/,Deseret letter Short E,,
+𐐯,/ɛ/,Deseret letter Short E,,
+𐐈,/æ/,Deseret letter Short A,,
+𐐰,/æ/,Deseret letter Short A,,
+𐐉,/ɒ/,Deseret letter Short Ah,,
+𐐊,/ʌ/,Deseret letter Short O,,
+𐐲,/ʌ/,Deseret letter Short O,,
+𐐋,/ʊ/,Deseret letter Short Oo,,
+𐐳,/ʊ/,Deseret letter Short Oo,,
+𐐌,/aɪ/,Deseret letter Ay,,
+𐐴,/aɪ/,Deseret letter Ay,,
+𐐍,/aʊ/,Deseret letter Ow,,
+𐐵,/aʊ/,Deseret letter Ow,,
+𐐶,/w/,Deseret letter Wu,,
+𐐏,/j/,Deseret letter Yee,,
+𐐷,/j/,Deseret letter Yee,,
+𐐑,/p/,Deseret letter Pee,,
+𐐒,/b/,Deseret letter Bee,,
+𐐺,/b/,Deseret letter Bee,,
+𐐓,/t/,Deseret letter Tee,,
+𐐻,/t/,Deseret letter Tee,,
+𐐔,/d/,Deseret letter Dee,,
+𐐼,/d/,Deseret letter Dee,,
+𐐕,/t͡ʃ/,Deseret letter Chee,,
+𐐽,/t͡ʃ/,Deseret letter Chee,,
+𐐖,/d͡ʒ/,Deseret letter Jee,,
+𐐾,/d͡ʒ/,Deseret letter Jee,,
+𐐗,/k/,Deseret letter Kay,,
+𐐿,/k/,Deseret letter Kay,,
+𐐘,/ɡ/,Deseret letter Gay,,
+𐑀,/ɡ/,Deseret letter Gay,,
+𐐙,/f/,Deseret letter Ef,,
+𐑁,/f/,Deseret letter Ef,,
+𐐚,/v/,Deseret letter Vee,,
+𐑂,/v/,Deseret letter Vee,,
+𐐛,/θ/,Deseret letter Eth,,
+𐑃,/θ/,Deseret letter Eth,,
+𐐜,/ð/,Deseret letter Thee,,
+𐑄,/ð/,Deseret letter Thee,,
+𐐝,/s/,Deseret letter Es,,
+𐑅,/s/,Deseret letter Es,,
+𐐞,/z/,Deseret letter Zee,,
+𐑆,/z/,Deseret letter Zee,,
+𐐟,/ʃ/,Deseret letter Esh,,
+𐑇,/ʃ/,Deseret letter Esh,,
+𐐠,/ʒ/,Deseret letter Zhee,,
+𐑈,/ʒ/,Deseret letter Zhee,,
+𐐡,/r/,Deseret letter Er,,
+𐑉,/r/,Deseret letter Er,,
+𐐢,/l/,Deseret letter El,,
+𐑊,/l/,Deseret letter El,,
+𐐣,/m/,Deseret letter Em,,
+𐑋,/m/,Deseret letter Em,,
+𐐤,/n/,Deseret letter En,,
+𐑌,/n/,Deseret letter En,,
+𐐥,/ŋ/,Deseret letter Eng,,
+𐑍,/ŋ/,Deseret letter Eng,,
+𐐦,/ɔɪ/,Deseret letter Oi,,
+𐑎,/ɔɪ/,Deseret letter Oi,,
+𐐧,/juː/,Deseret letter Ew,,
+𐑏,/juː/,Deseret letter Ew,,

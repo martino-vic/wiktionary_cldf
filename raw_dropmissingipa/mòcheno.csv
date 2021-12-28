@@ -1,21 +1,32 @@
-L2_orth,L2_ipa,L2_gloss,L2_etym
-bai',wˈɪn,wine,wīn
-baib,wˈɪp,"woman, Coordinate term: mònn",wīp
-balsch,wˈɛlɪsk,"Italian (of Italy, its people or its culture)",welisc
-balsch,wˈɛlɪsk,Italian (language),welisc
-bint,wˈɪnt,wind,wint
-bòlt,wˈɔlt,"wood, woodland (land covered by trees)",walt
-bòsser,wˈæzɚ,water,wazzer
-hilf,hˈɛlf,"help, aid",helfe
-holz,hˈɑːlz,wood,holz
-hònt,hˈænt,hand,hant
-jor,d͡ʒˈɑː͡ɹ,year,jār
-khòlt,kˈɔlt,cold,kalt
-milch,mˈɪlt͡ʃ,milk,milch
-mònn,mˈæn,"man (male human being), Coordinate term: baib",man
-òlt,ˈɑːlt,old,alt
-silber,sˈɪlbɚ,silver (metal),silber
-tol,tˈæl,valley,tal
-vèlt,vˈiː ˌɛltˈiː,"field, countryside",vëlt
-visch,vˈɪʃ,fish,visch
-volng,vˈɑːld͡ʒən,to follow,volgen
+L2_orth,L2_ipa,L2_gloss,L2_etym,en_ipa
+bai',/bãj̃/,wine,wīn,wˈɪn
+baib,/bajb/,"woman, Coordinate term: mònn",wīp,wˈɪp
+balsch,/balʃ/,"Italian (of Italy, its people or its culture)",welisc,wˈɛlɪsk
+balsch,/balʃ/,Italian (language),welisc,wˈɛlɪsk
+bint,/bint/,wind,wint,wˈɪnt
+bolkh,/bolkʰ/,cloud,,
+bòlt,/bɔlt/,"wood, woodland (land covered by trees)",walt,wˈɔlt
+bòsser,/bɒsər/,water,wazzer,wˈæzɚ
+dert,/dert/,there,,
+gahilb,/ɡahilb/,cloudy,,
+helb,/helb/,axhandle,,
+hilf,/hilf/,"help, aid",helfe,hˈɛlf
+holz,/holt͡s/,wood,holz,hˈɑːlz
+hònt,/hɔnt/,hand,hant,hˈænt
+jor,/joːr/,year,jār,d͡ʒˈɑː͡ɹ
+khòlt,/kʰɔlt/,cold,kalt,kˈɔlt
+khorb,/kʰorb/,basket,,
+mènsch,/mɛnʃ/,"human, person",,
+milch,/milx/,milk,milch,mˈɪlt͡ʃ
+mònn,/mɔn/,"man (male human being), Coordinate term: baib",man,mˈæn
+òlt,/ɔlt/,old,alt,ˈɑːlt
+ork,/ork/,ogre,,
+pilgoi,/ˈpilɡoi/,An egg left in a nest.,,
+pulver,/ˈpulvɛr/,powder,,
+schmilz,/ʃmilt͡s/,spleen,,
+silber,/ˈzilbɛr/,silver (metal),silber,sˈɪlbɚ
+tol,/toːl/,valley,tal,tˈæl
+turt,/ˈtuːrt/,pie,,
+vèlt,/vɛlt/,"field, countryside",vëlt,vˈiː ˌɛltˈiː
+visch,/vʉ̞ʃ/,fish,visch,vˈɪʃ
+volng,/volŋ/,to follow,volgen,vˈɑːld͡ʒən

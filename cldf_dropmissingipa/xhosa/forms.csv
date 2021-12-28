@@ -1,0 +1,898 @@
+ID,Form,IPA,Gloss,Language_ID
+0,abo,[âːɓo],those; class 2 distal demonstrative.,0
+1,umakhi,[úmâːkʰi],builder,0
+2,utywala,[úcʷaːlá],beer,0
+3,amkela,[am̩keːla],to receive,0
+4,isandla,[ísáːⁿd̥ɮa̤],hand,0
+5,isando,[ísáːⁿd̥o̤],hammer,0
+6,isanuse,[ísanúːse],diviner,0
+7,apha,[áːpʰa],here; proximal demonstrative adverb.,0
+8,apho,[áːpʰo],there; distal demonstrative adverb.,0
+9,i-apile,[íʔápiːle],apple,0
+10,awu,[âːwu],oh!,0
+11,isaziso,[ísáz̥ǐ̤ːso],announcement,0
+12,imbabala,[íᵐb̥ǎ̤ɓaːlá],bushbuck,0
+13,ibala,[íɓâːla],"spot, open space, yard",0
+14,umbala,[úḿ̩ɓâːla],color,0
+15,ubambo,[úɓaːᵐb̥o̤],rib,0
+16,ibandla,[íɓâːⁿd̥ɮa̤],"parish, assembly, congregation",0
+17,isibane,[ísíɓaːne],lamp,0
+18,umbane,[úḿ̩ɓaːne],"electricity, lightning",0
+19,ubani,[úɓáːní],"who is (it)?
+Ubani lo mntu?Who is this person?
+Ungubani?Who are you?",0
+20,umbanjwa,[úḿ̩ɓaːᶮd̥ʒʷa̤],prisoner,0
+21,ubawo,[úɓaːwó],my/our father,0
+22,ubawomkhulu,[úɓawóm̩kʰûːlu],grandfather,0
+23,isibaya,[ísiɓâːja],"fold, kraal",0
+24,ibele,[íɓéːle],breast,0
+25,imbewu,[íᵐb̥e̤᷈ːwu],seed,0
+26,isibhakabhaka,[ísíb̥a̤kab̥ǎ̤ːka],sky,0
+27,umbhali,[úḿ̩b̥a̤᷈ːli],"author, writer",0
+28,isibhedlele,[ísíb̥ě̤ɮ̊e̤ːle],hospital,0
+29,ubhejane,[úb̥ě̤d̥ʒa̤ːne],black rhinoceros,0
+30,ibhinqa,[íb̥ǐ̤ːŋǃá],married woman,0
+31,umbhinqo,[úḿ̩b̥i̤᷈ːŋǃo],skirt,0
+32,umbhobho,[úḿ̩b̥ǒ̤ːb̥o̤],pipe,0
+33,ubhuti,[úb̥ṳːtí],brother,0
+34,ububi,[úɓuːɓí],"badness, evil, ugliness",0
+35,imbila,[íᵐb̥i̤᷈ːla],rock hyrax,0
+36,isibindi,[ísíɓíːⁿd̥i̤],"liver, courage",0
+37,ubisi,[úɓîːsi],milk,0
+38,imbiza,[íᵐb̥i̤ːz̥ǎ̤],cooking pot,0
+39,imbizo,[íᵐb̥i̤᷈ːz̥o̤],meeting,0
+40,umboko,[úḿ̩ɓôːko],proboscis,0
+41,imbola,[íᵐb̥o̤ːla],red ochre,0
+42,ibomvu,[íɓoːᶬb̪̊vṳ̌],red ochre,0
+43,bona,[ɓoːná],"they, them; class 2 absolute pronoun.",0
+44,bona,[ɓoːná],it; class 14 absolute pronoun.,0
+45,bona,[ɓoːná],to see,0
+46,bona,[ɓoːná],it; class 14 absolute pronoun.,0
+47,bona,[ɓoːná],to see,0
+48,bona,[ɓoːná],to see,0
+49,imbongi,[íᵐb̥o̤ːᵑɡ̊i̤],praise singer,0
+50,imbongolo,[íᵐb̥ǒ̤ᵑɡ̊o̤ːlo],donkey,0
+51,umbono,[úḿ̩ɓôːno],view,0
+52,imbovane,[íᵐb̥ǒ̤v̥aːné],ant,0
+53,ukubulala,[úkúɓúláːla],"infinitive of -bulala, murder, killing",0
+54,umbulali,[úḿ̩ɓúláːli],"killer, murderer",0
+55,isibunu,[ísíɓûːnu],buttock,0
+56,imbuzi,[íᵐb̥ṳːz̥ǐ̤],"goat, ram, Synonym: ibhokhwe",0
+57,caca,[kǀaːkǀa],to be clear,0
+58,isicaka,[ísíkǀâːka],servant,0
+59,icala,[íkǀâːla],side,0
+60,ucamba,[úkǀâːᵐb̥a̤],stratum,0
+61,ucango,[úkǀaːᵑɡ̊o̤],door,0
+62,iCawa,[íkǀáːwa],Sunday,0
+63,icebo,[íkǀêːɓo],advice,0
+64,icephe,[íkǀeːpʰé],spoon,0
+65,ichibi,[íkǀʰiːɓí],"lake, pond, pool",0
+66,uchochoyi,[úkǀʰokǀʰóːji],crown (of head),0
+67,ubuchopho,[úɓúkǀʰoːpʰo],brain,0
+68,isichotho,[ísíkǀʰoːtʰo],hailstorm,0
+69,chunuba,[kǀʰúnúːɓa],"(transitive) to annoy, to provoke",0
+70,icici,[íkǀíːkǀí],earring,0
+71,isiciko,[ísíkǀiːko],"lid, cover",0
+72,umcimbi,[úḿ̩kǀîːᵐb̥i̤],matter,0
+73,incoko,[íŋǀóːko],conversation,0
+74,incopho,[íŋǀoːpʰó],"summit, pinnacle",0
+75,ukucula,[úkúkǀuːla],"infinitive of -cula, singing",0
+76,umculi,[úḿ̩kǀuːli],singer,0
+77,iculo,[íkǀuːlo],"song, hymn",0
+78,umculo,[úḿ̩kǀuːlo],music,0
+79,incwadi,[íŋǀʷaːd̥ǐ̤],book,0
+80,cwaka,[kǀʷaːka],Signifies silence.,0
+81,ucwambu,[úkǀʷâːᵐb̥ṳ],cream,0
+82,ubucwecwe,[úɓúkǀʷeːkǀʷé],flatness,0
+83,umda,[úm̩ːd̥ǎ̤],"line, border",0
+84,indaba,[íⁿd̥a̤ːɓa],"matter, piece of news",0
+85,idada,[íd̥a̤ːd̥a̤],duck,0
+86,ukudada,[úkúd̥a̤ːd̥a̤],"infinitive of -dada, swimming",0
+87,udaka,[úd̥a̤ːka],mud,0
+88,indalo,[íⁿd̥a̤ːlo],nature,0
+89,indawo,[íⁿd̥a̤᷈ːwo],"place, area",0
+90,indlala,[íⁿd̥ɮa̤ːla],famine,0
+91,umdlalo,[úḿ̩ɮ̥a̤᷈ːlo],game,0
+92,indlebe,[íⁿd̥ɮe̤ːɓé],ear,0
+93,indlela,[íⁿd̥ɮe̤ːla],"road, path",0
+94,ubudlelwane,[úɓúɮ̥ě̤lʷaːne],friendship,0
+95,indlovu,[íⁿd̥ɮo̤ːvṳ],elephant,0
+96,indlu,[íːⁿd̥ɮṳ],house,0
+97,indlulamthi,[íⁿd̥ɮṳ̌lám̩ːtʰí],giraffe,0
+98,indoda,[íⁿd̥o̤ːd̥a̤],man (male),0
+99,idolo,[íd̥o̤ːlo],knee,0
+100,udonga,[úd̥o̤ːᵑɡ̊ǎ̤],wall,0
+101,isidudu,[ísíd̥ṳːd̥ṳ],gruel,0
+102,isiduko,[ísíd̥ṳːko],clan name,0
+103,induku,[íⁿd̥ṳːku],"stick, staff",0
+104,induli,[íⁿd̥ṳ᷈ːli],hill,0
+105,udyakalashe,[úɟ̥a̤kálaːʃe],jackal,0
+106,umdyarho,[úḿ̩ɟ̥a̤ːxo],race,0
+107,indyebo,[íᶮɟ̥e̤ːɓo],"abundance, wealth",0
+108,idzedze,[íd̥zě̤ːd̥ze̤],"flea, Synonym: intakumba",0
+109,eli,[êːli],this; class 5 proximal demonstrative.,0
+110,elo,[êːlo],that; class 5 distal demonstrative.,0
+111,amendu,[ámeːⁿd̥ṳ̌],speed,0
+112,isenzo,[íséːⁿd̥zo̤],act,0
+113,esi,[êːsi],this; class 7 proximal demonstrative.,0
+114,i-esile,[íʔésiːle],"donkey, ass",0
+115,eso,[êːso],that; class 7 distal demonstrative.,0
+116,ewe,[eːwé],yes,0
+117,ezo,[êːz̥o̤],those; class 8 distal demonstrative.,0
+118,ezo,[êːz̥o̤],those; class 10 distal demonstrative.,0
+119,ezo,[êːz̥o̤],those; class 10 distal demonstrative.,0
+120,fa,[fá],(intransitive) to die,0
+121,ukufa,[úkuːfá],infinitive of -fa,0
+122,umfana,[úḿ̩fáːna],"boy, young man",0
+123,umfanekiso,[úḿ̩fánékiːso],"image, picture",0
+124,umfazi,[úḿ̩fâːz̥i̤],woman,0
+125,imfazwe,[íᶬp̪fáːz̥ʷe̤],"war, warfare",0
+126,ufele,[úfêːlé],skin,0
+127,imfene,[íᶬp̪feːne],baboon,0
+128,umfi,[úm̩ːfí],dead person,0
+129,imfihlo,[íᶬp̪fîːɬo],secret,0
+130,isifo,[ísiːfó],"sickness, disease",0
+131,umfo,[úm̩ːfó],fellow,0
+132,ilifu,[ílíːfu],cloud,0
+133,isifuba,[ísífûːɓa],chest (of the body),0
+134,ufudo,[úfûːd̥o̤],tortoise,0
+135,umfula,[úḿ̩fuːla],"river, stream, valley",0
+136,funa,[fûːna],"(transitive) to want, to desire",0
+137,umfundi,[úḿ̩fúːⁿd̥i̤],"student, pupil",0
+138,umfundisi,[úḿ̩fúⁿd̥i̤ːsi],teacher,0
+139,imfundo,[íᶬp̪fúːⁿd̥o̤],education,0
+140,isifundo,[ísífúːⁿd̥o̤],lesson,0
+141,umfuno,[úḿ̩fûːno],vegetable,0
+142,amafutha,[ámáfûːtʰa],"fat, oil, grease",0
+143,fuya,[fúːja],(transitive) to breed (animals),0
+144,umfuyi,[úḿ̩fúːji],breeder,0
+145,imfuyo,[íᶬp̪fúːjo],domestic animal,0
+146,ing'ang'ane,[íŋáŋáːne],hadada ibis,0
+147,igaba,[íɡ̊a̤᷈ːɓa],hoe,0
+148,ingada,[íᵑɡ̊a̤ːd̥ǎ̤],wild cat,0
+149,ingalo,[íᵑɡ̊a̤ːlo],arm,0
+150,igama,[íɡ̊a̤᷈ːma],name,0
+151,ugandaganda,[úɡ̊ǎ̤ⁿd̥a̤ɡ̊ǎ̤ːⁿd̥a̤],tractor,0
+152,umgangatho,[úḿ̩ɡ̊ǎ̤ᵑɡ̊a̤ːtʰo],floor,0
+153,igazi,[íɡ̊a̤ːz̥ǐ̤],blood,0
+154,ingca,[íːŋǀǎ̤],grass,0
+155,umgca,[úḿ̩ːɡ̊ǀa̤],"line, queue, row",0
+156,ingcaciso,[íŋǀǎ̤kǀiːso],clarification,0
+157,ingcambu,[íŋǀa̤᷈ːᵐb̥ṳ],root,0
+158,isigcawu,[ísíɡ̊ǀa̤ːwu],spider,0
+159,ingcebiso,[íŋǀe̤ɓíːso],"advice, counseling",0
+160,ingcelo,[íŋǀe̤᷈ːlo],request,0
+161,ingcingo,[íŋǀi̤ːᵑɡ̊o̤],"wire, fence",0
+162,igcisa,[íɡ̊ǀǐ̤ːsá],"artist, craftsman",0
+163,gcoba,[ɡ̊ǀǒ̤ːɓa],(intransitive) to be happy,0
+164,ingcobo,[íŋǀǒ̤ːɓo],joy,0
+165,umgcobo,[úḿ̩ɡ̊ǀo̤᷈ːɓo],"festival, celebration",0
+166,ingcongconi,[íŋǀo̤ŋǀo̤ːní],mosquito,0
+167,ingcongolo,[íŋǀo̤ᵑɡ̊ǒ̤ːlo],reed,0
+168,gcweka,[ɡ̊ǀʷe̤ːka],to curse,0
+169,isigebenga,[ísíɡ̊e̤ɓéːᵑɡ̊a̤],bandit,0
+170,igeza,[íɡ̊e̤ːz̥a̤],"lunatic, madman",0
+171,isigidi,[ísíɡ̊i̤ːd̥i̤],million,0
+172,isigidimi,[ísíɡ̊i̤d̥i̤ːmí],"messenger, Synonym: isithunywa",0
+173,ingobozi,[íᵑɡ̊ǒ̤ɓoːz̥i̤],basket,0
+174,umgodi,[úḿ̩ɡ̊o̤ːd̥ǐ̤],mine,0
+175,igogogo,[íɡ̊o̤ɡ̊ǒ̤ːɡ̊o̤],empty tin,0
+176,ingonyama,[íᵑɡ̊ǒ̤ɲaːma],lion,0
+177,igorha,[íɡ̊ǒ̤ːxa],"hero, brave person, Synonym: ikroti",0
+178,ubugorha,[úɓúɡ̊ǒ̤ːxa],"bravery, Synonym: ubukhalipha, heroism",0
+179,ingozi,[íᵑɡ̊o̤ːz̥i̤],danger,0
+180,igqabi,[íɡ̊ǃa̤ːɓi],leaf,0
+181,ingqalo,[íŋǃa̤᷈ːlo],commencement,0
+182,ingqele,[íŋǃe̤ːle],"frost, cold, influenza, flu",0
+183,ingqeqesho,[íŋǃě̤kǃéːʃo],discipline,0
+184,ingqesho,[íŋǃě̤ːʃo],hire,0
+185,gqi,[ɡ̊ǃi̤],Signifies sudden appearance.,0
+186,gqiba,[ɡ̊ǃi̤ːɓa],"to complete, to decide",0
+187,ingqibo,[íŋǃi̤ːɓo],end,0
+188,igqirha,[íɡ̊ǃi̤ːxa],witch doctor,0
+189,ugqirha,[úɡ̊ǃi̤ːxa],doctor,0
+190,gqobhoka,[ɡ̊ǃo̤b̥o̤ːka],to covert,0
+191,ingqolowa,[íŋǃo̤lóːwa],wheat,0
+192,umgqomo,[úḿ̩ɡ̊ǃo̤ːmó],"bin, drum",0
+193,ingqondo,[íŋǃo̤ːⁿd̥o̤],mind,0
+194,ingqukuva,[íŋǃṳkúːv̥a̤],"circle, Synonym: isazinge",0
+195,ingqumba,[íŋǃṳ᷈ːᵐb̥a̤],heap,0
+196,ingqumbo,[íŋǃṳːᵐb̥o̤],anger,0
+197,umgqumo,[úḿ̩ɡ̊ǃṳːmo],roar,0
+198,gqusha,[ɡ̊ǃṳːʃa],"to trample, to raise dust, to rave",0
+199,ingqushu,[íŋǃṳːʃú],well trodden place,0
+200,igqwetha,[íɡ̊ǃʷe̤ːtʰá],lawyer,0
+201,ubugqwetha,[úɓúɡ̊ǃʷe̤ːtʰá],law,0
+202,igqwirha,[íɡ̊ǃʷǐ̤ːxa],"warlock, sorcerer",0
+203,ubugqwirha,[úɓúɡ̊ǃʷǐ̤ːxa],witchcraft,0
+204,igqwirhakazi,[íɡ̊ǃʷǐ̤xákaːz̥i̤],"witch, sorceress",0
+205,isigubhu,[ísíɡ̊ṳ̌ːb̥ṳ],calabash,0
+206,ingubo,[íᵑɡ̊ṳːɓo],blanket,0
+207,umgubo,[úḿ̩ɡ̊ṳ᷈ːɓo],flour,0
+208,igubu,[íɡ̊ṳːɓú],drum,0
+209,igumbi,[íɡ̊ṳːᵐb̥ǐ̤],room,0
+210,ingungane,[íᵑɡṳ̌ᵑɡǎ̤ːne],crowd,0
+211,igunya,[íɡ̊ṳ᷈ːɲa],authority,0
+212,igwala,[íɡ̊ʷa̤ːlá],coward,0
+213,ingwane,[íᵑɡ̊ʷa̤ːne],octopus,0
+214,ingwe,[íːᵑɡ̊ʷe̤],leopard,0
+215,igwebu,[íɡ̊ʷe̤ːɓu],"foam, froth",0
+216,ingwenya,[íᵑɡ̊ʷe̤ːɲa],crocodile,0
+217,ingwevu,[íᵑɡ̊ʷe̤ːv̥ṳ],gray-headed man,0
+218,igwinya,[íɡ̊ʷi̤ːɲá],vetkoek,0
+219,iligxa,[ílíːɡ̊ǁa̤],shoulder,0
+220,ugxa,[úːɡ̊ǁa̤],colleague,0
+221,ingxabano,[íŋǁa̤ɓáːno],"quarrel, dispute",0
+222,ingxabela,[íŋǃǎ̤ɓeːla],axe,0
+223,ingxaki,[íŋǁa̤᷈ːki],problem,0
+224,igxalaba,[íɡ̊ǁa̤láːɓa],shoulder,0
+225,gxaleka,[ɡ̊ǁǎ̤leːka],to go astray (in walking and speaking),0
+226,ingxelo,[íŋǁe̤ːlo],"report, statement",0
+227,umgxobhozo,[úḿ̩ɡ̊ǁǒ̤b̥o̤ːz̥o̤],"wetland, marsh",0
+228,ingxolo,[íŋǁo̤᷈ːlo],noise,0
+229,gxotha,[ɡ̊ǁo̤ːtʰa],to chase away,0
+230,ingxothi,[íŋǁo̤᷈ːtʰi],expert in driving away,0
+231,ingxowa,[íŋǁo̤ːwa],"bag, sack",0
+232,ingxoxo,[íŋǁo̤ːkǁo],discussion,0
+233,ingxube,[íŋǁṳːɓé],medley,0
+234,umhambi,[úḿ̩ɦǎ̤ːᵐb̥i̤],traveller,0
+235,uhambo,[úɦǎ̤ᵐb̥o̤],trip,0
+236,ihashe,[íɦǎ̤ːʃe],horse,0
+237,hayi,[ɦǎ̤ːji],no,0
+238,imhemhe,[íme̤ːmě̤],onus,0
+239,umhla,[úm̩̂ːɬa],"day, date",0
+240,umhlakulo,[úḿ̩ɬákuːlo],"spade, shovel",0
+241,umhlali,[úḿ̩ɬaːli],"inhabitant, occupier",0
+242,umhlana,[úḿ̩ɬaːná],back,0
+243,isihlangu,[ísíɬaːᵑɡṳ̌],shoe,0
+244,ubuhlanti,[úɓúɬáːⁿti],kraal,0
+245,ihlathi,[íɬâːtʰi],forest,0
+246,umhlathi,[úḿ̩ɬâːtʰi],jaw,0
+247,ubuhle,[úɓuːɬé],beauty,0
+248,hleka,[ɬeːka],"(intransitive) laugh, (transitive) laugh at",0
+249,ukuhleka,[úkúɬeːka],"infinitive of -hleka, laughter",0
+250,umhleli,[úḿ̩ɬeːli],editor,0
+251,hleze,[ɬéːz̥e̤],lest [+subjunctive],0
+252,ihlobo,[íɬoːɓo],summer,0
+253,umhlobo,[úḿ̩ɬoːɓo],friend,0
+254,isihloko,[ísíɬôːko],title,0
+255,hlonipha,[ɬoniːpʰa],"(transitive) to respect, Synonym: -hlonela",0
+256,uluhlu,[úlúːɬu],row,0
+257,ubuhlungu,[úɓúɬûːᵑɡṳ],pain,0
+258,umhluzi,[úḿ̩ɬuːz̥ǐ̤],gravy,0
+259,ihlwempu,[íɬʷeːᵐpú],pauper,0
+260,ubuhlwempu,[úɓúɬʷeːᵐpú],poverty,0
+261,ihobe,[íɦo̤ːɓé],dove,0
+262,i-emele,[íʔémeːle],bucket,0
+263,i-inki,[íʔíːᵑki],ink,0
+264,ibhari,[íb̥ǎ̤ːri],bar (an establishment where alcohol is served),0
+265,ibhasi,[íb̥ǎ̤ːsi],bus,0
+266,ibhatyi,[íb̥ǎ̤ːci],jacket,0
+267,ibhayisikile,[íb̥a̤jisíkiːle],bicycle,0
+268,ibhekile,[íb̥ě̤kiːle],billycan,0
+269,ibhokhwe,[íb̥ǒ̤ːkʰʷe],"goat, Synonym: imbuzi",0
+270,ibhokisi,[íb̥ǒ̤kiːsi],box,0
+271,ibhola,[íb̥ǒ̤ːla],ball,0
+272,ibhotile,[íb̥ǒ̤tiːle],bottle,0
+273,ibhotolo,[íb̥ǒ̤toːlo],butter,0
+274,ibhulukhwe,[íb̥ṳlúːkʰʷe],trousers,0
+275,icawa,[íkǀáːwa],church,0
+276,icesina,[íkǀésiːna],fever,0
+277,idinala,[íd̥ǐ̤naːla],dinner,0
+278,idolophu,[íd̥ǒ̤loːpʰu],"town, city",0
+279,idyasi,[íɟa̤ːsi],coat,0
+280,idyokhwe,[íɟ̥ǒ̤ːkʰʷe],yoke,0
+281,ifama,[ífáːma],farm,0
+282,ifestile,[íféstiːle],window,0
+283,ifolokhwe,[ífólóːkʰʷe],fork,0
+284,igadi,[íɡ̊ǎ̤ːd̥i̤],garden,0
+285,igaraji,[íɡ̊a̤ráːd̥ʒi̤],garage,0
+286,igolide,[íɡ̊o̤líːd̥e̤],gold,0
+287,igusha,[íɡ̊ṳːʃa],sheep,0
+288,ihempe,[íɦě̤ːᵐpe],shirt,0
+289,ihotele,[íɦo̤têːle],hotel,0
+290,ijam,[íd̥ʒǎ̤ːm̩],jam,0
+291,ijezi,[íd̥ʒe̤ːz̥ǐ̤],"jersey, jumper, pullover",0
+292,ijogo,[íd̥ʒǒ̤ːɡ̊o̤],jug,0
+293,ikampu,[íkáːᵐpu],camp,0
+294,iKapa,[íkáːpa],"Cape Town (a city, the legislative capital of South Africa)",0
+295,ikati,[íkáːti],cat,0
+296,ikawusi,[íkáwúːsi],"sock, stocking",0
+297,ikeki,[íkéːki],cake,0
+298,ikhabhathi,[íkʰáb̥a̤ːtʰi],cupboard,0
+299,ikofu,[íkóːfu],coffee,0
+300,ikomityi,[íkomíːci],cup,0
+301,ilekese,[ílékeːse],sweet,0
+302,ilokhwe,[ílóːkʰʷe],dress,0
+303,ilori,[íloːrí],lorry,0
+304,ukwindla,[úkʷiːⁿd̥ɮǎ̤],"autumn, fall",0
+305,ipalamente,[ípalaméːⁿd̥e̤],parliament,0
+306,ipapa,[ípáːpa],porridge,0
+307,ipasi,[ípáːsi],pass,0
+308,ipeki,[ípéːki],pick,0
+309,ipesika,[ípésiːka],peach,0
+310,ipetroli,[ípétroːli],petrol,0
+311,ipholishi,[ípʰóliːʃi],polish,0
+312,ipleyiti,[ípléjíːti],plate,0
+313,ipotyi,[ípoːcí],small pot,0
+314,irandi,[íráːⁿd̥i̤],rand (currency),0
+315,irhafu,[íxáːfu],tax,0
+316,irhali,[íxáːli],cotton,0
+317,irhasi,[íxáːsi],barley,0
+318,isarha,[ísáːxa],saw,0
+319,isengwitshi,[íséᵑɡ̊ʷi̤ːtʃʰi],sandwich,0
+320,isepha,[íséːpʰa],soap,0
+321,isiphosiso,[ísípʰósiːso],"error, mistake, Synonym: impazamo",0
+322,isofa,[ísoːfá],sofa,0
+323,isopholo,[ísópʰoːlo],supper,0
+324,isosala,[ísósaːla],saucer,0
+325,iswekile,[ísʷékiːle],sugar,0
+326,itafile,[ítáfiːle],table,0
+327,itapile,[ítápiːle],potato,0
+328,itawuli,[ítáwuːli],towel,0
+329,iti,[íːtí],tea,0
+330,itipoti,[ítípóːti],teapot,0
+331,ititshala,[ítítʃʰaːla],teacher,0
+332,ityhefu,[ícʰéːfu],poison,0
+333,ityuwa,[ícuːwa],salt,0
+334,iveki,[ív̥ě̤ːki],week,0
+335,iwayini,[íwájiːni],wine,0
+336,inja,[íːⁿd̥ʒǎ̤],"dog, A person behaving like a dog",0
+337,injoli,[íᶮd̥ʒo̤ːli],divider of food shares,0
+338,injongo,[íᶮd̥ʒo̤ːᵑɡ̊o̤],"aim, intention",0
+339,inkabi,[íᵑkâːɓi],ox,0
+340,kakhulu,[kakʰûːlu],"a lot, very much",0
+341,kaloku,[kalóːku],because,0
+342,kamnandi,[kam̩náːⁿd̥i̤],"sweetly, pleasantly",0
+343,kamsinyane,[kam̩síɲáːne],"soon, quickly",0
+344,kancinci,[kaŋǀíːŋǀí],"a bit, a little",0
+345,kanye,[kaːɲe],once,0
+346,inkathazo,[íᵑkátʰáːz̥o̤],"trouble, worry",0
+347,inkawu,[íᵑkâːwu],monkey,0
+348,inkcani,[íŋǀˀâːni],marksman,0
+349,inkcaso,[íŋǀˀáːso],"opposition, Antonym: inkxaso",0
+350,inkcazelo,[íŋǀˀáz̥e̤ːlo],"information, Synonyms: ingcombolo, inkcukacha, explanation",0
+351,inkcazo,[íŋǀˀaːz̥o̤],"explanation, declaration, description",0
+352,inkcitho,[íŋǀˀiːtʰo],waste,0
+353,inkedama,[íᵑkéd̥a̤᷈ːma],orphan,0
+354,isikere,[ísíkéːre],scissors,0
+355,ikhaphetshu,[íkʰápʰeːtʃʰu],cabbage,0
+356,ikhaya,[íkʰâːja],"home, household",0
+357,umkhenkce,[úḿ̩kʰêːŋǀˀe],ice,0
+358,isikhephe,[ísíkʰéːpʰe],"ship, boat (water craft)",0
+359,ikhephu,[íkʰéːpʰu],snow,0
+360,ukukhetha,[úkúkʰeːtʰa],"infinitive of -khetha, election",0
+361,isikhewu,[ísíkʰeːwú],gap,0
+362,ikhitshi,[íkʰiːtʃʰi],kitchen,0
+363,umkhonto,[úḿ̩kʰóːⁿto],"spear, assegai",0
+364,ukhophe,[úkʰôːpʰe],eyelid,0
+365,umkhosi,[úḿ̩kʰôːsi],army,0
+366,ukhozana,[úkʰóz̥ǎ̤ːna],eaglet,0
+367,ikhuba,[íkʰuːɓa],plough,0
+368,ukhuko,[úkʰûːko],sleeping mat,0
+369,isikhukukazi,[ísíkʰúkúkaːz̥i̤],hen,0
+370,ukhula,[úkʰuːla],weed,0
+371,ikhulu,[íkʰûːlu],hundred,0
+372,khulu,[kʰûːlu],"big, large",0
+373,umkhuluwa,[úḿ̩kʰulúːwa],elder brother,0
+374,isikhumba,[ísíkʰuːᵐb̥a̤],"skin, hide (of a human or animal)",0
+375,umkhupha,[úḿ̩kʰuːpʰa],steamed bread,0
+376,ikhwapha,[íkʰʷaːpʰá],armpit,0
+377,umkhwe,[úm̩ːkʰʷé],brother-in-law of a male,0
+378,inkokeli,[íᵑkókéːli],leader,0
+379,isikolo,[ísíkóːlo],school,0
+380,inkomo,[íᵑkoːmó],cow,0
+381,inkosana,[íᵑkósâːna],prince,0
+382,inkosazana,[íᵑkósáz̥a̤ːna],"unmarried woman, princess",0
+383,inkosi,[íᵑkôːsi],"chief, king",0
+384,inkosikazi,[íᵑkósíkaːz̥i̤],"lady, madam, married woman",0
+385,inkqantosi,[íŋǃˀáⁿtóːsi],wasteland,0
+386,inkqayi,[íŋǃˀáːyi],bald head,0
+387,inkqubela,[íŋǃˀuɓéːla],progress,0
+388,inkqubo,[íŋǃˀuːɓo],procedure,0
+389,inkqwala,[íŋǃˀʷaːlá],person with affected mannerisms,0
+390,ukrebe,[úkxêːɓe],shark,0
+391,ikrele,[íkxêːle],sword,0
+392,ubukrelekrele,[úɓúkxélékxeːle],intelligence,0
+393,ikroti,[íkxóːtí],"hero, Synonym: igorha",0
+394,krwe,[kxʷe],Signifies redness.,0
+395,inkuku,[íᵑkûːku],fowl,0
+396,inkululeko,[íᵑkúlúleːko],"freedom, liberty",0
+397,inkundla,[íᵑkûːⁿd̥ɮa̤],"court, kraal",0
+398,inkungu,[íᵑkûːᵑɡ̊ṳ],"fog, mist",0
+399,inkuni,[íᵑkûːni],firewood,0
+400,inkunkuma,[íᵑkúᵑkuːma],"trash, garbage",0
+401,inkwenkwe,[íᵑkʷeːᵑkʷé],boy,0
+402,inkwenkwezi,[íᵑkʷéᵑkʷéːz̥i̤],star,0
+403,inkxaso,[íŋǁˀáːso],"support, Antonym: inkcaso",0
+404,inkxwaleko,[íŋǁˀʷáleːko],"hardship, accident",0
+405,lala,[láːla],"(intransitive) to rest (by lying down), (intransitive)",0
+406,ilanga,[ílaːᵑɡ̊a̤],sun,0
+407,langaza,[laᵑɡ̊ǎ̤ːz̥a̤],"to wish, to desire, Synonym: -nqwena",0
+408,lenga,[leːᵑɡ̊a̤],to hang,0
+409,umlenze,[úḿ̩leːⁿd̥ze̤],leg,0
+410,isilevu,[ísíleːv̥ṳ],chin,0
+411,isileyi,[ísíléːji],sledge,0
+412,isileyiti,[ísíléjíːti],slate,0
+413,umlilo,[úḿ̩liːlo],fire,0
+414,isilima,[ísílîːma],cripple,0
+415,ukulima,[úkúliːma],"infinitive of -lima, cultivation",0
+416,umlimi,[úḿ̩liːmi],farmer,0
+417,isilimo,[ísíliːmo],crop,0
+418,isilo,[ísíːlo],wild animal,0
+419,umlo,[úḿ̩ːlo],fight,0
+420,umlobi,[úḿ̩lôːɓi],fisherman,0
+421,uloliwe,[úlóliːwé],train,0
+422,umlomo,[úḿ̩loːmo],mouth,0
+423,isilonda,[ísíloːⁿd̥a̤],wound,0
+424,ulonwabo,[úlónʷáːɓo],"happiness, fun",0
+425,umlozi,[úḿ̩lôːz̥i̤],"whistling, tune",0
+426,luhlaza,[luɬaːz̥a̤],"green, blue",0
+427,ilulwane,[ílúlʷaːne],bat (animal),0
+428,luma,[luːma],(transitive and intransitive) to bite,0
+429,ubulumko,[úɓúlúḿ̩ːko],"caution, wisdom",0
+430,ilungelo,[ílúᵑɡ̊e̤ːló],"right, privilege",0
+431,umlungu,[úḿ̩luːᵑɡṳ],white person,0
+432,luphala,[lupʰaːla],(intransitive) to be old,0
+433,umlusi,[úḿ̩lúːsi],herdsman,0
+434,lwa,[lʷa],"(intransitive) to fight, to struggle",0
+435,ukulwa,[úkúːlʷa],"infinitive of -lwa, fight, struggle, battle, combat",0
+436,ulwaluko,[úlʷáluːko],circumcision,0
+437,ulwandle,[úlʷâːⁿd̥ɮe̤],"sea, ocean",0
+438,isilwanyana,[ísílʷáɲaːna],small animal,0
+439,ulwazi,[úlʷâːz̥i̤],knowledge,0
+440,uLwesibini,[úlʷésíɓiːní],Tuesday,0
+441,uLwesihlanu,[úlʷésíɬâːnu],Friday,0
+442,uLwesine,[úlʷésíːne],Thursday,0
+443,uLwesithathu,[úlʷésítʰâːtʰu],Wednesday,0
+444,ulwimi,[úlʷîːmi],"tongue, language",0
+445,umakhulu,[úmákʰûːlu],my/our grandmother,0
+446,imali,[ímaːlí],money,0
+447,umalume,[úmálûːme],maternal uncle,0
+448,umama,[úmaːmá],"mom, mother",0
+449,imamba,[ímâːᵐb̥a̤],mamba,0
+450,mamela,[mameːla],to listen,0
+451,Mandela,[ma.ˈndɛː.la],Mandela: A  surname​.,0
+452,imazi,[ímâːz̥i̤],cow (female),0
+453,umbona,[úᵐb̥ǒ̤ːna],maize,0
+454,imela,[íméːla],knife,0
+455,iMelika,[íméliːka],America (a country in North America),0
+456,ummelwane,[úḿ̩melʷâːne],neighbour,0
+457,mema,[meːma],(transitive) to invite,0
+458,uMgqibelo,[úḿ̩ɡ̊ǃǐ̤ɓeːlo],Saturday,0
+459,mh,[m̩̤᷈ː],hmm,0
+460,mhlawumbi,[m̩ɬáwúːᵐb̥ǐ̤],"possibly, perhaps",0
+461,ummi,[úm̩̂ːmi],inhabitant,0
+462,imini,[ímíːni],daytime,0
+463,mna,[m̩ːná],"I, me; first-person singular absolute pronoun.",0
+464,isimo,[ísîːmo],"state, condition, status",0
+465,molo,[mǒ̤ːlo],"hello, a greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence",0
+466,molweni,[molʷéːni],"hello, a greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence",0
+467,imoto,[ímoːtó],motor car,0
+468,uMvulo,[úḿ̩v̥ṳːlo],Monday,0
+469,namhlanje,[náḿ̩ɬáːᶮd̥ʒě̤],today,0
+470,ncam,[ŋǀaːm̩],exactly,0
+471,uncedo,[úŋǀeːd̥o̤],help,0
+472,umndeni,[úḿ̩ⁿd̥e̤ːni],family,0
+473,amandla,[ámáːⁿd̥ɮa̤],"strength, power",0
+474,undwendwe,[úⁿd̥ʷě̤ːⁿd̥ʷe̤],guest,0
+475,inene,[ínêːne],truth,0
+476,ukunene,[úkúnêːne],right side,0
+477,umnga,[úḿ̩ːᵑɡ̊a̤],"acacia, mimosa",0
+478,ngakumbi,[ᵑɡ̊a̤kúːᵐb̥i̤],especially,0
+479,ngamendu,[ᵑɡ̊ǎ̤meːⁿd̥ṳ̌],fast,0
+480,ngaphandle,[ᵑɡ̊a̤pʰáːⁿd̥ɮe̤],"outside, without, except",0
+481,ngaphaya,[ᵑɡ̊a̤᷈ːpʰajáː],"beyond, the other side",0
+482,ukungcola,[úkúŋǀo̤ːla],"infinitive of -ngcola, dirtiness",0
+483,ingcwaba,[íŋǀʷa̤ːɓa],grave,0
+484,umngcwabo,[úḿ̩ŋǀʷa̤ːɓo],"cemetery, funeral",0
+485,ngcwala,[ŋǀʷa̤ːla],(intransitive) to sit together,0
+486,ubungcwele,[úɓúŋǀʷe̤᷈ːle],holiness,0
+487,ngelishwa,[ᵑɡ̊ě̤líːʃʷa],unfortunately,0
+488,isiNgesi,[ísíᵑɡ̊e̤᷈ːsi],English language,0
+489,ngexesha,[ᵑɡ̊ě̤kǁéːʃa],in time,0
+490,ngoko,[ᵑɡ̊o̤᷈ːko],then,0
+491,ngoku,[ᵑɡ̊o̤᷈ːku],"now, at present",0
+492,ngomso,[ᵑɡ̊ǒ̤m̩ːsó],tomorrow,0
+493,ngqengqa,[ŋǃe̤ːŋǃa̤],to recline,0
+494,ubungqina,[úɓúŋǃi̤ːna],evidence,0
+495,umngqusho,[úḿ̩ŋǃṳ̌ːʃo],samp,0
+496,umngxuma,[úḿ̩ŋǁṳːma],hole,0
+497,isinhanha,[ísína̤ːna̤],rich man,0
+498,unina,[úniːna],his/her mother,0
+499,umninawa,[úḿ̩nináːwa],younger brother,0
+500,njalo,[ᶮd̥ʒǎ̤ːlo],"so, in that manner",0
+501,njani,[ᶮd̥ʒa̤ːní],"how, in what manner",0
+502,nje,[ᶮd̥ʒě̤],"so, in this manner",0
+503,nkcunkca,[ŋǀˀuːŋǀˀa],to jog,0
+504,nkqo,[ŋǃˀó],upright,0
+505,nkqo,[ŋǃˀó],straight up,0
+506,unogqaza,[únóɡ̊ǃǎ̤ːz̥a̤],grass warbler,0
+507,unomadudwane,[únómád̥ṳd̥ʷǎ̤ːne],scorpion,0
+508,unonkala,[únóᵑkâːla],crab,0
+509,unoposi,[únópóːsi],postman,0
+510,umnqamlezo,[úḿ̩ŋǃáḿ̩leːz̥o̤],cross (crucifix),0
+511,umnqathe,[úḿ̩ŋǃaːtʰé],carrot,0
+512,ilinqe,[íliːŋǃé],kidney,0
+513,isinqe,[ísiːŋǃé],hip,0
+514,nqetha,[ŋǃeːtʰa],"to pare, to cut away carefully",0
+515,inqina,[íŋǃína],paw,0
+516,nqoma,[ŋǃoːma],to lend a cow,0
+517,umnqonqo,[úḿ̩ŋǃoːŋǃo],spinal cord,0
+518,umnqwazi,[úḿ̩ŋǃʷaːz̥i̤],hat,0
+519,nqwema,[ŋǃʷeːma],"to cut, to chop up",0
+520,umnqweno,[úḿ̩ŋǃʷeːno],"wish, desire",0
+521,ntoni,[ⁿtóːní],what,0
+522,umntru,[úḿ̩ːⁿtʳu],Mpondo form of umntu,0
+523,umntrwana,[úḿ̩ːⁿtʳʷaːna],Mpondo form of umntwana,0
+524,intshontsho,[íᶮtʃoːᶮtʃo],baby animal,0
+525,ntsundu,[ⁿtsûːⁿd̥ṳ],brown,0
+526,ubuntu,[úɓúːⁿtu],"humaneness, solidarity",0
+527,umntu,[úḿ̩ːⁿtu],"person, human",0
+528,ubuntwana,[úɓúⁿtʷaːna],childhood,0
+529,umntwana,[úḿ̩ⁿtʷaːna],child,0
+530,umnwe,[úḿ̩ːnʷe],finger,0
+531,umnweba,[úḿ̩nʷéːɓa],kaross,0
+532,unwele,[únʷéːle],a hair,0
+533,unxano,[úŋǁâːno],thirst,0
+534,inxeba,[íŋǁeːɓa],"cut, wound",0
+535,inxele,[íŋǁêːle],"lefthanded person, lefty",0
+536,nxula,[ŋǁuːla],to go side-by-side,0
+537,unxweme,[úŋǁʷeːmé],beach,0
+538,umnyaka,[úḿ̩ɲâːka],year,0
+539,unyana,[úɲâːna],son,0
+540,umnyango,[úḿ̩ɲaːᵑɡ̊o̤],door,0
+541,unyawo,[úɲaːwo],foot,0
+542,umnyazi,[úḿ̩ɲâːz̥i̤],basket,0
+543,umnyhadala,[úḿ̩ɲǎ̤d̥a̤ːlá],contest,0
+544,unyoko,[úɲoːko],your mother,0
+545,amanzi,[ámâːⁿd̥zi̤],water,0
+546,obo,[ôːɓo],that; class 14 distal demonstrative.,0
+547,obu,[ôːɓu],this; class 14 proximal demonstrative.,0
+548,umoji,[úmóːd̥ʒi̤],baker,0
+549,olu,[ôːlu],this; class 11 proximal demonstrative.,0
+550,umongikazi,[úmóᵑɡ̊ǐ̤kaːz̥i̤],nurse,0
+551,isonka,[ísóːᵑka],bread,0
+552,isono,[ísôːno],sin,0
+553,i-orenji,[íʔóreːⁿd̥ʒi̤],orange,0
+554,umoya,[úmôːja],"air, wind, spirit",0
+555,ozela,[óz̥e̤ːla],(intransitive) to be sleepy,0
+556,impahla,[íᵐpaːɬa],goods,0
+557,impala,[íᵐpaːlá],impala,0
+558,impempe,[íᵐpéːᵐpe],whistle,0
+559,impendulo,[íᵐpéⁿd̥ṳːlo],answer,0
+560,umpha,[úḿ̩ːpʰa],mealie-cob without grains,0
+561,phakathi,[pʰákaːtʰí],"inside, among",0
+562,umphanda,[úḿpʰaːⁿd̥a̤],barrel,0
+563,phandle,[pʰáːⁿd̥ɮě̤],outside,0
+564,isiphango,[ísípʰaːᵑɡ̊o̤],heavy rain,0
+565,phantsi,[pʰáːⁿtsí],"down, below, beneath",0
+566,umphathi,[úḿ̩pʰáːtʰi],manager,0
+567,phaya,[pʰájâː],"yonder, over there; remote demonstrative adverb.",0
+568,umphefumlo,[úḿ̩pʰéfúm̩ːlo],breath,0
+569,umpheki,[úḿ̩pʰeːki],cook,0
+570,ukuphela,[úkúpʰêːla],"infinitive of -phela, ending, Antonym: ukuqala",0
+571,isiphelo,[ísípʰêːlo],"end, Antonym: isiqalo",0
+572,iphepha,[ípʰeːpʰa],paper,0
+573,iphephamvume,[ípʰepʰaᵐb̪̊vṳ̌ːme],licence,0
+574,iphephandaba,[ípʰépʰáⁿd̥a̤ːɓa],newspaper,0
+575,phesheya,[pʰéʃéːjá],beyond,0
+576,phezolo,[pʰéz̥o̤ːlo],last night,0
+577,phezu,[pʰéːz̥ṳ],above,0
+578,phezulu,[pʰéz̥ṳːlu],high,0
+579,iphiko,[ípʰiːko],wing (for flying),0
+580,isiphini,[ísípʰîːni],handle,0
+581,uphondo,[úpʰoːⁿd̥o̤],horn,0
+582,iphupho,[ípʰuːpʰo],dream,0
+583,impi,[íːᵐpí],"army, regiment",0
+584,isipili,[ísípíːli],mirror,0
+585,impilo,[íᵐpiːlo],health,0
+586,impisi,[íᵐpîːsi],hyena,0
+587,impofu,[íᵐpôːfu],eland (antelope),0
+588,ipolisa,[ípolíːsa],policeman,0
+589,umpu,[úm̩ːpú],gun,0
+590,impukane,[íᵐpúkaːné],fly,0
+591,impuku,[íᵐpûːku],mouse,0
+592,impumalanga,[íᵐpúmáːlaᵑɡ̊a̤],east,0
+593,impumelelo,[íᵐpúméleːlo],success,0
+594,impumlo,[íᵐpúm̩ːlo],nose,0
+595,impungutye,[íᵐpúᵑɡ̊ṳ᷈ːce],fox,0
+596,impunzi,[íᵐpuːⁿd̥zi̤],duiker,0
+597,iqaba,[íkǃaːɓá],"hick, pagan",0
+598,qala,[kǃâːla],"to begin, to start",0
+599,ukuqala,[úkúkǃâːla],"infinitive of -qala, beginning, Antonym: ukuphela",0
+600,umqala,[úḿ̩kǃaːla],throat,0
+601,isiqalo,[ísíkǃâːlo],"beginning, start, Antonym: isiphelo",0
+602,inqanawa,[íŋǃánáːwa],vessel,0
+603,iqanda,[íkǃaːⁿd̥ǎ̤],"egg, zero",0
+604,iqaqa,[íkǃáːkǃá],"skunk, polecat",0
+605,uqaqaqa,[úkǃákǃaːkǃa],quick grass,0
+606,ubuqaqawuli,[úɓúkǃakǃáwuːli],brightness,0
+607,inqawa,[íŋǃáːwa],pipe,0
+608,iqela,[íkǃéːla],group,0
+609,umqeqeshi,[úḿ̩kǃékǃéːʃi],trainer,0
+610,umqeshi,[úḿ̩kǃéːʃi],employer,0
+611,ukuqeshwa,[úkúkǃéːʃʷa],employment,0
+612,umqeshwa,[úḿ̩kǃéːʃʷa],employee,0
+613,qha,[kǃʰâː],"only, Ndiyaqonda isiXhosa kancinci qha.I only understand",0
+614,umqhagi,[úḿ̩kǃʰáːɡ̊i̤],rooster,0
+615,isiqhamo,[ísíkǃʰaːmo],fruit,0
+616,umqhaphu,[úḿ̩kǃʰaːpʰú],cotton plant,0
+617,uqhayi,[úkǃʰaːjí],bareness,0
+618,uqhekezo,[úkǃʰékeːz̥o̤],robbery,0
+619,isiqhelo,[ísíkǃʰeːlo],habit,0
+620,iqhina,[íkǃʰîːna],"knot, necktie",0
+621,uqhoqhoqho,[úkǃʰókǃʰoːkǃʰo],windpipe,0
+622,iqhosha,[íkǃʰoːʃa],button,0
+623,umqhubi,[úḿ̩kǃʰuːɓi],driver,0
+624,isiqhwala,[ísíkǃʰʷaːlá],person with a limp,0
+625,umqolo,[úḿ̩kǃôːlo],"back, spine",0
+626,uqongqothwane,[úkǃóŋǃo̤tʰʷaːné],"dung beetle, knock-knock beetle, Igqirha lendlela nguqongqothwane,",0
+627,qoqosha,[kǃokǃoːʃa],"(transitive) to economize, to save time",0
+628,isiqosho,[ísíkǃôːʃo],thick piece of wood,0
+629,quba,[kǃuːɓa],(transitive) to strike,0
+630,iqunube,[íkǃunúːɓe],wild berry,0
+631,umququ,[úm̩kǃúːkǃú],chaff,0
+632,umqwayitho,[úḿ̩kǃʷájíːtʰo],dried fruit,0
+633,umqwayito,[úḿ̩kǃʷájíːto],dried meat,0
+634,inqwelo,[íŋǃʷéːlo],wagon,0
+635,inqwelo-moya,[íŋǃʷélomôːja],airplane,0
+636,irhamba,[íxaːᵐb̥a̤],puffadder,0
+637,urhanisi,[úxáníːsi],goose,0
+638,irhanuga,[íxánuːɡ̊ǎ̤],tramp,0
+639,urhatya,[úxaːca],"evening, dusk, Synonym: ungcwalazi, twilight",0
+640,amarhewu,[ámáxéːwu],maize drink,0
+641,isirhofu,[ísíxóːfu],glutton,0
+642,rhoqo,[xoːkǃo],"frequently, often",0
+643,urhulumente,[úxuluméːⁿte],government,0
+644,urhwebo,[úxʷeːɓo],trade,0
+645,isisa,[ísíːsa],kindheartedness,0
+646,umsa,[úm̩ːsá],kindness,0
+647,usana,[úsáːna],baby,0
+648,usapho,[úsâːpʰo],family,0
+649,sebenza,[seɓeːⁿd̥za̤],(intransitive) to work,0
+650,isela,[íséːla],thief,0
+651,isele,[ísêːle],frog,0
+652,ishishini,[íʃiʃiːní],factory,0
+653,ishumi,[íʃûːmi],"ten, the tenth one, (in the possessive) tenth",0
+654,shushu,[ʃuːʃú],hot,0
+655,ubushushu,[úɓúʃuːʃú],heat,0
+656,ilishwa,[ílíːʃʷa],misfortune,0
+657,ubusi,[úɓûːsi],honey,0
+658,umsi,[úm̩ːsí],smoke,0
+659,usiba,[úsîːɓa],"plume, long feather",0
+660,usibonda,[úsíɓoːⁿd̥a̤],headman,0
+661,ubusika,[úɓúsîːka],winter,0
+662,isiko,[ísîːko],custom,0
+663,umsila,[úḿ̩sîːla],tail (of an animal),0
+664,umsindo,[úḿ̩sîːⁿd̥o̤],"wrath, anger",0
+665,usisi,[úsiːsí],sister,0
+666,usizi,[úsiːz̥i̤],"sadness, sorrow, sympathy",0
+667,iliso,[íliːsó],eye,0
+668,ubuso,[úɓuːsó],face,0
+669,umso,[úm̩ːsó],tomorrow,0
+670,isoldathi,[ísold̥ǎ̤ːtʰi],soldier,0
+671,isongololo,[ísóᵑɡ̊ǒ̤loːló],millipede,0
+672,umsonto,[úḿ̩soːⁿto],thread,0
+673,isisu,[ísíːsu],stomach,0
+674,ubusuku,[úɓúsûːku],night,0
+675,usuku,[úsûːku],day (period of time),0
+676,isiSuthu,[ísísûːtʰu],(Southern) Sotho language,0
+677,umSuthu,[úḿ̩sûːtʰu],Sotho person,0
+678,uswazi,[úsʷaːz̥i̤],switch,0
+679,ukusweleka,[úkúsʷéleːka],scarcity,0
+680,intaba,[íⁿtaːɓa],"mountain, mountains",0
+681,intaka,[íⁿtaːka],bird,0
+682,itakane,[ítakáːne],lamb,0
+683,intakumba,[íⁿtákuːᵐb̥ǎ̤],"flea, Synonym: idzedze",0
+684,isitalato,[ísítáláːto],Alternative form of isitrato,0
+685,intambo,[íⁿtaːᵐb̥o̤],"rope, cord, Synonym: umnxeba",0
+686,isitampu,[ísítáːᵐpu],stamp,0
+687,intente,[íⁿtéːⁿte],tent,0
+688,intetho,[íⁿtêːtʰo],speech,0
+689,umtha,[úḿ̩ːtʰa],ray,0
+690,ithambo,[ítʰâːᵐb̥o̤],bone,0
+691,umthambo,[úḿ̩tʰáːᵐb̥o̤],nerve,0
+692,umthamo,[úḿ̩tʰáːmo],content(s),0
+693,umthandazo,[úḿ̩tʰáⁿd̥a̤ːz̥o̤],prayer,0
+694,ithandazwe,[ítʰáⁿd̥ǎ̤ːz̥ʷe̤],patriot,0
+695,uthando,[útʰâːⁿd̥o̤],"love, Kaloku wena uluthando lwam.Because you are my",0
+696,uthango,[útʰâːᵑɡ̊o̤],fence,0
+697,thathu,[tʰâːtʰu],three,0
+698,amathe,[ámaːtʰé],saliva,0
+699,itheko,[ítʰéːko],"ceremony, party",0
+700,thetha,[tʰêːtʰa],to speak,0
+701,ukuthetha,[úkútʰêːtʰa],"infinitive of -thetha, speech",0
+702,umthetho,[úḿ̩tʰêːtʰo],law,0
+703,uluthi,[úluːtʰí],stick,0
+704,umthi,[úm̩ːtʰí],tree,0
+705,thina,[tʰîːná],"we, us; first-person plural absolute pronoun.",0
+706,ithole,[ítʰoːle],calf,0
+707,isithombe,[ísítʰóːᵐb̥e̤],"photo, Synonym: umfanekiso",0
+708,umthombo,[úḿ̩tʰôːᵐb̥o̤],fountain,0
+709,ubuthongo,[úɓútʰoːᵑɡo̤],sleep,0
+710,isithsaba,[ísítsʰaːɓa],crown,0
+711,ithuba,[ítʰuːɓa],"occasion, opportunity",0
+712,uthuli,[útʰuːli],dust,0
+713,ithumbu,[ítʰuːᵐb̥ṳ],"hose, tube, pipe",0
+714,ithunga,[ítʰûːᵑɡ̊a̤],pail,0
+715,isithunywa,[ísítʰúːɲʷa],messenger,0
+716,umthunzi,[úḿ̩tʰûːⁿd̥zi̤],shade,0
+717,isithuthuthu,[ísítʰútʰuːtʰu],"motorbike, motorcycle",0
+718,umThwa,[úm̩ːtʰʷá],Bushman,0
+719,umthwalo,[úḿ̩tʰʷáːlo],"burden, load",0
+720,isitiya,[ísítíːja],garden,0
+721,intla,[íːⁿtɬá],north,0
+722,intlabathi,[íⁿtɬaɓâːtʰí],sand,0
+723,intlakohlaza,[íⁿtɬákóɬâːz̥a̤],"spring
+Synonym: intwasahlobo",0
+724,intlalo,[íⁿtɬaːlo],"lifestyle, condition, state",0
+725,intlango,[íⁿtɬaːᵑɡ̊o̤],desert (barren area),0
+726,intlanzi,[íⁿtɬaːⁿd̥zi̤],fish,0
+727,intlekele,[íⁿtɬékeːle],"disaster, calamity",0
+728,intliziyo,[íⁿtɬízǐ̤ːjo],"heart, Synonym: iphaphu",0
+729,intloko,[íⁿtɬóːko],head (part of the body),0
+730,intloni,[íⁿtɬôːni],shame,0
+731,into,[íːⁿtó],thing,0
+732,intombazana,[íⁿtoᵐb̥a̤z̥a̤᷈ːna],daughter,0
+733,intombi,[íⁿtoːᵐb̥ǐ̤],girl,0
+734,intonga,[íⁿtôːᵑɡ̊a̤],stick,0
+735,intsalela,[íⁿtsáleːla],remnant,0
+736,intsasa,[íⁿtsáːsá],morning,0
+737,utshaba,[útʃʰaːɓa],enemy,0
+738,umtshato,[úḿ̩tʃʰaːto],"marriage, matrimony, wedding",0
+739,tshayela,[tʃajeːla],(transitive) to sweep,0
+740,intshili,[íᶮtʃiːli],expert dancer,0
+741,tshisa,[tʃʰíːsa],to be hot,0
+742,tshixa,[tʃiːkǁa],(transitive) to lock,0
+743,isitshixo,[ísítʃîːkǁo],key,0
+744,intsholo,[íᶮtʃoːló],singing,0
+745,intshonalanga,[íᶮtʃónáːlaᵑɡ̊a̤],west,0
+746,intshukumo,[íᶮtʃúkuːmo],movement,0
+747,intshumayelo,[íᶮtʃúmájeːlo],sermon,0
+748,tsiba,[tsîːɓa],"to jump
+Synonyms: -gxuma, -xhumaxhuma",0
+749,intsikizi,[íⁿtsíkíːz̥i̤],bittern,0
+750,intsimbi,[íⁿtsîːᵐb̥i̤],"iron, bell",0
+751,intsimi,[íⁿtsîːmi],farm,0
+752,intso,[íːⁿt͡só],kidney,0
+753,intsomi,[íⁿtsôːmi],fable,0
+754,utsotsi,[útsoːtsí],tsotsi,0
+755,intsumpa,[íⁿtsúːᵐpa],wart,0
+756,intuku,[íⁿtuːkú],mole (burrowing animal),0
+757,isitulo,[ísítúːlo],chair,0
+758,intwala,[íⁿtʷáːla],louse,0
+759,isitya,[ísíːca],dish,0
+760,tya,[cá],to eat,0
+761,ukutya,[úkuːcá],"infinitive of -tya, food",0
+762,umtya,[úm̩ːcá],"cord, spancel",0
+763,intyabontyi,[íᶮcaɓóːᶮci],melon,0
+764,intyafo,[íᶮcaːfo],weakness,0
+765,isityalo,[ísícáːlo],plant,0
+766,intyatyambo,[íᶮcácáːᵐb̥o̤],flower,0
+767,ilitye,[ílíːce],"stone, rock",0
+768,ityholo,[ícʰôːlo],"bush, thicket",0
+769,tyisa,[cíːsa],"to feed, to poison",0
+770,utyuthu,[úcúːpʰu],wild spinach,0
+771,uboya,[úɓoːjá],"animal hair, fur, wool",0
+772,uThixo,[útʰíːkǁó],God,0
+773,isivatho,[ísív̥a̤ːtʰo],fancy clothing,0
+774,ivila,[ív̥i̤ːla],lazy person,0
+775,ivili,[ív̥ǐ̤ːli],wheel,0
+776,uluvo,[úlúːv̥o̤],opinion,0
+777,imvu,[íːᶬb̪̊vṳ̌],sheep,0
+778,imvubu,[íᶬb̪̊vṳːɓú],hippopotamus,0
+779,imvula,[íᶬb̪̊vṳ᷈ːla],rain,0
+780,ivumba,[ív̥ṳːᵐb̥a̤],smell,0
+781,imvume,[íᶬb̪̊vṳ̌ːme],"license, Synonym: ilayisensi, permit",0
+782,umvundla,[úḿ̩v̥ṳ᷈ːⁿd̥ɮa̤],"hare, rabbit",0
+783,uvuyo,[úv̥ṳ᷈ːjo],joy,0
+784,umvuzo,[úḿ̩v̥ṳːz̥o̤],reward,0
+785,iliwa,[íliːwá],cliff,0
+786,wena,[weːná],"you, thou, thee; second-person singular absolute pronoun.",0
+787,ilixa,[íliːkǁá],time period,0
+788,xa,[kǁá],"when, if [+participial]",0
+789,xabela,[kǁáɓeːla],to chop,0
+790,ixabiso,[íkǁáɓíːso],"price, value",0
+791,uxam,[úkǁâːm̩],iguana,0
+792,uxande,[úkǁaːⁿd̥ě̤],"rectangle, rectangular European styled house",0
+793,inxanxadi,[íŋǁáŋǁáːd̥i̤],butcherbird,0
+794,xaxa,[kǁaːkǁa],"(transitive) to repair, to mend",0
+795,isixeko,[ísíkǁeːko],village,0
+796,xela,[kǁeːla],to confess,0
+797,ixesha,[íkǁéːʃa],time,0
+798,ixetsha,[íkǁéːtʃʰa],Mpondomise form of ixesha,0
+799,ixhego,[íkǁʰeːɡ̊o̤],old man,0
+800,ixhegokazi,[íkǁʰéɡ̊ǒ̤kaːz̥i̤],old woman,0
+801,isiXhosa,/ísíˈkǁʰoːsa/,Xhosa language,0
+802,umXhosa,/úḿ̩ˈkǁʰoːsa/,Xhosa person,0
+803,xhwaleka,[kǁʰʷaleːka],to suffer loss,0
+804,xobula,[kǁóɓuːla],to peel off the bark,0
+805,uxolo,[úkǁoːlo],"peace, pardon",0
+806,ixoxo,[íkǁoːkǁo],frog,0
+807,umxoxozi,[úḿ̩kǁókǁóːz̥i̤],watermelon,0
+808,xoza,[kǁoːz̥a̤],(transitive) to cut round,0
+809,inyama,[íɲaːma],"meat, flesh",0
+810,inyamakazi,[íɲámákaːz̥i̤],buck,0
+811,inyameko,[íɲáméːko],"diligence, care",0
+812,inyanga,[íɲaːᵑɡ̊ǎ̤],"moon, month",0
+813,inyaniso,[íɲániːso],truth,0
+814,inyathi,[íɲâːtʰi],buffalo,0
+815,inyembezi,[íɲéᵐb̥e̤ːz̥i̤],tear,0
+816,umyeni,[úḿ̩jeːni],husband,0
+817,iyeza,[íjeːz̥a̤],medicine,0
+818,inyholoba,[íɲǒ̤lóːɓa],neck joint,0
+819,inyhweba,[íɲʷě̤ːɓa],happiness,0
+820,uyihlo,[újiːɬó],your father,0
+821,uyise,[újiːsé],his or her father,0
+822,inyoka,[íɲôːka],snake,0
+823,inyonga,[íɲôːᵑɡ̊a̤],hip,0
+824,inyongo,[íɲóːᵑɡ̊o̤],bile,0
+825,inyoni,[íɲoːni],bird,0
+826,inyosi,[íɲôːsi],bee,0
+827,iliza,[ílíːz̥a̤],wave,0
+828,isiza,[ísíːz̥a̤],building site,0
+829,za,[z̥a̤],(intransitive) to come,0
+830,inzala,[íⁿd̥zǎ̤ːla],progeny,0
+831,umzala,[úḿ̩z̥ǎ̤ːla],cross-cousin,0
+832,umzali,[úḿ̩z̥ǎ̤ːli],parent,0
+833,umzantsi,[úḿ̩z̥ǎ̤ːⁿtsi],south,0
+834,umzekelo,[úḿ̩z̥ě̤keːlo],example,0
+835,izembe,[íz̥e̤ːᵐb̥e̤],axe,0
+836,umzi,[úḿ̩ːz̥i̤],"homestead, village",0
+837,isiziba,[ísíz̥i̤ːɓa],"pool, pond",0
+838,ukuzibulala,[úkúz̥ǐ̤ɓúláːla],suicide,0
+839,amazimba,[ámáz̥i̤ːᵐb̥a̤],kaffir corn,0
+840,umzimba,[úḿ̩z̥i̤᷈ːᵐb̥ǎ̤],body,0
+841,umzingeli,[úḿ̩z̥i̤ᵑɡ̊ě̤ːli],hunter,0
+842,izinyo,[íz̥i̤᷈ːɲo],tooth,0
+843,uzipho,[úz̥i̤ːpʰo],"nail (fingernail, toenail), claw",0
+844,izolo,[íz̥o̤ːlo],yesterday,0
+845,umzukulwana,[úḿ̩z̥ṳkulʷâːna],grandchild,0
+846,isiZulu,[ísíz̥ṳːlu],Zulu language,0
+847,izulu,[íz̥ṳːlu],"sky, heaven",0
+848,umZulu,[úḿ̩z̥ṳːlu],Zulu person,0
+849,uzwane,[úz̥ʷaːne],toe,0
+850,ilizwe,[ílíːz̥ʷe̤],land,0
+851,isizwe,[ísíːz̥ʷe̤],"tribe, nation",0
+852,ubuzwe,[úɓúːz̥ʷe̤],"nationhood, nationality",0
+853,ink,ˈɪŋk,,1
+854,bar,bˈɑː͡ɹ,,1
+855,bus,bˈʌs,,1
+856,bicycle,bˈaɪsɪkəl,,1
+857,box,bˈɑːks,,1
+858,ball,bˈɔːl,,1
+859,bottle,bˈɑːɾəl,,1
+860,dinner,dˈɪnɚ,,1
+861,farm,fˈɑː͡ɹm,,1
+862,garden,ɡˈɑː͡ɹdən,,1
+863,garage,ɡɚɹˈɑːʒ,,1
+864,gold,ɡˈoʊld,,1
+865,hotel,hoʊtˈɛl,,1
+866,jam,d͡ʒˈæm,,1
+867,jersey,d͡ʒˈɜːsi,,1
+868,jug,d͡ʒˈʌɡ,,1
+869,cake,kˈeɪk,,1
+870,cupboard,kˈʌbəd,,1
+871,lorry,lˈɔɹi,,1
+872,parliament,pˈɑː͡ɹləmənt,,1
+873,pass,pˈæs,,1
+874,petrol,pˈɛtɹəl,,1
+875,polish,pˈɑːlɪʃ,,1
+876,plate,plˈeɪt,,1
+877,sandwich,sˈændwɪt͡ʃ,,1
+878,sofa,sˈoʊfə,,1
+879,saucer,sˈɔːsɚ,,1
+880,towel,tˈaʊəl,,1
+881,tea,tˈiː,,1
+882,teapot,tˈiːpɑːt,,1
+883,teacher,tˈiːt͡ʃɚ,,1
+884,wine,wˈaɪn,,1
+885,cabbage,kˈæbɪd͡ʒ,,1
+886,kitchen,kˈɪt͡ʃən,,1
+887,slate,slˈeɪt,,1
+888,America,ɐmˈɛɹɪkə,,1
+889,orange,ˈɔɹɪnd͡ʒ,,1
+890,paper,pˈeɪpɚ,,1
+891,stamp,stˈæmp,,1
+892,tent,tˈɛnt,,1

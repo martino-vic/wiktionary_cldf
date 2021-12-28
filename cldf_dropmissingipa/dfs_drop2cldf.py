@@ -14,13 +14,13 @@ logging.basicConfig(filename='cldf.log', format='%(message)s %(asctime)s',
                     encoding='utf-8', level=logging.WARNING)
 
 REPO = "https://raw.githubusercontent.com/martino-vic/en_borrowings"
-LOCALREPO = os.path.dirname(os.getcwd())
+LOCALREPO = os.path.join(os.path.dirname(os.getcwd()), "raw_dropmissingipa")
 
 
 class Csv2cldf:
     """Convert one csv file to cldf"""
 
-    def __init__(self, folder: "'raw1' or 'raw2'", lang: str) -> None:
+    def __init__(self, lang: str) -> None:
         """initiate variables that are used by the class methods"""
 
         glotto = "https://raw.githubusercontent.com/glottolog/glottolog-cldf"
@@ -29,7 +29,7 @@ class Csv2cldf:
             .assign(Language_ID=0)
         self.lg = lang
         self.rpblob = "https://github.com/martino-vic/en_borrowings/blob"
-        self.path = f"{LOCALREPO}/{folder}/{self.lg}.csv"
+        self.path = f"{LOCALREPO}/{self.lg}.csv"
         self.meta = os.path.join(os.getcwd(), self.lg, "metadata.json")
 
     def main(self) -> None:
@@ -96,12 +96,12 @@ class Csv2cldf:
         """Generate and write forms.csv"""
         dfm = pd.read_csv(self.path).rename(
             columns={"L2_orth": "Form", "L2_ipa": "IPA", "L2_gloss": "Gloss"})
-        dfm["_1"] = ["" if isinstance(i, str) else i for i in dfm["L2_etym"]]
-        dfm["_2"] = dfm["_1"]  # two dummy cols for the loop
+        #dfm["en_IPA"] = ["" if isinstance(i, str) else i for i in dfm["L2_etym"]]
+        dfm["_1"] = ["" if isinstance(i, str) else i for i in dfm["L2_etym"]] # dummy col for the loop
 
         dfforms = pd.DataFrame()  # this will be the output
         for form, donor in zip(["Form", "IPA", "Gloss"],
-                               ["L2_etym", "_1", "_2"]):
+                               ["L2_etym", "en_ipa", "_1"]):
             dfforms[form] = list(dfm[form]) + [i for i in dfm[donor]
                                                if isinstance(i, str)]
         dfforms["Language_ID"] = ["0"]*len(list(dfm[donor]))\
@@ -135,17 +135,16 @@ class Csv2cldf:
 def loop():
     """Apply C2v2cldf().main() to every file in raw1 and raw2"""
 
-    for folder in ["raw2", "raw1"]:
-        for file in os.listdir(os.path.join(LOCALREPO, folder)):
-            language = file[:-4]
-            sys.stdout.write(f"{language}\n")
-            try:
-                os.mkdir(language)
-            except FileExistsError:
-                sys.stdout.write(f"folder {language} already exists\n")
-                continue
+    for file in os.listdir(LOCALREPO):
+        language = file[:-4]
+        sys.stdout.write(f"{language}\n")
+        try:
+            os.mkdir(language)
+        except FileExistsError:
+            sys.stdout.write(f"folder {language} already exists\n")
+            continue
 
-            Csv2cldf(folder, language).main()
+        Csv2cldf(language).main()
 
 
 if __name__ == "__main__":
